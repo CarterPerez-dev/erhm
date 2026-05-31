@@ -1,0 +1,68 @@
+{
+  "generated_unix": 1780194561,
+  "total_requests": 424,
+  "total_posts": 6469,
+  "total_comment_threads": 328,
+  "per_subreddit": [
+    {
+      "subreddit": "quant",
+      "posts": 625,
+      "comment_threads": 30
+    },
+    {
+      "subreddit": "quantfinance",
+      "posts": 641,
+      "comment_threads": 30
+    },
+    {
+      "subreddit": "quant_hft",
+      "posts": 94,
+      "comment_threads": 29
+    },
+    {
+      "subreddit": "QuantFinanceJobs",
+      "posts": 0,
+      "comment_threads": 0
+    },
+    {
+      "subreddit": "cpp",
+      "posts": 577,
+      "comment_threads": 30
+    },
+    {
+      "subreddit": "cpp_questions",
+      "posts": 645,
+      "comment_threads": 30
+    },
+    {
+      "subreddit": "csMajors",
+      "posts": 639,
+      "comment_threads": 30
+    },
+    {
+      "subreddit": "cscareerquestions",
+      "posts": 637,
+      "comment_threads": 30
+    },
+    {
+      "subreddit": "FPGA",
+      "posts": 638,
+      "comment_threads": 30
+    },
+    {
+      "subreddit": "algotrading",
+      "posts": 656,
+      "comment_threads": 30
+    },
+    {
+      "subreddit": "financialcareers",
+      "posts": 646,
+      "comment_threads": 30
+    },
+    {
+      "subreddit": "leetcode",
+      "posts": 671,
+      "comment_threads": 29
+    }
+  ]
+}

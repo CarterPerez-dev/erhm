@@ -33,11 +33,11 @@ fn intAttr(tag: []const u8, name: []const u8) i64 {
 
 fn appendEntity(arena: Allocator, out: *std.ArrayList(u8), ent: []const u8) !bool {
     const named = [_]struct { e: []const u8, v: []const u8 }{
-        .{ .e = "amp", .v = "&" },     .{ .e = "lt", .v = "<" },     .{ .e = "gt", .v = ">" },
-        .{ .e = "quot", .v = "\"" },   .{ .e = "apos", .v = "'" },   .{ .e = "nbsp", .v = " " },
-        .{ .e = "#39", .v = "'" },     .{ .e = "#x27", .v = "'" },   .{ .e = "rsquo", .v = "'" },
-        .{ .e = "lsquo", .v = "'" },   .{ .e = "ldquo", .v = "\"" }, .{ .e = "rdquo", .v = "\"" },
-        .{ .e = "mdash", .v = "-" },   .{ .e = "ndash", .v = "-" },  .{ .e = "hellip", .v = "..." },
+        .{ .e = "amp", .v = "&" },   .{ .e = "lt", .v = "<" },     .{ .e = "gt", .v = ">" },
+        .{ .e = "quot", .v = "\"" }, .{ .e = "apos", .v = "'" },   .{ .e = "nbsp", .v = " " },
+        .{ .e = "#39", .v = "'" },   .{ .e = "#x27", .v = "'" },   .{ .e = "rsquo", .v = "'" },
+        .{ .e = "lsquo", .v = "'" }, .{ .e = "ldquo", .v = "\"" }, .{ .e = "rdquo", .v = "\"" },
+        .{ .e = "mdash", .v = "-" }, .{ .e = "ndash", .v = "-" },  .{ .e = "hellip", .v = "..." },
     };
     for (named) |kv| {
         if (std.mem.eql(u8, ent, kv.e)) {

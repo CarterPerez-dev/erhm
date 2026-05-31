@@ -1,9 +1,9 @@
 // ©AngelaMos | 2026
 // build.zig.zon
 .{
-    .name = .t3miner,
+    .name = .erhm,
     .version = "0.1.0",
-    .fingerprint = 0xc4e13ce8af368edc,
+    .fingerprint = 0xe4ee98596e56231e,
     .minimum_zig_version = "0.16.0",
     .dependencies = .{},
     .paths = .{

@@ -9,9 +9,9 @@ pub const default_ua = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 " ++
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
 pub const default_subs = [_][]const u8{
-    "quant",     "quantfinance",      "quant_hft", "QuantFinanceJobs",
-    "cpp",       "cpp_questions",     "csMajors",  "cscareerquestions",
-    "FPGA",      "algotrading",       "financialcareers", "leetcode",
+    "quant", "quantfinance",  "quant_hft",        "QuantFinanceJobs",
+    "cpp",   "cpp_questions", "csMajors",         "cscareerquestions",
+    "FPGA",  "algotrading",   "financialcareers", "leetcode",
 };
 
 pub const Config = struct {
@@ -96,13 +96,13 @@ pub fn parseArgs(arena: Allocator, args: []const [:0]const u8) !Parsed {
 
 pub fn printUsage() void {
     std.debug.print(
-        \\t3miner -- Reddit research scraper + analyzer, written in Zig for reasons that are none of your business
+        \\erhm -- Reddit research scraper + analyzer, written in Zig for reasons that are none of your business
         \\
         \\usage:
-        \\  t3miner scrape  [--subs a,b,c] [--max 500] [--month-max 200]
+        \\  erhm scrape  [--subs a,b,c] [--max 500] [--month-max 200]
         \\                  [--top-comments 30] [--per-comments 15] [--data data]
         \\                  [--base-ms 2500] [--jitter-ms 1500]
-        \\  t3miner analyze [--data data]
+        \\  erhm analyze [--data data]
         \\
     , .{});
 }

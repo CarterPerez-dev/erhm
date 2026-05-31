@@ -1,0 +1,2900 @@
+[
+  {
+    "post_id": "t3_1teqjj4",
+    "subreddit": "FPGA",
+    "title": "FPGA can become anything",
+    "score": 2154,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1teqjj4/fpga_can_become_anything/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_om41nyq",
+        "author": "quettametre",
+        "score": 425,
+        "body": "It's true that FPGAs are extremely versatile and can become anything. However, it's going to be 10X Slower and 100X more expensive."
+      },
+      {
+        "id": "t1_om42o1y",
+        "author": "Rudranand",
+        "score": 120,
+        "body": "and 1000X fun too"
+      },
+      {
+        "id": "t1_om43ed2",
+        "author": "pjc50",
+        "score": 104,
+        "body": "Yes, and it can't match the MCU power consumption. Sorry, magicarp."
+      },
+      {
+        "id": "t1_om4b0q6",
+        "author": "TatharNuar",
+        "score": 94,
+        "body": "I always call it \"professional redstone\" because I don't have to explain much after that."
+      },
+      {
+        "id": "t1_om4253n",
+        "author": "quettametre",
+        "score": 75,
+        "body": "With sufficiently large FPGA, one can even emulate AMD Epyc CPU or Nvidia Tesla GPU. They use massive 500M LE FPGA clusters like Cadence Protium for such purpose."
+      },
+      {
+        "id": "t1_om4hs7s",
+        "author": "Trending_Boss_333",
+        "score": 47,
+        "body": "If you get it working, that is. It's one hell of an experience, I'll agree on that part"
+      },
+      {
+        "id": "t1_om4348v",
+        "author": "kjermy",
+        "score": 33,
+        "body": "Agreed, and adding that it can't compete with low power MCUs on power consumption either. This is not to say that FPGAs aren't useful"
+      },
+      {
+        "id": "t1_om4bjhr",
+        "author": "Rudranand",
+        "score": 33,
+        "body": "I wish there was a mod for converting redstone schematic into HDL."
+      },
+      {
+        "id": "t1_om4i21q",
+        "author": "Rudranand",
+        "score": 23,
+        "body": "i believe you mean the verilog to redstone converter. https://github.com/itsfrank/minecrafthdl"
+      },
+      {
+        "id": "t1_om43bt0",
+        "author": "quettametre",
+        "score": 23,
+        "body": "Yeah. somewhere, around 10MHz. While it might seem extremely slow, it's more than enough speed for debugging and firmware development. Simulating something as large as EPYC or Tesla entirely on CPU might give you 1KHz at max."
+      },
+      {
+        "id": "t1_om4iihs",
+        "author": "Rudranand",
+        "score": 20,
+        "body": "Yeah. Ditto can almost instantly become another pokemon. However, for FPGA to become something, we need gruesome hours of RTL coding and debugging."
+      },
+      {
+        "id": "t1_om48med",
+        "author": "quettametre",
+        "score": 18,
+        "body": "Microcontrollers can go as low as Picowatts. Even little LEDs can't compete with that. But in terms of efficiency expressed as throughput per watts, FPGA can certainly beat MCU."
+      },
+      {
+        "id": "t1_om42jt4",
+        "author": "Rudranand",
+        "score": 18,
+        "body": "1 Cadence Protium X3 has 10 AMD VP1902 Versal FPGAs. If I got even one I'd be extremely happy."
+      },
+      {
+        "id": "t1_om4hgri",
+        "author": "Rudranand",
+        "score": 17,
+        "body": "While MCUs have ADC, for sampling rates above 100msps we often use FPGA + external ADC. FPGA can be paired with extremely fast ADC upto 10gsps. Which is why, the frontend in most Osilloscopes and high performance RF devices use FPGAs with external ADCs."
+      },
+      {
+        "id": "t1_om4g313",
+        "author": "TatharNuar",
+        "score": 15,
+        "body": "There's at least one that tried the opposite, but I think it was abandoned."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1sp0r54",
+    "subreddit": "FPGA",
+    "title": "FPGA vs CPU on Simple Addition",
+    "score": 1417,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1sp0r54/fpga_vs_cpu_on_simple_addition/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_ogwwqk9",
+        "author": "Dom_the",
+        "score": 380,
+        "body": "What do you think is inside an ALU lol"
+      },
+      {
+        "id": "t1_ogx5kqr",
+        "author": "SpatulaWholesale",
+        "score": 164,
+        "body": "Now do floating-point add... The FPGA diagram is going to take a few pages... The CPU diagram stays the same."
+      },
+      {
+        "id": "t1_ogwxc31",
+        "author": "Faranocks",
+        "score": 136,
+        "body": "Not to mention this is the equivalent of comparing a shopping cart to shinkansen. Yea they both move things, but the scale, organization, and complexity is completely different."
+      },
+      {
+        "id": "t1_ogwxu73",
+        "author": "Felkin",
+        "score": 103,
+        "body": "Surprised by the other comments - while oversimplified, this IS the primary advantage of an FPGA/ASIC over a CPU. Handling instructions and the memory hierarchy are the primary sources of CPU inefficiency and what makes them worse than accelerators purpose-built for a specific problem. Could probably just add an 'AXIS go brr' around it to make it more accurate ;)"
+      },
+      {
+        "id": "t1_ogxg3mn",
+        "author": "chris_insertcoin",
+        "score": 77,
+        "body": "A+B ---> Altera Variable Precision DSP Block ---> Done! 😏"
+      },
+      {
+        "id": "t1_ogwz6bf",
+        "author": "groman434",
+        "score": 60,
+        "body": "Well, it would be a shame if FPGA used LUTs, flip-flops, CLBs and other primitives instead of logic gates directly."
+      },
+      {
+        "id": "t1_ogx4qtv",
+        "author": "luk__",
+        "score": 53,
+        "body": "Maybe later"
+      },
+      {
+        "id": "t1_ogxc3ul",
+        "author": "mutexsprinkles",
+        "score": 53,
+        "body": "Good because the timing failed to synthesise so you can't have it right now anyway."
+      },
+      {
+        "id": "t1_ogx32hh",
+        "author": "TapEarlyTapOften",
+        "score": 42,
+        "body": "No, the real power of the FPGA is in parallelism - want to do 100,000 additions at the same time?"
+      },
+      {
+        "id": "t1_ogx5w05",
+        "author": "audaciousmonk",
+        "score": 22,
+        "body": "Or comparing a moving walkway to a car lol"
+      },
+      {
+        "id": "t1_ogxca4y",
+        "author": "mutexsprinkles",
+        "score": 21,
+        "body": "And if the signal needs to cross clock domains."
+      },
+      {
+        "id": "t1_ogy74u2",
+        "author": "tux2603",
+        "score": 18,
+        "body": "Looking at it closer, synthesis worked and only used 75% of the available LUTs. Routing completely failed though. Guess I'll change the strategy and wait another two hours to see if it worked this time"
+      },
+      {
+        "id": "t1_ogxio9x",
+        "author": "SpatulaWholesale",
+        "score": 13,
+        "body": "Sure, but you'd do A + B in RTL for the integer case, too. It's what it synthesizes to is the the point... Of course, in an FPGA it's not AND, OR, XOR, etc. gates, it's LUTs. Logically equivalent, maybe... but definitely not the same."
+      },
+      {
+        "id": "t1_ogxbigb",
+        "author": "Mr_House2020",
+        "score": 11,
+        "body": "This isn’t true. It has to synthesize to logic blocks, IO buffers, etc"
+      },
+      {
+        "id": "t1_ogxov91",
+        "author": "SpatulaWholesale",
+        "score": 8,
+        "body": "That's a nice two-flop synchronizer you have there... Let me just place those on opposite sides of the fabric for you..."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1snpzuf",
+    "subreddit": "FPGA",
+    "title": "Too many RISC-V cores in the market",
+    "score": 1323,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1snpzuf/too_many_riscv_cores_in_the_market/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_ognhvd6",
+        "author": "Dragonapologist",
+        "score": 224,
+        "body": "FPGA/RTL/ASIC intern applicant project ahhh moment"
+      },
+      {
+        "id": "t1_ognkhtb",
+        "author": "ShadowBlades512",
+        "score": 136,
+        "body": "Often no, unless it is sometime more complicated like an out of order CPU, a \"CPU\" core that is actually put together into a GPU with a grid of vector processors, or anything that is more significant and creative.  The reason is, FPGA developers are often tasked to write processing logic that is more fixed function, a network packet processor with ingress and egress packet buffers, hardware data structures for MAC address lookups, or DSP cores doing modulation and demodulation, variable length packet framing in fixed length frames, or high bandwidth, low latency data processing taking ADC data and triggering on it in a small lab instrument or a huge lab instrument like a particle accelerator.  If a real project needed a CPU, more often then not an off the shelf ARM core is used or a seperate bigger processor attached over Ethernet, PCIe or something else would be use. If a soft CPU is needed, something from the FPGA vendor would be used like a MicroBlaze or NIOS, almost no one would write one at work.  CPU design is complicated and well researched, if you want a job specifically at Intel, ARM, AMD or something like that where you are litterally designing advanced CPUs, then ok, I would expect a soft CPU on the resume, but I would also expect quite an extensive one.  For most RTL work, even the stuff around a CPU core in an SoC is constructed is pretty far removed from the oodles of fixed function hardware in designs that have to be written. Even a CPU has a lot of fixed function hardware someone had to write. DMAs, DDR RAM controllers, USB controllers, Ethernet controllers, CPU caches, WiFi controllers, Bluetooth controllers, cache coherency interconnects, DisplayPort controller, HDMI controller... the list goes on. "
+      },
+      {
+        "id": "t1_ognjvwn",
+        "author": "Vegetable-Clerk9075",
+        "score": 92,
+        "body": "Designing your own ISA is a pretty cool one. A custom 8-bit or 16-bit ISA, with a functioning assembler and example programs, is a more interesting project than yet another RISC-V core You'll be able to talk about architectural decisions and tradeoffs as well, which is nice. With RISC-V, those decisions have mostly already been made."
+      },
+      {
+        "id": "t1_ognj5w3",
+        "author": "Ruined_Passion_7355",
+        "score": 78,
+        "body": "I'm confused. Is building a CPU an impressive project or not? I keep hearing differing opinions. Or are the CPUs conveniently missing pipelining or something like that?"
+      },
+      {
+        "id": "t1_ognn9m1",
+        "author": "Far_Huckleberry_9621",
+        "score": 73,
+        "body": "this is the most stupid take I've ever seen. Folks keep building more riscv CPUs. it is hands down one of the best ways to learn about computer architecture. there's a reason why top universities like ETH have it as part of their curriculum"
+      },
+      {
+        "id": "t1_ognjbvc",
+        "author": "Ruined_Passion_7355",
+        "score": 51,
+        "body": "The answer is clearly a MIPS CPU"
+      },
+      {
+        "id": "t1_ognkops",
+        "author": "Ruined_Passion_7355",
+        "score": 36,
+        "body": "Aren't side projects for entry level roles supposed to be that sort of thing?  It's also cool as fuck, subjectively."
+      },
+      {
+        "id": "t1_ognj4d5",
+        "author": "Ok_Part9893",
+        "score": 35,
+        "body": "Dang. What other kinds of projects should someone do instead?"
+      },
+      {
+        "id": "t1_ogo0m9t",
+        "author": "Rudranand",
+        "score": 27,
+        "body": "Atleast a step up from saying they built a multiplier or some UART or I2C module."
+      },
+      {
+        "id": "t1_ognr8pw",
+        "author": "Gakguei_NAS",
+        "score": 26,
+        "body": "If you only built the CPU core itself, it may not mean much, since in practice people often end up using ARM IP or Xilinx RISC-V IP anyway. But the story changes completely when you integrate the CPU with the surrounding units, along with the compiler and the OS. Most university courses focus only on the core, but I think many people overlook the fact that what really matters is the entire environment in which the CPU actually runs. So I hope no one looks at this and assumes that building a RISC-V CPU is trivial. Especially on FPGA, you also need to think about things like interfacing with the PHY layer and the boot sequence."
+      },
+      {
+        "id": "t1_ognjoj0",
+        "author": "rowdy_1c",
+        "score": 16,
+        "body": "Behavioral models that have been done a million times aren’t impressive"
+      },
+      {
+        "id": "t1_ognkdme",
+        "author": "Dragonapologist",
+        "score": 14,
+        "body": "Like... that's the whole point to me at least lol. Take chances, find something non-trivial that's interesting to you and start building towards it. It's less about cpu being a bad project and more an oversaturated pattern of everyone playing it 'safe', which I find partially contradictory to genuine enthusiasm and passion."
+      },
+      {
+        "id": "t1_ogo0b10",
+        "author": "Rudranand",
+        "score": 13,
+        "body": "It depends on context. Even a a basic C program can be impressive to many people. There is a lot to be learnt from building a CPU and there are many people who haven't built a CPU. The only things that's changed is the ubiquity of RISC-V cores. Think of smartphones, a massive piece of tech to show off until almost everyone got hands on it. Smartphones are still impressive regardless, however it is less of a show off piece."
+      },
+      {
+        "id": "t1_ognl5wm",
+        "author": "ethycS_0",
+        "score": 13,
+        "body": "Oh well, I built one and was excited to post abt it. Nm i guess. coooool"
+      },
+      {
+        "id": "t1_ognp4d4",
+        "author": "Rudranand",
+        "score": 12,
+        "body": "You build a CPU, learn from it and be happy about it. What's changed in some years is that you won't be able show it off as something interesting to others."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1owd68j",
+    "subreddit": "FPGA",
+    "title": "CAPTCHA",
+    "score": 1286,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1owd68j/captcha/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_nopkvdk",
+        "author": "",
+        "score": 63,
+        "body": "I wish I could tell, the knowledge of the people who design chips is just mind blowing. Any help here on how I can understand where is the cache where is the resistor and computer units and how the fuck are these designed such that basic gates perform such a complex task"
+      },
+      {
+        "id": "t1_nori9e6",
+        "author": "Equivalent_Jaguar_72",
+        "score": 31,
+        "body": "The edges usually have PHYs, I think the bottom and maybe the top edge in this picture. You can always point out the memory because it's big and repetitive, it's always a field of squares. The center might be a memory controller or something like a CPU because you'd want those close. This is just a guess though. The only times I look at silicon are when big companies release new chips and there's a post with these sorts of images that label what each partition is dedicated to."
+      },
+      {
+        "id": "t1_nopv9z9",
+        "author": "jjclan378",
+        "score": 22,
+        "body": "You can easily spot the resistor in the bottom left if you know what to look for. The CRU (Central Resistance Unit) is always on the bottom left of every chip /s in case it wasn't obvious"
+      },
+      {
+        "id": "t1_nopaa5b",
+        "author": "zeroed_bytes",
+        "score": 20,
+        "body": "Hahahaha I love this! "
+      },
+      {
+        "id": "t1_nornp3o",
+        "author": "Mychma",
+        "score": 9,
+        "body": "Finally a CAPTCHA that I can understand!!!"
+      },
+      {
+        "id": "t1_nopn4dw",
+        "author": "Rude-Pangolin8823",
+        "score": 9,
+        "body": "At this scale? Zoom in a couple hundred times"
+      },
+      {
+        "id": "t1_nov3hki",
+        "author": "NinaChloeKassandra",
+        "score": 4,
+        "body": "I think there is a DRC violation in the bottom right corner"
+      },
+      {
+        "id": "t1_novv8a9",
+        "author": "No_Bit_2073",
+        "score": 2,
+        "body": "there is also a repetitive units in middle (registers ?)"
+      },
+      {
+        "id": "t1_norocen",
+        "author": "mikedin2001",
+        "score": 2,
+        "body": "EDA tools and lots of man power my friend"
+      },
+      {
+        "id": "t1_norbh95",
+        "author": "jacklsw",
+        "score": 1,
+        "body": "Good meme for Friday"
+      },
+      {
+        "id": "t1_nos52ab",
+        "author": "ABODEE3",
+        "score": 0,
+        "body": "Right there"
+      },
+      {
+        "id": "t1_nozog80",
+        "author": "Buridan-ass",
+        "score": 0,
+        "body": "I mean they do sell targeted adds so why not targeted CAPTCHAs for data annotation?"
+      },
+      {
+        "id": "t1_np1ynfs",
+        "author": "Brenda_Heels",
+        "score": 0,
+        "body": "🤣🤣🤣"
+      },
+      {
+        "id": "t1_o3tmggl",
+        "author": "julio090xl",
+        "score": 0,
+        "body": "DOOM 2?"
+      },
+      {
+        "id": "t1_nowgg1k",
+        "author": "OhmPossum",
+        "score": -1,
+        "body": "I have done design and layout on microprocessors and this image needs to be much larger. You really can’t see past the first few layers of metal routing on top of the transistors. Civil engineers scale down electrical scale up and mechanical is more or less 1:1."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1srj7l8",
+    "subreddit": "FPGA",
+    "title": "🤡🤡",
+    "score": 763,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1srj7l8/_/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_ohf1tx4",
+        "author": "chancethezapper",
+        "score": 54,
+        "body": "Working for Arrow?"
+      },
+      {
+        "id": "t1_ohgcmmy",
+        "author": "supernova1987b",
+        "score": 13,
+        "body": "Working at Weapons manufacturing ?"
+      },
+      {
+        "id": "t1_ohgpwky",
+        "author": "sartfmelling",
+        "score": 9,
+        "body": "this comment is generated by ai too. dead internet theory feels very real, its just sad at this point."
+      },
+      {
+        "id": "t1_ohfgl0a",
+        "author": "hukt0nf0n1x",
+        "score": 6,
+        "body": "Arrowfest was awesome! Do you know if they still do them?"
+      },
+      {
+        "id": "t1_ohi5mye",
+        "author": "Key-Ambassador-464",
+        "score": 5,
+        "body": "I might be a plumber idk"
+      },
+      {
+        "id": "t1_ohi0um6",
+        "author": "Aromasin",
+        "score": 4,
+        "body": "We do still do them, it might just be called something else now though depending where you are in the world. Over the the UK it's called \"Arrow Multi-Solution Day\" or AMS, which we had just over a month ago in Coventry. Not quite the same ring admittedly. "
+      },
+      {
+        "id": "t1_ohmg4i3",
+        "author": "danl999",
+        "score": 1,
+        "body": "Too primitive. Think higher! FPGAs can run entire offline AIs, and even control entire C3-P0 style translator robots. I have one on my desk right now! Nothing is more suitable at this point in time, for offline AI, then FPGAs."
+      },
+      {
+        "id": "t1_ohl6zr1",
+        "author": "sartfmelling",
+        "score": 1,
+        "body": "both"
+      },
+      {
+        "id": "t1_ohoun1g",
+        "author": "Ok_Alarm221",
+        "score": 0,
+        "body": "This is interesting Dan. I am just getting into FPGA. Got myself a Tang Nano 20k. its a smallboy but still been fun to play with"
+      },
+      {
+        "id": "t1_ohoz57g",
+        "author": "danl999",
+        "score": 0,
+        "body": "AIs are \"memory bound\". Not compute bound. At least, any modern fpga will have all the math you need. The question is, how wide can you make the bus? And any of them can run a multi-AI design. mistral, llama, distilbert, qwen, whisper sst, and mozilla TTS can all run inside a single fpga. The AI industry just hasn't realized it yet. They got too wrapped up with gigantic server farms. Essentially, any AI runs at a top speed of how long it takes to read the entire memory using your fpga, per answer word you want. If you want a 10 word answer you have to read the entire AI model 10 times. Some are as small as 512MB, but the good ones are at least 14GB. All free... Mistral can speak 57 languages, thus the C3-PO reference."
+      },
+      {
+        "id": "t1_ohrdxxd",
+        "author": "kirasemicon19",
+        "score": 0,
+        "body": "sent myself to the hospital from accidentally cutting myself with a PCB badly enough to need stitches"
+      },
+      {
+        "id": "t1_ohjzt1m",
+        "author": "6GoesInto8",
+        "score": -1,
+        "body": "Are you saying my comment is AI or yours?"
+      },
+      {
+        "id": "t1_ohg92t5",
+        "author": "6GoesInto8",
+        "score": -4,
+        "body": "A vague critique of the circuit. The big square chip looks like the CPU, it has a crystal to the bottom left, but it should be moved closer to improve clocking. There is a jtag 5 pin header at the top with the square pad marking ground. There are two 3 +1 pin voltage regulators, the power source is not shown but would likely be under the stick. There is an eeprom 8 pin device at the bottom. The second chip near the tip also resembles a cpu, maybe a co processor? It's has a crystal nearby but no traces to it. The outside edge has a large ground plane pour with vias stitching it to the back side, this is good for electrical shielding. There is no clear purpose as there is no path for data in or out, it would have been good to add a trace antenna and some random smaller ics that could be sensors, or a connector with many pins. I hadn't analyzed an AI circuit in about a year, and at that time they were a lot less convincing. At a component level they had nightmare components, but this has real components and the only issues are routing and no clear purpose."
+      },
+      {
+        "id": "t1_ohg4feu",
+        "author": "6GoesInto8",
+        "score": -13,
+        "body": "Wow, Ai is much better about making convincing circuits now, but the forward chips wiring is still messed up at the bottom. It really illustrates the issues with AI, this was suppose to be a primitive arrowhead cut out of an existing circuit board, but the AI generated an arrowhead shaped circuit, like the world ended, so you pulled out your design software and made an arrowhead board, then sent it out to a board house."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1t3awls",
+    "subreddit": "FPGA",
+    "title": "The PCB came in",
+    "score": 730,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1t3awls/the_pcb_came_in/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_ojtwlrc",
+        "author": "Gotnam_Gotnam",
+        "score": 87,
+        "body": "Black and gold. Just beautiful 👌🏾"
+      },
+      {
+        "id": "t1_ojtrngb",
+        "author": "HasanTheSyrian_",
+        "score": 55,
+        "body": "(and i do have a pinky)"
+      },
+      {
+        "id": "t1_oju3e7v",
+        "author": "SuperDracoEngine",
+        "score": 28,
+        "body": "That looks great, I love the constellations in the middle. The black and gold is just stunning."
+      },
+      {
+        "id": "t1_ojtxx8i",
+        "author": "ignazwrobel",
+        "score": 9,
+        "body": "The latter, you can see the FR4 sticking out in the top right and bottom left"
+      },
+      {
+        "id": "t1_ojub7z9",
+        "author": "7amzy",
+        "score": 8,
+        "body": "عاش أخي السوري 🇸🇾 أنا من 🇪🇬"
+      },
+      {
+        "id": "t1_ok0apts",
+        "author": "Bagel_lust",
+        "score": 7,
+        "body": "That's exactly what someone missing a pinky would say 🤔"
+      },
+      {
+        "id": "t1_oju3t2n",
+        "author": "SoufianeMRC-parker",
+        "score": 4,
+        "body": "hey op what is the thickness of the exposed copper in the edges"
+      },
+      {
+        "id": "t1_ojucrz8",
+        "author": "HasanTheSyrian_",
+        "score": 3,
+        "body": "1oz + 1uInch"
+      },
+      {
+        "id": "t1_ojv3xs9",
+        "author": "Spiritual-Curve145",
+        "score": 3,
+        "body": "Happy to see syrian doing FPGA I think I am the only one in Saudi intrested in them"
+      },
+      {
+        "id": "t1_ojtupbt",
+        "author": "calipposhot",
+        "score": 2,
+        "body": "Beautiful 👌🥹"
+      },
+      {
+        "id": "t1_ojxi4eg",
+        "author": "LunusLovesgreat",
+        "score": 2,
+        "body": "كتير حلوة"
+      },
+      {
+        "id": "t1_ojtv66t",
+        "author": "SoufianeMRC-parker",
+        "score": 1,
+        "body": "is that actual edge plating or just uncovered copper in edges"
+      },
+      {
+        "id": "t1_ojv7bte",
+        "author": "synth_alice",
+        "score": 1,
+        "body": "Looks great! First thing I thought when I read the name was the Altair 8800, but I suspect this isn't related at all 😅"
+      },
+      {
+        "id": "t1_ojwvm82",
+        "author": "KXINOZ",
+        "score": 1,
+        "body": "Looks Like a Carrier Board. What Module are you using along with it?"
+      },
+      {
+        "id": "t1_ojy49m3",
+        "author": "West-Way-All-The-Way",
+        "score": 1,
+        "body": "Looks great! 👍 What is it?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mqd4zy",
+    "subreddit": "FPGA",
+    "title": "Meanwhile at your FPGA vendor HQ",
+    "score": 725,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1mqd4zy/meanwhile_at_your_fpga_vendor_hq/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_n8q0m4g",
+        "author": "uint7_t",
+        "score": 57,
+        "body": "Everybody on the bandwagon to \"AI workloads\""
+      },
+      {
+        "id": "t1_n8q8fax",
+        "author": "Enlightenment777",
+        "score": 55,
+        "body": "\"replace the CEO with AI\", save lots of money!"
+      },
+      {
+        "id": "t1_n8qz92g",
+        "author": "This-Ad7458",
+        "score": 32,
+        "body": "This sub rocks. It's not like other 'serious' niche subs where mods are boomers who have been into it since its inception. Thank you r/FPGA mods for allowing some shitposting"
+      },
+      {
+        "id": "t1_n8r1l4c",
+        "author": "Worried-West2927",
+        "score": 19,
+        "body": "Are there any FPGAs with reliable and user friendly tool chains? Or is it kept like that for job security of fpga engineers"
+      },
+      {
+        "id": "t1_n8q6pxz",
+        "author": "goodbye_everybody",
+        "score": 18,
+        "body": "So this is what it's like to laugh and cry at the same time..."
+      },
+      {
+        "id": "t1_n8sth7q",
+        "author": "ShoePillow",
+        "score": 13,
+        "body": "All the tools have similar problems, so no one sees the benefit in investing in a big rehaul of the tool chain and user experience. The core logic is quite complicated , so not easy for someone new to jump in with better ux."
+      },
+      {
+        "id": "t1_n8z51yf",
+        "author": "CramNBL",
+        "score": 7,
+        "body": "It came years ago? Vivado has had an ML edition with PnR incorporating ML algorithms since over 4 years ago https://fpga.eetrend.com/files/2021-10/wen_zhang_/100554845-225070-wp532-mlcae-mlde.pdf . We tried it out at CERN in 2022 when we had trouble meeting timings for a giant FPGA design. The main FPGA of the readout unit in the ALICE detector (there's several papers on it if anyone is curious). It solved our issues and we used it from then on."
+      },
+      {
+        "id": "t1_n8qba57",
+        "author": "therealdilbert",
+        "score": 6,
+        "body": "AI? he spelled word salad machine wrong"
+      },
+      {
+        "id": "t1_n8u1ymk",
+        "author": "ShoePillow",
+        "score": 5,
+        "body": "Better for who? The ones who have the technical ability to do it don't have the financial motivation "
+      },
+      {
+        "id": "t1_n8v1v43",
+        "author": "iliekplastic",
+        "score": 5,
+        "body": "Faster compile times being ignored hit me hard. I still don't know why quartus can't use more than essentially a single core of my 16 core cpu when fitting."
+      },
+      {
+        "id": "t1_n8vwggt",
+        "author": "crclayton",
+        "score": 4,
+        "body": "You might want to double check this setting: https://www.intel.com/content/www/us/en/docs/programmable/683283/18-1/enabling-multi-processor-compilation.html set_global_assignment -name NUM_PARALLEL_PROCESSORS ALL"
+      },
+      {
+        "id": "t1_n8r2309",
+        "author": "CreepyValuable",
+        "score": 3,
+        "body": "What do you mean more modern??? These tools need Windows XP to run. I know we are locking out some of our clients but it's the cost of progress."
+      },
+      {
+        "id": "t1_n8s7545",
+        "author": "georgeyhere",
+        "score": 3,
+        "body": "Jokes aside, it will be a glorious day when ML comes to PnR"
+      },
+      {
+        "id": "t1_n94y96m",
+        "author": "fsasm",
+        "score": 2,
+        "body": "Most of the vendor tools can be called from command line or from TCL script, so it is separate from UI. You can also use a third-party Synthesizer like Synplify from Synopsis but for implementation you have to use the vendor tools. "
+      },
+      {
+        "id": "t1_n8sz1ne",
+        "author": "EmotionalDamague",
+        "score": 2,
+        "body": "You laugh, but being able to claim the Versals have \"AI/ML Compute\" is coming in clutch for appealing to morons."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1sa8deg",
+    "subreddit": "FPGA",
+    "title": "Verilog WHYYYYY",
+    "score": 711,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1sa8deg/verilog_whyyyyy/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_odtybsx",
+        "author": "affabledrunk",
+        "score": 115,
+        "body": "I came from a VHDL background, I couldn't freaking believe this default wire undeclared behavior when I first encountered it. All the verilog dudes would just say they wee disciplined but I found those kind of bugs in their code. BTW, there's a fucking pragma you can put in that disables that behavior. I only learnt that after 30 years of being an fpga monkey if you can imagine. Be careful using it globally because the xilinx IPs are fucking full of undeclared variables."
+      },
+      {
+        "id": "t1_odtykme",
+        "author": "AlexeyTea",
+        "score": 84,
+        "body": "`default_nettype none ?"
+      },
+      {
+        "id": "t1_odtzbj6",
+        "author": "TapEarlyTapOften",
+        "score": 18,
+        "body": "Look at `default_nettype none."
+      },
+      {
+        "id": "t1_odufxsf",
+        "author": "alexforencich",
+        "score": 17,
+        "body": "This, coupled with `resetall at the bottom to prevent issues elsewhere."
+      },
+      {
+        "id": "t1_odu00pf",
+        "author": "Kaisha001",
+        "score": 16,
+        "body": "There are so many of these 'gotcha's in Verilog it's just embarrassing. What's worse is that the tools will often not even throw warnings."
+      },
+      {
+        "id": "t1_odu2s6z",
+        "author": "Elxa_Dal",
+        "score": 15,
+        "body": "Forget that. Look at VHDL :)"
+      },
+      {
+        "id": "t1_odu0zky",
+        "author": "affabledrunk",
+        "score": 10,
+        "body": "It's bad. The dudes who made the decision in the language design caused a lot of damage, and ( I assume) all to support some kind of backwards compatibility bullshit in their toolchain or something. I mean, C doesn't allow undeclared variables (or did it in the old K&R days, if so, shame on K&R)."
+      },
+      {
+        "id": "t1_odu1g44",
+        "author": "Kaisha001",
+        "score": 10,
+        "body": "FPGAs are amazing hardware, with truly terrible tooling."
+      },
+      {
+        "id": "t1_odtz58z",
+        "author": "iLaysChipz",
+        "score": 10,
+        "body": "Holy fuck that's embarrassing for xilinx. God damn"
+      },
+      {
+        "id": "t1_oduban9",
+        "author": "frankspappa",
+        "score": 9,
+        "body": "Why the ifndef? Why not always use `default_nettype none at the top of your module and use `default_nettype wire or `resetall at the end and also wrap them around any 3rd party include files which depends upon undeclared net types. Altera libraries also contain undeclared net types."
+      },
+      {
+        "id": "t1_odu2nx2",
+        "author": "sylogizmo",
+        "score": 6,
+        "body": "I mean, C doesn't allow undeclared variables (or did it in the old K&R days, if so, shame on K&R) Undefined - yes, undeclared - no. IIRC, that goes back to K&R. I'm very new to FPGA, but from the discussion I assume verilog doesn't have any linting software?"
+      },
+      {
+        "id": "t1_odufvm5",
+        "author": "alexforencich",
+        "score": 6,
+        "body": "I have had issues with \"input logic\". Seems like \"input wire logic\" may be the best supported syntax."
+      },
+      {
+        "id": "t1_odu39w6",
+        "author": "TapEarlyTapOften",
+        "score": 6,
+        "body": "Don't always get to pick. The product I was brought in on was written entirely in VHDL with no comments, documentation, simulations, or specification. First thing I started doing was building a verification suite around it in SystemVerilog. The languages are just tools in the box - I appreciate the strong typing that VHDL has, but there are reasons to use Verilog outside of the DUT."
+      },
+      {
+        "id": "t1_oduhz4v",
+        "author": "mother_a_god",
+        "score": 5,
+        "body": "You can use `default_nettype none to prevent implicit declaration. The language should have made this the default, bit you can do it yourself to get the behaviour you want"
+      },
+      {
+        "id": "t1_odw05n0",
+        "author": "PiasaChimera",
+        "score": 5,
+        "body": "everyone else has described the way to fix this antifeature. it comes from the old use case of converting paper schematics to verilog. very structural designs by nature. implicit nets were designed to make it easier to connect modules. but quickly became an unwanted hazard. it's interesting because one of the proponents wrote a few papers about why it's good and why default nettype none is misguided/harmful. (from >20 years ago). asking AI about best practices can still find this info and seems to give it decently high weight. (also look into \"escaped names\" if you want some more amazing verilog features for this type of schematic to code application. `if ( \\<>/ ) count <= count +\\-1 ;` is comically valid)"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tdy7gg",
+    "subreddit": "FPGA",
+    "title": ":(",
+    "score": 699,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1tdy7gg/_/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_om16ppe",
+        "author": "KuropatwiQ",
+        "score": 54,
+        "body": "It's a joke about the fact that open source tools have limited support for timing constraints, which can be a problem in some more high speed designs"
+      },
+      {
+        "id": "t1_om18dxi",
+        "author": "chgentso",
+        "score": 39,
+        "body": "This is so bad I want to report it. Seriously, why is there A XTAL TALKING ABOUT SAMPLING ITS INPUTS I just can't GAAAAAH"
+      },
+      {
+        "id": "t1_om0scyf",
+        "author": "LingonberryFar3819",
+        "score": 27,
+        "body": "can someone please explain"
+      },
+      {
+        "id": "t1_om2aokh",
+        "author": "tlbs101",
+        "score": 9,
+        "body": "5.2 nanoseconds? Phhhht! Try 500 picoseconds. OK… it wasn’t with open source tools and there were some very specific timing constraints and some literal hand routing (limiting where registers could be placed, etc), but the front end worked at 2 GHZ. That was back in 2005."
+      },
+      {
+        "id": "t1_om2y51k",
+        "author": "Winter_Spinach_4896",
+        "score": 5,
+        "body": "That's the insufficiency of open source tools😔"
+      },
+      {
+        "id": "t1_om3ortk",
+        "author": "Broken_Latch",
+        "score": 0,
+        "body": "OG skew shitposter"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1m8hufu",
+    "subreddit": "FPGA",
+    "title": "PCIe",
+    "score": 618,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1m8hufu/pcie/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_n4zfyow",
+        "author": "Parking_Crow6698",
+        "score": 101,
+        "body": "This was me in 2018. I had no idea what I was doing. Hopefully there is a demonstration project available. I used the Xilinx artix7 and that came with a demo including windows xdma? drivers."
+      },
+      {
+        "id": "t1_n4zvl8q",
+        "author": "nanumbat",
+        "score": 86,
+        "body": "Someone handed me a not-yet-working PCIe system and asked me to get it working. The Ultrascale would get quite a long way through negotiation then suddenly give up and start over. Turns out upstream had spread-spectrum clocking turned on, but that clock wasn't carried over to the FPGA board. (Kudos to the Ultrascale for even making any sense at all of that clock for a few brief fractions of a second.) I tracked down the Android source for upstream, shut off spread-spectrum, recompiled the kernel, and hey presto everything worked. That was my first and last foray into PCIe."
+      },
+      {
+        "id": "t1_n4zkxop",
+        "author": "mikaey00",
+        "score": 29,
+        "body": "At some point in the not-too-distant future, I want to build my own SD Express reader…and you are not exactly instilling me with confidence, sir. 😆"
+      },
+      {
+        "id": "t1_n50r86z",
+        "author": "ChickittyChicken",
+        "score": 20,
+        "body": "Bro. That’s me as an embedded software engineer having to write a bare metal PCIe QDMA driver for an RTOS when Xilinx only provides a driver for Linux."
+      },
+      {
+        "id": "t1_n52rlcl",
+        "author": "musashisamurai",
+        "score": 16,
+        "body": "Not the OP, but I've debugged this issue. Its more common than you'd expect. For starters, its debug, always look at power/reset/clocks first. So we have to check the clock anyways whether with a scope or something similar. That could show the SSC modulation right away. After that, its a bit difficult to turn off SSC on many devices but if you have other hosts you can try communicating and enumerating to them. You can also program another Xilinx FPGA as a host/root complex, connect them, let them link train and confirm its not likely an SI issue. Something else thats very handy js using the Xiling debuggers and making an ILA. You can check some boxes in Vivado so there are additional ports on your PCIe block, and then add that to an ILA. The ltssm state is a good one, and will tell where its failing. With SSC it should fail to link train; you should geg T elastic buffer overrun or underrun errors on the rxstatus port, indicating a clocking problem. You can use this to check whether there is a configuration issue with resets or clocks, to make sure it tries go link train. Outside of ILAs, they also have an IBERT tool that captures eye diagrams that would let you test the SI of the channel. Almost.all this info is located within Xilinx documentation. They have official debug guides with commor errors, things to check, and how to do so."
+      },
+      {
+        "id": "t1_n51ncf2",
+        "author": "Comfortable_Mind6563",
+        "score": 16,
+        "body": "Lol that's pretty accurate. But as a senior consultant, I can handle that kind of assignment much better. I just find an example design, example code, tell chatGPT to adapt everything for our application, place order for PCBs, and before they arrive I'll just leave for another project."
+      },
+      {
+        "id": "t1_n4zpjit",
+        "author": "TTGaming77",
+        "score": 13,
+        "body": "Getting Petalinux to see my NVMe drive was interesting... There are definitely enough breadcrumbs to get there but still a painful time."
+      },
+      {
+        "id": "t1_n51tc4f",
+        "author": "Asurafire",
+        "score": 12,
+        "body": "How did you figure out that this was the issue ? "
+      },
+      {
+        "id": "t1_n507d2a",
+        "author": "nanumbat",
+        "score": 9,
+        "body": "It was Android PCIe stuff, other than finding the bit that shuts off spread-spectrum clocking the rest of that side of the system was a mystery to me."
+      },
+      {
+        "id": "t1_n52gbfo",
+        "author": "Mundane-Display1599",
+        "score": 9,
+        "body": "The last PCIe project I did was this horrible disaster design from a now defunct HFT firm (it wasn't an HFT project, just a board for it) - literally 50 megabytes of generated timing exceptions, took hours to build, tearing my hair out... then screw it, threw it all out and used Xillybus, finished it in a month."
+      },
+      {
+        "id": "t1_n50wwsa",
+        "author": "nocnocdata",
+        "score": 8,
+        "body": "Xilinx drivers that are only supported in Linux just like H264 are contracted out as well they don’t actually do what you’re doing either"
+      },
+      {
+        "id": "t1_n52zvn5",
+        "author": "crystal_castles",
+        "score": 6,
+        "body": "I did the same thing and it came with a verilog-bench demo (full of $() commands). I had to mock up a separate bench that we could deliver to the customer"
+      },
+      {
+        "id": "t1_n51oxv6",
+        "author": "Serpahim01",
+        "score": 6,
+        "body": "My bachelor's project was to design CXL 2.0 from the spec document till the end of frontend synthesis. (CXL is pcie with extra steps). We did a subset of the most common features. Quite a haunting experience to this day."
+      },
+      {
+        "id": "t1_n51an6q",
+        "author": "GatotSubroto",
+        "score": 5,
+        "body": "Ah, yes… fun time"
+      },
+      {
+        "id": "t1_n52e7pj",
+        "author": "hk135",
+        "score": 5,
+        "body": "Just started getting into this from pretty much 0, not touched FPGA's for 10 years. Got a cheap card from AliExpress and everything is in some form of Chinese. Its going to be an interesting few months!"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1r3bus7",
+    "subreddit": "FPGA",
+    "title": "I thought I was getting a normal significant other",
+    "score": 618,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1r3bus7/i_thought_i_was_getting_a_normal_significant_other/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_o53dpyo",
+        "author": "alexforencich",
+        "score": 65,
+        "body": "I mean, PGAs are fine, you can get FPGAs in PGA packages, among other parts... Maybe not so common these days though."
+      },
+      {
+        "id": "t1_o56v5yi",
+        "author": "Kezzsim",
+        "score": 24,
+        "body": "I met my wife because she was talking to a bunch of furries at a ska show about what she does for work, and when she mentioned FPGAs I was like “wow I have to at least attempt to ask her out”"
+      },
+      {
+        "id": "t1_o53wat0",
+        "author": "EngagedDiva05",
+        "score": 11,
+        "body": "Literally my husband 😅"
+      },
+      {
+        "id": "t1_o58m4a6",
+        "author": "rozsnyo",
+        "score": 6,
+        "body": "A GA PGA FPGA ... is not common? looks we now have a *stack* :D"
+      },
+      {
+        "id": "t1_o5c18e7",
+        "author": "Snoo_4499",
+        "score": 6,
+        "body": "And i have F GPA 😢"
+      },
+      {
+        "id": "t1_o58yt89",
+        "author": "BarnardWellesley",
+        "score": 2,
+        "body": "Phase Gradient Autofocus"
+      },
+      {
+        "id": "t1_o5e9ps7",
+        "author": "GlobalApathy",
+        "score": 0,
+        "body": "Programmable Gain Amplifier?"
+      },
+      {
+        "id": "t1_o8fzc0n",
+        "author": "Lost-Group3330",
+        "score": 0,
+        "body": "FPGA guys really out here optimizing timing constraints instead of relationships 😭 “Sorry I can’t talk, I’m debugging a race condition in hardware.” This is too real."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1nkm3af",
+    "subreddit": "FPGA",
+    "title": "Verification",
+    "score": 606,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1nkm3af/verification/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_neyvsrs",
+        "author": "Axiproto",
+        "score": 72,
+        "body": "See, the problem is you used \"your\" testbench, not the Verification Engineer's (not you) testbench."
+      },
+      {
+        "id": "t1_neyz82u",
+        "author": "Steampunkery",
+        "score": 72,
+        "body": "Your company can afford verification engineers? Must be nice"
+      },
+      {
+        "id": "t1_nez51o5",
+        "author": "Steampunkery",
+        "score": 26,
+        "body": "You're lucky if the IP gets a testbench and not just the good ole test it in hardware"
+      },
+      {
+        "id": "t1_nez289x",
+        "author": "hukt0nf0n1x",
+        "score": 24,
+        "body": "This is why they are making designers learn formal verification basics. Apparently, it fixes this issue. :p"
+      },
+      {
+        "id": "t1_nez7cri",
+        "author": "StarrunnerCX",
+        "score": 22,
+        "body": "And that is why you're not supposed to be the one testing your stuff... And why there are more verification openings than there are design openings 😅"
+      },
+      {
+        "id": "t1_nez72wg",
+        "author": "hukt0nf0n1x",
+        "score": 20,
+        "body": "There's no simulation more realistic than the one done in hardware. :)"
+      },
+      {
+        "id": "t1_nez7bxg",
+        "author": "Steampunkery",
+        "score": 14,
+        "body": "No simulation more realistic than physics!"
+      },
+      {
+        "id": "t1_nf108ld",
+        "author": "SpiritedEagle7948",
+        "score": 5,
+        "body": "If I would like to become a verification engineer, what books/sources should I study?"
+      },
+      {
+        "id": "t1_nezbi2y",
+        "author": "Axiproto",
+        "score": 4,
+        "body": "Oh my sweet summer child. Father, forgive him, for he does not know what he is doing."
+      },
+      {
+        "id": "t1_nf0ozlb",
+        "author": "ClumsyRainbow",
+        "score": 3,
+        "body": "I interned as a verification engineer, it was quite satisfying to find bugs in the design, even if it did take a full weekend to run our testbenches... I also broke all the tests one weekend, so that was good."
+      },
+      {
+        "id": "t1_nf2v799",
+        "author": "StarrunnerCX",
+        "score": 3,
+        "body": "That's true, but it reduces the problem a lot. It's the difference from the source of error being bias (your preconceived notion of what the block should be doing versus the spec) vs skill issue (if you both suck or the spec sucks you're going to make the same error, and I say that as someone who has sucked from both sides of the coin!)."
+      },
+      {
+        "id": "t1_nf2u9ji",
+        "author": "Daedalus1907",
+        "score": 2,
+        "body": "Eh, someone else testing your stuff doesn't make this go away. A lot of the times, it's pretty easy for a designer and verifier to make the same error."
+      },
+      {
+        "id": "t1_nf45wza",
+        "author": "XimxBaxX",
+        "score": 2,
+        "body": "Simulation is like masturbation, if you do it too much you might end up thinking that's the real deal."
+      },
+      {
+        "id": "t1_nf0sbak",
+        "author": "sputwiler",
+        "score": 1,
+        "body": "Don't worry we got you a testbench (points at physical bench)"
+      },
+      {
+        "id": "t1_nf2our5",
+        "author": "hukt0nf0n1x",
+        "score": 1,
+        "body": "In case there are any recruiters here, I should probably clarify. I'm an ASIC designer, primarily. I test the crap out of everything."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1t6bc2p",
+    "subreddit": "FPGA",
+    "title": "Built an FPGA Trainer Kit for High School Students to Learn Real Chip Design & RISC-V",
+    "score": 595,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1t6bc2p/built_an_fpga_trainer_kit_for_high_school/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_okg7l2g",
+        "author": "Stroxtile",
+        "score": 35,
+        "body": "This is dope!!"
+      },
+      {
+        "id": "t1_okgipku",
+        "author": "kunalg123",
+        "score": 11,
+        "body": "Yes Will be uploading the data-sheet soon"
+      },
+      {
+        "id": "t1_okght50",
+        "author": "Efficent_Owl_Bowl",
+        "score": 6,
+        "body": "Do you have some more information/documentation?"
+      },
+      {
+        "id": "t1_okgp1vb",
+        "author": "maredsous10",
+        "score": 6,
+        "body": "Lattice FPGA? Where's the link to buy? https://www.vlsisystemdesign.com/wp-content/uploads/2025/01/datasheet.pdf https://www.vlsisystemdesign.com/chip-design-for-high-school/"
+      },
+      {
+        "id": "t1_okhihmc",
+        "author": "Puzzled_Wish91019",
+        "score": 4,
+        "body": "I actually have one of these boards, and about a year ago I spent a weekend trying to get the open-source flow working natively on WSL (Ubuntu- ok I know I was being stubborn, I just like using wsl I can multitask with it) instead of using the provided Linux VM image. I managed to get partway there by cloning and setting up the underlying Lattice/open-source toolchain and getting it to recognise the board, but eventually gave up. It was still a fun exercise though. One piece of feedback I’d give, and I mean this constructively because I’m genuinely happy to see initiatives like this coming out of India, is that the VM image based workflow felt quite inconvenient for development and frankly doesn’t look professional. I don’t think someone with native Linux running on their machine (not wsl, that was just a personal experiment) should have to run a vm on top of it only because it is set up a certain way in one disk image. It’s fine for basic stuff, but If things are still shipped the same way, I think it would be much cleaner to provide the software stack directly, or even just a reproducible setup script or Git repo, instead of requiring a full VM image. For people who want to build larger projects and really tinker with the hardware/software stack, VMs can feel restrictive and slow. Since the flow is already based around open-source tools like nextpnr and the Lattice toolchain, a more transparent and open setup would probably appeal a lot to intermediate users who want to understand and customize the stack themselves. Also, practically speaking, anyone determined enough can reverse engineer what’s inside the VM anyway, so exposing the setup more cleanly could actually improve developer experience and make the platform feel more polished and professional. Overall though, I still think it’s a very cool initiative and I’m glad this ecosystem is growing."
+      },
+      {
+        "id": "t1_okgrrrh",
+        "author": "kunalg123",
+        "score": 3,
+        "body": "this is the correct link to buy - https://www.vlsisystemdesign.com/chip-design-for-high-school/ join the whatsapp group for more discounts offers - https://chat.whatsapp.com/FwVYEoe8vaWJLwUuCLzDv1?mode=gi_t"
+      },
+      {
+        "id": "t1_okhdnxg",
+        "author": "kunalg123",
+        "score": 2,
+        "body": "Yes. You can just buy the boards using below link https://www.vlsisystemdesign.com/vsdsquadronfm/ Currently we have enabled bulk orders. How many boards are you looking for?"
+      },
+      {
+        "id": "t1_okmdxju",
+        "author": "Far_Huckleberry_9621",
+        "score": 2,
+        "body": "People keep saying that resources in VLSI and for FPGAs are less, but then we keep creating paid courses. I understand boards being paid, but why the material.  Knowledge should be accessible..."
+      },
+      {
+        "id": "t1_okh9ehi",
+        "author": "tux2603",
+        "score": 1,
+        "body": "Will you have the option to purchase the board without registering for your class? One of the big things we look at when recommending dev boards is how much documentation or projects there are for that board online. If access to the board is limited to people who have taken your class, that'll naturally limit how much material there is about the board online"
+      },
+      {
+        "id": "t1_oki0y69",
+        "author": "kunalg123",
+        "score": 1,
+        "body": "Thanks for the feedback. Yes, we will be sharing the steps to install tools on GitHub. Stay tuned"
+      },
+      {
+        "id": "t1_okhunyk",
+        "author": "Few_Method_5894",
+        "score": 1,
+        "body": "This is so cool!"
+      },
+      {
+        "id": "t1_okp7l6r",
+        "author": "No-View-8350",
+        "score": 1,
+        "body": "Super! Maybe you know already: The open-source ASIC design tools are really cool now and you can actually do a tape-out out of it! Look for: iic-osic-tools, tinytapeout, libre-lane."
+      },
+      {
+        "id": "t1_okhdxbk",
+        "author": "kunalg123",
+        "score": 1,
+        "body": "Yes. You can buy only the FPGA board https://www.vlsisystemdesign.com/vsdsquadronfm/ How many boards are you looking forward to purchase?"
+      },
+      {
+        "id": "t1_okjzlie",
+        "author": "kunalg123",
+        "score": 1,
+        "body": "Thanks"
+      },
+      {
+        "id": "t1_okxrhy1",
+        "author": "Vinci00123",
+        "score": 0,
+        "body": "I agree."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1nvmu01",
+    "subreddit": "FPGA",
+    "title": "Logicode - The leetcode for hardware engineers",
+    "score": 587,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1nvmu01/logicode_the_leetcode_for_hardware_engineers/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_nhboncb",
+        "author": "MathResponsibly",
+        "score": 57,
+        "body": "Great, now this can do to the hardware interview what leetcode did to the software interview!"
+      },
+      {
+        "id": "t1_nh9z2sl",
+        "author": "xx_GeneralFish_xx",
+        "score": 49,
+        "body": "Looks amazing! How can I get access ?"
+      },
+      {
+        "id": "t1_nhc0mt4",
+        "author": "No-Individual8449",
+        "score": 32,
+        "body": "Hey! I think this is a stupid idea :D Have you seen the state of software interviews? Clearly not, because if you did you wouldn't have wasted your time on this. For learning RTL, HDLBits is more than enough. It even has a ranking system. Stop turning everything into a dick measuring contest. Companies can and WILL use it as a cheap filter, which, if you didn't know, is not really a good thing because it suppresses the value of talent and passion because any idiot used to these little games moves forward very easily."
+      },
+      {
+        "id": "t1_nhgcetq",
+        "author": "MathResponsibly",
+        "score": 21,
+        "body": "Yes"
+      },
+      {
+        "id": "t1_nhga3lx",
+        "author": "hukt0nf0n1x",
+        "score": 20,
+        "body": "You mean ruin it?"
+      },
+      {
+        "id": "t1_nh9zkau",
+        "author": "PprTwl_",
+        "score": 18,
+        "body": "Would love this for interview prep, how do the questions compare to those on ChipDev.io?"
+      },
+      {
+        "id": "t1_nha9f5m",
+        "author": "Willing_Insurance878",
+        "score": 13,
+        "body": "I personally have used ChipDev.io a lot and am a huge fan of their questions! Since this is the beta version, more of an emphasis was placed on the backend flow and platform functionality. Once we have validated this, we plan to then focus on expanding and enhancing our current problem set. Expect questions that may be approached from many angles, and consequently can be synthesized very differently."
+      },
+      {
+        "id": "t1_nha2ax5",
+        "author": "wild_shanks",
+        "score": 8,
+        "body": "This is an amazing initiative! About the PPA stuff, do you have some kind of standard cell library you synthesize for? Coz for instance if I'm optimizing for area, it often involves looking at what resources are available in order to find \"angles of attack\" for lack of a better term. Like if it's an FPGA I'd optimize the code for the target chip's specific LUT, BRAM or DSP structures and so on and so forth. TLDR: optimizing for an ASIC is not identical to optimizing for an FPGA, I'm curious what platform you'll have your users target for PPA optimization."
+      },
+      {
+        "id": "t1_nhbqiao",
+        "author": "Supralace",
+        "score": 7,
+        "body": "Great idea, this looks awesome and is super useful. Do you think this will ever include VHDL also?"
+      },
+      {
+        "id": "t1_nhe7glg",
+        "author": "TeachingBrilliant448",
+        "score": 6,
+        "body": "such a dumbass project smh"
+      },
+      {
+        "id": "t1_nha7set",
+        "author": "Willing_Insurance878",
+        "score": 5,
+        "body": "Great question! We actually had the same thought process as you and switched between synthesizing for target FPGAs or an ASIC many times. We settled on ASIC with the Sky130 PDK, as we felt this best met the standardization across solutions we were looking for. With FPGAs it is more dependent on the actual device, as you mentioned. One part not shown here was the area report button which displays the standard cells from the PDK your design actually used. Would be open to discussing this further if anyone has other ideas!"
+      },
+      {
+        "id": "t1_nhbqvnd",
+        "author": "f42media",
+        "score": 5,
+        "body": "I’m very hoping"
+      },
+      {
+        "id": "t1_nhi4gl7",
+        "author": "00raiser01",
+        "score": 5,
+        "body": "So are people here bots? Are you guys R-word. Why would bringing something from the software world, where everybody hates be good for any of us here."
+      },
+      {
+        "id": "t1_nhixk9n",
+        "author": "hukt0nf0n1x",
+        "score": 4,
+        "body": "It's funny. I had a young engineer try to explain to me how leetcode is actually useful because it teaches you \"what you need to do the job\". Apparently, all problems can be figured out by chaining design memorized design patterns together."
+      },
+      {
+        "id": "t1_nhc14jb",
+        "author": "No-Individual8449",
+        "score": 4,
+        "body": "this"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tra45e",
+    "subreddit": "FPGA",
+    "title": "PhD supervisor gifted me this!",
+    "score": 547,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1tra45e/phd_supervisor_gifted_me_this/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_oomlpjx",
+        "author": "lorinx000",
+        "score": 75,
+        "body": "Marry him, thats a keeper."
+      },
+      {
+        "id": "t1_oom6soz",
+        "author": "straightouttaobesity",
+        "score": 72,
+        "body": "🥺 Congrats"
+      },
+      {
+        "id": "t1_oomp7t1",
+        "author": "Hot-Hovercraft-1381",
+        "score": 26,
+        "body": "This is a great platform with enormous potential. I use the same platform for work, and this platform easily handles digital filters and signal processing from over 10 high speed ADCs (over 2MHz sampling rate with 16 bit resolution), actuators control and high speed communication interfaces (gigabit ethernet, LVDS) and many software features like CLI, OTA and self diagnostics, all running on a single core, without any RTOS or any middleware. The same platform is also used in defense applications, like Radar systems, missiles and missile defense systems, where high speed processing of large amounts of data is crucial."
+      },
+      {
+        "id": "t1_oomi1ym",
+        "author": "SplitJunior985",
+        "score": 17,
+        "body": "This is a good platform to start with pl and ps interaction"
+      },
+      {
+        "id": "t1_oomojss",
+        "author": "Daistina",
+        "score": 5,
+        "body": "I have a ZC702 myself and it was a nightmare, when I first started using it. I also got it from my supervisor and someone took the FMC jumper off the board and I couldn't connect to the board or flash anything. Try to check the default settings from the datasheet before you get headache and search the problems elsewhere"
+      },
+      {
+        "id": "t1_oool2g5",
+        "author": "kavsgme",
+        "score": 5,
+        "body": "Please post here if u make something cool with it"
+      },
+      {
+        "id": "t1_oomm5uq",
+        "author": "timonix",
+        "score": 5,
+        "body": "The board is much larger than a tang and the FPGA itself is much more capable. Still 15 years old tho"
+      },
+      {
+        "id": "t1_oomd7vv",
+        "author": "stdcowboy",
+        "score": 4,
+        "body": "i m new to fpga and this one looked big, i was thinking they were the size of general mcus, i also have one tiny fpga tang nano 9k its really small!"
+      },
+      {
+        "id": "t1_oon4lf6",
+        "author": "NoBarber4287",
+        "score": 2,
+        "body": "I still wonder how good is this board even after 14yrs ZC702 and ZC706"
+      },
+      {
+        "id": "t1_ooovhkd",
+        "author": "positive_guy_madhav",
+        "score": 2,
+        "body": "Congratulations!!!! It’s a great piece of hardware, good luck"
+      },
+      {
+        "id": "t1_oopxj1q",
+        "author": "_soup_tym_",
+        "score": 2,
+        "body": "W brother ☕📈"
+      },
+      {
+        "id": "t1_oomce6q",
+        "author": "SinValentino",
+        "score": 2,
+        "body": "It’s big enough.. unsure why you’d ask this… edit: it was supposed to be a joke, I should’ve said it’s above average"
+      },
+      {
+        "id": "t1_oombdpu",
+        "author": "stdcowboy",
+        "score": 1,
+        "body": "how big is it"
+      },
+      {
+        "id": "t1_oort1n2",
+        "author": "johnnyhilt",
+        "score": 1,
+        "body": "10, actually, but still very relevant."
+      },
+      {
+        "id": "t1_oon4tjx",
+        "author": "alexforencich",
+        "score": 1,
+        "body": "Around 8 inches square, apparently."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ti5jc4",
+    "subreddit": "FPGA",
+    "title": "LeNet-5 CNN Accelerator Demo",
+    "score": 535,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1ti5jc4/lenet5_cnn_accelerator_demo/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_omsckjl",
+        "author": "mjao4",
+        "score": 32,
+        "body": "Here are the utilization metrics: LUT: 36947/63400 (58.28%) LUTRAM: 636/19000 (3.35%) FF: 61609/126800 (48.59%) BRAM: 124.50/135 (92.22%) DSP: 166/240 (69.17%) IO: 22/210 (10.48%) BUFG: 2/32 (6.25%)"
+      },
+      {
+        "id": "t1_oms79le",
+        "author": "cafedude",
+        "score": 30,
+        "body": "Nice! Is there a github, by chance? How many LUTs does it take?"
+      },
+      {
+        "id": "t1_oms6iwq",
+        "author": "mjao4",
+        "score": 22,
+        "body": "It’s an 8-bit fixed point format with 1 signed integer bit and 7 fractional bits, so values are represented as scaled integers instead of floating point to make the CNN more hardware efficient"
+      },
+      {
+        "id": "t1_oms88it",
+        "author": "mjao4",
+        "score": 19,
+        "body": "I’m in the process of open sourcing the project, I’ll update the post if I do!"
+      },
+      {
+        "id": "t1_omrzp2n",
+        "author": "zZzBlitzZz",
+        "score": 17,
+        "body": "Cool stuff"
+      },
+      {
+        "id": "t1_oms23yc",
+        "author": "MadGenderScientist",
+        "score": 7,
+        "body": "Q1.7? how's that work exactly?"
+      },
+      {
+        "id": "t1_omsg1s9",
+        "author": "MadGenderScientist",
+        "score": 6,
+        "body": "oh! now I understand, sorry. I was so used to ML model quantizations like Q4 meaning 4-bit that I somehow thought Q1.7 meant 1.7 bits per weight, which... I guess you could do, I've heard of fractional bit quantization before, but it's a dark art and (of course) not gate-efficient.  sign plus seven bits of mantissa makes way more sense. "
+      },
+      {
+        "id": "t1_omysnax",
+        "author": "Alert-Bee9710",
+        "score": 2,
+        "body": "Most of the people that make projects and later on promise to open source it almost never do"
+      },
+      {
+        "id": "t1_omx4deh",
+        "author": "ExactArachnid6560",
+        "score": 2,
+        "body": "It's btw called Q notation if you are interested."
+      },
+      {
+        "id": "t1_omwacm6",
+        "author": "mjao4",
+        "score": 2,
+        "body": "Apart from quantization, the design of the accelerator allows data to flow directly between each compute layer without writing to external memory, and parameters are stored in BRAM. However, this sacrifices the flexibility and scalability that a layer-wise processing architecture might have"
+      },
+      {
+        "id": "t1_omx4rjv",
+        "author": "cafedude",
+        "score": 1,
+        "body": "This is for LeNet-5, so it's convolutional, right? How many neurons total? A while back I made a fully connected spiking neural net to solve MNIST. Accuracy is around 90%, but that's partly because it's doing a downsample from 28x28 greyscale to 14x14 binary to save LUTS (was trying to get the smallest implementation possible). The utilization is (Lattice ECP5-85K): LUT4: 5,544 / 83,640 6.6% Logic LUTs TRELLIS_FF: 3,332 / 83,640 4.0% Flip-flops DP16KD: 11 / 208 5.3% EBR 18kbit blocks (= 24 kB) CCU2C 773 / 41,820 1.8% Carry chains (adders/comparators) PFUMX 280 — — Wide muxes L6MUX21 30 — — LUT6 cascade muxes The SNN has 196 input neurons (14x14), 64 hidden layer neurons and 10 output classification neurons."
+      },
+      {
+        "id": "t1_omxxwvb",
+        "author": "mjao4",
+        "score": 1,
+        "body": "Cool results! The CNN has 6598 total neurons. 784 input , 5804 hidden (3456 conv1, 864 pool1, 1024 conv2, 256 pool 2, 120 fc1, 84 fc2), and 10 output."
+      },
+      {
+        "id": "t1_omvem9p",
+        "author": "Lowmax2",
+        "score": 1,
+        "body": "awesome!"
+      },
+      {
+        "id": "t1_omvybm7",
+        "author": "r4chaL1d",
+        "score": 1,
+        "body": "did you implemented any algorithms&ideas to make the cnn calculation more efficient?"
+      },
+      {
+        "id": "t1_omwqdye",
+        "author": "TeeDat125",
+        "score": 1,
+        "body": "I'm working on the same project as you. Could you share it?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qrxp9n",
+    "subreddit": "FPGA",
+    "title": "Timing Diagram Editor 100% free",
+    "score": 527,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1qrxp9n/timing_diagram_editor_100_free/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_o2rkfjs",
+        "author": "Allan-H",
+        "score": 32,
+        "body": "Do you have a version that can be used not in a browser?"
+      },
+      {
+        "id": "t1_o2rixt8",
+        "author": "mnemocron",
+        "score": 27,
+        "body": "Cool project. I played around a bit. Is it based on wavedrom or only compatible with the import/export? I think I prefer wavedrom because I can low level code the wave. But then again, I haven't made a timing diagram in 2 years."
+      },
+      {
+        "id": "t1_o2rkoff",
+        "author": "maolmosma",
+        "score": 23,
+        "body": "Thanks for asking! Not yet, but it's on the roadmap. Right now everything runs locally in your browser - no data leaves your machine, it's all client-side. But I'm working on a desktop version (probably Electron-based) for offline use. Stay tuned!"
+      },
+      {
+        "id": "t1_o2sq1ux",
+        "author": "KittensInc",
+        "score": 19,
+        "body": "Reliability. A web-based service - especially a free one - can disappear at any moment, or lose critical features, or start charging an outrageous amount of money. This is far less likely (although still not impossible) with a locally-running executable. Beyond that some companies are also really worried about (intentional or accidental) data leaks, so accessing a web-based service might be banned for security reasons."
+      },
+      {
+        "id": "t1_o2sqzdv",
+        "author": "maolmosma",
+        "score": 15,
+        "body": "Totally valid points!But, WavePaint works 100% offline in the browser - no data ever leaves your machine. All processing is local, nothing is sent to any server. That said, I get the concern about web services disappearing. It's something I've thought about - a downloadable/offline version could make sense down the road. Thanks for the feedback! 🙏"
+      },
+      {
+        "id": "t1_o2saqit",
+        "author": "Cheetah_Hunter97",
+        "score": 12,
+        "body": "Whoever you are thank you soooooo much for this amazing tool and for making it free. Here are my feedback that would make it a lot more better for use (i know i am asking too much but hope you would appreciate the feedback): Arrows cannot be moved once they have been set...an option to move the arrow heads to edit placement instead of deleting and redoing the arrows would be much better. Labelling of the arrows does not seem to work, having the ability to write a label that sits on top or bottom of the label would be helpful. Even though you have hotkeys such as 1,0,X,Z they dont seem to be working while working on the graph (probably i was in paint mode but still it should be able to switch) also having every option in the tool as hotkey would be really cool such as A for arrow and such. These are the issues i faced but regardless its such a life saver. I was struggling with wavedorm the other day and moved to visio web version that doesnt allow more than 1000 layers. Was so frustrated and now this is just pure bliss. Thank you so much once again. I just dont have the words for it."
+      },
+      {
+        "id": "t1_o2rj7fe",
+        "author": "maolmosma",
+        "score": 11,
+        "body": "Thanks! Not WaveDrom-based - built from scratch because WaveDrom's format can't represent a lot of visual stuff (markers,substeps, custom colors, etc). Made it import/export compatible though, so you can bring your WaveDrom diagrams in and enhance them."
+      },
+      {
+        "id": "t1_o2tpki3",
+        "author": "imMute",
+        "score": 8,
+        "body": "Could you just distribute the .html and .js and images in a ZIP file or something?"
+      },
+      {
+        "id": "t1_o2sc69o",
+        "author": "maolmosma",
+        "score": 8,
+        "body": "Thank you SO much for this wonderful feedback! Knowing that WavePaint saved you from the frustration of WaveDrom and Visio's limitations means everything. Comments like yours are pure motivation fuel! 🙏 Addressing your points: Moving arrows You're absolutely right - currently arrows can't be repositioned once placed. The only option is to delete and recreate them. This is definitely on my radar as a feature to add! Arrow labels Good news - this actually works! Here's how: Select the Text tool from the toolbar Click on an existing arrow 3.Type your label - it will attach to the arrow and follow it The problem is it's not intuitive to discover. I'll add an \"Add label\" option directly in the arrow's right-click menu to make it obvious. Hotkeys (1, 0, X, Z) You're correct that they can be finicky. They should work when the Paint tool is active, but the detection isn't as flexible as it should be. I'll improve this so they work more reliably while editing signals. You can activate Paint mode with \"D\" -> and then change the state with 1,0,x,z..etc More hotkeys Great suggestion! I will add keyboard shortcuts for all tools (A for Arrow, M for Marker, etc.). Your feedback is incredibly helpful, and I'm genuinely grateful you took the time to share it. The fact that WavePaint became \"pure bliss\" after your struggles with other tools - that's exactly the experience I'm aiming for. Thank you for being part of this journey! 🚀"
+      },
+      {
+        "id": "t1_o2s08m4",
+        "author": "anklab",
+        "score": 6,
+        "body": "Offline usage Better overview of running tasks, by not hiding all running applications behind a browser acting like a full-blown OS..."
+      },
+      {
+        "id": "t1_o2rzz6i",
+        "author": "maolmosma",
+        "score": 5,
+        "body": "Similar concept, but different approach! WaveDrom is code-first (JSON), WavePaint is visual-first – you draw signals directly instead of writing syntax. They're compatible though: you can import your WaveDrom JSON into WavePaint, add things that WaveDrom doesn't support (colors, annotations, custom positioning), and export it back or as PNG/SVG. If WaveDrom works well for your blog, keep using it! WavePaint is more for when you want to quickly sketch something visually or need features beyond what the JSON format supports. 🙂"
+      },
+      {
+        "id": "t1_o2rl10t",
+        "author": "Responsible_Price_64",
+        "score": 4,
+        "body": "This looks awesome! I will give it a try to enrich my GitHub. Thanks!"
+      },
+      {
+        "id": "t1_o2rt45z",
+        "author": "cookiedanslesac",
+        "score": 3,
+        "body": "So I can import vcd and then export to wavedrom 👍"
+      },
+      {
+        "id": "t1_o2rl4j4",
+        "author": "maolmosma",
+        "score": 2,
+        "body": "Thanks! Hope it helps with your docs. Let me know if you have any feedback! "
+      },
+      {
+        "id": "t1_o2rty1n",
+        "author": "maolmosma",
+        "score": 2,
+        "body": "Yes, exactly You can import the VCD and then export it to WaveDrom. Let me know if it’s useful for you or if you have any feedback"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rbpndq",
+    "subreddit": "FPGA",
+    "title": "After many months my homemade CPU is complete",
+    "score": 522,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1rbpndq/after_many_months_my_homemade_cpu_is_complete/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_o6tfj0d",
+        "author": "Dreux_Kasra",
+        "score": 53,
+        "body": "The timing analysis called for the two foot stretches at the top"
+      },
+      {
+        "id": "t1_o6srzir",
+        "author": "Noob_Artist01",
+        "score": 48,
+        "body": "crazy wiring"
+      },
+      {
+        "id": "t1_o6th4ve",
+        "author": "marco208",
+        "score": 16,
+        "body": "Cool, now time to make this crosspost to this sub worth it and start building it on an FPGA :). Can’t wait till I understand enough of the hardware to do the same."
+      },
+      {
+        "id": "t1_o6y1bto",
+        "author": "Ok_Commercial5979",
+        "score": 7,
+        "body": "Is 1~2 months hopefully I can write a program to simulate doom."
+      },
+      {
+        "id": "t1_o6vwmfa",
+        "author": "AggravatingRole3609",
+        "score": 6,
+        "body": "Can it run doom? /s"
+      },
+      {
+        "id": "t1_o6ynro9",
+        "author": "Dadaz17",
+        "score": 6,
+        "body": "This is old stuff. He owns a nice YouTube channel where he documented the whole process. A pretty nice watch! https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU"
+      },
+      {
+        "id": "t1_o6vtfov",
+        "author": "Informal-Host8085",
+        "score": 3,
+        "body": "Beautiful"
+      },
+      {
+        "id": "t1_o6y0zp1",
+        "author": "Ok_Commercial5979",
+        "score": 2,
+        "body": "I just finished up the wiring I am just waiting on my EEPROM programmer."
+      },
+      {
+        "id": "t1_o6v5nvo",
+        "author": "SnowyOwl72",
+        "score": 2,
+        "body": "Always try to build them on a pcb. You will miss them 10 years from now."
+      },
+      {
+        "id": "t1_o6tjnwp",
+        "author": "AdImaginary3395",
+        "score": 2,
+        "body": "very clean"
+      },
+      {
+        "id": "t1_o6u9byu",
+        "author": "deelowe",
+        "score": 2,
+        "body": "Bruh"
+      },
+      {
+        "id": "t1_o6y1vg1",
+        "author": "Ok_Commercial5979",
+        "score": 2,
+        "body": "I used the 74 series chips from Texas Instruments. They have a 4-bit ALU, RAM, Registers, all the logic blocks, and some other glue logic like bus transceivers. There data sheets are quite helpful when figuring how the chips function and Ben eater uses most of the chips and he explains them very simplistically and then builds on your knowledge. So I would go to Ben and TI if you want to know more."
+      },
+      {
+        "id": "t1_o6y17tb",
+        "author": "Ok_Commercial5979",
+        "score": 1,
+        "body": "Yeah, the PCB helps with that but it was the only jumpers I had, definitely not ideal."
+      },
+      {
+        "id": "t1_o6wv5bw",
+        "author": "AlexxxRR",
+        "score": 1,
+        "body": "Remembers to me \"The soul of a new machine\"."
+      },
+      {
+        "id": "t1_o6y1zh7",
+        "author": "Ok_Commercial5979",
+        "score": 1,
+        "body": "Where is this from?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rx6c9m",
+    "subreddit": "FPGA",
+    "title": "I made a triangle rasteriser on an FPGA (Zedboard)",
+    "score": 521,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1rx6c9m/i_made_a_triangle_rasteriser_on_an_fpga_zedboard/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_ob4w4an",
+        "author": "rlysens",
+        "score": 26,
+        "body": "Very nice! How does it work memory-wise? On-chip RAM, external memory, or a combination of both?"
+      },
+      {
+        "id": "t1_ob4zv24",
+        "author": "fsasm",
+        "score": 22,
+        "body": "You are using the barycentric edge equation to rasterise the triangle. Did you also consider other algorithms? Which bottlenecks do you currently hit?"
+      },
+      {
+        "id": "t1_ob51eer",
+        "author": "RoboAbathur",
+        "score": 17,
+        "body": "The original idea was to be able to run more than two threads, making the barycentric algorithm faster, unfortunately due to the many multiplications that happen I ran out of DSPs so at most 2 were possible to run at the same time. That is why I did not implement more conventional cpu like algorithms. The current bottlenecks I have are 1) AXI Lite is too slow to transfer the amount of commands needed to render a lot of small triangles 2) I am using the DataMover IP to write to the framebuffer, which has its own latency so for even with bursting the small triangles have horrendous bandwidth. 3) With 1000px triangles the rasterizer achieves 270MP/s which is around 55% of the bandwidth possible with 32bit bus running at 125 MHz. I currently process 1pixel/cycle per rasterizer hence the biggest bottleneck right now is memory."
+      },
+      {
+        "id": "t1_ob4xnyn",
+        "author": "RoboAbathur",
+        "score": 15,
+        "body": "Framebuffer is stored in the DRAM of the zedboard, which is very annoying because it means you have to pass through the AXI interface to write to it. The textures are stored in BRAMS for speed and the commands are stored in registers that are written to it though AXI-Lite"
+      },
+      {
+        "id": "t1_ob5otjr",
+        "author": "fsasm",
+        "score": 7,
+        "body": "interesting, I would have picked scanline algorithm, where every row can be each own thread. I think, it would use less multiplier and be less resources overall."
+      },
+      {
+        "id": "t1_ob5vfrs",
+        "author": "Falcon731",
+        "score": 6,
+        "body": "Very cool :-) I've recently started working on something similar. I've not quite got the first triangle yet but close. From what I can see you are using a quite different approach to me - will be interesting to compare once I get something working :-)"
+      },
+      {
+        "id": "t1_ob5pl4c",
+        "author": "RoboAbathur",
+        "score": 4,
+        "body": "In hindsight it would be, I did not expect the barycentric algorithm to be so resource intensive, but in the end the project needed to be finished so I just kept that algorithm."
+      },
+      {
+        "id": "t1_oba4ped",
+        "author": "Falcon731",
+        "score": 3,
+        "body": "I'm working scanline by scanline. I have a double buffered scanline buffer. One line being scanned out to the monitor (and cleared), while the other line being drawn to. Since its only 2 scanlines that's easy on chip 2 * 640 * 48bit - (8 bits each for R G B and 24 bit Z). The CPU writes the list of triangles into SDRAM, sorted by Y1 (the topmost vertex). The rasteriser reads the triangles into an on chip BRAM, up until it reaches one with a Y coordinate greater than the current scanline. (This does give me a restriction of 256 triangles active on any one scanline). Then, for each scanline, a state machine walks through the BRAM list of active triangles, calculates the span of that triangle on the current line, and triggers a second state machine to walk through the pixels on that line, calculating their color (which may involve an SDRAM texture fetch) and writing the results to the scanline buffer. (2 State machines - so I can pipeline the doing a span calcs in parallel with the pixel loop). As a triangle is completed (current scanline = triangle bottom) it is marked for replacement, and the next triangle is read from SDRAM. So the bulk of SDRAM access is for texture fetch. So far I've got it working in rectangle mode (so I know I've got the texture fetch and display part working). But I've got something wrong in the span calc that I'm trying to debug."
+      },
+      {
+        "id": "t1_ob8bkwo",
+        "author": "Hairburt_Derhelle",
+        "score": 3,
+        "body": "WTF. This is awesome. And a ton of work."
+      },
+      {
+        "id": "t1_ob5wi5y",
+        "author": "No-Individual8449",
+        "score": 2,
+        "body": "hell yeah"
+      },
+      {
+        "id": "t1_ob9t3om",
+        "author": "RoboAbathur",
+        "score": 1,
+        "body": "Yes, as long as you’ve set it up correctly 😅 which I think I have some bug when issuing multiple requests one right after the other."
+      },
+      {
+        "id": "t1_oba6m23",
+        "author": "IQueryVisiC",
+        "score": 1,
+        "body": "you could have started from the (well documented) Atari Jaguar . The blitter renders complete lines. There is some vector maths to render 4px at once. A lot of papers show how Dreamcast render 16px (horizontally) at once. None of these uses barycentric coordinates, which were invented for raytracers."
+      },
+      {
+        "id": "t1_ob76hux",
+        "author": "Peaboff",
+        "score": 1,
+        "body": "Afaik the zynq 7000 has AXI ports directly to DDR2/3 controller. Should be 4x faster (at least 128-bit) than the AXI lite connection with the HPS. I haven't used a zynq 7000 device so I dont know for certain. I know on the DE1-SoC I was able to do that. I had one 256-bit and a 128-bit interface that was saturated by burst reads/writes. The communication was still orchestrated by AXI lite, but with a udmabuf ( https://github.com/ikwzm/udmabuf ) driver to share memory regions between the userland driver and the FPGA. https://docs.amd.com/r/en-US/ug585-zynq-7000-SoC-TRM/DDR-Controller-Core-and-Transaction-Scheduler-DDRC"
+      },
+      {
+        "id": "t1_ob635zf",
+        "author": "EvenSatisfaction5745",
+        "score": 1,
+        "body": "Auto"
+      },
+      {
+        "id": "t1_ob7akqs",
+        "author": "RoboAbathur",
+        "score": 1,
+        "body": "7K but with a lot of DSPs (140)"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1pdtzr5",
+    "subreddit": "FPGA",
+    "title": "My own FPGA board - Arctyx Nano",
+    "score": 487,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1pdtzr5/my_own_fpga_board_arctyx_nano/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_ns7ozjk",
+        "author": "SearchPlane561",
+        "score": 41,
+        "body": "That's impressive"
+      },
+      {
+        "id": "t1_ns7pb1p",
+        "author": "Princess_Azula_",
+        "score": 22,
+        "body": "You could do the tried and true \"display something on a VGA port\" demo. Those are pretty fun to make."
+      },
+      {
+        "id": "t1_nsaxnb4",
+        "author": "olive12108",
+        "score": 6,
+        "body": "Very cool, i'm a big fan of small form factors and MAN, have fpga dev kits become expensive. Seriously impressive for a high schooler. You have a good future ahead :)"
+      },
+      {
+        "id": "t1_ns8xvpb",
+        "author": "KaiPereira",
+        "score": 5,
+        "body": "Sick project!!!"
+      },
+      {
+        "id": "t1_ns7til5",
+        "author": "keyaan_07",
+        "score": 4,
+        "body": "Oh yes VGA, will try. Thanks!"
+      },
+      {
+        "id": "t1_nseif6s",
+        "author": "zuptar",
+        "score": 4,
+        "body": "I programmed fpga's back in uni and this seems like a fun way to get back into it. Is there any good demonstration use cases? The fpga seems pretty low spec, so I assume it's good for some specific basic applications."
+      },
+      {
+        "id": "t1_ns7qoys",
+        "author": "nonFungibleHuman",
+        "score": 3,
+        "body": "Pretty cool, where did you solder this?  Btw clean the usb cable 🤣"
+      },
+      {
+        "id": "t1_ns8cp21",
+        "author": "keyaan_07",
+        "score": 3,
+        "body": "if you have done this kind of stuff before, then it is pretty doable, but if you are a beginner, then you should start with something easy. i'm 17 and i'm currently in highschool!!"
+      },
+      {
+        "id": "t1_ns7tgfs",
+        "author": "keyaan_07",
+        "score": 2,
+        "body": "Thanks :)"
+      },
+      {
+        "id": "t1_nsbmsfw",
+        "author": "Classic_Department42",
+        "score": 2,
+        "body": "Dont forget to zero when the beam goes baxk to initial oosition."
+      },
+      {
+        "id": "t1_ns7u9pl",
+        "author": "Comfortable_Mind6563",
+        "score": 2,
+        "body": "Very nice. Looks a lot like an Arduino! But please - get a new USB cable. It kinda ruins the impression."
+      },
+      {
+        "id": "t1_ns89bx3",
+        "author": "keyaan_07",
+        "score": 2,
+        "body": "I put the rp2350 there because I was familiar with it and I didn't want to message with the ftdi convertors when I made it, so that's mainly why I chose, but partially I thought that 2 mcus on 1 board would be cool and I could directly experiment with protocols like SPI and I2C!"
+      },
+      {
+        "id": "t1_nsdhh78",
+        "author": "Humdaak_9000",
+        "score": 2,
+        "body": "An rp2350 and an fpga with an open-source toolchain is a killer combo for robotics. This is cool as hell."
+      },
+      {
+        "id": "t1_nsfjc6w",
+        "author": "Ok-Somewhere1676",
+        "score": 2,
+        "body": "I really like the idea of FPGA + MCU. It gives you easy communications to the PC and great flexibility in how you partition your algorithms. If you ever revise this board I have two suggestions: 1) I would suggest exposing the SPI bus to the external world (maybe PMOD port on the back) as well as to the FPGA. Alternatively, you could add a Qwiic connector ( https://learn.sparkfun.com/tutorials/i2c/qwiic-connect-system ) for I2C. One of these options would open up a world of peripherals for you and others to use. 2) It looks like the FPGA to MCU interface is only 8 pins. You might find it more useful to have 10 or 11 pins. That way you can get 8 bits of data plus 2 - 3 pins for message management (data ready, acknowledge, IRQ, etc.)"
+      },
+      {
+        "id": "t1_ns8ddqw",
+        "author": "dierckx1",
+        "score": 2,
+        "body": "I have some experiences with PCB design and digital system design but never combined them. I am looking forward to the challenge. But thanks for the feedback!"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mr4o4o",
+    "subreddit": "FPGA",
+    "title": "Couldn't afford those MiSTer boards without the day job",
+    "score": 486,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1mr4o4o/couldnt_afford_those_mister_boards_without_the/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_n8x18sp",
+        "author": "LightWolfCavalry",
+        "score": 50,
+        "body": "This is hilariously accurate "
+      },
+      {
+        "id": "t1_n8vemv2",
+        "author": "superfluous_gates",
+        "score": 43,
+        "body": "The MiSTer FPGA is an open source project that aims to emulate old consoles and arcades using a (at the time low-cost) Terasic DE-10 primarily, with the goal of reaching levels of accuracy and latency that are not feasible (citation needed?) with software emulation. I'm not sure if the project itself is affiliated with a specific company but I do know there's a whole ecosystem of add-on boards and stuff that help with supporting specific consoles and setups."
+      },
+      {
+        "id": "t1_n8wzskt",
+        "author": "Cribbing83",
+        "score": 31,
+        "body": "I love doing FPGA design. But no way in hell could I work on my FPGA projects all day at work, and then go home and work on a personal FPGA project. That just sounds exhausting. Exactly the reason why I always keep my hobbies as hobbies and never try and monetize them to make money"
+      },
+      {
+        "id": "t1_n90urj8",
+        "author": "Mundane-Display1599",
+        "score": 15,
+        "body": "no way in hell could I work on my FPGA projects all day at work, and then go home and work on a personal FPGA project. dude just be glad if you can go home and work on ANY personal projects"
+      },
+      {
+        "id": "t1_n8vcv30",
+        "author": "Spalickus",
+        "score": 13,
+        "body": "What is this? I went to the website and it appears that there is a link to an arcade? Is there a specific game this is attached to or what? Hard to tel what the company sells/promotes."
+      },
+      {
+        "id": "t1_n8xpmbb",
+        "author": "Princess_Azula_",
+        "score": 10,
+        "body": "Some people are just built different, haha."
+      },
+      {
+        "id": "t1_n8vpz25",
+        "author": "Farther_father",
+        "score": 10,
+        "body": "No, that for a seller/addon designer. The MiSTer framework by Sorgelig is here:  https://github.com/mister-devel  along with the official MiSTer cores."
+      },
+      {
+        "id": "t1_n90d841",
+        "author": "hukt0nf0n1x",
+        "score": 4,
+        "body": "That's what OP is doing. Emulator is the hobby, OP is t going home and making more missiles. :)"
+      },
+      {
+        "id": "t1_n8x1to0",
+        "author": "ShadF0x",
+        "score": 4,
+        "body": "\"Cores\" are the name of actual emulators (in case of MiSTer - consoles' bitstreams) that run the games. Addons are external hardware that some consoles may require (like adapters for arcade sticks or light guns). LGR has good videos about FPGA gaming systems: https://youtu.be/CJBBfxX-E4c?si=Ebe45B-u1qdGHjN3 https://youtu.be/qx45r-BRHxY?si=huVRdQk24G2MYCia"
+      },
+      {
+        "id": "t1_n9byf9q",
+        "author": "",
+        "score": 3,
+        "body": "The \"can't tell you exactly what I work on\" club on Reddit is truly something special lol"
+      },
+      {
+        "id": "t1_n95pkov",
+        "author": "hukt0nf0n1x",
+        "score": 3,
+        "body": "Fair enough. OP must have one sweet garage workshop then. :)"
+      },
+      {
+        "id": "t1_n94ra28",
+        "author": "Disastrous_Being7746",
+        "score": 1,
+        "body": "OP's post could just to make it look like they are working on a project at home instead of stealing missile parts from work for production activities at home."
+      },
+      {
+        "id": "t1_n9m3vws",
+        "author": "timonix",
+        "score": 1,
+        "body": "I don't monetize my personal projects. There is no one except me that is interested in them. But I absolutely do FPGA design at work, then sit up at home until after midnight coding some personal FPGA project. Sometimes when work is interesting and I need a break from my personal projects I do work related stuff instead, just for fun. Except I guess I get paid. But that's besides the point"
+      },
+      {
+        "id": "t1_n8vixu8",
+        "author": "Spalickus",
+        "score": 1,
+        "body": "Hmm I might have to check that out. Is there a git repo associated with it too? Maybe this: https://github.com/misteraddons"
+      },
+      {
+        "id": "t1_n9vbgsy",
+        "author": "Hakawatha",
+        "score": 1,
+        "body": "Had a go on one yesterday. Thing's brilliant, works like a charm. Our intrepid PI picked one up and plugged it into the projector in the seminar room. The whole research group came down to slap each other around in Tekken."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1t1cyo6",
+    "subreddit": "FPGA",
+    "title": "What can I do with this thing?",
+    "score": 484,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1t1cyo6/what_can_i_do_with_this_thing/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_ojflqj0",
+        "author": "tux2603",
+        "score": 223,
+        "body": "Short answer: yes"
+      },
+      {
+        "id": "t1_ojg7ek9",
+        "author": "dacydergoth",
+        "score": 53,
+        "body": "It's a little cliched but a RISC-V core and SoC will teach you a lot about timing domains, propagation delays, what happens in simulation vs on real hardware ... and also cost you several SAN points. All part of the learning process!"
+      },
+      {
+        "id": "t1_ojfntsv",
+        "author": "kcpd_69",
+        "score": 33,
+        "body": "I'm currently working on Crypto Accelerator based on SHA - 256 Seeking guidance in the community where to start, right way in doing this project. Currently I'm in 2 months of summer vacation. need to utilize this time in building career."
+      },
+      {
+        "id": "t1_ojfm7uo",
+        "author": "kcpd_69",
+        "score": 29,
+        "body": "Appreciated."
+      },
+      {
+        "id": "t1_ojfzpz0",
+        "author": "SherbertQuirky3789",
+        "score": 12,
+        "body": "You can learn"
+      },
+      {
+        "id": "t1_ojgcbzv",
+        "author": "Mindless-Lion9569",
+        "score": 11,
+        "body": "If you have a Linux system and are familiar with Github and Python, then you could start by putting a LiteX SoC on there -- that gives you a RISCV core and provides software access to the peripherals. From there you can build your own hardware widgets to add to the SoC. LiteX supports Nexys 4 which is the predecessor of this board, so hopefully it will work out of the box (fingers crossed)."
+      },
+      {
+        "id": "t1_ojgbpap",
+        "author": "dacydergoth",
+        "score": 8,
+        "body": "Oh, yeah, image processing is also a good one!"
+      },
+      {
+        "id": "t1_ojg35d0",
+        "author": "rohitis",
+        "score": 8,
+        "body": "the best thing you can do is give it to me"
+      },
+      {
+        "id": "t1_ojg1k2o",
+        "author": "mi-gay-alt",
+        "score": 7,
+        "body": "Send it to me"
+      },
+      {
+        "id": "t1_ojglzj0",
+        "author": "epitomebrilliance007",
+        "score": 7,
+        "body": "Pick up the frank Bruno book (fpga handbook) and start learning , would be easier to follow it , they use that same board in the book"
+      },
+      {
+        "id": "t1_ojfzwgq",
+        "author": "kcpd_69",
+        "score": 6,
+        "body": "Sure!"
+      },
+      {
+        "id": "t1_ojgl12x",
+        "author": "noipv4",
+        "score": 6,
+        "body": "blink an led"
+      },
+      {
+        "id": "t1_ojgacr4",
+        "author": "kcpd_69",
+        "score": 5,
+        "body": "Great sight!"
+      },
+      {
+        "id": "t1_ojgx33b",
+        "author": "brucehoult",
+        "score": 5,
+        "body": "What can you do with 63,400 6 input look-up tables, lots of block RAM and flip-flops and ALUS, 128 MB RAM, and over 200 IO pins? Your imagination is the only limit, for a pretty long time. One of the most unimaginative is you can implement something equivalent to a 1st generation Pentium or PowerPC running at maybe around 60 MHz and run Linux on it."
+      },
+      {
+        "id": "t1_ojg5s55",
+        "author": "StudMuffinFinance",
+        "score": 4,
+        "body": "Waste a lot of time friend 🙂🤙🏼"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1shbhyv",
+    "subreddit": "FPGA",
+    "title": "Free access to FPGA's",
+    "score": 480,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1shbhyv/free_access_to_fpgas/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_ofbprsd",
+        "author": "Zealousideal_Ad_4825",
+        "score": 44,
+        "body": "Very cool! Thank you for doing a project for the community and sharing it. Aren’t you afraid someone will run anything very power intensive (like mining bitcoin) or burn the e-fuses of your FPGA for example? Especially the second point would render your development board useless. Here is an interesting article by the ccc regarding that topic: https://events.ccc.de/congress/2025/hub/en/event/detail/how-to-render-cloud-fpgas-useless As far as I know, Amazon has implemented algorithms to estimate if the bitstream of their customers for their cloud FPGAs ( https://www.amd.com/en/where-to-buy/accelerators/alveo/cloud-solutions/aws.html ) implement anything malicious. However reverse engineering bitstreams is very complex and probably not in scope for you. So I am very interested in the security measures you implemented to protect your FPGAs."
+      },
+      {
+        "id": "t1_ofc57ak",
+        "author": "k-phi",
+        "score": 27,
+        "body": "Very cool! Thank you for doing a project for the community and sharing it. Note: I am not the owner or maintainer of fpgas.online 🤔"
+      },
+      {
+        "id": "t1_ofccd29",
+        "author": "Minute_Juggernaut806",
+        "score": 26,
+        "body": "evil Jensen Huang: Cloud FPGA is the future of this field"
+      },
+      {
+        "id": "t1_ofbo2jp",
+        "author": "Trivikrama_0",
+        "score": 11,
+        "body": "Are you paying for the power consumption? Boards fine, seems these are small boards, less power consumption, still very generous of you. Well done.."
+      },
+      {
+        "id": "t1_ofe6650",
+        "author": "Ill_Huckleberry_2079",
+        "score": 8,
+        "body": "Yup, the maintainer is paying for everything. There isn't a catch here apart from there being a limited number of boards."
+      },
+      {
+        "id": "t1_ofcnjzl",
+        "author": "mithro",
+        "score": 7,
+        "body": "Don't use expensive FPGAs :-)"
+      },
+      {
+        "id": "t1_ofm3gza",
+        "author": "Nice_Distribution769",
+        "score": 5,
+        "body": "I made that :) Abuse is a concern, but a higher priority is enabling people to experiment and avoiding abuse probably make it harder to play around. Also we don't care enough to bother. https://wiki.pumpingstationone.org hackerspace hosts the equipment (power and network) Tim 'mithro' Ansell of wafer.space paid for it and encouraged me to build it."
+      },
+      {
+        "id": "t1_ofbmzp0",
+        "author": "Fantastic_Brain5274",
+        "score": 4,
+        "body": "Super awesome project!! I’ll check it out :)"
+      },
+      {
+        "id": "t1_ofbh72u",
+        "author": "raysar",
+        "score": 3,
+        "body": "Cool !"
+      },
+      {
+        "id": "t1_ofcs4j3",
+        "author": "HumbleSprinkles6423",
+        "score": 3,
+        "body": "Damn ! Will try after semester exams"
+      },
+      {
+        "id": "t1_ofgpcom",
+        "author": "Zealousideal_Ad_4825",
+        "score": 1,
+        "body": "Hmm, I have either not seen this note beforehand or it was added in later… Thank you though!"
+      },
+      {
+        "id": "t1_ofolrsf",
+        "author": "mithro",
+        "score": 1,
+        "body": "The second site is hosted in a shed at my home in Australia. I mentioned the setup in my talk at Down Underflow , presentation is @ https://wafer.space/du26 - see slides 48 and onward."
+      },
+      {
+        "id": "t1_og3ixzj",
+        "author": "ScallionSmooth5925",
+        "score": 1,
+        "body": "I would have made the users upload the source code and then I would look for instanceiaton of the e-fuse controller and other things that could brick the board to make it more difficult to ruin. It only takes 1 retard to ruin it for everyone "
+      },
+      {
+        "id": "t1_ofikqon",
+        "author": "glordicus1",
+        "score": 1,
+        "body": "I can transform into an FPGA by first becoming the internet then an RPi?"
+      },
+      {
+        "id": "t1_ofow48y",
+        "author": "Ill_Huckleberry_2079",
+        "score": 1,
+        "body": "it was funny"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1t5f48u",
+    "subreddit": "FPGA",
+    "title": "Gift your loved ones a Xilinx Alveo U250",
+    "score": 479,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1t5f48u/gift_your_loved_ones_a_xilinx_alveo_u250/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_ok9lm0f",
+        "author": "No-Leather-9618",
+        "score": 41,
+        "body": "Anything like or above Basys3 will do for me😭"
+      },
+      {
+        "id": "t1_ok9i0u1",
+        "author": "quettametre",
+        "score": 22,
+        "body": "IMHO, I would myself want a AMD VCK5000 Versal™ which seems to be more powerful (though more expensive). Nevertheless, I'd be extremely happy with just having just any FPGA board including Xilinx Alveo U250 and Xilinx Arty Aa7 35T."
+      },
+      {
+        "id": "t1_ok9slo1",
+        "author": "Phator",
+        "score": 15,
+        "body": "Sent this to my FPGA colleague as inspiration for his upcoming date, he answered “Alveo V80 > Alveo U250, otherwise reject the application directly because low earner, if it does not eat 100 watts in the idle state it’s shit” lol"
+      },
+      {
+        "id": "t1_okabjyx",
+        "author": "quettametre",
+        "score": 10,
+        "body": "Imagine a hot girl giving you RTX 5090 Super as a valentine gift. Xilinx Alveo U250 is liked by many FPGA developers the same way RTX 5090 Super is liked by gamers."
+      },
+      {
+        "id": "t1_okakv7e",
+        "author": "Felkin",
+        "score": 6,
+        "body": "More modern version of this would be to offer a V80. Huge upgrade over the U250."
+      },
+      {
+        "id": "t1_ok9ivze",
+        "author": "Rudranand",
+        "score": 3,
+        "body": "And I would be happy with just any FPGA like a $10 EP2C5T144 Cyclone II FPGA board."
+      },
+      {
+        "id": "t1_oka966w",
+        "author": "Gerard_Mansoif67",
+        "score": 3,
+        "body": "we're getting them for free at my uni. A Max10 (de10 lite) for each student. payed by Intel / Altera themselves."
+      },
+      {
+        "id": "t1_okankix",
+        "author": "sdexca",
+        "score": 3,
+        "body": "damn good uni"
+      },
+      {
+        "id": "t1_okf5zs7",
+        "author": "quettametre",
+        "score": 2,
+        "body": "Here, an Arty A7 for you. 😉 Now what will I get in return? 😏"
+      },
+      {
+        "id": "t1_okaohsi",
+        "author": "Gerard_Mansoif67",
+        "score": 2,
+        "body": "That's a global program in France iirc. They're getting cheap boards for the pratical classes, at the condition them to the studends. And, btw, that's public uni."
+      },
+      {
+        "id": "t1_oke045p",
+        "author": "fullouterjoin",
+        "score": 2,
+        "body": "Sure go ahead and rub your wine, cheese and healthcare in our wounds."
+      },
+      {
+        "id": "t1_okaabhn",
+        "author": "getreked007",
+        "score": 1,
+        "body": "idk what this is , can someone explain?"
+      },
+      {
+        "id": "t1_okazubm",
+        "author": "WinProfessional4958",
+        "score": 1,
+        "body": "It's my birthday so I wouldn't mind one at all."
+      },
+      {
+        "id": "t1_oko9n2t",
+        "author": "General_Green_1499",
+        "score": 0,
+        "body": "Gowin gw2a-55"
+      },
+      {
+        "id": "t1_oke0o7w",
+        "author": "Gerard_Mansoif67",
+        "score": 0,
+        "body": "Well, we're paying for it... not directky."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1sys4sf",
+    "subreddit": "FPGA",
+    "title": "FPGA Developer Rarity",
+    "score": 457,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1sys4sf/fpga_developer_rarity/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_oiwfg6q",
+        "author": "quettametre",
+        "score": 276,
+        "body": "Both FPGA developers and FPGA clients are so rare that both have difficulty finding each other. It often results in FPGA developers doing non-FPGA jobs and FPGA clients ending up with non-FPGA solutions."
+      },
+      {
+        "id": "t1_oiwh235",
+        "author": "NumLocksmith",
+        "score": 200,
+        "body": "Since we are having fun with numbers: The global workforce is estimated to be 3.5 billion people. 0.002% of that is 70,000. This sub has 86,700 members. WHO OF YOU ARE NOT FPGA DEVS!!1!!1!!"
+      },
+      {
+        "id": "t1_oiwhqsi",
+        "author": "Pikris",
+        "score": 89,
+        "body": "I'm still doing my bachelor's 👉🏻👈🏻"
+      },
+      {
+        "id": "t1_oiwg00v",
+        "author": "SaltMaker23",
+        "score": 60,
+        "body": "Separating FPGA from chip design, electronics, telecom and embedded systems in general doesn't look fair. FPGA just like microcontrollers are one of the shared foundations of everything electronics when one designs a PCB for any given task. I'd say there are few specialized in FPGA devs but a large portion of people who can work/build a form of specialized electronics can definitely work with FPGA to a decent degree. They don't work daily on it but they can implement things on it to a decent degree just like I don't work daily on PCB not even monthly but I can design a PCB just fine up to some GHz usecases."
+      },
+      {
+        "id": "t1_oiwhjk4",
+        "author": "Rudranand",
+        "score": 53,
+        "body": "They are mostly non-FPGA people working in other areas like embedded systems, instrumentation, software, IT, etc, but are able to work with FPGA to a certain degree. Again, if we take engineering versatility into account then the statistics becomes a bit difficult."
+      },
+      {
+        "id": "t1_oiwtqeg",
+        "author": "aigenuinestupidity",
+        "score": 43,
+        "body": "graduate here, last thing ive done was standalone logic analyzer, image processing module with ota reconfiguration, combined with raspberry pi. i was having fun with image and memory related topics. i couldnt get internships, corona, i annoyed my profs as well, because this guy tried to enter all the labs to get experience and forced them open the labs causing them to take corona tests at an independent center daily before each lab. my nose was consistently red from all the poking, but i learnt a lot. now i do cad drawings for some mechanical engineering students, web design for two guys, backend development for one guy. i changed my major earlier, that gap doesnt make my cv appealing, no entry jobs during 18 months of job search, i dont think i will ever get to work in this sector, fml. but i will do keep messing with fpgas, i like it. rtl thinking stratches some itch in my head."
+      },
+      {
+        "id": "t1_oiwfyhz",
+        "author": "Rudranand",
+        "score": 26,
+        "body": "Well said. The world is like a large crowded place, and both FPGA developers and FPGA clients are lost people in such a place."
+      },
+      {
+        "id": "t1_oiwjxio",
+        "author": "Deadthones345",
+        "score": 26,
+        "body": "None, because OP is just posting AI slop and cringe memes around."
+      },
+      {
+        "id": "t1_oiwgcx7",
+        "author": "Byter128",
+        "score": 23,
+        "body": "Source?"
+      },
+      {
+        "id": "t1_oiwkdoc",
+        "author": "UmutIsRemix",
+        "score": 20,
+        "body": "I did my masters in computer engineering to get closer to hardware. Had VLSI and fpga development, passed with good marks and didn't understand SHIT. But I like reading stuff on this subreddit even though I do not understand SHIT. This is the only post I understood in a long while I guess lmao"
+      },
+      {
+        "id": "t1_oj0anxr",
+        "author": "Sabrewolf",
+        "score": 18,
+        "body": "Placr and Routr"
+      },
+      {
+        "id": "t1_oiws4ql",
+        "author": "JuculianD",
+        "score": 13,
+        "body": "You described me."
+      },
+      {
+        "id": "t1_oiwgfyi",
+        "author": "No_Mongoose6172",
+        "score": 11,
+        "body": "Overspecialization is a common problem nowadays. I've seen many companies trying to hire experts for really basic developments"
+      },
+      {
+        "id": "t1_oix9bp6",
+        "author": "adamt99",
+        "score": 10,
+        "body": "There are so few FPGA engineers in the world. I think the UK has circa 2000. The interesting thing to consider is the distribution of capability and skill of those engineers is also likely a bell curve. It is hard to find really good FPGA engineers."
+      },
+      {
+        "id": "t1_oiwr9ll",
+        "author": "quettametre",
+        "score": 9,
+        "body": "On the plus side, we are relatively more difficult to replace with AI since there is not so much data on FPGA related tasks."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rsk5v7",
+    "subreddit": "FPGA",
+    "title": "Shoutout to the verification bois",
+    "score": 455,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1rsk5v7/shoutout_to_the_verification_bois/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_oa7d320",
+        "author": "your_dark",
+        "score": 67,
+        "body": "more like 12ns"
+      },
+      {
+        "id": "t1_oa7f6de",
+        "author": "jacklsw",
+        "score": 45,
+        "body": "That’s why FPGA is here to help them to emulate"
+      },
+      {
+        "id": "t1_oa7q08e",
+        "author": "cookiedanslesac",
+        "score": 32,
+        "body": "And 11ms are just clock cycles under reset."
+      },
+      {
+        "id": "t1_oa7vxy3",
+        "author": "makeItSoAlready",
+        "score": 20,
+        "body": "Large designs"
+      },
+      {
+        "id": "t1_oa81o3a",
+        "author": "ComradeMorgoth",
+        "score": 19,
+        "body": "Now simulate an RF chip"
+      },
+      {
+        "id": "t1_oaaeae0",
+        "author": "DL_Outcast",
+        "score": 13,
+        "body": "Simulation can be very slow, the bigger the design the slower your sims will run. Realistically, some designs can take a week to simulate a design for 1 second, but I have seen longer."
+      },
+      {
+        "id": "t1_oa88v8n",
+        "author": "makeItSoAlready",
+        "score": 7,
+        "body": "Yes we have different levels of coverage from the entire FPGA and down to smaller block level test benches. It helps immensely with delivering functional designs faster to simulate the bulk of the FPGA design. Depending how the hierarchy is you may simulate the full design just below the chip level I/O interfaces or you may simulate the entire chip including i/o interfaces. This also helps immensely with replicating hardware issues in the sim environment but it is way more critical for ASIC development of course because those are not reprogramable, you commit the design to custom silicon wafer In terms of how large the designs are it depends on how large the FPGA is. This is often larger than anything a person could afford for a hobby project FPGA."
+      },
+      {
+        "id": "t1_oadsee0",
+        "author": "AyatoTakema",
+        "score": 5,
+        "body": "does this justifiy a 192 core CPU and 6TB of ram?"
+      },
+      {
+        "id": "t1_oaaja0d",
+        "author": "Which-Difficulty271",
+        "score": 3,
+        "body": "FPGA program simulations can take a lot of time to be done. Even my college interface integration simulations would take half an hour or so to complete."
+      },
+      {
+        "id": "t1_oa8z0if",
+        "author": "therealpigman",
+        "score": 3,
+        "body": "In my case, I am working on making a whole SoC, so yes. Verification can take 2 weeks for us"
+      },
+      {
+        "id": "t1_oaa83sx",
+        "author": "Grocker42",
+        "score": 2,
+        "body": "Please explain iam really new to FPGAs"
+      },
+      {
+        "id": "t1_oaexlrr",
+        "author": "FingerSignificant268",
+        "score": 2,
+        "body": "I have a matched filter IP. I once tried to run the sim; 2 weeks passed and nothing. I never tried beyond 2 weeks; who knows what lies beyond it."
+      },
+      {
+        "id": "t1_oa8b75l",
+        "author": "tux2603",
+        "score": 2,
+        "body": "Haha I wish. Proper simulation and verification of large designs takes ages. 400,000 hours is a little bit of an exaggeration, but if an industry professional told me that their verification flow took over a day to run I wouldn't bat an eye"
+      },
+      {
+        "id": "t1_oa8xg7i",
+        "author": "M44PolishMosin",
+        "score": 2,
+        "body": "I mean clearly 45 years is a bit of an exaggeration"
+      },
+      {
+        "id": "t1_oa89a12",
+        "author": "toastedpaniala89",
+        "score": 1,
+        "body": "So what takes so much time? Normal testbenches or random constraint verification or formal verification? I have only played with testbenches till now and trying to learn UVM."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1opbzah",
+    "subreddit": "FPGA",
+    "title": "The evolution of the Altera brand [1983-2025]",
+    "score": 432,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1opbzah/the_evolution_of_the_altera_brand_19832025/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_nnameqt",
+        "author": "Illustrious-Tooth702",
+        "score": 104,
+        "body": "I'm glad Intel chose to bring back the original name. Until it's 2015 acquisition, Altera was a household mane. Of course, Intel had to rename it but in the fpga world, the brand name Altera is more recognisable."
+      },
+      {
+        "id": "t1_nnamrss",
+        "author": "crclayton",
+        "score": 66,
+        "body": "You're an important 2% off. Intel owns 49% , that's why Altera is treated as independent now and dropped the \"an Intel company\" and little blue accent from the logo."
+      },
+      {
+        "id": "t1_nnam88g",
+        "author": "Jensthename1",
+        "score": 31,
+        "body": "Doesn’t Intel still own 51% stake in altera? I believe they didn’t completely sell off there FPGA takeover"
+      },
+      {
+        "id": "t1_nnay7o6",
+        "author": "zeroed_bytes",
+        "score": 30,
+        "body": "When intel bought part of the company I was hoping for the license cost to drop like Xilinx and AMD … how naive I was "
+      },
+      {
+        "id": "t1_nnci2wt",
+        "author": "ByteArrayInputStream",
+        "score": 26,
+        "body": "The only way to feel when private equity owns something you like is bad"
+      },
+      {
+        "id": "t1_nnc5tls",
+        "author": "Affectionate-Mango19",
+        "score": 25,
+        "body": "Now it's 51% owned by some private-equity asset-management corporation (Silver Lake Group). I don't really know how to feel about that tbh........."
+      },
+      {
+        "id": "t1_nnbntqp",
+        "author": "6pussydestroyer9mlg",
+        "score": 16,
+        "body": "Had a teacher make slides on how Altera is Intel so if we find old documentation we knew it was them and that Xilinx is part of AMD but never took the name. By next year it was switched around."
+      },
+      {
+        "id": "t1_nnfvev5",
+        "author": "remillard",
+        "score": 10,
+        "body": "At my previous job which was more of an Altera house, we always called them Altera, unless we were discussing purchasing, then it was \"Intel\"."
+      },
+      {
+        "id": "t1_nnapsys",
+        "author": "maredsous10",
+        "score": 7,
+        "body": "Money spent redesigning the logo."
+      },
+      {
+        "id": "t1_nnhxthd",
+        "author": "Historyofspaceflight",
+        "score": 5,
+        "body": "Just like Gucci, it was also a household mane"
+      },
+      {
+        "id": "t1_nnbuzqu",
+        "author": "TrueCascade",
+        "score": 4,
+        "body": "I thought this was r/subnautica and was so confused 😭"
+      },
+      {
+        "id": "t1_nnddzjk",
+        "author": "spinlocked",
+        "score": 4,
+        "body": "Only in a ceramic DIP with a UV window :-P"
+      },
+      {
+        "id": "t1_nnc5zlm",
+        "author": "Affectionate-Mango19",
+        "score": 3,
+        "body": "Is there something named \"Altera\" in Subnautica?"
+      },
+      {
+        "id": "t1_nndlfum",
+        "author": "mattm220",
+        "score": 3,
+        "body": "It’s spelled differently though. Alterra, as in Terra: Earth"
+      },
+      {
+        "id": "t1_nndftg5",
+        "author": "TrueCascade",
+        "score": 2,
+        "body": "Yea the secondary antagonist, a galactic corporation that does mega corporation stuff"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1pujoyl",
+    "subreddit": "FPGA",
+    "title": "Made my own FPGA board - FirePi one",
+    "score": 429,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1pujoyl/made_my_own_fpga_board_firepi_one/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_nvp41tx",
+        "author": "keyaan_07",
+        "score": 30,
+        "body": "Sick Project!!"
+      },
+      {
+        "id": "t1_nvpe1oy",
+        "author": "electrodyssey",
+        "score": 14,
+        "body": "Congratulations! The best way to learn FPGA's is to make your own devkit!"
+      },
+      {
+        "id": "t1_nvqrfmm",
+        "author": "SirensToGo",
+        "score": 8,
+        "body": "maybe a silly question, but why did you opt for the ICE40UP5K? There are other non-BGA FPGAs which are similarly cheap but much larger like the LIFCL-17 and LIFCL-40 which have 3-8x the number of LUTs and way more RAM (~4x-12x at least in terms of EBRs). I ask because I see hobbyist boards using the ICE40UP5K all the time but I never could quite figure out why they used this particular part."
+      },
+      {
+        "id": "t1_nvpe2k0",
+        "author": "haikusbot",
+        "score": 6,
+        "body": "Congratulations! The Best way to learn FPGA's is To make your own devkit! - electrodyssey I detect haikus. And sometimes, successfully. Learn more about me. Opt out of replies: \"haikusbot opt out\" | Delete my comment: \"haikusbot delete\""
+      },
+      {
+        "id": "t1_nvt2l97",
+        "author": "West-Way-All-The-Way",
+        "score": 6,
+        "body": "It's a valid question, or couple or questions to be precise, I thought the same and looked at the datasheet. At 5k LUTs and hard IPs like i2c, spi and pwm it's not bad. It could be bigger but it has a small pincount so limited anyways. If I had access to those chips I would use them too. 5k LUTs is enough to implement many things, those classic retro PCs can benefit a lot from such device. About the bga package I also don't understand it, the qfn has more pins and it's easier to solder, I would take the qfn because 39 IOs is very well matching a 40 pin IC, so you can replace many of the old ICs in 40 or 48 pins package. Ok, the qfn is 3x the size, but the PCB area is perhaps not the issue. Edit: just downloaded the project and figured out that he used the qfn48 variant. Make sense as I wrote because of the higher pincount and it's easier to solder."
+      },
+      {
+        "id": "t1_nvw57xd",
+        "author": "Smartlinuxcoder",
+        "score": 4,
+        "body": "Totally fair question! I just used the ICE40 because I saw it in a lot of boards and was just a step below the ECP5. I also used the JLCPCB PCBA service and it was the biggest LUT count ice40 I found (and not too expensive)."
+      },
+      {
+        "id": "t1_nvp4c7x",
+        "author": "Smartlinuxcoder",
+        "score": 3,
+        "body": "Woah thanks for the nice comment. I saw your board, insane work 🔥"
+      },
+      {
+        "id": "t1_nvrzb6q",
+        "author": "hangninfchage",
+        "score": 3,
+        "body": "Nice board! Have you tested out any HDL with the SD card and USB port yet?"
+      },
+      {
+        "id": "t1_nvp4se0",
+        "author": "Smartlinuxcoder",
+        "score": 2,
+        "body": "It's my second ever PCB, and I didn't really feel like routing a BGA chip, though my next board will house an ECP5 25k :) To be fair, I could have made it a lot smaller"
+      },
+      {
+        "id": "t1_nvp5jwo",
+        "author": "keyaan_07",
+        "score": 2,
+        "body": "Ohh I see. ECP5 is way cooler and more powerful than the ice40 series!"
+      },
+      {
+        "id": "t1_nvxv4v9",
+        "author": "WillisBlackburn",
+        "score": 2,
+        "body": "I had look at your design, and I have some feedback. You've tied the VBUS pins of the two USB-C ports together. I think your idea is to enable the board to be powered from either port, but the problem is that as soon as you apply power to one port, the other port now becomes a power source . If you plug devices into both ports, the device that is supplying slightly higher voltage will try to push power into the other device. What you should do is run the VBUS lines through \"ideal diode\" ICs (like a regular diode but no voltage drop) or into a power mux IC like the TPS2121. That will stop power from flowing from one port to the other."
+      },
+      {
+        "id": "t1_nvw3yfl",
+        "author": "Smartlinuxcoder",
+        "score": 2,
+        "body": "I used the PCBA service from JLCPCB, they soldered everything in their fab"
+      },
+      {
+        "id": "t1_nvp4k5o",
+        "author": "keyaan_07",
+        "score": 1,
+        "body": "Thanks! I see there's a lot of space, so why did you not use a bigger FPGA?"
+      },
+      {
+        "id": "t1_nvsenkd",
+        "author": "Available-Law-458",
+        "score": 1,
+        "body": "Nice job! We have also made a few boards and actually designed the FPGA Chips on our own with FABulous. We are currently working on a RISC-V SoC with eFPGA; and if everything works out, we may make those chips available in smaller quantities one day..."
+      },
+      {
+        "id": "t1_nvw4asu",
+        "author": "Smartlinuxcoder",
+        "score": 1,
+        "body": "Haven't been able to test the SD card nor the FPGA USB, do you suggest some already existing designs I can use?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qd3euf",
+    "subreddit": "FPGA",
+    "title": "Display GIF on Basys3 using RISC-V",
+    "score": 390,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1qd3euf/display_gif_on_basys3_using_riscv/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_nzmyfnt",
+        "author": "spaarki",
+        "score": 26,
+        "body": "Nice work!!!"
+      },
+      {
+        "id": "t1_nzn21pc",
+        "author": "seeknfate",
+        "score": 16,
+        "body": "This is so cool, I’m also playing with the Basys3 and doing some projects. Congrats!!"
+      },
+      {
+        "id": "t1_nzmz4sv",
+        "author": "nonFungibleHuman",
+        "score": 9,
+        "body": "Thank you!"
+      },
+      {
+        "id": "t1_nzourly",
+        "author": "EnthusiasmWild9897",
+        "score": 8,
+        "body": "Great use of free will"
+      },
+      {
+        "id": "t1_nznl6ig",
+        "author": "M4ttingt0n",
+        "score": 6,
+        "body": "Love the choice GiF!"
+      },
+      {
+        "id": "t1_nzp07pv",
+        "author": "remishnok",
+        "score": 4,
+        "body": "nbm. I just realized you posted a github link"
+      },
+      {
+        "id": "t1_nzrvrwc",
+        "author": "nonFungibleHuman",
+        "score": 2,
+        "body": "This Gif is legendary."
+      },
+      {
+        "id": "t1_nznv5pb",
+        "author": "NoContextUser88",
+        "score": 2,
+        "body": "Cooooooooolllll !"
+      },
+      {
+        "id": "t1_nzoqqr6",
+        "author": "remishnok",
+        "score": 2,
+        "body": "How did you put risc v in it?"
+      },
+      {
+        "id": "t1_nzpcnq4",
+        "author": "zombie-polar-bear",
+        "score": 2,
+        "body": "Great job, amazing project"
+      },
+      {
+        "id": "t1_nzozxu6",
+        "author": "nonFungibleHuman",
+        "score": 1,
+        "body": "You can build a risc v on an fpga."
+      },
+      {
+        "id": "t1_o4xl0uj",
+        "author": "",
+        "score": 1,
+        "body": "Hey bro love it but how to master the FPGA stuff around it ass you made can you please tell the path"
+      },
+      {
+        "id": "t1_nzp00og",
+        "author": "remishnok",
+        "score": 0,
+        "body": "I am aware. I asked how"
+      },
+      {
+        "id": "t1_o4yjdhv",
+        "author": "nonFungibleHuman",
+        "score": 0,
+        "body": "Buy a xilinx board and start with the basics."
+      },
+      {
+        "id": "t1_o4yrhzf",
+        "author": "",
+        "score": 0,
+        "body": "Okay brother"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1n739hb",
+    "subreddit": "FPGA",
+    "title": "I've just got my first development board too!",
+    "score": 369,
+    "permalink": "https://old.reddit.com/r/FPGA/comments/1n739hb/ive_just_got_my_first_development_board_too/",
+    "selftext": "A subreddit for programmable hardware , including topics such as: FPGAs CPLDs Verilog VHDL Discord Server: https://discord.gg/k5F6rMr Related subreddits: General Electrical and Computer Engineering discussion /r/ECE General electronics discussion /r/electronics/ Electronics help / discussion /r/AskElectronics /r/electronic_circuits Discussion on (hardware) chip design /r/chipdesign Other FPGA related subreddits: /r/fpgagaming Links to tools to get started: Xilinx Vivado Altera Quartus Project Icestorm Meme posts allowed on Fridays ONLY. Please make sure to flair.",
+    "comments": [
+      {
+        "id": "t1_nc592y7",
+        "author": "TinLethax",
+        "score": 26,
+        "body": "That looks like new generation Iranian quantum computer xD"
+      },
+      {
+        "id": "t1_nc4vco8",
+        "author": "Rude-Carob9601",
+        "score": 13,
+        "body": "If you focused on RISC-V, you should not touch SOC FPGAs, even MPSOCs. It will be a complicated and precipitous way to learn. The Arty-A7 or Basys3 is more satisfying for you. Note: There are many fancy boards nowadays, but there are usually lacking documents or examples around those boards, like fast fashion. Digilent and Avnet are old and famous companies, their products are focused on education. I only recommended those boards to get started."
+      },
+      {
+        "id": "t1_nc4tbio",
+        "author": "zeroed_bytes",
+        "score": 10,
+        "body": "Hey Congrats / Felicidades! Do you have experience with verilog, vhld or other hdl language?  While Vivado has its own RISC-V softcore, and you can find several more in GitHub and similar  I think is a great goal to implement your very own RISC-V compatible , to have a reachable goal is very important for learning!  At least here in Chile is also possible to find fpga development boards in Alixpress , some of them are bootleg , but the real ones are well documented! I remember my very first project was to make a PowerPC Book E compatible processor, then compile a simple hello world program and run it on the device  I hope you can reach your goals and overcome the frustrations inherent to the process And thanks for sharing the pictures and information "
+      },
+      {
+        "id": "t1_nc6wz74",
+        "author": "CwColdwell",
+        "score": 5,
+        "body": "RealDigital is a company focused on education"
+      },
+      {
+        "id": "t1_ncakj8f",
+        "author": "Epoint",
+        "score": 4,
+        "body": "Not only that, Clint Cole founded RealDigital after NI bought him out of Digilent."
+      },
+      {
+        "id": "t1_nc5lmp6",
+        "author": "amplifiermaster",
+        "score": 3,
+        "body": "See the pinned post in this sub for new learners, it's all sorts of material that you can learn from."
+      },
+      {
+        "id": "t1_nc5f9ac",
+        "author": "AdamSh101101",
+        "score": 2,
+        "body": "Great start, May I ask which books have you ordered? I'm interested Good luck with your learning process"
+      },
+      {
+        "id": "t1_ncbv38x",
+        "author": "Rude-Carob9601",
+        "score": 1,
+        "body": "If you used a SOC or MPSOCs, you should have the better pure-FPGA experiences in the past. Without those experiences, you don't know how to debug the PS or PL side, even which side get errors, and then suffer a lot. In the OP caes, RISC-V softcore is better to implement on a pure-FPGA."
+      },
+      {
+        "id": "t1_nc549dl",
+        "author": "tef70",
+        "score": 1,
+        "body": "Cool ! With this one you can learn a lot !! And remember when learning by yourself the best solution is to implement things while having fun, if you force yourself to implement things because you think you should have to, it's the best way to get discouraged for FPGA design !"
+      },
+      {
+        "id": "t1_ngy8do0",
+        "author": "Fair-Plankton4729",
+        "score": 1,
+        "body": "这块板子没有PL端的DDR，这将是一个巨大的遗憾，我强烈推荐你先学习PL 端的MIG IP核，这将对你实现高带宽的设计十分的有帮助"
+      },
+      {
+        "id": "t1_nc9m8h8",
+        "author": "Jacob_Random",
+        "score": 0,
+        "body": "Could you elaborate why you wouldn’t recommend choosing a SOC or MPSoC? I’m curious to what would be a reason. I want to break into FPGA at some point and I was looking into getting a SoC so I can also make some FPGA-Embedded Linux interfacing. I also want to try to make a simple core at some point and never thought it would be an issue on a SoC."
+      },
+      {
+        "id": "t1_nc53rpn",
+        "author": "unrealfeedz",
+        "score": 0,
+        "body": "out of curiosity is the 8gb worth for 30$? As I understand a 4gb increase shouldn't be that expensive"
+      },
+      {
+        "id": "t1_nfub763",
+        "author": "PurPlau9625",
+        "score": 0,
+        "body": "How much do you think DDR4 is?"
+      },
+      {
+        "id": "t1_nc5hpdo",
+        "author": "Alive_Cloud1305",
+        "score": 0,
+        "body": "Congrats man, best of luck I am myself also starting to work with FPGAs What books did you order??? Can you also suggest me some beginner roadmap or books?"
+      },
+      {
+        "id": "t1_nc8hcun",
+        "author": "Moonshyne_1017",
+        "score": 0,
+        "body": "Hey I have a few questions about the AUP program…would it be cool to dm?"
+      }
+    ]
+  }
+]

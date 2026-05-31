@@ -1,0 +1,2902 @@
+[
+  {
+    "post_id": "t3_1ljvjh3",
+    "subreddit": "leetcode",
+    "title": "Got dumped by GF of 4 years but got a Meta offer today",
+    "score": 4477,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1ljvjh3/got_dumped_by_gf_of_4_years_but_got_a_meta_offer/",
+    "selftext": "I’m sitting here sipping on a gin and tonic reflecting on the last 5 months and I really couldn’t feel more fulfilled. I know a lot of ppl hate nowadays on “tech bro’s” who make grinding leetcode their life for the *chance* of cracking FAANG but the offer from Meta came through this afternoon and I literally cried real tears of relief/joy (not really sure what they were). It's been a really rough 6 months since going through the breakup with my girlfriend of 4 years and I don’t really have anyone to share this with so sharing it here instead. To make a long story short - my girlfriend and I met in college at a well known school in Illinois, we graduated together, lived together for 4 years, both got entry (low-paying) jobs around Chicago and after 3 years she decided she’d had enough. Citing my lack of ambition and dissimilar life goals to hers, but I suspect it was more like I wasn’t immediately able to provide the lifestyle she wanted which is fair. It was after she moved out that I started exploring the possibility of leaving Chicago and trying to get a job in one of the big tech hubs, I was targeting Seattle or the Bay Area. I reached out to some of my friends from college, one at Amazon and one at Meta and managed to get referrals and then initial calls at both companies. That’s when I seriously locked in. I couldn’t stand being in this empty apartment that I could no longer afford and really needed one of these 2 to work out. My job is 3 days a week in the office and on those 2 remote days for the last 6 months (as well as weekends) I basically did nothing other than interview prep. 5+ leetcode questions, scouring these subreddits as well as blind basically every day looking for insight into the interview processes, and watching every mock system design interview I could find on youtube. My leetcode profile shows 350 questions solved which is nothing compared to some ppl on this sub but I really took the time with each one to understand it",
+    "comments": [
+      {
+        "id": "t1_mzn1igd",
+        "author": "tcpWalker",
+        "score": 433,
+        "body": "Congrats! Careful of lifestyle creep, save while the saving is good!"
+      },
+      {
+        "id": "t1_mzmzezm",
+        "author": "Dapper_Antelope_1383",
+        "score": 424,
+        "body": "indian version of thukrake mera pyaar"
+      },
+      {
+        "id": "t1_mzn1t4u",
+        "author": "Atorpidguy",
+        "score": 270,
+        "body": "yeah, you’re living it"
+      },
+      {
+        "id": "t1_mzmzew7",
+        "author": "AdOk4976",
+        "score": 126,
+        "body": "Congrats on persevering man"
+      },
+      {
+        "id": "t1_mzmzr9y",
+        "author": "Disastrous-Bee7765",
+        "score": 116,
+        "body": "lol is there a non indian version?"
+      },
+      {
+        "id": "t1_mzn2tox",
+        "author": "Disastrous-Bee7765",
+        "score": 91,
+        "body": "A couple more gin and tonics and I might be sending the \"u up\" text"
+      },
+      {
+        "id": "t1_mzn2lhy",
+        "author": "CodingWithMinmer",
+        "score": 75,
+        "body": "Congratulations OP! I admire your perseverance. For those who are wondering, the \"Number of Stickers\" variant is one where you have to return the number of stickers to create a poster (context of the problem could differ slightly). The thing that makes it easier is that you only have a single sticker, and you can use as many quantities as you can. sticker = \"froog\", poster = \"frooooogg\" Answer = 3 Hopin' everyone else's study prep goes well! EDIT: here's my solution to it (should clear up any questions. And no, you cannot use partial stickers): https://github.com/CodingWithMinmer/CodingWithMinmer/tree/main/Unknowns/4_stickers"
+      },
+      {
+        "id": "t1_mzn621u",
+        "author": "Altruistic_Road2021",
+        "score": 70,
+        "body": "Congratulations bro, I Failed in Step1: don't even have a GF 😭."
+      },
+      {
+        "id": "t1_mzn2ys9",
+        "author": "OshemUllah",
+        "score": 69,
+        "body": "Just don’t stoop to the “you don’t have to reply to this” text and you’ll be good. 😂"
+      },
+      {
+        "id": "t1_mzn0kt7",
+        "author": "OshemUllah",
+        "score": 66,
+        "body": "Congrats bro. Don’t let her come back now that you’re up."
+      },
+      {
+        "id": "t1_mzn545o",
+        "author": "burnthetoasteveryday",
+        "score": 64,
+        "body": "DONT DO IT - seriously, enjoy your victory and shoot that text to someone else"
+      },
+      {
+        "id": "t1_mzn0tvf",
+        "author": "Junior_Salamander411",
+        "score": 38,
+        "body": "Congratulations Man, This is so great to hear that you made it. I'm currenrly going through same phase of yours. Got dumped by her of 3 yrs relation for no reason. I'm focussing on job switch to some good PBC. Man, can you briefly say how long it took for you to master DSA. Do you have full grip on DSA since clg or you started learning while doing job? And also how many YOE you have."
+      },
+      {
+        "id": "t1_mzn47xf",
+        "author": "Disastrous-Bee7765",
+        "score": 36,
+        "body": "Hey I've seen your videos! Yes this was the exact variation lol but it was \"faceboook\" and \"faceeeeeebooook\" or something The onsite coding tree problem was this one btw - https://leetcode.com/problems/maximum-depth-of-binary-tree/description/ I fking hate this question because it says easy but its not easy lol"
+      },
+      {
+        "id": "t1_mznhqbh",
+        "author": "",
+        "score": 31,
+        "body": "isnt thukrake mera pyaar the indian version?"
+      },
+      {
+        "id": "t1_mzn61hu",
+        "author": "Real-viperz",
+        "score": 27,
+        "body": "Your story is almost similar to this: https://www.reddit.com/r/csMajors/comments/1infnih/got_dumped_after_graduation_by_my_prom_date_and/ Breakups are helping to crack FAANGs. Thats so powerful!"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1nrwgv8",
+    "subreddit": "leetcode",
+    "title": "it takes time",
+    "score": 3942,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1nrwgv8/it_takes_time/",
+    "selftext": "Practice takes time. Graduated few months back yet looking for a job. Done over 500 LC problems, still struggling. Failed multiple full-loop.",
+    "comments": [
+      {
+        "id": "t1_nghk2h5",
+        "author": "Aggravating_Dog_5516",
+        "score": 171,
+        "body": "Job Search = Time complexity of BFS algo"
+      },
+      {
+        "id": "t1_nghpxyt",
+        "author": "Silent-Treat-6512",
+        "score": 107,
+        "body": "Hang in there guys. It took me almost 10 months after 25 yoe to find a shitty job lol"
+      },
+      {
+        "id": "t1_nghnuqa",
+        "author": "legendGPU",
+        "score": 72,
+        "body": "When I get my first job, I will give taco party to everyone in this sub."
+      },
+      {
+        "id": "t1_nghm3t1",
+        "author": "legendGPU",
+        "score": 53,
+        "body": "It is more like time complexity of tower of hanoi problem"
+      },
+      {
+        "id": "t1_nghor9p",
+        "author": "Justkiddingapple",
+        "score": 52,
+        "body": "I swear leetcode is useless with the current job market, might as well get some certificates on the side"
+      },
+      {
+        "id": "t1_ngii7rz",
+        "author": "thommik",
+        "score": 33,
+        "body": "Tf did I read, 25?! Why tf even go through all those sleepless nights of studying right from school and even in our 50s."
+      },
+      {
+        "id": "t1_ngivf5z",
+        "author": "theofficialLlama",
+        "score": 32,
+        "body": "Every interview I’ve had recently still has a coding round with dsa. Don’t think it’s a waste of time yet."
+      },
+      {
+        "id": "t1_nghv6hh",
+        "author": "droid786",
+        "score": 27,
+        "body": "or just die on the side"
+      },
+      {
+        "id": "t1_ngiznxg",
+        "author": "ChinoGitano",
+        "score": 18,
+        "body": "20+ YOE. Haven’t found certs to matter, even though they are adjacent to my work experience (AWS/Azure). Leetcoding at least help you pass thru the initial automated coding assessments."
+      },
+      {
+        "id": "t1_nghn3bh",
+        "author": "legendGPU",
+        "score": 18,
+        "body": "Challenging steps in my situation: Getting interviews < Solving LC medium problems < Clearing interviews < Consistent daily practice"
+      },
+      {
+        "id": "t1_nghj2vu",
+        "author": "Apurva2",
+        "score": 16,
+        "body": "Job Search 😭"
+      },
+      {
+        "id": "t1_nght9f7",
+        "author": "captaindeadpool53",
+        "score": 15,
+        "body": "More like O(2 n )"
+      },
+      {
+        "id": "t1_ngihfw7",
+        "author": "Hitman_2k22",
+        "score": 10,
+        "body": "Func() { Return func() }"
+      },
+      {
+        "id": "t1_nghnhvd",
+        "author": "legendGPU",
+        "score": 9,
+        "body": "Only in theory, we can solve search problem quickly."
+      },
+      {
+        "id": "t1_ngi25hj",
+        "author": "Wiseoloak",
+        "score": 8,
+        "body": "Its a waste of time. Getting certs or learning software that companies use will get your jobs faster."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1p5yli6",
+    "subreddit": "leetcode",
+    "title": "Should I dump my girlfriend? I'm losing LC streak focus",
+    "score": 3439,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1p5yli6/should_i_dump_my_girlfriend_im_losing_lc_streak/",
+    "selftext": "I've been with my gf since mid Oct. You can clearly see a correlation in the LC submission chart, that I totally lost my consistency streak. I need to increase my TC, should I dump my gf and refocus? Please, advise brothers.",
+    "comments": [
+      {
+        "id": "t1_nqmk6ck",
+        "author": "Due_Essay447",
+        "score": 929,
+        "body": "Put her on PIP for now"
+      },
+      {
+        "id": "t1_nqmm0d7",
+        "author": "No-Bit5316",
+        "score": 274,
+        "body": "just do the leetcode at morning 04:30 am . She won't disturb you.Disturb her once you exhausted with solving problem."
+      },
+      {
+        "id": "t1_nqmluxl",
+        "author": "arjjov",
+        "score": 247,
+        "body": "Yes, I gotta stop pipe-ing her down and PIP her instead, Amazon style 🫡"
+      },
+      {
+        "id": "t1_nqmkxjr",
+        "author": "Dangerous-War-6572",
+        "score": 181,
+        "body": "Ragebait successful"
+      },
+      {
+        "id": "t1_nqmjz4s",
+        "author": "Dazzling_Tell_4404",
+        "score": 118,
+        "body": "Scrubbed clean. Redact helped me bulk remove years of comments and posts so data brokers and AI crawlers have nothing to feast on. chunky tidy flowery support dog titanium humorous workable command wine"
+      },
+      {
+        "id": "t1_nqmot10",
+        "author": "curlysue321",
+        "score": 98,
+        "body": "God help her 😭😭😭"
+      },
+      {
+        "id": "t1_nqmk8p9",
+        "author": "Reasonable_Pick1626",
+        "score": 96,
+        "body": "This is not the fault of anyone but yourself"
+      },
+      {
+        "id": "t1_nqml2mr",
+        "author": "arjjov",
+        "score": 94,
+        "body": "She's a lawyer. She's beautiful, too distracting. I'm cooked. I'll try to bag an engineer gf next time. Thanks for the advice."
+      },
+      {
+        "id": "t1_nqmuem8",
+        "author": "AdImpossible2524",
+        "score": 73,
+        "body": "Yes dump her and also post her contact info here"
+      },
+      {
+        "id": "t1_nqmmki1",
+        "author": "arjjov",
+        "score": 70,
+        "body": "Good advice. I'll try this and wake up earlier than usual. Thanks."
+      },
+      {
+        "id": "t1_nqna2yh",
+        "author": "sandm4n_RS",
+        "score": 60,
+        "body": "<image>"
+      },
+      {
+        "id": "t1_nqmxg97",
+        "author": "Curious_Car_9785",
+        "score": 59,
+        "body": "Alright, got the screenshot sending it to your lawyer gf...she's gonna sue ur ass"
+      },
+      {
+        "id": "t1_nqnfouo",
+        "author": "draumsyn",
+        "score": 34,
+        "body": "To wake up at 4:30 you need to sleep like an uncle by 10:30 as well. That means no nightouts or netflix and chilling at night. And that's impossible with a gf."
+      },
+      {
+        "id": "t1_nqmnhts",
+        "author": "restless_dreamerx",
+        "score": 30,
+        "body": "You should sort things out with your gf with O(n) time complexity"
+      },
+      {
+        "id": "t1_nqmlin8",
+        "author": "arjjov",
+        "score": 25,
+        "body": "I know. I know 😭 I gotta get my shit together"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1oodeh4",
+    "subreddit": "leetcode",
+    "title": "Can't escape",
+    "score": 3354,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1oodeh4/cant_escape/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_nn36iok",
+        "author": "jaibx",
+        "score": 184,
+        "body": "and they're in a circle"
+      },
+      {
+        "id": "t1_nn3abj1",
+        "author": "kingcong95",
+        "score": 64,
+        "body": "for i in range(len(house)): rob[i] = max(house[i] + rob[i - 2], rob[i - 1])"
+      },
+      {
+        "id": "t1_nn3ivco",
+        "author": "Satoshi_Kazuma",
+        "score": 42,
+        "body": "Yeah, just parallelly rob two paths and go back in time to pick one. Simple enough."
+      },
+      {
+        "id": "t1_nn3ftxe",
+        "author": "jason_graph",
+        "score": 24,
+        "body": "Just rob the houses over 2 nights. If the houses were connected as a planar graph rsther than a line would you be able to rob them all in O(1) days?"
+      },
+      {
+        "id": "t1_nn40iko",
+        "author": "SkyKoala",
+        "score": 21,
+        "body": "also multithreading is used (someone is also robbing the same street that night)"
+      },
+      {
+        "id": "t1_nn3k0z3",
+        "author": "In_The_Wild_",
+        "score": 8,
+        "body": "A repost of the top post"
+      },
+      {
+        "id": "t1_nn5ax0d",
+        "author": "TheGlobalMonarch",
+        "score": 8,
+        "body": "Bruh just use dynamic programming…oh shit we missed that yeah?"
+      },
+      {
+        "id": "t1_nn3ubqw",
+        "author": "",
+        "score": 6,
+        "body": "Don't worry, you will get 2 hints for solve this . And may able to crack all test cases"
+      },
+      {
+        "id": "t1_nn46u54",
+        "author": "mvndvr",
+        "score": 3,
+        "body": "Make that a tree"
+      },
+      {
+        "id": "t1_nn69ru4",
+        "author": "imLogical16",
+        "score": 2,
+        "body": "Use DP"
+      },
+      {
+        "id": "t1_nn3v1hh",
+        "author": "chusega_kyaa",
+        "score": 1,
+        "body": "I can get you through any leetcode style interview or OA. Feel free to hit me up"
+      },
+      {
+        "id": "t1_nn3m5l7",
+        "author": "Gold_Penalty8871",
+        "score": 0,
+        "body": "memoize"
+      },
+      {
+        "id": "t1_nn4pc3l",
+        "author": "Caeduin",
+        "score": 0,
+        "body": "The second is a man taking charge of his destiny and seizing the moment through expedient math. The first is a wagie snivelling after scraps. They are not the same dont tell me otherwise"
+      },
+      {
+        "id": "t1_nn6qd4f",
+        "author": "Azilebeth",
+        "score": 0,
+        "body": "Dont panic brother, just do dp"
+      },
+      {
+        "id": "t1_nn716qm",
+        "author": "Sad_mrud",
+        "score": 0,
+        "body": "the fact that i got the reference in a second tells me that i should touch grass"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mp0wkm",
+    "subreddit": "leetcode",
+    "title": "This is not fair",
+    "score": 3266,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1mp0wkm/this_is_not_fair/",
+    "selftext": "Black",
+    "comments": [
+      {
+        "id": "t1_n8g17f7",
+        "author": "stackOverfloater",
+        "score": 407,
+        "body": "21k test cases!!? Who is making these?"
+      },
+      {
+        "id": "t1_n8g3fbp",
+        "author": "faceless-joke",
+        "score": 390,
+        "body": "bro used an int variable instead of long"
+      },
+      {
+        "id": "t1_n8g28h0",
+        "author": "Global_Many4693",
+        "score": 376,
+        "body": "With all due respect wtf is this?.You solving all 3000 questions at once?"
+      },
+      {
+        "id": "t1_n8g3i4g",
+        "author": "Global_Many4693",
+        "score": 125,
+        "body": "I mean 21000 test cases is alot,feels like you sumup all the question and their test cases.Which question is that actually(i am begineer maybe thats why i feel those are alot of tc)"
+      },
+      {
+        "id": "t1_n8g64mt",
+        "author": "ManusArtifex",
+        "score": 111,
+        "body": "AI"
+      },
+      {
+        "id": "t1_n8gl2nr",
+        "author": "In_The_Wild_",
+        "score": 102,
+        "body": "You can a write a loop to generate the test cases for today's problem. For most problems you reverse engineer the solution and generate test cases."
+      },
+      {
+        "id": "t1_n8gjxn5",
+        "author": "samettinho",
+        "score": 68,
+        "body": "if input==failed_input: return expected_output"
+      },
+      {
+        "id": "t1_n8g3hzf",
+        "author": "Pleasant-Wear-9692",
+        "score": 52,
+        "body": "Problem of the day XD"
+      },
+      {
+        "id": "t1_n8g38gi",
+        "author": "",
+        "score": 46,
+        "body": "Why ???"
+      },
+      {
+        "id": "t1_n8g70ed",
+        "author": "achilliesFriend",
+        "score": 35,
+        "body": "So this happens daily? \\s"
+      },
+      {
+        "id": "t1_n8gb1zo",
+        "author": "DhruvKhanna_48",
+        "score": 33,
+        "body": "Fr😭"
+      },
+      {
+        "id": "t1_n8g8raa",
+        "author": "jim-jam-biscuit",
+        "score": 31,
+        "body": "https://leetcode.com/problems/power-of-three/?envType=daily-question&envId=2025-08-13 this is problm of the day . my attmpt class Solution { public:     bool isPowerOfThree(double n) {         if( n ==1 )         return true ;         else if ( n< 1)         return false ; // main gaurding logic or base condition         return isPowerOfThree( n/3.0);//3.0 nuance was very much needed instead of 3 beacue this would fetch us division value less than 1             } };"
+      },
+      {
+        "id": "t1_n8khk4c",
+        "author": "youarenut",
+        "score": 23,
+        "body": "did this at my job, manager was so impressed I got promoted to CTO"
+      },
+      {
+        "id": "t1_n8g2uw1",
+        "author": "DangerousCrime",
+        "score": 21,
+        "body": "Just return 0 bro 😂"
+      },
+      {
+        "id": "t1_n8g36ou",
+        "author": "",
+        "score": 19,
+        "body": "Nah just forgot to add+1 in python for loop"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ogxerj",
+    "subreddit": "leetcode",
+    "title": "Me during the interview pretending like I've never seen the question before",
+    "score": 3103,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1ogxerj/me_during_the_interview_pretending_like_ive_never/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_nlkabkl",
+        "author": "jason_graph",
+        "score": 459,
+        "body": "Wow. This applicant really hasnt seen 2 sum. What a noob."
+      },
+      {
+        "id": "t1_nljwfuu",
+        "author": "lradPumpac",
+        "score": 210,
+        "body": "Me on my MS interview (did the question the day before)"
+      },
+      {
+        "id": "t1_nljwz4n",
+        "author": "lradPumpac",
+        "score": 181,
+        "body": "It was for internship and yes I did. I did it again two years after, but for a FT, and once again I got the question I was practicing. Got the job lmao"
+      },
+      {
+        "id": "t1_nlkuv0m",
+        "author": "WompWompLooser",
+        "score": 100,
+        "body": "I don't have to pretend because I actually haven't seen it before"
+      },
+      {
+        "id": "t1_nllxgsr",
+        "author": "cooldudeachyut",
+        "score": 96,
+        "body": "Then the applicant proceeds to solve it optimally in 5 seconds after saying \"I can maybe use 2 pointers 🤔🫤\""
+      },
+      {
+        "id": "t1_nlk5p7x",
+        "author": "Jolly-Championship-6",
+        "score": 93,
+        "body": "You don’t have to pretend like you don’t know it, just don’t tell them that you know it. As in, don’t ever try to act dumb or that you’re struggling. Just go straight into it, explain the brute force solution and quickly implement it, and then quickly point out why it’s not efficient and then explain the efficient solution. It gives a great signal that you can communicate while working through a problem and that you understand the problem. After you show that, they won’t care whether you already studied the problem prior or not, they already got the signals they were looking for."
+      },
+      {
+        "id": "t1_nllyqhz",
+        "author": "jason_graph",
+        "score": 58,
+        "body": "Interviewer: \"Wow. This applicant just assumes the list is aleady sorted or thinks nested for loops is optimal.\""
+      },
+      {
+        "id": "t1_nlkc8gj",
+        "author": "lradPumpac",
+        "score": 39,
+        "body": "I would say that I am working (coding) around 5 hours a day on average. There are days where I dont do shit, but there are weeks where I am pulling my hair because of the deadlines."
+      },
+      {
+        "id": "t1_nlklglj",
+        "author": "lradPumpac",
+        "score": 34,
+        "body": "Copy list with random pointer lmao"
+      },
+      {
+        "id": "t1_nljwmob",
+        "author": "cartrman",
+        "score": 31,
+        "body": "Did u get the job?"
+      },
+      {
+        "id": "t1_nlk1le8",
+        "author": "zhou111",
+        "score": 26,
+        "body": "Don't say you know it but also don't waste too much time pretending to be stupid, saw some posts where that was a negative signal. I'd say spend time before answering discussing edge cases and constraints, then go straight to the optimal and focus on explaining it and why each decision is made."
+      },
+      {
+        "id": "t1_nlm23yk",
+        "author": "just-another-entity",
+        "score": 22,
+        "body": "Every time I have started my leetcode journey, i try this question first and i always feel clueless like I am solving it for the first time."
+      },
+      {
+        "id": "t1_nlki9b2",
+        "author": "Typical_Housing6606",
+        "score": 20,
+        "body": "Implement brute force is good if you know the optimal, or even not because atleast you got some code running and dry run it and it wastes time so you don't get asked more difficult questions as well. Then it will be good if you solve optimal after perfectly, but, if not and get most of the way there they will be happy with communicating of brute."
+      },
+      {
+        "id": "t1_nljx4g0",
+        "author": "cartrman",
+        "score": 18,
+        "body": "Congrats! 🥳"
+      },
+      {
+        "id": "t1_nlk75l2",
+        "author": "TeaAccomplished1604",
+        "score": 15,
+        "body": "Is it like on YouTube “a day of MS engineer” where she does 2 hour of job and the rest is chill/cafeteria/chill/cafeteria/home?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1r6fy5s",
+    "subreddit": "leetcode",
+    "title": "I honestly love leetcode more than actual software development atp",
+    "score": 3068,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1r6fy5s/i_honestly_love_leetcode_more_than_actual/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_o5pynbn",
+        "author": "throwaway098424",
+        "score": 186,
+        "body": "there’s nothing more satisfying than seeing a new problem and going “i know exactly how to do this!” and being correct"
+      },
+      {
+        "id": "t1_o5pvypb",
+        "author": "Old-Chipmunk-7073",
+        "score": 98,
+        "body": "I feel you, its like liking Maths and Physics (ideal world situations) but not engineering where the world gets ugly and out of your control."
+      },
+      {
+        "id": "t1_o5q63oo",
+        "author": "Puzzleheaded_Cow3298",
+        "score": 56,
+        "body": "<image>"
+      },
+      {
+        "id": "t1_o5pyctm",
+        "author": "askingaquestion33",
+        "score": 49,
+        "body": "I’m starting to get there… like what do you mean I have to work now? Can’t I just leet it up?"
+      },
+      {
+        "id": "t1_o5pzmil",
+        "author": "BeginningBlueberry97",
+        "score": 27,
+        "body": "So true"
+      },
+      {
+        "id": "t1_o5q1jb4",
+        "author": "BayonettaAriana",
+        "score": 26,
+        "body": "I need to get addicted to it lol, would help me SO much"
+      },
+      {
+        "id": "t1_o5q2ojj",
+        "author": "In_The_Wild_",
+        "score": 22,
+        "body": "The grind feels more real than the job."
+      },
+      {
+        "id": "t1_o5qeyv9",
+        "author": "Suspicious_Chain_101",
+        "score": 19,
+        "body": "I’ve been practicing LeetCode consistently, but I almost never come up with the solution on my own. Most of the time I either get stuck or end up reading the solution after struggling for a while. Any suggestions ?"
+      },
+      {
+        "id": "t1_o5qvsyi",
+        "author": "Max326",
+        "score": 17,
+        "body": "I have it absolutely the other way around. Solving engineering problems seems impossible at times, especially unsolved before problems. Once it works, you can ride the high for months. I still sometimes look back and can't believe it worked so well."
+      },
+      {
+        "id": "t1_o5rqd07",
+        "author": "No-Let-4732",
+        "score": 16,
+        "body": "Struggle is part of the journey just embrace it"
+      },
+      {
+        "id": "t1_o5s9qep",
+        "author": "shitnotalkforyours18",
+        "score": 11,
+        "body": "You got me."
+      },
+      {
+        "id": "t1_o5q4gmw",
+        "author": "Puzzleheaded_Cow3298",
+        "score": 11,
+        "body": "grind is the job."
+      },
+      {
+        "id": "t1_o5q5qbu",
+        "author": "manualenter",
+        "score": 8,
+        "body": "i hope I get more of this thread posts , not at all consistent with LC , really wanna gear it upp"
+      },
+      {
+        "id": "t1_o5q434p",
+        "author": "Puzzleheaded_Cow3298",
+        "score": 8,
+        "body": "Heck no. Why are there so many CF PR guys here? leetcode is love, leetcode is life. (pupil on CF btw >_< )"
+      },
+      {
+        "id": "t1_o5q4qyo",
+        "author": "Puzzleheaded_Cow3298",
+        "score": 6,
+        "body": "<image>"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qw5smq",
+    "subreddit": "leetcode",
+    "title": "I'm going to solve every LeetCode problem this year",
+    "score": 2583,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1qw5smq/im_going_to_solve_every_leetcode_problem_this_year/",
+    "selftext": "I'm going to do every Leetcode problem this year or I will do whatever the top comment says 🔥🔥 I've done 2895/3832 problems so that is 937 to go with 330 days left. But I estimate around 400 problems will be added this year from contests or other releases so maybe ~4 a day? Breakdown of questions left: -146 Easy -464 Medium -327 Hard 🙃 -282 Database problems (SQL queries, etc) -599 Algorithm problems -28 Javascript problems LET'S GET THIS!!!",
+    "comments": [
+      {
+        "id": "t1_o3mv2lt",
+        "author": "nullmage",
+        "score": 575,
+        "body": "It's John Leetcode"
+      },
+      {
+        "id": "t1_o3mvior",
+        "author": "OkShoulder2",
+        "score": 345,
+        "body": "I think most people on this subreddit hate leetcode and would never do this if it didn’t help them get a job. These comments confirm it."
+      },
+      {
+        "id": "t1_o3mw1er",
+        "author": "leetgoat_dot_io",
+        "score": 198,
+        "body": "I completely understand it though. It's almost never applicable to work. FWIW I think Leetcode is a terrible interview mechanism. I'm one of the few people who actually like doing it though... scratches an itch for me"
+      },
+      {
+        "id": "t1_o3ms5vj",
+        "author": "crispyfunky",
+        "score": 89,
+        "body": "Disgusting"
+      },
+      {
+        "id": "t1_o3n25ie",
+        "author": "Constant_Bit4676",
+        "score": 82,
+        "body": "With you on this. It’s a terrible judge of ability for work, but holy fuck do I ever love to do coding puzzles."
+      },
+      {
+        "id": "t1_o3mtg0s",
+        "author": "ToshDaBoss",
+        "score": 71,
+        "body": "Congratulations on building a skillset that will help you land a job! Now go learn some actual programming."
+      },
+      {
+        "id": "t1_o3mqnoc",
+        "author": "BobMunder",
+        "score": 64,
+        "body": "What’s your TC"
+      },
+      {
+        "id": "t1_o3mswwu",
+        "author": "leetgoat_dot_io",
+        "score": 56,
+        "body": "for the love of the game <3"
+      },
+      {
+        "id": "t1_o3n0qku",
+        "author": "Atorpidguy",
+        "score": 55,
+        "body": "if it’s not over a mil i’m losing my faith in CS"
+      },
+      {
+        "id": "t1_o3n9m22",
+        "author": "IcyMission3",
+        "score": 45,
+        "body": "Lore accurate MasterLeetcode, DP snipers on hard ain’t got nothing on him"
+      },
+      {
+        "id": "t1_o3njf0u",
+        "author": "leetgoat_dot_io",
+        "score": 41,
+        "body": "I learned from neetcode he’s a legend"
+      },
+      {
+        "id": "t1_o3mr61r",
+        "author": "leetgoat_dot_io",
+        "score": 38,
+        "body": "No just one language, when I said 28 Javascript questions it's because there's a dedicated \"Javascript\" section of Leetcode I use python for most problems since it is the fastest to code in. I sometimes use C++ if Python can't pass in time. All my old problems were in JS cause I was a webdev when I started"
+      },
+      {
+        "id": "t1_o3n3dng",
+        "author": "Constant_Bit4676",
+        "score": 37,
+        "body": "For me the threshold was just being good enough to actually solve medium level problems on my own. I also just really like puzzles. I do sudoku, crossword, and the daily leet code every morning while people talk in my standup about things that don’t apply to me."
+      },
+      {
+        "id": "t1_o3nipn7",
+        "author": "EnthusiasmWild9897",
+        "score": 33,
+        "body": "Neetcode is scared of you"
+      },
+      {
+        "id": "t1_o3n252y",
+        "author": "eightysixmonkeys",
+        "score": 30,
+        "body": "Is your name Claude"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ngj81x",
+    "subreddit": "leetcode",
+    "title": "I made an extension that shows elden ring themed banners for submission accepted and rejected",
+    "score": 2306,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1ngj81x/i_made_an_extension_that_shows_elden_ring_themed/",
+    "selftext": "Here's the repo - https://github.com/Indra55/Elden-ring-leetcode-extension There are instructions init how to load this",
+    "comments": [
+      {
+        "id": "t1_ne4eizd",
+        "author": "Unhappy_Rabbit7693",
+        "score": 327,
+        "body": "Just to get more dopamine and more depression?"
+      },
+      {
+        "id": "t1_ne4f116",
+        "author": "No-Lizards",
+        "score": 82,
+        "body": "I saw someone do this on twitter but with github pull requests/pushes, was that also you or were you inspired by them?"
+      },
+      {
+        "id": "t1_ne4f3pq",
+        "author": "galalei",
+        "score": 41,
+        "body": "Yess I was inspired by that post"
+      },
+      {
+        "id": "t1_ne4eoh7",
+        "author": "galalei",
+        "score": 37,
+        "body": "Haha true"
+      },
+      {
+        "id": "t1_ne4gghd",
+        "author": "galalei",
+        "score": 35,
+        "body": "No, it supports only chrome but I'll try to make one for Firefox as well bcs I also use Firefox on my ubuntu"
+      },
+      {
+        "id": "t1_ne4jox0",
+        "author": "Educational-Heart869",
+        "score": 30,
+        "body": "Enough trauma man, let me be"
+      },
+      {
+        "id": "t1_ne4govh",
+        "author": "Fun_Pie_5499",
+        "score": 18,
+        "body": "That's very kind of you man, please post on this reddit when you do make it."
+      },
+      {
+        "id": "t1_ne4jm1i",
+        "author": "CarpetAgreeable5060",
+        "score": 16,
+        "body": "Firefox + ublock origin user?"
+      },
+      {
+        "id": "t1_ne4m6r8",
+        "author": "kaktusjaxk",
+        "score": 12,
+        "body": "This is amazing. Thank you fellow Tarnished"
+      },
+      {
+        "id": "t1_ne4ftms",
+        "author": "Fun_Pie_5499",
+        "score": 7,
+        "body": "Will this work for Firefox as well?"
+      },
+      {
+        "id": "t1_ne4nvv9",
+        "author": "CarpetAgreeable5060",
+        "score": 7,
+        "body": "My man🫂🫂"
+      },
+      {
+        "id": "t1_ne4qew2",
+        "author": "the_intransigent_one",
+        "score": 6,
+        "body": "Awesome man I like such alterations that combine two worlds work/study and gaming"
+      },
+      {
+        "id": "t1_ne4lph0",
+        "author": "Fun_Pie_5499",
+        "score": 5,
+        "body": "Yes"
+      },
+      {
+        "id": "t1_ne5fbrm",
+        "author": "galalei",
+        "score": 4,
+        "body": "Dw there is also a banner for SUBMISSION ACCEPTED"
+      },
+      {
+        "id": "t1_nehu387",
+        "author": "Money-Marzipan9560",
+        "score": 3,
+        "body": "dopamine *or* more depression"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ot7ohz",
+    "subreddit": "leetcode",
+    "title": "Tech industry in a nutshell",
+    "score": 2261,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1ot7ohz/tech_industry_in_a_nutshell/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_no2o6gj",
+        "author": "stanley_ipkiss_d",
+        "score": 86,
+        "body": "It’s gayman"
+      },
+      {
+        "id": "t1_no2uej4",
+        "author": "Late-Drink3556",
+        "score": 47,
+        "body": "I got laid off for the first time in my life on September 2nd after working at Oracle for five years."
+      },
+      {
+        "id": "t1_no3pdph",
+        "author": "MarriedToLC",
+        "score": 30,
+        "body": "because Oracle did not kick me for five years?"
+      },
+      {
+        "id": "t1_no307r8",
+        "author": "RaccoonDoor",
+        "score": 24,
+        "body": "Why would anyone spend five years at Oracle"
+      },
+      {
+        "id": "t1_no5cub5",
+        "author": "Late-Drink3556",
+        "score": 18,
+        "body": "Money 😆"
+      },
+      {
+        "id": "t1_no30qql",
+        "author": "trashsadaccount",
+        "score": 17,
+        "body": "That's crazy the direction they're going now, because I have multiple colleagues that spent 15+ years in companies like Google and Microsoft after they joined in early 2000s..."
+      },
+      {
+        "id": "t1_no8fyb4",
+        "author": "Abhi_04",
+        "score": 11,
+        "body": "In today's job market I will be relieved if I know I will have a job for 5 years"
+      },
+      {
+        "id": "t1_no5fzvh",
+        "author": "Furryballs239",
+        "score": 10,
+        "body": "They’ve got a never ending pool of people who will do anything to work for them. Burn and churn is the name of the game"
+      },
+      {
+        "id": "t1_no381wd",
+        "author": "GlitteringBeyond1373",
+        "score": 5,
+        "body": "Why not??"
+      },
+      {
+        "id": "t1_no8r36o",
+        "author": "Independent-Fan-5885",
+        "score": 5,
+        "body": "What if you got laid off the very next month and stayed unemployed for next 5 years 🥰"
+      },
+      {
+        "id": "t1_no3la92",
+        "author": "MarriedToLC",
+        "score": 3,
+        "body": "🥀"
+      },
+      {
+        "id": "t1_noa4ly4",
+        "author": "AceLamina",
+        "score": 3,
+        "body": "There's so many reasons that the actual ones isn't exactly clear besides one It's acceptable now It all started during that covid boom and then they had to remove extra staff, after that, it just kept on going and by now it's just an excuse Companies are unironically laying off people just to pay for other stuff a few days later, it's crazy"
+      },
+      {
+        "id": "t1_no9c1gt",
+        "author": "Legitimate-Home-8181",
+        "score": 1,
+        "body": "Are AI and cost cutting the reasons for your layoff"
+      },
+      {
+        "id": "t1_noruwzs",
+        "author": "Brilliant_Long8275",
+        "score": 0,
+        "body": "💊😝"
+      },
+      {
+        "id": "t1_no3qgyp",
+        "author": "",
+        "score": 0,
+        "body": "Truth bomb"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1pbf6p9",
+    "subreddit": "leetcode",
+    "title": "I got a SWE job at Google with outstanding interview performance and wanna help people do the same - AMA",
+    "score": 2251,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1pbf6p9/i_got_a_swe_job_at_google_with_outstanding/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_nrpztx1",
+        "author": "Ok-Emergency239",
+        "score": 631,
+        "body": "A few high-level thoughts (happy to elaborate): 1) Depending on the type of person you are, you need to prepare yourself for the interview situation purely from a nerves perspective. Too many candidates fail not because they can't solve the specific problems but because they cannot perform during the interview. Pramp was the most helpful platform for me to practice. I also interviewed at some \"random\" companies beforehand to get used to on-site interviews. Eventually went to the more important companies (also had an offer from Amazon and was scheduled for my next round at Palantir before accepting Google). 2) You wanna be able to show your enthusiasm and the outstanding ratings I got for googleyness came from the fact that I was developing an app on the side for which I explained how I ensured that it's highly accessible for example (--> cares about the user). 3) There's no need for you to one-shot a question. It's important to understand that the interview situation is more of an emulated work environment situation and people expect you to be curious and open-minded. The interviewer likes to be asked questions about the problem (+ expects it) and it's a mistake to immediately sit down and start a monologue."
+      },
+      {
+        "id": "t1_nrpy7f0",
+        "author": "",
+        "score": 344,
+        "body": "\"How?\""
+      },
+      {
+        "id": "t1_nrqf69r",
+        "author": "fiscal_fallacy",
+        "score": 164,
+        "body": "If you can get a job at Palantir, you can get a job somewhere that’s not Palantir"
+      },
+      {
+        "id": "t1_nrq9gv5",
+        "author": "Informal-Zone-4085",
+        "score": 151,
+        "body": "You would really work for Palantir? Yall are cold"
+      },
+      {
+        "id": "t1_nrqacxk",
+        "author": "Ok-Emergency239",
+        "score": 145,
+        "body": "Zurich 153 (47 Easy, 90 Med, 16 Hard)"
+      },
+      {
+        "id": "t1_nrpybsc",
+        "author": "Ok-Emergency239",
+        "score": 122,
+        "body": "At the time when I got the job I came straight out of university and had some experience as a SWE in a startup for around 9 months. I spent more than 5 years at Google before quitting and interviewed 50+ engineers."
+      },
+      {
+        "id": "t1_nrqecls",
+        "author": "Very_Meh_Dev",
+        "score": 97,
+        "body": "No, he’ll be warm under the roof he can afford because he has a job, Pltr or otherwise."
+      },
+      {
+        "id": "t1_nrq59o2",
+        "author": "Ok-Emergency239",
+        "score": 73,
+        "body": "Yes, I joined as L3. IMO expectations for L4 are fairly low. In simple terms they wanna see that you don't require any babysitting. You should be able to handle the execution of a mid-sized project on your own. This involves writing a technical design doc, defining and keeping track of tasks, and aligning with stakeholders (ideally across multiple teams)."
+      },
+      {
+        "id": "t1_nrq2274",
+        "author": "plasmalightwave",
+        "score": 69,
+        "body": "Location? How many LCs did you do?"
+      },
+      {
+        "id": "t1_nrq4r3e",
+        "author": "Ok-Emergency239",
+        "score": 58,
+        "body": "I'll see if I can redact my resume so that I can post it while still being helpful to you guys. When it comes to channels to get noticed: Google actually reached out to me twice (without referrals) through completely different channels, so this might be helpful to you. 1) Hackathons: I attended HackZurich where Google was a sponsor. The hackathon required you to hand in your resume during registration and you can accept that it's shared with sponsors. Interestingly, they only reached out to me 1-2 years later and not immediately afterwards. Maybe because they noticed that I would wrap up my studies then since they reached out briefly after I finished. They don't tell you where they got your contact from but I asked during the first phone call. 2) HackerRank: They are scanning profiles on that platform and noticed mine. At that stage they wanted me to interview for SRE which I was not interested in so I declined. I've uploaded the E-Mails I got: https://imgur.com/a/KFF95xs"
+      },
+      {
+        "id": "t1_nrqaldf",
+        "author": "Ok-Emergency239",
+        "score": 55,
+        "body": "I don't. Requested my ratings manually from HR (thank GDPR)."
+      },
+      {
+        "id": "t1_nrqm7xi",
+        "author": "Informal-Zone-4085",
+        "score": 46,
+        "body": "IDK man. I don't think I could be warm under my roof and sleep well at night working for those demons. Genuinely, no amount of money could get me to do it. But I know from experience that there are a SHITLOAD of psychopaths in tech (cold robotic types, probably missing a soul or some shit), so I shouldn't be too surprised here."
+      },
+      {
+        "id": "t1_nrpxonf",
+        "author": "Lemonite03",
+        "score": 43,
+        "body": "How many yoe do you have and for which role you gave interviews?"
+      },
+      {
+        "id": "t1_nrq0eke",
+        "author": "nikkituktuk",
+        "score": 43,
+        "body": "Hi, Actually I have recently completed my onsite rounds at Google for L4. There were 2 codings and 1 googleyness Out of 2 codings - I have done average in one and pretty good in other round. I am telling average because I have told my approach brute approach then tried to optimise with nlogn but he wants in O(n) Googleyness I think I have also done pretty good and interview told at the end “Good answers” What do you think about my chances?"
+      },
+      {
+        "id": "t1_nrqf64w",
+        "author": "Ok-Emergency239",
+        "score": 41,
+        "body": "This was for L3."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1m7bw3s",
+    "subreddit": "leetcode",
+    "title": "Daily demotivation",
+    "score": 2184,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1m7bw3s/daily_demotivation/",
+    "selftext": "What's even the point anymore? What is life? So many emotions rn",
+    "comments": [
+      {
+        "id": "t1_n4qahp9",
+        "author": "Jazzlike_Assignment2",
+        "score": 582,
+        "body": "I don’t see it as demotivating. This is just a kid doing what he likes. Just keep working hard"
+      },
+      {
+        "id": "t1_n4q7w2c",
+        "author": "Brunson-Burner12",
+        "score": 234,
+        "body": "This person is learning so you can’t? These are 900 problems too, basically leetcode easy."
+      },
+      {
+        "id": "t1_n4qbpsz",
+        "author": "johnnyblaze1999",
+        "score": 58,
+        "body": "Maybe to see people achieved things op could not at a young age. I honestly don't care much nowadays"
+      },
+      {
+        "id": "t1_n4qc8gf",
+        "author": "Myarmhasteeth",
+        "score": 53,
+        "body": "My dude, if you follow that logic then why live? I guess OP posting this is a youngster too? I can't imagine me being this negative when I was younger."
+      },
+      {
+        "id": "t1_n4qfpcd",
+        "author": "blending-tea",
+        "score": 35,
+        "body": "for me it's \"dudes rocking a 300$ hhkb type-s what am I 😔\""
+      },
+      {
+        "id": "t1_n4qj3q3",
+        "author": "lordtristan_cristian",
+        "score": 28,
+        "body": "What a shit mindset."
+      },
+      {
+        "id": "t1_n4q9shs",
+        "author": "the__Twister",
+        "score": 26,
+        "body": "Why demotivation?"
+      },
+      {
+        "id": "t1_n4rpts4",
+        "author": "",
+        "score": 23,
+        "body": "These kids aren't genius. They are well guided. Kids who don't have CS background struggle to find path into CS career, and even if they are capable to do so then it would've taken lots of efforts. If a child or teen is capable of solving tough questions or even play chess like a pro, it's usually because they've been taught and mentored really carefully & thoroughly. Guidance at young age not only prepares them early but also help them channelise their energy completely into what they really want (or what their parents want)"
+      },
+      {
+        "id": "t1_n4qmwmc",
+        "author": "Furi0usAndCuri0us",
+        "score": 17,
+        "body": "Don’t get demotivated. Mid to senior level folks get grilled on system design not Leetcoding, although it’s still very important to solve LC problems, competitive programming is irrelevant"
+      },
+      {
+        "id": "t1_n4v0u8x",
+        "author": "Timely-Gift2628",
+        "score": 9,
+        "body": "real"
+      },
+      {
+        "id": "t1_n4qq45l",
+        "author": "One-Mycologist-3756",
+        "score": 7,
+        "body": "everybody pissed about op making a silly joke bruh 🤦‍♂️"
+      },
+      {
+        "id": "t1_n4ql952",
+        "author": "Virtual-Astronaut515",
+        "score": 6,
+        "body": "I believe OP posted it sarcastically"
+      },
+      {
+        "id": "t1_n4qcvyo",
+        "author": "",
+        "score": 4,
+        "body": "I consider it as motivation."
+      },
+      {
+        "id": "t1_n4qc7ay",
+        "author": "iwuvpuppies",
+        "score": 4,
+        "body": "Its not really demotivating. Everyone's tune will change though when he's 14 with a 280k TC package. Thats when you start seeing the saltiness."
+      },
+      {
+        "id": "t1_n4scg9f",
+        "author": "",
+        "score": 2,
+        "body": "fr"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1okw8vb",
+    "subreddit": "leetcode",
+    "title": "My dream to work at G*y Man",
+    "score": 2170,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1okw8vb/my_dream_to_work_at_gy_man/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_nmdt7r3",
+        "author": "Oxemon",
+        "score": 100,
+        "body": "Facebook amazon apple nvidia google ---- google amazon yandere simulator meta apple nvidia"
+      },
+      {
+        "id": "t1_nmdnoyr",
+        "author": "Exotic-Frame9425",
+        "score": 93,
+        "body": "Infinite gay while a weird ass eye takes a bite off an apple"
+      },
+      {
+        "id": "t1_nme4yyv",
+        "author": "Stunning-Lead2420",
+        "score": 51,
+        "body": "The N is FAANG isn’t Netflix? And the Y isn’t Y Combinator? lol I thought I’m tripping for a sec."
+      },
+      {
+        "id": "t1_nmdwz6b",
+        "author": "WaitWhatNani123",
+        "score": 49,
+        "body": "Though y is for Yahoo initially, just shows how old I am lol."
+      },
+      {
+        "id": "t1_nmdwv33",
+        "author": "Old-Highway1764",
+        "score": 39,
+        "body": "Where is Netflix, is it not the top company anymore?"
+      },
+      {
+        "id": "t1_nmecj2y",
+        "author": "Optimal_Bother7169",
+        "score": 25,
+        "body": "Amazon is the worst. Toxic work buddies,toxic work environment, no job safety, low salary, WL balance is shit, kick you out before your stock matures. That’s even worse than Walmart or other similar companies. They want to be a startup but they don’t have the offering of a startups."
+      },
+      {
+        "id": "t1_nmdoesd",
+        "author": "mv307",
+        "score": 22,
+        "body": "Y combinator - the YC startups."
+      },
+      {
+        "id": "t1_nmem1ca",
+        "author": "Scorched_Scorpion",
+        "score": 19,
+        "body": "No the growth of it is extremely stagnant and not \"Faang\" level anymore"
+      },
+      {
+        "id": "t1_nmejk2g",
+        "author": "sudoWasNotRecognized",
+        "score": 14,
+        "body": "Everyone want to go inside gayman"
+      },
+      {
+        "id": "t1_nmf1rwd",
+        "author": "haroldbaals",
+        "score": 10,
+        "body": "GAYMMAN"
+      },
+      {
+        "id": "t1_nmfgmwd",
+        "author": "et-in-arcadia-",
+        "score": 9,
+        "body": "This prompted me to go and check the stock price, thinking I’d missed something. Nope, Netflix looks pretty much parabolic stonks like everything else in the last 10 years"
+      },
+      {
+        "id": "t1_nmdy9ft",
+        "author": "LaughingBuddha82",
+        "score": 8,
+        "body": "Don’t you want to work for Microsoft?"
+      },
+      {
+        "id": "t1_nme5ezq",
+        "author": "Stunning-Lead2420",
+        "score": 7,
+        "body": "Thanks, I thought I was wrong lol, what even is yandere 😭"
+      },
+      {
+        "id": "t1_nme6cxt",
+        "author": "Apprehensive_Sky5940",
+        "score": 7,
+        "body": "idk exactly, i think it’s some game where every line of code was spaghetti code so it’s just a meme ig"
+      },
+      {
+        "id": "t1_nmeqkni",
+        "author": "Tasty-Butterscotch-5",
+        "score": 7,
+        "body": "Anyone got tips for getting into a g*yman?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1olslin",
+    "subreddit": "leetcode",
+    "title": "Maybe I have to do PhD now to avoid public embarrassment",
+    "score": 2056,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1olslin/maybe_i_have_to_do_phd_now_to_avoid_public/",
+    "selftext": "Done so many things. Applied to over 600 tech companies, interviewed at 40, no offer yet in last 3 years. Read over 6 DSA books, done system design, done AI, done over 1000 LC problems Fan of all cs legends. Still no job.",
+    "comments": [
+      {
+        "id": "t1_nmk685z",
+        "author": "Substantial_Luck_273",
+        "score": 338,
+        "body": "PhD at top schools are more competitive than job hunting"
+      },
+      {
+        "id": "t1_nmknf41",
+        "author": "MegaDork2000",
+        "score": 125,
+        "body": "Tell family you are working on PhD. Go to the library. Read Manga. Come home late. Repeat."
+      },
+      {
+        "id": "t1_nmkcf8y",
+        "author": "anotherarchaeopteryx",
+        "score": 103,
+        "body": "Phd is pretty scary imo, saying this because of the amount of dependance one has on their guide, so like if you decide to go with it, be careful while choosing the guide as it might mess your mental state and prospects if they are not nice people"
+      },
+      {
+        "id": "t1_nmk3ulm",
+        "author": "MarriedToLC",
+        "score": 83,
+        "body": "No job, no honey, no problem. Do MSc or PhD and buy some time. Unemployment will knock on the door after 6 years."
+      },
+      {
+        "id": "t1_nmkt7wa",
+        "author": "Schopenhauer1859",
+        "score": 72,
+        "body": "The guy has turned schizo... If it can happen to him, it can happen to anyone in this job market"
+      },
+      {
+        "id": "t1_nmkpc9b",
+        "author": "MarriedToLC",
+        "score": 64,
+        "body": "PhD in Manga 💀"
+      },
+      {
+        "id": "t1_nmkzzvj",
+        "author": "leftovercarcass",
+        "score": 64,
+        "body": "Public embarrassment? What do you mean? Nobody gives a fuck, take it chill. And those who judge are not nice people, those are people i at least hate being around. I like people who are passionate about the subject and can talk or code together with me. The shitty snobs and the tech dudes i couldn’t give a flying fuck about."
+      },
+      {
+        "id": "t1_nmkctsf",
+        "author": "yladysa",
+        "score": 61,
+        "body": "Why did you comment this on your own post"
+      },
+      {
+        "id": "t1_nmkakir",
+        "author": "MarriedToLC",
+        "score": 58,
+        "body": "but I am fine doing PhD at an average or even below average university. Reason for public: Research first, job later. Reality: If I have done 1000 LC problems, read core books like CLRS and DSA Takeover end to end and still am running out of luck for jobs, I am fit for a below average university. 👶 ( Edit : the closest I reached is clearing Google's full loop and got stuck in team matching for 2 months and then silence)"
+      },
+      {
+        "id": "t1_nmkasku",
+        "author": "MarriedToLC",
+        "score": 42,
+        "body": "My mother says the same but I am out of luck. I have seen people who cannot even do an medium LC problem get job at top companies"
+      },
+      {
+        "id": "t1_nmkd298",
+        "author": "",
+        "score": 39,
+        "body": "Don't look at others and be salty. Most of the people do a tenth of what you have done and easily get by. There is something seriously wrong in how you approach learning if even all the things you have done, you can't clear at a few interviews. How do you test yourself ? Like you have done 600 LC questions and read 6 DSA books but what was the outcome ? Did you give some contests on LC to test that ? All learnings aren't equal, and all effort isn't the same. Be precise in how you approach whatever you want to accomplish and study."
+      },
+      {
+        "id": "t1_nmk8bp4",
+        "author": "",
+        "score": 34,
+        "body": "Then you haven't done it properly. Do it again."
+      },
+      {
+        "id": "t1_nmkg4be",
+        "author": "Agent_Burrito",
+        "score": 26,
+        "body": "And at the end of the process you’ll have a PhD! It’s not a bad idea if you can swing it."
+      },
+      {
+        "id": "t1_nmkoihq",
+        "author": "MarriedToLC",
+        "score": 26,
+        "body": "as same reason as why my code has 70% useless comments and 30% actual code"
+      },
+      {
+        "id": "t1_nmm3qep",
+        "author": "",
+        "score": 19,
+        "body": "Read manga get into MANGA"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lf6ptw",
+    "subreddit": "leetcode",
+    "title": "Finally!",
+    "score": 2039,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1lf6ptw/finally/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_mylzcih",
+        "author": "",
+        "score": 148,
+        "body": "Everyone, will share details in a separate post. Had posted this in excitement, and couldn’t edit the post."
+      },
+      {
+        "id": "t1_mylrwj3",
+        "author": "Kv-boii",
+        "score": 81,
+        "body": "Congrats"
+      },
+      {
+        "id": "t1_mylszrd",
+        "author": "",
+        "score": 78,
+        "body": "No, not really. Most problems are medium to medium-hard. Thanks btw"
+      },
+      {
+        "id": "t1_mylsav2",
+        "author": "Ok_Procedure3350",
+        "score": 77,
+        "body": "Congratulations 🎉.Can you please share how you practiced DSA? Does they ask codeforces problems or leetcode hard are enough?"
+      },
+      {
+        "id": "t1_mym37og",
+        "author": "Furi0usAndCuri0us",
+        "score": 20,
+        "body": "Please include the link here so we don’t miss out. I’ve subscribed to comments on this post. Good luck OP"
+      },
+      {
+        "id": "t1_mylthpx",
+        "author": "singh_sushil",
+        "score": 19,
+        "body": "Hey congratulations man.. Its a great career ahead. Is this a generic swe 3 position or a role specific- i mean you got into embedded, silicon, platform team?"
+      },
+      {
+        "id": "t1_mymkhdh",
+        "author": "Klutzy_Confidence_49",
+        "score": 12,
+        "body": "did the leethard’s compilation post help?? https://leetcode.com/discuss/post/6185127/2024-google-interview-questions-compilat-mjrf/"
+      },
+      {
+        "id": "t1_mylsgil",
+        "author": "negi2001",
+        "score": 11,
+        "body": "Can you share how you prepare dsa and system design. Please share the resources for SD. Congratulations bhaii 🥳🎉🎉🎉 Ab to maze hi maze 😁"
+      },
+      {
+        "id": "t1_mylt0kr",
+        "author": "",
+        "score": 11,
+        "body": "Will share bhai. Thanks"
+      },
+      {
+        "id": "t1_mylwbzu",
+        "author": "Remote-Version-4361",
+        "score": 11,
+        "body": "Google doesn't ask system design to SWE lll"
+      },
+      {
+        "id": "t1_mylsy0o",
+        "author": "",
+        "score": 11,
+        "body": "Wish I could edit this post. Will create a new one. Thanks bro"
+      },
+      {
+        "id": "t1_myls103",
+        "author": "",
+        "score": 10,
+        "body": "Thanks bro!"
+      },
+      {
+        "id": "t1_mymdbxy",
+        "author": "Far-Butterscotch-336",
+        "score": 9,
+        "body": "Yoe?"
+      },
+      {
+        "id": "t1_myltrzy",
+        "author": "Ok_Procedure3350",
+        "score": 8,
+        "body": "Ofc not, they demand everything, system design + behavioural interviews + experience "
+      },
+      {
+        "id": "t1_myltucc",
+        "author": "Expensive_Cabinet384",
+        "score": 6,
+        "body": "congrats bro!!! it would be great if you can share your interview process in detail and also how you got the interview"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mgnt3k",
+    "subreddit": "leetcode",
+    "title": "from skipping meals to a faang offer; had to share this somewhere",
+    "score": 2018,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1mgnt3k/from_skipping_meals_to_a_faang_offer_had_to_share/",
+    "selftext": "a lower middle class boy who struggled most of his life just to get multiple meals a day. i rarely spoke much, always underconfident around anything remotely luxurious. somehow, i managed to land a decent job after college and pulled my family out of debt. everything was built on credit. now, we’re a happy family. but today, the biggest thing happened: i got an offer from a faang company, with a salary three times what i was earning before. i haven’t told anyone yet, not even my family, because they probably wouldn’t understand what this really means. but i’m overwhelmed. i just needed to share it somewhere and feel what i’ve achieved. definitely getting myself a pastry after this. edit 1: first off, thank you all so much for the overwhelming support. i genuinely didn’t expect this kind of response and it really means a lot. 🙏 to answer some of the common questions: where i’m from: india preparation: i focused heavily on leetcode (400+ questions), especially blind 75 and system design. hellointerview helped a lot. mock interviews helped too interview type: dsa rounds (lc medium to hard), lld, system design, and behavioural (nothing new, all questions are there on lc) yoe: 3.5 years advice: consistency over intensity. even 2-3 questions a day, every day, adds up. and don’t skip system design prep even if you’re early career thank you again. still letting this sink in and yes, i got that pastry 🍰",
+    "comments": [
+      {
+        "id": "t1_n6px4ax",
+        "author": "croesusking",
+        "score": 179,
+        "body": "Happy for you bro."
+      },
+      {
+        "id": "t1_n6q0oq1",
+        "author": "Any-Main-3866",
+        "score": 118,
+        "body": "You deserve a whole cake , not just a pastry"
+      },
+      {
+        "id": "t1_n6px8ik",
+        "author": "yodeah",
+        "score": 31,
+        "body": "happy for you 🫶🏻"
+      },
+      {
+        "id": "t1_n6q60q6",
+        "author": "CaptxLevi",
+        "score": 29,
+        "body": "Type of posts i pay my internet bill for"
+      },
+      {
+        "id": "t1_n6q0uvz",
+        "author": "Adventurous-Cycle363",
+        "score": 28,
+        "body": "Great! Where are you from and how did you prepare? Waiting to hear more of your story (if you are willing to share). All the best!"
+      },
+      {
+        "id": "t1_n6q1ycm",
+        "author": "bryptobro",
+        "score": 27,
+        "body": "get a whole fucking cake lol , you deserve it"
+      },
+      {
+        "id": "t1_n6qen27",
+        "author": "electric_deer200",
+        "score": 11,
+        "body": "it time to spoil yourself, lose those broke kid habits, and try to be more forgiving on yourself and spend money on yourself. i am in a similar position as you but in college waiting for my big break"
+      },
+      {
+        "id": "t1_n6py6ca",
+        "author": "DifficultWestern3254",
+        "score": 10,
+        "body": "That's awesome, you made it man. Well done. "
+      },
+      {
+        "id": "t1_n6q2r1p",
+        "author": "ninseicowboy",
+        "score": 9,
+        "body": "How was the interview? What types of questions did they ask?"
+      },
+      {
+        "id": "t1_n6q6g8u",
+        "author": "FantasticPanic2203",
+        "score": 9,
+        "body": "Congratulations bro!!! Sometimes sharing too soon in public is not a good idea.... Enjoy the process, complete the joining of them and share... Avoid sharing salary details even to parents bze that details may not stay in anyone's stomach."
+      },
+      {
+        "id": "t1_n6q6g7o",
+        "author": "Patient_Job_7974",
+        "score": 8,
+        "body": "please lemme know too if he replies😭"
+      },
+      {
+        "id": "t1_n6qizja",
+        "author": "Ok-Leg-2911",
+        "score": 8,
+        "body": "Indian"
+      },
+      {
+        "id": "t1_n6qhwsg",
+        "author": "Temporary-Shirt-8783",
+        "score": 7,
+        "body": "Congrats my man. Be humble, grateful and remember your roots and help others. All the best."
+      },
+      {
+        "id": "t1_n6tzkkh",
+        "author": "Silent-Treat-6512",
+        "score": 6,
+        "body": "Congrats man. And man to man I want to share this with you and all.. I come from India and can feel this more than anyone maybe, back in 2004 I started working and was making 9000 per month as a software engineer, helped family finish building house, finally walls had paint.. I was from middle class too, almost lower middle class. at 2 yoe I cleared interview in Bangalore for Microsoft. They asked me how much salary I want, I said in very scared voice, 15000 per month and the HR smiled, and said that will be too less for us, we have minimum salary for this band set to 640000 per year (ie 54000) - after over 2 decade and working 6 years for Microsoft - I am here in US, struggle isn’t over and life is very different but remember - there is a plan for you in life, stay focused and get one pineapple pastry (or black forest) for all of us too ;)"
+      },
+      {
+        "id": "t1_n6qzkuc",
+        "author": "",
+        "score": 5,
+        "body": "thanks, check edit1 :)"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mu3qjt",
+    "subreddit": "leetcode",
+    "title": "[BREAKING] Google goes back to in-person interviews for most roles due to so many cheaters using AI virtually.",
+    "score": 1980,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1mu3qjt/breaking_google_goes_back_to_inperson_interviews/",
+    "selftext": "Google is opting for in-person interviews for hiring employees as jobseekers use artificial intelligence tools to help answer questions and complete tests. .... \"We'll introduce at least one round of in-person interviews for people just to make sure the fundamentals are there,\" Pichai told the podcast. \"I think they'll end up being important.\" .... Google adds to the expanding list of organisations that are adopting a retro approach to hiring as more jobseekers rely on AI during recruitment. https://www.hcamag.com/us/specialization/hr-technology/google-opts-for-in-person-interviews-amid-surge-in-ai-aided-candidates/545926",
+    "comments": [
+      {
+        "id": "t1_n9gecxk",
+        "author": "goomyman",
+        "score": 445,
+        "body": "Good finally. System design with a mouse and keyboard is terrible."
+      },
+      {
+        "id": "t1_n9gb9je",
+        "author": "wafto",
+        "score": 402,
+        "body": "Great! Now the problems will be only hard instead of hard++."
+      },
+      {
+        "id": "t1_n9g80rw",
+        "author": "No-Response3675",
+        "score": 307,
+        "body": "Good!"
+      },
+      {
+        "id": "t1_n9g5bkj",
+        "author": "LurkLurkington",
+        "score": 164,
+        "body": "About fucking time."
+      },
+      {
+        "id": "t1_n9geqyd",
+        "author": "Bitter_Entry3144",
+        "score": 131,
+        "body": "I definitely prefer this over using AI in interviews."
+      },
+      {
+        "id": "t1_n9gksbb",
+        "author": "mihhink",
+        "score": 106,
+        "body": "Now the amount of interviews will reduce thus the selection of candidates will be more elitist."
+      },
+      {
+        "id": "t1_n9gth92",
+        "author": "BackendSpecialist",
+        "score": 89,
+        "body": "Big tech companies should’ve done this a long time ago.. These mfers implemented RTO to boost collaboration but then didn’t bring back in person interviews, which would be the best way to see the interviewee’s collaborative skills… 🤡"
+      },
+      {
+        "id": "t1_n9gp1ho",
+        "author": "halfcastdota",
+        "score": 88,
+        "body": "this was always going to happen. the entitled losers on here who complain about leetcode don’t realize how amazing it was to have a high paying field you could break into from any background on something as objective as leetcode. tech is already on its way to becoming like finance and law - high paying jobs reserved only for target school alumni or elite resumes"
+      },
+      {
+        "id": "t1_n9gp00s",
+        "author": "LurkLurkington",
+        "score": 85,
+        "body": "People who cheat their way into a job they aren't qualified for just end up bringing down their team. Try working with one of these frauds and you'll see it differently."
+      },
+      {
+        "id": "t1_n9g6jsd",
+        "author": "raging-water",
+        "score": 78,
+        "body": "Common Google W !"
+      },
+      {
+        "id": "t1_n9ltbot",
+        "author": "Legitimate-mostlet",
+        "score": 50,
+        "body": "It's across the board. I think a lot of interviewers are in for a big culture shock of how wrong they were about their assumptions. So many people in this industry are so full of themselves. They think they know how to catch who is cheating and who isn't, and they really actually just suck at it. The reality is a lot of people were getting through by cheating, interviewers were bad at catching them, and this was way overdue. I look forward to more of this happening across the industry. Remote interviewing was easily the stupidest thing I have seen in a while out of this industry. Also, I loved hearing from people who acted like flying people out for interviews or hiring locally was \"too much\". How do you all think interviews were conducted previously? Companies will now hire more locally or fly candidates in. Also, this will lead to easier questions as no one can actually cheat."
+      },
+      {
+        "id": "t1_n9i167c",
+        "author": "Plutonsvea",
+        "score": 42,
+        "body": "Funny, I actually prefer it. I did an in-person one the other day and I was struggling to make room for new relationships and constraints that I had to fit into my design. Maybe I’m just rusty with a pen and paper… Excalidraw spoiled me."
+      },
+      {
+        "id": "t1_n9gxjvx",
+        "author": "BackendSpecialist",
+        "score": 30,
+        "body": "That’s not true. There will still be OAs/Phone Screens"
+      },
+      {
+        "id": "t1_n9ggfkv",
+        "author": "",
+        "score": 28,
+        "body": "In person is better anyway, so much more natural to communicate!"
+      },
+      {
+        "id": "t1_n9gs8a8",
+        "author": "Agent_Burrito",
+        "score": 24,
+        "body": "This isn’t a bad thing. I’d much rather have the market stability of the pre-pandemic era vs what we have now."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1oueyw2",
+    "subreddit": "leetcode",
+    "title": "Just got SWE offer from Microsoft after 1 year of grinding LeetCode — lucky to have guidance from my ex-Amazon sister",
+    "score": 1947,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1oueyw2/just_got_swe_offer_from_microsoft_after_1_year_of/",
+    "selftext": "Hi everyone, I’m super excited to share my journey after one year of nonstop prep. It’s been exhausting, but finally, it’s over — I got a Software Engineer offer from Microsoft! I’ll share everything that helped me: my LeetCode prep strategy, how I built my resume, how I reached out for referrals on LinkedIn, how I approached interviews (both technical and behavioral), and what I learned about what interviewers actually expect. Of course, this is just my experience, so take it as one data point. It might not work exactly the same for everyone — but hopefully, it gives you some insight or motivation. First, to get interviews, your resume is everything. From my experience, metrics are key. If your resume doesn’t have any numbers, fix that immediately. Recruiters (who are usually non-technical) care about measurable impact. Add metrics like: Reduced system latency by 20% Boosted user engagement by 15% Improved efficiency / revenue / load time Anything quantifiable helps because it’s easy to understand. Without metrics, they can't understand what you have done, cuz they are non-tech. Imagine you are a swe and read a resume from a doctor without metrics:D, it's like read alien language. For referrals, just search something like “software engineer at Google site:linkedin.com” on Google or directly on LinkedIn. Then message people politely. Keep your message short and highlight 2-3 impressive things about yourself — maybe a project, past experience, or key achievement. Not everyone will reply, and that’s totally fine. Just keep trying. Some people do it for the referral bonus, but many also genuinely want to help. If you still get no response, apply directly — sometimes companies simply have too many candidates or outdated job posts. Don’t get discouraged; just keep going. About technical interviews, for me, each technical round was about 1 hour — usually: ~30 mins discussing past experience ~30 mins solving a LeetCode problem Tip: Be ready to",
+    "comments": [
+      {
+        "id": "t1_nobcth5",
+        "author": "isospeedrix",
+        "score": 105,
+        "body": "If u don’t know the quantifiable number do u just make one up? Edit: so answers are saying don’t. So what’s the point of the post. No shit if you have that number you’d put it on is common sense but for the people who don’t have that number what’s the point of telling them u need this metric PS- I’ve seen in other threads that you absolutely make the number up and bs your way thru prepare the script. This seems like the proper play cuz the former won’t get you anywhere"
+      },
+      {
+        "id": "t1_nobboc3",
+        "author": "azuredota",
+        "score": 42,
+        "body": "You can’t just solve the problem and move on. You need repetition. I have typed out the solution to twosum and fizzbuzz over a hundred times. Same with many other problems."
+      },
+      {
+        "id": "t1_nobhyu8",
+        "author": "East-Independent-489",
+        "score": 37,
+        "body": "Exactly, even if I've projects I don't have any load testing done for it. So do we just add random numbers to make it impressive? I mean how do u justify it in the interview then?"
+      },
+      {
+        "id": "t1_nob8jyz",
+        "author": "Ackrome01",
+        "score": 33,
+        "body": "You are cool, man"
+      },
+      {
+        "id": "t1_nob93bq",
+        "author": "tuneFinder02",
+        "score": 29,
+        "body": "Are you talking about Neetcode 150? I started LeetCode a few days ago and am still doing one problem per day. Most of the time, I can't come up with a solution on my own. So, I try to memorize the solutions. But the problem with this approach is I keep forgetting the solution if I haven’t seen a problem for a while that I've already completed before. How to actually get out of this? Also, I want to solve more problems in a day."
+      },
+      {
+        "id": "t1_nobfnzf",
+        "author": "",
+        "score": 19,
+        "body": "In my case, they didn’t ask about that level yet. But I’ve seen my sister and friends recommend the System Design from Alex Xu — just follow the steps in his guide, get familiar with the common question types, and connect them with your real experience. Things will be fine. I also watch HelloInterview mock interviews — they’re really helpful. But there are plenty of good resources out there, so just learn from everyone and keep what works best for you."
+      },
+      {
+        "id": "t1_nobbtzn",
+        "author": "",
+        "score": 12,
+        "body": "it's been so stressful in the journey:D"
+      },
+      {
+        "id": "t1_nobblj7",
+        "author": "",
+        "score": 12,
+        "body": "i mean Leetcode top 150. but i also saw Neetcode 150. i think both are ok, they contain enough topics to learn. to practice effectively, i think you can try do the questions with same topic at the same time. do it from easy then gradually to medium. you will gradually see the pattern and recognise it when you see the problem. for example, with sliding window, you see that: find subarr/substring that has at most/with maximum sum ... the key here is: while (window_invalid_condition) then {left ++}"
+      },
+      {
+        "id": "t1_nobwac5",
+        "author": "BigFella939",
+        "score": 10,
+        "body": "I havent gotten offers yet so maybe im wrong but I just personally make a rough estimate of a number and make a few reasons as to why I think that estimate is good"
+      },
+      {
+        "id": "t1_nockswl",
+        "author": "azuredota",
+        "score": 8,
+        "body": "During more intense study sessions I usually committed half the session to redoing fundamentals. I’d usually repeat at least 2 problems for every section (hashmap, sliding window, dfs, bst…). I could do them so fast they were automatic. This was daily."
+      },
+      {
+        "id": "t1_nobpq25",
+        "author": "PsychologicalAge1985",
+        "score": 8,
+        "body": "Everything is in the «  lucky to have guidance from my ex-Amazon sister«  tbh"
+      },
+      {
+        "id": "t1_noc0at5",
+        "author": "Routine-Lawfulness24",
+        "score": 6,
+        "body": "And you really need to think about it and understand it deeply line by line instead of just a rough solution"
+      },
+      {
+        "id": "t1_nobd5cs",
+        "author": "vardotexe",
+        "score": 6,
+        "body": "Congratulations, what about LLD and HLD? From where did you prepare those?"
+      },
+      {
+        "id": "t1_nobee0s",
+        "author": "Cautious-Bid-2969",
+        "score": 6,
+        "body": "Experience?"
+      },
+      {
+        "id": "t1_nobgabm",
+        "author": "",
+        "score": 5,
+        "body": "Increased gooning time from 30 min to 1 hr"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lbta7k",
+    "subreddit": "leetcode",
+    "title": "One year of leetcode",
+    "score": 1929,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1lbta7k/one_year_of_leetcode/",
+    "selftext": "Definitely more than I need for algo sections.",
+    "comments": [
+      {
+        "id": "t1_mxv9xqy",
+        "author": "Nikhilguleria124",
+        "score": 230,
+        "body": "Wtf happened in February"
+      },
+      {
+        "id": "t1_mxvbfre",
+        "author": "spacextheclockmaster",
+        "score": 176,
+        "body": "Being single on Valentine's Day was the extra boost he needed. Jk"
+      },
+      {
+        "id": "t1_mxvcfnh",
+        "author": "Nikitiwe",
+        "score": 123,
+        "body": "I discovered some MOOCs. I needed to learn how my language of choice was structured."
+      },
+      {
+        "id": "t1_mxvfali",
+        "author": "Nikitiwe",
+        "score": 84,
+        "body": "I’m trying to get an internship (I have zero experience apart from solving LeetCode and some MOOCs). It seems like no algorithm section can really stump me, but team interviews hit different."
+      },
+      {
+        "id": "t1_mxvlylc",
+        "author": "Dreezoos",
+        "score": 68,
+        "body": "Doing leetcode with c++ is playing hardcore mode"
+      },
+      {
+        "id": "t1_mxvkpke",
+        "author": "Nikitiwe",
+        "score": 52,
+        "body": "C++ Some non-English content, eqivanent to: Basics of Programming in C/C++ C++ Programming Object-Oriented Programming in C++ Data Structures"
+      },
+      {
+        "id": "t1_mxvk1re",
+        "author": "Dangerous-Basket-400",
+        "score": 46,
+        "body": "so you solved 5.32 questions daily on an average. Wow! I have been doing leetcode for over 3 years and have solved just over 600 questions."
+      },
+      {
+        "id": "t1_mxvqpp3",
+        "author": "Seth_Hu",
+        "score": 44,
+        "body": "aside from it's harder to debug, the c++ std algorithm library is actually the hidden easy mode for some hard lc problems out there, because it's not available in python or Java standard library"
+      },
+      {
+        "id": "t1_mxv9wgg",
+        "author": "EmbarrassedAf6996",
+        "score": 44,
+        "body": "Do you get interviews ? Are you able to solve most OA's"
+      },
+      {
+        "id": "t1_mxvbnei",
+        "author": "",
+        "score": 43,
+        "body": "Salute bro 🫡. I have been doing LeetCode consistently for about 6 months now and I have done 550 questions only so far. You have solved 1900+ questions in 365, that is incredible. Your contest rating is also really great, I have not been able to cross the 1900 rating so far."
+      },
+      {
+        "id": "t1_mxv8r89",
+        "author": "Independent-Fan-5885",
+        "score": 33,
+        "body": "Damn!! Mad Respect 🫡"
+      },
+      {
+        "id": "t1_mxvd12t",
+        "author": "Patzer26",
+        "score": 28,
+        "body": "Close to 1900 rating with 550 problems is also pretty incredible."
+      },
+      {
+        "id": "t1_mxvfcqw",
+        "author": "EmbarrassedAf6996",
+        "score": 22,
+        "body": "Thats good.Youd be fine."
+      },
+      {
+        "id": "t1_mxv9bb9",
+        "author": "ChapriRandi",
+        "score": 19,
+        "body": "Im just getting started with Leetcode, Im completely new (completety) , I suggested to start with Blind 75. At the first video of blind75 playlist , He was talking about Time and Space complexity , I don't even know what the freak it is , and watched some videos on Time complexity and space complexity, and in that videos they yapping about recursion, I also don't know what the freak it is. And the loop goes on. Help me with the structured way to start please or any resources would help me alot Thanks"
+      },
+      {
+        "id": "t1_mxvfk1r",
+        "author": "hyperactivebeing",
+        "score": 17,
+        "body": "Which language and which mooc?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1l0hiaq",
+    "subreddit": "leetcode",
+    "title": "Why not just Heapsort?",
+    "score": 1922,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1l0hiaq/why_not_just_heapsort/",
+    "selftext": "Why learn other sorting algorithms while Heapsort seems to be the most efficient?",
+    "comments": [
+      {
+        "id": "t1_mvdd07m",
+        "author": "Background_Share5491",
+        "score": 191,
+        "body": "Does heap sort not take O(n) space complexity? We have to build a heap. Edit: I just saw the inplace implementation of heap sort which involved manually implementing the heapify method. I've always used the collections framework to create a heap and used it to sort, when I had to heap sort."
+      },
+      {
+        "id": "t1_mvddeoi",
+        "author": "MrMrsPotts",
+        "score": 100,
+        "body": "According to that table, why not just count sort :)"
+      },
+      {
+        "id": "t1_mvdwc2s",
+        "author": "",
+        "score": 69,
+        "body": "I think mergesort is cool because it can be threaded"
+      },
+      {
+        "id": "t1_mvdeelu",
+        "author": "harshrox",
+        "score": 48,
+        "body": "Heap sort works in-place."
+      },
+      {
+        "id": "t1_mvegpfb",
+        "author": "noobie_explorer_101",
+        "score": 43,
+        "body": "Avg merge sort enjoyer"
+      },
+      {
+        "id": "t1_mvdflur",
+        "author": "_H3IS3NB3RG_",
+        "score": 30,
+        "body": "The input array can be heapified in place. Also, after the application of pop() method on the heap, the last position in the array becomes effectively vacant. We can put the pooped element at this position without impacting the subsequent heap operations in any way whatsoever. Edit: popped."
+      },
+      {
+        "id": "t1_mvdes0z",
+        "author": "navrhs",
+        "score": 22,
+        "body": "True 😅, that was the question... Why not simply pick the most efficient one, one tool for every job. From comments got to know that one tool isn't cut out for every job, at least not efficiently."
+      },
+      {
+        "id": "t1_mvdfgz3",
+        "author": "Background_Share5491",
+        "score": 17,
+        "body": "For the 4th point, can't I just override the comparator to define the order when the values are equal. And can you also elaborate more on the 3rd point?"
+      },
+      {
+        "id": "t1_mvdetze",
+        "author": "",
+        "score": 12,
+        "body": "why don't just take the input as a sorted array. problem solved!"
+      },
+      {
+        "id": "t1_mvdi54v",
+        "author": "ManChild1947",
+        "score": 11,
+        "body": "Heapify step itself puts it out of order, anything done after it cannot restore the order. The only way is to store the original index along with value, to keep it inorder, but then memory complexity will become O(n). As for the second point, all the linear sort algo work for very narrow use case, for ex counting sort works only when the range of input values are not significantly higher than the number of elements to be sorted."
+      },
+      {
+        "id": "t1_mvdokwj",
+        "author": "Silent-Treat-6512",
+        "score": 9,
+        "body": "Its not even a joke, I know you put it lightly but a decision of right data structure and use case greatly impact the solution. I was asked this question during an interview, and they said I can choose any existing DS or design my own to store certain data, I decided to use my own DS with in build sorting along with extra metadata this allowed me many operations at O(1) - that was many years ago so dont recall exact problem but I did got the job"
+      },
+      {
+        "id": "t1_mveho27",
+        "author": "Forsaken-Data4905",
+        "score": 9,
+        "body": "In practice you care about hardware constraints like cache lines (and cache hits). Severly memory bound algorithms like sorting are primarly limited by memory access. And then of course for very specific scenarios things can change (for example, you probably wouldn't use any of these on a GPU)."
+      },
+      {
+        "id": "t1_mvdde1x",
+        "author": "_fatcheetah",
+        "score": 7,
+        "body": "Don't believe everything you see."
+      },
+      {
+        "id": "t1_mvfkngw",
+        "author": "bartekltg",
+        "score": 7,
+        "body": "TL;DR is both: because qsort is faster in the average case and heapsort IS there in the sort helping us, simultaneously. Heapsort very often sits in sort algorithms provided by the library. But it is placed in the \"second row\", as a backup for quicksort. It is a combo (called introsort): The core is qsort, often with the median of three pivot. Short subarraries are delegated to insertion sort. The depth of qsort recursion is monitored, and if it goes too deep, the algorithm decides \"this isn't going well\" and then start our heapsort instead. Why not to go directly to heapsort? Because in the average case, both algorithm are O(n log(n)), and qsort has smaller constant. In other words, quicksort proves its name and it is slightly, but noticeable faster for average, \"real\" data. And thanks to the heapsort fallback, the worst case is still O(n log(n)). BTW. Many people mentioned here the disadvantage of heapsort is te need for O(n) memory *), that we need a separatre heap structure. This is NOT true. One of the advantages od binary (d-ary) heaps is they are easy to implement on a regular array, and one of the advantages of heapsort is that we build the heap on the same array we are sorting. One of the \"tricks\" is, heap is always a full binary tree. This is a fancy name for a binary three, where all but the last layer are fully filled, and the last layer is filled from the left, without gaps (if the last layer is partially filled, all existing nodes will be before the empty ones). This allow us to put the whole heap into a continous array. Put the first layer (one element), after it put the second layer, and so on. There will be no gaps and a heap with k elements will take k entries in the array. How to get the tree structure? If a node is at the index i in the array, its children are at 2i+1 and 2i+2. The parent of that node is at (i-1)/2. (it is even nicer if we start indexing from 1, but lets not do that;-) ). So, how heapsorting looks like. We get an array. Then, we run a nice small algorithm (heapify) that in linear time (not more than 3N comparisons ( c++ lib )) rearranges array element, so they create a heap. Creating a heap by inserting elements to a heap would take O(n long ). Now, the whole array , srom arr[0] to arr[n-1] is a heap. The largest element is at arr[0]. Lets take it out to the side (perform the \"pop\" on the heap). Now heap is on arr[0...n-2] subarray. We can insert the largest elemet to arr[n-1]! Pop another mac element, and put it to, now free, arr[n-2]. Doing it n times we get the array sorted. *) what is even more stunning, since the nice table provided by OP mentions heapsort is O(1) memory! Better that quicksort:)"
+      },
+      {
+        "id": "t1_mvfw01o",
+        "author": "LGm17",
+        "score": 5,
+        "body": "Heapsort I believe struggles with cache affinity (poor locality with memory due to swaps)."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ocbqxq",
+    "subreddit": "leetcode",
+    "title": "That's why leetcode is so important",
+    "score": 1919,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1ocbqxq/thats_why_leetcode_is_so_important/",
+    "selftext": "https://preview.redd.it/c5tk5jx4ykwf1.png?width=800&format=png&auto=webp&s=46c17758d7ac2f37fd9e58e112acf159e95b9a18 solves outages!",
+    "comments": [
+      {
+        "id": "t1_nklcgln",
+        "author": "Timotron",
+        "score": 297,
+        "body": "Lgtm"
+      },
+      {
+        "id": "t1_nkldhio",
+        "author": "FitSheep",
+        "score": 178,
+        "body": "5 hard should only take them 2hr."
+      },
+      {
+        "id": "t1_nkloygm",
+        "author": "groovy_monkey",
+        "score": 127,
+        "body": "leetcode gets the money"
+      },
+      {
+        "id": "t1_nkmn9ct",
+        "author": "HobbyProjectHunter",
+        "score": 67,
+        "body": "Umm … no 110 minutes. Need to leave 10 minutes to ask questions."
+      },
+      {
+        "id": "t1_nklnadi",
+        "author": "never_exist0000",
+        "score": 60,
+        "body": "Leetcode hard with 10% acceptance rate."
+      },
+      {
+        "id": "t1_nkpfgj2",
+        "author": "Vegetable_Clerk7328",
+        "score": 59,
+        "body": "Design AWS I, II, III, IIII, and IIIII"
+      },
+      {
+        "id": "t1_nklcjs4",
+        "author": "Witty-Sympathy-4682",
+        "score": 52,
+        "body": "yeah no shit lmao"
+      },
+      {
+        "id": "t1_nklqkkl",
+        "author": "Hipped_Orange22",
+        "score": 45,
+        "body": "Let's go to Mars."
+      },
+      {
+        "id": "t1_nkldoor",
+        "author": "Elegant_Jellyfish_96",
+        "score": 21,
+        "body": "lol 😂😂😂"
+      },
+      {
+        "id": "t1_nkrf1os",
+        "author": "eilatc",
+        "score": 19,
+        "body": "He didn’t solved Roman to Integer 🤓"
+      },
+      {
+        "id": "t1_nkm8w95",
+        "author": "Confident_Steak_4802",
+        "score": 17,
+        "body": "What are those 5 problems?"
+      },
+      {
+        "id": "t1_nkomalw",
+        "author": "bear_trap_inn",
+        "score": 15,
+        "body": "Not just solving them… they can’t f** up the time and space complexity. Otherwise it add 108 mins of additional downtime!"
+      },
+      {
+        "id": "t1_nkly6rj",
+        "author": "MaximumSupermarket80",
+        "score": 12,
+        "body": "Dammit. Now that’s how I’m going to read it on every PR. I wish I could unsee this."
+      },
+      {
+        "id": "t1_nkqwmy1",
+        "author": "jules_viole_grace-",
+        "score": 12,
+        "body": "🤔 - IV"
+      },
+      {
+        "id": "t1_nkmudsz",
+        "author": "Entire-Box-8210",
+        "score": 8,
+        "body": "lgtm. ship it 🚀"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mce28b",
+    "subreddit": "leetcode",
+    "title": "[Breaking] Interviews at FAANG will no longer focus on LeetCode, instead they will leverage real world skills using AI.",
+    "score": 1916,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1mce28b/breaking_interviews_at_faang_will_no_longer_focus/",
+    "selftext": "Meta has already started the process of phasing out LeetCode, and instead having candidates do real world tasks during the onsite, where AI use is allowed: https://www.wired.com/story/meta-ai-job-interview-coding/ “AI-Enabled Interviews—Call for Mock Candidates,” a post from earlier this month on an internal Meta message board reads. “Meta is developing a new type of coding interview in which candidates have access to an AI assistant. This is more representative of the developer environment that our future employees will work in, and also makes LLM-based cheating less effective.” Amazon is another FAANG who has said through internal memos that they will change the interview process away from LeetCode, and focus on AI coding instead, with an emphasis on real-world tasks. Other FAANGs, and hence other tech companies are likely to follow. What this means: The focus will shift away from LeetCode and algorithmic type questions. Instead, the candidate will need actual engineering skills that are representative of real world work.",
+    "comments": [
+      {
+        "id": "t1_n5t9zh9",
+        "author": "Objective_Aioli3267",
+        "score": 661,
+        "body": "Damn looks like connections and your school are going to matter now more than ever"
+      },
+      {
+        "id": "t1_n5t310s",
+        "author": "SoulCycle_",
+        "score": 406,
+        "body": "Its an exploratory measure nothing guaranteed"
+      },
+      {
+        "id": "t1_n5t608c",
+        "author": "gdinProgramator",
+        "score": 265,
+        "body": "Yeah heard this one before, 6 months ago, and a year ago. It will happen in 5 years maybe."
+      },
+      {
+        "id": "t1_n5u3n2k",
+        "author": "IntroductionStill813",
+        "score": 215,
+        "body": "Think recent grad with no experience (no internship) how would they solve a real-world problem with no knowledge of domain or best practices etc. This is great news for experience devs. A hybrid approach might be a good middle ground esp keeping in mind the leveling for the role."
+      },
+      {
+        "id": "t1_n5tggc9",
+        "author": "storeboughtoaktree",
+        "score": 172,
+        "body": "whether you went to a top 5 cs school or not"
+      },
+      {
+        "id": "t1_n5t6qb1",
+        "author": "serkono",
+        "score": 157,
+        "body": "good,leetcoding is trash"
+      },
+      {
+        "id": "t1_n5t94o1",
+        "author": "",
+        "score": 96,
+        "body": "What's shameful in practising a skill that has almost a guaranteed chance of multiplying your salary. Did you get rejected in a leet code round? I have no skin in the game yet, I haven't started my grind"
+      },
+      {
+        "id": "t1_n5tfrzg",
+        "author": "",
+        "score": 82,
+        "body": "I don't get why people are happy about this. With leetcode, you have at least a chance to break into faang, with hard work. What will it be replaced with? You can't narrow the vast pool of candidates down enough by just filtering with testing on-the-job-skills. A lot fewer people will fail these tests, unlike leetcode, so how will they filter out enough people? They will do this with the reputation of the college you went to and the grades you got there. People who didn't have enough money to go to the most prestigious universities won't get a chance anymore. I also grant that the skills you aquire doing leetcode are largely useless. But it gives people with less impressive CVs a chance to compete with people who had been more fortunate"
+      },
+      {
+        "id": "t1_n5t3xqc",
+        "author": "Perfect_Kangaroo6233",
+        "score": 67,
+        "body": "Really doubt that this will happen."
+      },
+      {
+        "id": "t1_n5u2ffe",
+        "author": "OkAuthor5971",
+        "score": 64,
+        "body": "How so?"
+      },
+      {
+        "id": "t1_n5tbop4",
+        "author": "Al_Pallll",
+        "score": 61,
+        "body": "As another commenter mentioned - my issue is that the current system encourages candidates to spend lots of time memorizing these BS algorithm tricks that have almost no practical application at the actual job. I have been a FAANG engineer with high performance reviews for literally my entire career. I did some practice LC questions last time I was considering a job switch, and did poorly. How does it make sense that I, a high-performing FAANG engineer with years of experience, does worse in SWE interviews than unemployed new grads with no practical experience, but hours on Leetcode? It's just a shitty heuristic that makes the hiring process miserable and useless for everyone."
+      },
+      {
+        "id": "t1_n5t8pzf",
+        "author": "",
+        "score": 60,
+        "body": "Can someone elaborate on real world skills"
+      },
+      {
+        "id": "t1_n5vrrgf",
+        "author": "CeleryConsistent8341",
+        "score": 58,
+        "body": "People with less experience like LeetCode because it artificially boosts their perceived skill level. However, if you work at a large tech company for several years, what you really learn is how to navigate the internal technology and organizational structure. You learn by doing, and you tend to do more when working at a smaller company. If you look at open source projects and white papers, the core teams are usually small, while everyone else serves as necessary support to keep the operation running."
+      },
+      {
+        "id": "t1_n5tmmte",
+        "author": "DankKid2410",
+        "score": 56,
+        "body": "Wasn't there a FAANG employee from meta who talked about AI assisted coding interviews a few weeks back on this sub? I can't remember the post but I remember the comments where that meta guy confirmed this."
+      },
+      {
+        "id": "t1_n5t461y",
+        "author": "SoulCycle_",
+        "score": 51,
+        "body": "i literally talked to one of the leaders on workplace last week and he told me it was exploratory"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lp1ix5",
+    "subreddit": "leetcode",
+    "title": "A Straightforward Guide To Getting Your First FAANG Offer",
+    "score": 1827,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1lp1ix5/a_straightforward_guide_to_getting_your_first/",
+    "selftext": "Edit: Thank you all for the overwhelming support and response to this guide. A lot of you have asked me for personal resume reviews, and I did over a 100 by now. I, however will not be doing so going forward. But don't worry, I am not hanging you out to dry. I have finally posted A Straightforward Guide To Building A FAANG Ready Resume which contains all my knowledge and insights about resumes. I will still reply to queries more general in nature in the comments or DMs. All I ask is to ask a question instead of a vague \"Please guide me\". Thank you guys again for all the support. Cheers! I have created this guide with a lot of research, feedback, trial and error, and customisation. I have personally used this to secure an offer at a FAANG company. I'll be using some terms in this guide: This guide will be mainly targeting two candidate groups: L4 and below (<4-5 YOE) and L5 and above (>4-5 YOE). Some section maybe be only applicable to specific candidate groups which I will explicitly call out. I'll also mention cooldowns at every stage in case you get rejected. How to Apply: The best way by far is to directly apply on the company job portal. Ex: Amazon Jobs, Google Careers, etc. Make sure your resume is well prepared. Resume prep is out of the scope of this guide, and I might post a guide on that too some time down the line, if there's interest. Be sure to apply ONLY after are confident in your preparation, since rejection will put you on a cooldown. Sometimes, you may get lucky, and a recruiter may contact you themselves. Google and Amazon do this often. Note about Cooldown: First let's talk about what a cooldown is. A cooldown is a time period, where you cannot apply to the company. The system will auto-reject your application. Please, don't try to game the system to bypass the cooldown period by changing emails, numbers or other info. The system already accounts for this, and can potentially permanently blacklist you, right from the parent company to all this sub",
+    "comments": [
+      {
+        "id": "t1_n0rjilv",
+        "author": "Grimm_170",
+        "score": 83,
+        "body": "Just need a resume prep guide for different people like ones with no experience do they even have a chance of getting shortlisted"
+      },
+      {
+        "id": "t1_n0rutqn",
+        "author": "thisisshuraim",
+        "score": 41,
+        "body": "As mentioned in my guide, I might make a guide for resumes later on, but if you need immediate help, feel free to DM."
+      },
+      {
+        "id": "t1_n0rmob9",
+        "author": "adjustable_time",
+        "score": 24,
+        "body": "Imma save this post"
+      },
+      {
+        "id": "t1_n0rl89m",
+        "author": "alpha_centauri9889",
+        "score": 19,
+        "body": "Very helpful guide. Does anyone have similar guide for DS/MLE roles as well? For MLE I assume it aligns closely with software roles."
+      },
+      {
+        "id": "t1_n0rffgt",
+        "author": "gladstew",
+        "score": 16,
+        "body": "Excellent post…. Very descriptive…."
+      },
+      {
+        "id": "t1_n0rum3u",
+        "author": "thisisshuraim",
+        "score": 15,
+        "body": "Unfortunately, I'm not in that domain. Hope someone gets inspired by my guide, and develops guides for all domains."
+      },
+      {
+        "id": "t1_n0sv7ri",
+        "author": "thisisshuraim",
+        "score": 10,
+        "body": "Good question. Probably would have been a good idea to add it in the guide. There's no correct answer for this. If you're very early in your prep, don't apply yet. But if you're feeling good about yourself, or you're done with the roadmap, definitely start applying. There's no perfect time to start. Just start."
+      },
+      {
+        "id": "t1_n0rpjv1",
+        "author": "alwaysSearching23",
+        "score": 7,
+        "body": "Most of the solutions on HelloInterview are solid but there are a couple outliers that wouldn't pass the interview. For example, look at their top k article / video and the comment section doesn't exactly praise it: \"Unfortunately, this video left me with a lot of unanswered questions, as some portions seemed intentionally or unintentionally hand wavy. This is one of the most confusing videos on the channel.\" \"Personally, I think this video was all over the place and even though some ideas are valid, I think a coherent design was not landed.\" \"The time window aggregation part went completely over my head\" \"The windowing part is too hard to follow. I would instead lean on some data streaming solution and storing into persistent DB at frequent intervals.\" \"Unfortunately, this video left me with a lot of unanswered questions, as some portions seemed intentionally or unintentionally hand wavy. This is one of the most confusing videos on the channel.\""
+      },
+      {
+        "id": "t1_n0y6s0s",
+        "author": "EfficiencyNervous132",
+        "score": 5,
+        "body": "Saved to never use.. yeah I feel you"
+      },
+      {
+        "id": "t1_n0s7gci",
+        "author": "dbh575",
+        "score": 5,
+        "body": "At what point in your guide should someone start applying to the jobs?"
+      },
+      {
+        "id": "t1_n0rt01e",
+        "author": "thisisshuraim",
+        "score": 5,
+        "body": "My phrasing might be wrong. I just wanted to separate prep for juniors and seniors."
+      },
+      {
+        "id": "t1_n0s9k6l",
+        "author": "netherpie",
+        "score": 3,
+        "body": "2025 grad currently working in a startup as a MLE so i wanted some guidance regarding applying for DS/MLE roles in FAANG+, but overall this post was very informative, thank you very much."
+      },
+      {
+        "id": "t1_n0rlml0",
+        "author": "Prestigious_Ad8950",
+        "score": 3,
+        "body": "could you please share me Amazon LLD interview questions if possible?"
+      },
+      {
+        "id": "t1_n0ruf17",
+        "author": "thisisshuraim",
+        "score": 3,
+        "body": "As mentioned in my guide, you can search on this sub and leetcode discuss section. For example, for Amazon, some popular LLD questions are to design a file system, locker system, parking lot, etc."
+      },
+      {
+        "id": "t1_n0rgj9q",
+        "author": "Simple_Still1423",
+        "score": 2,
+        "body": "great content sir, very informative"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1myur1n",
+    "subreddit": "leetcode",
+    "title": "What DATA STRUCTURE is \"Solution by IITian\" ?",
+    "score": 1824,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1myur1n/what_data_structure_is_solution_by_iitian/",
+    "selftext": "Problem is from today's weekly contest, Jump Game IX.",
+    "comments": [
+      {
+        "id": "t1_naemtfx",
+        "author": "MentalWolverine8",
+        "score": 1255,
+        "body": "Imagine being starved for attention so much that you'd have to resort to using your college's name to get a tiny morsel of it. Fucking pathetic."
+      },
+      {
+        "id": "t1_naepv0x",
+        "author": "Fantastic_Fun3390",
+        "score": 175,
+        "body": "Well sadly they actually stole all the aura :(. Our society gives massive respect on the name of IIT. Literally they can just show up with no skills and grab an internship or a job. I still don't know the actual field reality, but I have seen them getting everything just on the name of their college, literally everything..."
+      },
+      {
+        "id": "t1_naerrl0",
+        "author": "Mindless-Pilot-Chef",
+        "score": 160,
+        "body": "Adding a keyword “IIT” updates runtime of any algorithm to O(1)."
+      },
+      {
+        "id": "t1_naem8hd",
+        "author": "PlasticFuzzy8273",
+        "score": 133,
+        "body": "This is hilarious lmaoooo"
+      },
+      {
+        "id": "t1_naeo1vx",
+        "author": "StandardWinner766",
+        "score": 119,
+        "body": "I know which solution not to look at so it’s still a useful title tag."
+      },
+      {
+        "id": "t1_naemkom",
+        "author": "anonymous010103",
+        "score": 117,
+        "body": "Fucking embarrassing"
+      },
+      {
+        "id": "t1_naeq5v1",
+        "author": "Infiniti_151",
+        "score": 98,
+        "body": "Bro cracked one entrance exam and thinks he's god now lol"
+      },
+      {
+        "id": "t1_naesdj1",
+        "author": "Feeling-Schedule5369",
+        "score": 77,
+        "body": "Iit works as a credibility status socially. It says that the candidate has \"worked hard\" at least at one point in their life."
+      },
+      {
+        "id": "t1_naf9syl",
+        "author": "Brrrapitalism",
+        "score": 68,
+        "body": "This post has been anonymized and deleted using Redact . The reason could be privacy protection, security, preventing content scraping, or personal data management. fuel detail station cable scary rinse cover placid cautious outgoing"
+      },
+      {
+        "id": "t1_nafgy18",
+        "author": "",
+        "score": 60,
+        "body": "An MIT solution will be published as a paper"
+      },
+      {
+        "id": "t1_naesz2h",
+        "author": "Asoka_Samrat",
+        "score": 58,
+        "body": "these guys are actual reason nobody knows iit outside south asia lmao"
+      },
+      {
+        "id": "t1_naf3y22",
+        "author": "Zestyclose-Aioli-869",
+        "score": 55,
+        "body": "Hey peeps from the US, it's your time to humble us. Where's your MIT University solution ? /s"
+      },
+      {
+        "id": "t1_naf9n38",
+        "author": "cheeepdeep",
+        "score": 37,
+        "body": "how do you know someone went to iit? they’ll tell you"
+      },
+      {
+        "id": "t1_naewb5n",
+        "author": "keesy1",
+        "score": 28,
+        "body": "is the fake MIT for indians"
+      },
+      {
+        "id": "t1_naenvni",
+        "author": "RabbitElectronic5163",
+        "score": 24,
+        "body": "why mess iit tag. And trust me, this guy would be someone from palakkad or some new iit"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1pb1gf1",
+    "subreddit": "leetcode",
+    "title": "the grass really is greener - grateful @ Google",
+    "score": 1806,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1pb1gf1/the_grass_really_is_greener_grateful_google/",
+    "selftext": "hey all, long time lurker in this sub, using a throwaway account. i started at Google as an L3 SWE about 6 months ago, and just wanted to share some positive things i’ve noticed, both to give some hope and to practice a bit of gratitude after a long grind to get here. this is a long post and a humblebrag so feel free to not read any of this. background: 28yo asian male. worked as an aerospace eng for a few years, pivoted using a CS masters, then worked at a smaller tech company before G. currently in a chill org with moderate impact. not cloud, ads, or AI. i've grinded leetcode for about 2 years, 700+ problems solved, 1750 contest rating. disclaimer: these observations and opinions are purely my own. i'm aware that Google is a massive company, and experiences between engineers can be vastly different depending on team. after 6 months at Google, i’ve noticed several ways that working here has improved my life. i think i’m lucky to have seen/worked at both an entirely different industry and a smaller tech company first. it has provided me a good baseline of how the other side lives, which a lot of people who joined big tech right out of school might not have. there is a lot of talk on reddit/blind about how big tech can be a nightmare, but honestly, my experience has been the opposite. — 1.   financial worries have ceased to exist i made a decent living in aero (130k) and at the smaller tech company (110k). this year at G, i am on track to make over 250k. the important thing is that although my TC doubled, the amount i save each month is closer to 7-8x what i saved before. i went from saving about 1k per month to closer to 8k. it is a huge shift. i went from feeling guilty about nights out with friends, expensive dates, small nice-to-have purchases to not really thinking twice about it. that alone was a huge weight off my shoulders. 2.   people treat me differently I never really flexed where I worked / went to school, and never appreciated those who showboa",
+    "comments": [
+      {
+        "id": "t1_nrndnxn",
+        "author": "GrayLiterature",
+        "score": 519,
+        "body": "Glad you love your job at one of the top tech companies in the world lol it’s crazy that every meaningful metric in your life has improved as a result of doubling your TC. "
+      },
+      {
+        "id": "t1_nrnf1o6",
+        "author": "",
+        "score": 160,
+        "body": "Happy for you. No matter what ppl say Google is a dream for many and you are getting to live it. Enjoy your time here."
+      },
+      {
+        "id": "t1_nrnhys5",
+        "author": "CLR833",
+        "score": 110,
+        "body": "You say as if it's a given, but if the work life balance is absolute shit, like people claim from other faangs, doubling your tc will.not improve every metric"
+      },
+      {
+        "id": "t1_nrne66c",
+        "author": "Short-Cow-4722",
+        "score": 104,
+        "body": "Congrats!! Enjoy your new life at Google, you earned it!"
+      },
+      {
+        "id": "t1_nrne43y",
+        "author": "-AnujMishra",
+        "score": 81,
+        "body": "I d k why, this post makes me feel light and happier. It just amazes me how one nice environment can definitely change whole persona, health, quality of life."
+      },
+      {
+        "id": "t1_nrnh7hi",
+        "author": "AQJK10",
+        "score": 77,
+        "body": "it's not a humble brag. it's an explicit brag and OP isn't trying to portray it otherwise. i respect it."
+      },
+      {
+        "id": "t1_nrnhnp7",
+        "author": "WhyYouLetRomneyWin",
+        "score": 74,
+        "body": "Nice! Absolutely none of my friends or women care that I work at meta. Did I choose the wrong employer?"
+      },
+      {
+        "id": "t1_nrnibw8",
+        "author": "stinker-294",
+        "score": 64,
+        "body": "maybe i’m hanging out with the wrong people tbh LOL"
+      },
+      {
+        "id": "t1_nrne8qc",
+        "author": "PiccoloTop2202",
+        "score": 62,
+        "body": "It's just 6 months only. wait for some more time to write this detailed post."
+      },
+      {
+        "id": "t1_nrnmf03",
+        "author": "Small_Ad1136",
+        "score": 49,
+        "body": "I think if anything they’re hanging around the right people. People who care too much about where you work or how much money you make are shallow and make for hollow relationships."
+      },
+      {
+        "id": "t1_nrnjxrr",
+        "author": "nocturnal316",
+        "score": 47,
+        "body": "Why would you date a women who brags about where you work? They don't want you for you. And they probably won't want you when you get laid off"
+      },
+      {
+        "id": "t1_nrnjlws",
+        "author": "",
+        "score": 36,
+        "body": "As a newer Noogler than you, I totally agree with everything you said. I have heard a lot of people say that Google's culture has gone downhill but having worked in multiple companies before, this is still much much better than any other company out there."
+      },
+      {
+        "id": "t1_nrnqc3v",
+        "author": "Thanosmiss234",
+        "score": 33,
+        "body": "Damn, it sounds like you have a lot of shallow friends and family members. You can literally lose your job tomorrow via layoff or pip (boss don't like you)! 1) Save your money. 2) Find girl that would like you and love if you didn't work at google!"
+      },
+      {
+        "id": "t1_nro9hs3",
+        "author": "",
+        "score": 27,
+        "body": "A lot of articles these days are about how FAANG jobs suck and you're better off not taking them. Honestly, I think a lot of them are written by privileged people."
+      },
+      {
+        "id": "t1_nrnmlxh",
+        "author": "nocturnal316",
+        "score": 27,
+        "body": "I saw this a lot in the Bay Area too. Even women bragging about their boyfriends working at Google, just to find out they were gym trainers at Google gym lol. It's really a weird place to date in silicone Valley."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rhpl6g",
+    "subreddit": "leetcode",
+    "title": "Finally got it after a lot of struggle! (not an SDE)",
+    "score": 1775,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1rhpl6g/finally_got_it_after_a_lot_of_struggle_not_an_sde/",
+    "selftext": "This was 4 month long wait, in the meanwhile i joined a startup as well, left it in two weeks and was anxious if i was gonna get it or not but HERE WE GO🥳🥳",
+    "comments": [
+      {
+        "id": "t1_o80e62o",
+        "author": "Know_Your_Place_Worm",
+        "score": 169,
+        "body": "Congratulations OP 🎉🎉. Btw which role if not SDE ?"
+      },
+      {
+        "id": "t1_o80eley",
+        "author": "Maximal_Bookworm",
+        "score": 127,
+        "body": "Technical Consultant!"
+      },
+      {
+        "id": "t1_o80g035",
+        "author": "Maximal_Bookworm",
+        "score": 86,
+        "body": "Interviews were totally based on my resume, which was related to Networking, Cloud, and other general work handling stuff"
+      },
+      {
+        "id": "t1_o80ilpt",
+        "author": "Jo_hai_sahi_h",
+        "score": 65,
+        "body": "I am absolutely angry on a guy who posted shit above abt his father being district collector and all. In all fairness, any job be it SDE or not is hard earned and deserves all the praise you can get. Many congratulations and wish you many more tremendous years ahead OP."
+      },
+      {
+        "id": "t1_o80f22l",
+        "author": "emteedub",
+        "score": 43,
+        "body": "What was that interview in general like? What were the major requirements?"
+      },
+      {
+        "id": "t1_o810gyl",
+        "author": "brokolinoo",
+        "score": 17,
+        "body": "If it’s a technical consultant in ISD - Then Runnnnnnnnn 🏃‍♂️"
+      },
+      {
+        "id": "t1_o80qsht",
+        "author": "Maximal_Bookworm",
+        "score": 14,
+        "body": "Very true! Need more people like you :) And to be very honest, I have never been the one to flex on my father’s position or whatever (as one should not as well lol), many people like his father and minister’s etc come to mine requesting for their work to be done but i simply do not care. And whenever people flex like this I really laugh at their faces and just point how fragile their egos really are ;)"
+      },
+      {
+        "id": "t1_o80ha4k",
+        "author": "Maximal_Bookworm",
+        "score": 13,
+        "body": "It is i won’t sugarcoat, i also had a gap of a few months as well so yeah, feels really good to land something!"
+      },
+      {
+        "id": "t1_o80ewli",
+        "author": "datarocksy",
+        "score": 13,
+        "body": "Congratulations OP! When did you hear back from Microsoft after your final loop?"
+      },
+      {
+        "id": "t1_o82m6yk",
+        "author": "Complete_Baker6985",
+        "score": 7,
+        "body": "I am interested in similar position, I have sent DM to you. Please check"
+      },
+      {
+        "id": "t1_o80h34v",
+        "author": "Ok_Parsley4902",
+        "score": 7,
+        "body": "Congrats, Can u share ur resume with me, it will help a lot to tune my resume"
+      },
+      {
+        "id": "t1_o80gygr",
+        "author": "impulse_op",
+        "score": 6,
+        "body": "Congratulations man. Just wanted to tell that I have a senior engineer in my team who I look upto and she started just like you at MS."
+      },
+      {
+        "id": "t1_o811soq",
+        "author": "Maximal_Bookworm",
+        "score": 4,
+        "body": "Haha we’ll see xD"
+      },
+      {
+        "id": "t1_o80h7ld",
+        "author": "Maximal_Bookworm",
+        "score": 4,
+        "body": "Heard about 3 days ago!"
+      },
+      {
+        "id": "t1_o811sjn",
+        "author": "Know_Your_Place_Worm",
+        "score": 3,
+        "body": "Ohh Great OP 🎉🎉"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1p83oyk",
+    "subreddit": "leetcode",
+    "title": "I failed Google interviews twice before succeeding. Then I interviewed dozens of candidates. Here is why people fail.",
+    "score": 1757,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1p83oyk/i_failed_google_interviews_twice_before/",
+    "selftext": "Before getting accepted to Google I actually failed the interviews twice. I have a background in applied mathematics, and I did a lot of competitive programming. But I always had one interview with a basic concept one should know (like unit tests), that I didn't at the time. I actually decided to go on and start a degree in computer science to learn more, and finally I passed the interviews. After I joined Google, I used GDPR to request the interview feedback logs from my previous failed attempts (this works in the EU). Reading the interviewers' raw notes was interesting for sure. It confirmed exactly where I had been going wrong, I got insights I wish I had known years earlier. Insights that most people don't really focus on. When I started working at Google I quickly wanted to start interviewing people. After 6 months working there one can start interviewing. I interviewed people for L3 and L4 level positions. Based on my dozens interviews, here are the reasons why most people fail: 1. Not clarifying requirements. This is in my experience the number one thing leading to rejections, especially in the later rounds. A lot of candidates assume things about the problem and start implementing a solution to the wrong problem. The reality: You are intentionally not given all the information. They try to find out if you can spot ambiguity. This is an essential skill for an engineer, the importance of this cannot be stressed enough. The fix: Don’t rush to write code. Make sure you understand the problem first. Ask if you need to check against edge cases (empty input etc), don’t just assume. 2. Not being quick enough. The Google interview problems are not the most difficult, but they require fluency. The issue for candidates is usually not to come up with the idea, it’s to implement it. I had numerous candidates who stumbled when implementing a breadth-first search algorithm. If you interview with Google you should be able to comfortably implement these more basic algo",
+    "comments": [
+      {
+        "id": "t1_nr26jw4",
+        "author": "PM_ME_YOUR_IBNR",
+        "score": 378,
+        "body": "Making a GDPR request to your company is ballsy"
+      },
+      {
+        "id": "t1_nr25b0i",
+        "author": "ITS_ANGER_TIME",
+        "score": 295,
+        "body": "I'm literally interviewing people this week and it's not so much people failing but we don't have enough positions for them. We have 4 strong hires for 1 spot (and countless \"hires\") and we ré so fucking Sad to not take them. But there's nothing we (the team) can do. You know what's even more weird? Interviewing people who you know aren't gonna make it, though are better than what got me hired 5y back on the same internship position. Anyway this whole post smells AI to me."
+      },
+      {
+        "id": "t1_nr27z3z",
+        "author": "magicsign",
+        "score": 66,
+        "body": "This is gold, I also got rejected multiple times before joining Meta by other maangs. The first three points are crucial. I worked a LOT to improve myself on these. My biggest mistake I didn't realise how quickly I was jumping to the code before clarifying properly all the requirements. Communication is key, my wife helped me a lot (she was a a program manager at Amazon) by listening to me while I was explaining my solutions. Ultimately I got hired, during also one of the toughest period of my life (health issues), motivation is key guys."
+      },
+      {
+        "id": "t1_nr263m2",
+        "author": "bdudisnsnsbdhdj",
+        "score": 65,
+        "body": "It’s great to see this empathy"
+      },
+      {
+        "id": "t1_nr2e253",
+        "author": "UniverseNode",
+        "score": 61,
+        "body": "Can you do that request as a non-employee? It’s your data at the end of the day"
+      },
+      {
+        "id": "t1_nr276r2",
+        "author": "Striker-9999",
+        "score": 54,
+        "body": "All that matters in India is that you previously worked at a faang or are from a Tier 1/2 college:) Atleast 95% of the time."
+      },
+      {
+        "id": "t1_nr2hq2t",
+        "author": "External-External-55",
+        "score": 52,
+        "body": "When you send the request they actually ask you if you really want/need it because they need to redact quite some info from the feedback"
+      },
+      {
+        "id": "t1_nr2hu8t",
+        "author": "External-External-55",
+        "score": 41,
+        "body": "I would think so, but can't say for sure"
+      },
+      {
+        "id": "t1_nr2kful",
+        "author": "Interesting_Race_862",
+        "score": 25,
+        "body": "Great insight, thanks for sharing! If you are using Python, use list comprehension instead of a for-loop to transform a list. This kinda boils down to personal preference, as list comprehension sometimes can get quite confusing."
+      },
+      {
+        "id": "t1_nr2z01u",
+        "author": "No-Seat8816",
+        "score": 23,
+        "body": "Why would they need to redact anything at all lol"
+      },
+      {
+        "id": "t1_nr2rznp",
+        "author": "the_pwnererXx",
+        "score": 23,
+        "body": "That's just for getting an interview"
+      },
+      {
+        "id": "t1_nr3986q",
+        "author": "epilif24",
+        "score": 22,
+        "body": "Yes, it's your right. The rule of thumb, do they have data on you? Then yes you can request it"
+      },
+      {
+        "id": "t1_nr2noxv",
+        "author": "External-External-55",
+        "score": 22,
+        "body": "Yeah it has definitely become more competitive to land a job right now. I consider myself lucky to have done the interviews before the hiring freeze at the end of 2022."
+      },
+      {
+        "id": "t1_nr2niax",
+        "author": "BigRedThread",
+        "score": 20,
+        "body": "Agree this post seems like AI, just a generic response for where candidates may falter in the interview. Doesn’t seem like Google specific insight"
+      },
+      {
+        "id": "t1_nr2ejpq",
+        "author": "popica312",
+        "score": 13,
+        "body": "Also a right to the interviewee. If they won't give you any feedback, might as well be THAT GUY"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1oibm87",
+    "subreddit": "leetcode",
+    "title": "That’s unbelievable!",
+    "score": 1734,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1oibm87/thats_unbelievable/",
+    "selftext": "I don’t even know what to say… All those people who give their everything their time, their peace, their joy just to make it into these so-called big organizations… the ones who stay up late, sacrifice moments of happiness, and push themselves beyond limits, believing it will all be worth it someday. And then, in the end, it’s over before you even realize it like it all passed in the blink of an eye.",
+    "comments": [
+      {
+        "id": "t1_nluexbw",
+        "author": "Mindrust",
+        "score": 273,
+        "body": "I count my blessings every day that I got rejected from Amazon. Company gives zero fucks about people. EDIT: Fine, multi-billion dollar companies generally don't give a fuck about people. But Meta and Amazon are the absolute worst in terms of layoffs and their cut-throat grind cultures."
+      },
+      {
+        "id": "t1_nlu8gfi",
+        "author": "azimovgrbn",
+        "score": 242,
+        "body": "I always wonder are these tech related guys or not? If mixed, I wonder how much percent of them tech related"
+      },
+      {
+        "id": "t1_nlucdmk",
+        "author": "FarAnalyst",
+        "score": 122,
+        "body": "30,000 job cuts to push investments for AI. Like how deep are they going into this AI rabbit hole. If it isn't about eradicating world hunger or finding a cure for cancer, I am not convinced."
+      },
+      {
+        "id": "t1_nlumzll",
+        "author": "Winter-Statement7322",
+        "score": 106,
+        "body": "Amazon made $59.2B in net profit in 2024 btw"
+      },
+      {
+        "id": "t1_nluf35a",
+        "author": "DefiantSoftware1986",
+        "score": 94,
+        "body": "Yes, they are tech related as well. I see SDE1,2s that were let go."
+      },
+      {
+        "id": "t1_nluq3le",
+        "author": "Even-Exchange8307",
+        "score": 82,
+        "body": "Why does it matter? Workers are workers. No one is safe, that’s why solidarity matters across the work spectrum "
+      },
+      {
+        "id": "t1_nludi5u",
+        "author": "Fluid-Ad-8861",
+        "score": 73,
+        "body": "I worked at Amazon from 2014 to 2024. The company vastly over-hired low talent employees. There were like 20,000 corp employees when I started and there were like 350,000 when I left and yet it felt like we got even less done and had less vision. This has basically nothing to do with AI. Anyone laid off for AI (which is rare if happening at all) was laid off because a VP hired hundreds of manual spreadsheet copy pasters to expand their empire rather than build a proper process. The over hiring was similarly because Amazon has a broken career progression culture. You must always be progressing or you face being pushed out, and the only way to progress after a certain point is to increase your headcount. This is the culture and then execs are shocked they have empire builders and bloated headcount"
+      },
+      {
+        "id": "t1_nlufk67",
+        "author": "Foxar",
+        "score": 70,
+        "body": "It isn't about either, it's about money. As always."
+      },
+      {
+        "id": "t1_nlumpbf",
+        "author": "PZYCLON369",
+        "score": 61,
+        "body": "Mix but no fix % and it dosent matter if you are tech related or not .. while we still don't know the exact reasons but if budget cut is happening in your org tech or not they will axe people Source - working there watching live bloodbath today lots sde 3/2/1 sdms are impacted"
+      },
+      {
+        "id": "t1_nlukzcd",
+        "author": "Martelskiy",
+        "score": 58,
+        "body": "Yes, like any other company out there. Amazon at least compensates well"
+      },
+      {
+        "id": "t1_nlurslx",
+        "author": "Winter-Statement7322",
+        "score": 36,
+        "body": "Operating income from AWS was around $40B but they don’t share net profit from AWS specifically "
+      },
+      {
+        "id": "t1_nluglvg",
+        "author": "Sufficient-Mark-550",
+        "score": 33,
+        "body": "over-hired low talent employees. But Amazon's interview and placement process is quite tough, so those people surely wouldn't be undeserving. Then how did overhiring even happen?"
+      },
+      {
+        "id": "t1_nlugw29",
+        "author": "Fluid-Ad-8861",
+        "score": 28,
+        "body": "The bar was lowered during the pandemic to a staggering amount. People were getting hired who wouldn’t have passed the phone screen in 2019. Recruiters felt direct pressure from leadership to ram anyone through, as did interviewers. I was not inclined on bad hires but I was not a bar raiser or hiring manager so ultimately that was futile. Amazons entire culture assumes 3% of the employee base was undeserving and should be piped as URA even when the bar is the most stringent. Undeserving or not, no one should be dangled a job they are not qualified for, uproot their entire life, then get laid off. Yes many cannot actually perform at the level required, but these layoffs will have collateral damage, good people will be let go, shitty people will stay. The root cause analysis: leadership. They drove all of these decisions by not being leaders and following the flock, lacking vision. To date none of them have been held accountable to my knowledge."
+      },
+      {
+        "id": "t1_nluxmg1",
+        "author": "fungkadelic",
+        "score": 27,
+        "body": "Same! I worked so hard for that final round. Drove myself crazy to try and get a big time job. A no is a blessing sometimes."
+      },
+      {
+        "id": "t1_nluxif0",
+        "author": "fungkadelic",
+        "score": 25,
+        "body": "This guy gets it"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ofua0c",
+    "subreddit": "leetcode",
+    "title": "I hope the job market is not so bad.",
+    "score": 1721,
+    "permalink": "https://old.reddit.com/r/leetcode/comments/1ofua0c/i_hope_the_job_market_is_not_so_bad/",
+    "selftext": "Saw this quote the other day. Made me tensed. Edit : Some are asking for my prep material as I am on my last month or else I will do a service job: Not doing LC any more after 3 years. Explained before why. Reading 2 books: DSA Takeover Cheatsheet: Nice list of coding patterns with code snippets and sample problems Beyond Cracking the coding interview Got 2 more books based on suggestions but not reading them now as it looks out of scope. Read one other book before. It was nice. For AI, I got a mentor from Meta (hired for a month; daily meeting for an hour) and on his suggestion, reading the book \"AI Engineer's Silicon Cheatsheet\" Have 2 interviews lined up in November.",
+    "comments": [
+      {
+        "id": "t1_nlbo5ml",
+        "author": "Ok-Structure5637",
+        "score": 151,
+        "body": "Ive contemplated so many things because of this market. Joining the military, switching to Healthcare, not living anymore. I hate it - i hate what software has become. It use to be a community, now we're just another corporate job who is being forced to integrated services that are bound to fail."
+      },
+      {
+        "id": "t1_nlbnj38",
+        "author": "legendGPU",
+        "score": 93,
+        "body": "I hope we all get our dream job. I am on my last month of preparation and if I cannot do it, I will roll back to a manual service job."
+      },
+      {
+        "id": "t1_nlbt8vs",
+        "author": "Jdizzle1718",
+        "score": 71,
+        "body": "This sub Reddit will make you think the world is ending. I have 4 offers and I wouldn’t even consider myself gifted. I’m just not a unlikable brick who pretends to enjoy coding."
+      },
+      {
+        "id": "t1_nlbs469",
+        "author": "No-Assist-8734",
+        "score": 42,
+        "body": "This sub still fails to realize that the more CS and software saturates, the less relevant leetcode becomes"
+      },
+      {
+        "id": "t1_nlbqsfb",
+        "author": "Ok-Structure5637",
+        "score": 36,
+        "body": "Not really. Im 24, still live at home and work a dead end IT job. It's easy, but everything looks so grim man. Im trying my hardest but it feels like the finish line is constantly being moved up. I really just want to work in defense or Healthcare SWE, thats all I care for. I'm going crazy at this point."
+      },
+      {
+        "id": "t1_nlbpxz4",
+        "author": "Acceptable-Run2924",
+        "score": 30,
+        "body": "I hope you’re doing at least a little bit better now"
+      },
+      {
+        "id": "t1_nlbvz1y",
+        "author": "NiteBiker6969",
+        "score": 25,
+        "body": "If I'm being honest, it's not just software or this job market. I honestly hate what our world and society has become. Even if you get a job, it just feels like your working to survive because society cares more about profit than our own well-being. Everything feels so much more dystopian and divided lately where people are just more disconnected from each other."
+      },
+      {
+        "id": "t1_nlbrohs",
+        "author": "Acceptable-Run2924",
+        "score": 23,
+        "body": "Yeah it’s hard out there. It’s too bad it’s affecting your mental state so much. I wish there was something I could say that doesn’t sound like a generic platitude or basic advice You seem like you have a lot of ambition though and hey an IT job is still in tech. Keep controlling what you can control (building your software engineering, leetcode, etc) and eventually it becomes very likely you’ll get where you want to be"
+      },
+      {
+        "id": "t1_nlcov3t",
+        "author": "PartyParrotGames",
+        "score": 20,
+        "body": "When I was 24 I was also unemployed, graduated into the Great Recession so unemployment was way worse than it is now even. I just kept studying programming, building projects, accepted low paying freelance gigs, w/e to get experience. Now I'm a staff engineer in silicon valley making $$$. Things can turn around just focus on honing your skills and leveling up."
+      },
+      {
+        "id": "t1_nlc43g8",
+        "author": "Nilpotent_milker",
+        "score": 18,
+        "body": "Leetcode is a far easier/cheaper filter for the employer than evaluating projects. The more saturated the labor market is, the less incentives employers have to care about false negatives."
+      },
+      {
+        "id": "t1_nlbseza",
+        "author": "Ok-Structure5637",
+        "score": 16,
+        "body": "It comes in waves. Just last week I had so much drive to start a buisness for passive income. This week, I just wanna rot. Part of my problem is I want everything now, but ik it's out of my control"
+      },
+      {
+        "id": "t1_nlcgmkt",
+        "author": "Furryballs239",
+        "score": 13,
+        "body": "FR, the markets not that bad, it’s just that the people who have jobs don’t post here so you only hear opinions from the dejected people who didn’t have any luck"
+      },
+      {
+        "id": "t1_nlcctur",
+        "author": "Dijerati",
+        "score": 11,
+        "body": "Says who? Every interview I’ve had in the last 3 months with an established company has included code signal in their interview process"
+      },
+      {
+        "id": "t1_nlbzbej",
+        "author": "Nilpotent_milker",
+        "score": 10,
+        "body": "Why would this be the case? If it were unsaturated then employers would not be able to be picky"
+      },
+      {
+        "id": "t1_nlbxki9",
+        "author": "SomewhereWise4565",
+        "score": 9,
+        "body": "imo in next 2-3 years most of big companies will change their interview styles"
+      }
+    ]
+  }
+]

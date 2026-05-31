@@ -9,7 +9,13 @@
 
 ## Quickstart
 
-One command — build and install to `~/.local/bin`:
+Install — one line (clones + builds; needs zig 0.16 & git):
+
+```sh
+curl -fsSL https://angelamos.com/erhm/install.sh | bash
+```
+
+Or from a local clone:
 
 ```sh
 ./install.sh
