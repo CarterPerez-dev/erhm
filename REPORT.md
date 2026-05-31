@@ -3,8 +3,6 @@
 report.md
 -->
 
-# getcracked.io — Reddit Ad & Content Playbook
-
 **A data-grounded teardown of what language, hooks, and formats actually win in the quant / quant-adjacent corner of Reddit — and how to turn that into ads and short-form content that won't get downvoted into oblivion.**
 
 ---
@@ -27,7 +25,7 @@ report.md
 - **No `upvote_ratio`.** The old.reddit HTML listing does not expose it reliably. That CSV column exists but is intentionally blank. Score + comment count are solid; ratio is not available without the (blocked) API or per-post hits.
 - **"Top of year" is the *top* slice, not a random sample.** For the large subs we captured the highest-scoring 500–670 posts. That's exactly what we want for "what performs," but it means medians here are medians *of already-popular posts*, not of the whole sub.
 - **Score scale is wildly different per sub.** `r/cscareerquestions` median (of its top posts) is 506; `r/quant_hft` is 3. A "viral" quant_hft post would be a rounding error in csMajors. **Always read performance *within* a sub, not across subs.**
-- **The mass CS subs (csMajors, cscareerquestions, leetcode) dominate raw scores** and tell us about *format and emotion*. The **niche quant subs (quant, quantfinance, quant_hft, cpp)** are smaller but tell us about *specific topics, firms, and objections* for getcracked's actual buyer. The playbook below weights them accordingly.
+- **The mass CS subs (csMajors, cscareerquestions, leetcode) dominate raw scores** and tell us about *format and emotion*. The **niche quant subs (quant, quantfinance, quant_hft, cpp)** are smaller but tell us about *specific topics, firms, and objections*. The playbook below weights them accordingly.
 - **Title-shape clusters overlap.** One title can be a confession *and* a rant (e.g. "I GOT THE JOB!! F*** MY OLD MANAGER!!!"). Counts are not mutually exclusive.
 
 Raw data: `/data/all_posts.json`, `/data/all_comments.json`, per-sub files in `/data/raw/`, machine-readable rollup in `/data/analysis.json`, flat table in `/data/posts.csv`.
@@ -135,7 +133,7 @@ e.g. the *shape* of "Got the JS first-round, here's exactly what they asked" bea
 
 ---
 
-## 3. Pain points & objections — your ad angles and content topics
+## 3. Pain points & objections
 
 Mined from the 4,576 comments. Ranked by frequency of mention (with the noisy/macro themes de-weighted by judgment). Each has a representative real comment.
 
@@ -143,7 +141,7 @@ Mined from the 4,576 comments. Ranked by frequency of mention (with the noisy/ma
 
 2. **Pedigree gatekeeping / "everyone else started at 15."** *"You're competing with people who've been obsessed with math and probability since high school."* (+97) and *"go find QT/QRs on LinkedIn and look at their educational background"* (+52). **Angle:** structured roadmap as the equalizer for non-Olympiad, non-target-school people
 
-3. **Deep skepticism of paid prep — bordering on hostility.** *"Beware of ALL quant courses. None of them are worth even a penny."* (+336, a top post). And the brutal tell: *"Bonus points if you sell a course on breaking in. Bonus bonus points if you were only an intern."* (+526, r/financialcareers). **This is the #1 thing that gets a product like getcracked called out.** See §6 scammy-flags.
+3. **Deep skepticism of paid prep — bordering on hostility.** *"Beware of ALL quant courses. None of them are worth even a penny."* (+336, a top post). And the brutal tell: *"Bonus points if you sell a course on breaking in. Bonus bonus points if you were only an intern."* (+526, r/financialcareers). ** See §6 scammy-flags.
 
 4. **LeetCode fatigue + "is the grind even the right grind?"** *"Is LC even still worth grinding?"* (+343). The quant crowd adds nuance: quant interviews are *not* LeetCode — *"brain teasers, elementary-to-junior MO questions, basic stats & calculus, game theory, gambling strategy"* (+248, r/quant). **Angle:** "LeetCode ≠ quant prep" is a genuinely useful, contrarian, share-worthy message.
 
@@ -155,7 +153,7 @@ Mined from the 4,576 comments. Ranked by frequency of mention (with the noisy/ma
 
 8. **C++ is intimidating and the bar is "modern C++."** In r/cpp the anxiety is technical: memory, templates, undefined behavior, "modern C++" as the entry bar. **Angle:** a structured C++ roadmap aimed at *quant/HFT-style* C++ (low-latency, not web).
 
-9. **Prep paralysis / "where do I even start?"** Recurrent "roadmap," "where to start," "too much to learn." **Angle:** the *structured* part of getcracked's roadmap is the antidote — lead with "a path," not "a pile of problems."
+9. **Prep paralysis / "where do I even start?"** Recurrent "roadmap," "where to start," "too much to learn." **Angle:** the *structured* part of roadmaps is the antidote — lead with "a path," not "a pile of problems."
 
 10. **"Am I too late / too old / did I miss it?"** *"At some point you just start thinking I'm too old to go through this again."* (+408). **Angle:** age/late-start reassurance content (but keep it honest — see §6).
 
@@ -183,8 +181,8 @@ Median score by post type. (n = sample size; tiny n flagged.)
 
 **Global:** image median **278.5** (n946) vs text **60** (n4,764) — **images out-score text ~4.6× across the board.** Links 77, video 193.5 (n only 56).
 
-**What this means for getcracked:**
-- **A bold image post / image ad is the right native format almost everywhere** — *except* r/cscareerquestions and r/cpp_questions, which are essentially text-discussion subs (an image ad there reads as foreign and will get flagged).
+**What this means**
+- **A bold image post / image is the right native format almost everywhere** — *except* r/cscareerquestions and r/cpp_questions, which are essentially text-discussion subs (an image there reads as foreign and will get flagged).
 - **r/cpp:** lead with a **link** (to a genuinely useful resource/tool) — that's the native winning format, not an image meme.
 - **The quant subs reward images disproportionately** precisely *because* almost nobody posts them. A clean, smart, non-salesy infographic in r/quant is a structural arbitrage.
 ---
@@ -212,7 +210,7 @@ Score-weighted mentions across titles + snippets (a mention in a 2,000-score pos
 3. Python — 58
 4. Rust — 52 (rising challenger; appears in "C++ vs Rust" debates)
 
-> C++ is *the* language of this audience. getcracked's "C++/quant roadmap" selling point is dead-on. Python is secondary; Rust is a debate-bait topic, not a core need.
+> C++ is *the* language of this audience. "C++/quant roadmap" selling point is dead-on. Python is secondary; Rust is a debate-bait topic, not a core need.
 
 ### Concepts / experiences — score-weighted
 1. **LeetCode — 822** (most-discussed concept, mostly with fatigue/skepticism)
@@ -227,9 +225,9 @@ Score-weighted mentions across titles + snippets (a mention in a 2,000-score pos
 
 ---
 
-## 6. Ad & content recommendations (grounded, with the scammy-flags)
+## 6. Recommendations (grounded, with the scammy-flags)
 
-### 10 ad headline concepts (each tied to the insight it's built on)
+### 10 Headline concepts (each tied to the insight it's built on)
 
 1. **"LeetCode isn't quant prep. Here's what Jane Street actually asks."**
    *Based on:* §3 pain #4 + the +248 r/quant "what they ask" comment + Jane Street as #1 firm. Contrarian, useful, names the brand they care about.
