@@ -1,0 +1,3002 @@
+[
+  {
+    "post_id": "t3_1lgrb1f",
+    "subreddit": "algotrading",
+    "title": "Finally created my own algo (using AI) and this was the first ten days trading on real money (cent) account",
+    "score": 1149,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1lgrb1f/finally_created_my_own_algo_using_ai_and_this_was/",
+    "selftext": "I've been playing with different algos for a couple of years - blown a lot of accounts due to them opening too many layered trades. So I decided to make my own. It took quite a long time to get it right (I used Claude AI in the end, ChatGPT just kept giving me code that didn't function as I wanted) but I've been running it on XAUUSD for ten days and I am very happy with the result. Will keep forward testing it and share further results in the future.",
+    "comments": [
+      {
+        "id": "t1_myyeqrd",
+        "author": "GavinBelson69",
+        "score": 267,
+        "body": "Wait... 90 cents gross loss and 3.3k gross profit? 3725 profit factor? Unbelievable... is this really a live account with real money or do you mean a live paper trading account? I am bamboozled but... congratulations, I guess! :D"
+      },
+      {
+        "id": "t1_myyf5uf",
+        "author": "SnooRadishes8691",
+        "score": 223,
+        "body": "It is a live account with real money but it is a cent account so that is $33 profit on a $200 starting deposit."
+      },
+      {
+        "id": "t1_myyeewt",
+        "author": "SnooRadishes8691",
+        "score": 108,
+        "body": "I agree and I know the timeframe is too short to confirm anything. Will continue to run and see how it fares in these volatile times."
+      },
+      {
+        "id": "t1_myyt9nn",
+        "author": "Chrizzle87",
+        "score": 97,
+        "body": "Too good to be true indeed, loss trades seem not to be closed (only profits are closed) and the graph only shows closed trades. The loss trades seem to accumulate in the floating PnL, which also shows the real equity of 22.1k (not 23.4K). So in the 10 day period you have 3.4k profits and 1.3k losses. Still quite impressive, but mind you: (1) these are just 10 days, and (2) from what I read this is a penny account with $200 instead of $20,000. So you may snatch prices you cannot reproduce with a 10k+ account. Cheers,\nChristian"
+      },
+      {
+        "id": "t1_myye5i4",
+        "author": "G99SEMAN",
+        "score": 75,
+        "body": "Looks too perfekt\ud83e\udd14"
+      },
+      {
+        "id": "t1_myygh96",
+        "author": "OnceAHermit",
+        "score": 61,
+        "body": "I notice your floating P/L is -1286.0 . You are clearly not including that on your profit curve. Do you have a curve that includes the P/L on open trades?"
+      },
+      {
+        "id": "t1_myyhtio",
+        "author": "OnceAHermit",
+        "score": 53,
+        "body": "Yes, that could be normal - but it *COULD* be that the algorithm is a lot less profitable than it seems, and all the losses are just stored up in unclosed trades. Not saying that's the case, but it would be good to see the whole picture!"
+      },
+      {
+        "id": "t1_myyi6eg",
+        "author": "SnooRadishes8691",
+        "score": 31,
+        "body": "I will update at the end of July when the picture will be clearer (but six weeks is still very short I know)"
+      },
+      {
+        "id": "t1_myznst8",
+        "author": "SnooRadishes8691",
+        "score": 30,
+        "body": "I have not suggested I am a god trader. I am just happy to build something that works (for ten days at least) and I know that I could very well be posting a a thread next week on how this failed. Time will tell but I appreciate all the positivity I have received from the majority of commentators here"
+      },
+      {
+        "id": "t1_myyya1m",
+        "author": "vikster1",
+        "score": 28,
+        "body": "everyone a god trader until the margin call"
+      },
+      {
+        "id": "t1_myygb59",
+        "author": "sam_in_cube",
+        "score": 28,
+        "body": "For those interested - it\u2019s a cherry picked equity curve where none (except one tiny) of the open loss positions was closed, only profit ones (and thus such a nice smooth curve)."
+      },
+      {
+        "id": "t1_myz0jdz",
+        "author": "takeyouraxeandhack",
+        "score": 24,
+        "body": "Yeah, but look at the floating PnL."
+      },
+      {
+        "id": "t1_myz0m02",
+        "author": "JackAllTrades06",
+        "score": 23,
+        "body": "Do a back test on MT5 from Jan 2025 and see if the results still holds."
+      },
+      {
+        "id": "t1_myyg26k",
+        "author": "sam_in_cube",
+        "score": 23,
+        "body": "This floating P/L :)"
+      },
+      {
+        "id": "t1_myyuwcq",
+        "author": "yareyaredaze10",
+        "score": 20,
+        "body": "Pleaaaase share :O"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mabc5l",
+    "subreddit": "algotrading",
+    "title": "\"PM me for code\" posts should be banned. Put up the code to everyone or STFU. These are all scams.",
+    "score": 892,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1mabc5l/pm_me_for_code_posts_should_be_banned_put_up_the/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_n5dok2a",
+        "author": "Neogohan1",
+        "score": 163,
+        "body": "Actually I have built a tool that can automatically remove these types of posts, pm me for the code, and to save time also just shoot me your cc details too /s cause it seems some people need it xD"
+      },
+      {
+        "id": "t1_n5dq7dl",
+        "author": "hereditydrift",
+        "score": 94,
+        "body": "PM sent. Edit: It seems to be locking up my computer when I run it. Was it supposed to be exe? Is something running in the background? Mycomputer iis running veryh slo"
+      },
+      {
+        "id": "t1_n5dd2tz",
+        "author": "hereditydrift",
+        "score": 73,
+        "body": "Also, look through the list of people requesting the study. Many are accounts with 1 comment. Pure junk. Sad because there are people on here that I've learned a lot from just by reading their posts. Edit: u/venturetm posts before being removed: https://imgur.com/a/cUwtMqE Edit2: https://www.reveddit.com/y/venturetm/?all=true (thanks to /u/Orchidivy )"
+      },
+      {
+        "id": "t1_n5dhudp",
+        "author": "Sad-Guava-5968",
+        "score": 44,
+        "body": "Python:\nprint(\"profit\") C#:\nConsole.Writeline(\"profit\");"
+      },
+      {
+        "id": "t1_n5dnlke",
+        "author": "Spactaculous",
+        "score": 38,
+        "body": "That's how you make money with algo trading, you sell source code \ud83d\ude00"
+      },
+      {
+        "id": "t1_n5dgo5l",
+        "author": "teenagersfrommarz",
+        "score": 28,
+        "body": "At least one person replied that it\u2019s not free https://www.reddit.com/r/algotrading/s/eDWKsh53r2"
+      },
+      {
+        "id": "t1_n5dooa7",
+        "author": "warpedspockclone",
+        "score": 15,
+        "body": "PM me for bad pickup lines"
+      },
+      {
+        "id": "t1_n5e3lfv",
+        "author": "m0nk_3y_gw",
+        "score": 11,
+        "body": "lol, poster thinks they are instagram, not reddit i hate to break it to u but I listen to python backtested results more than a random dudee on insta."
+      },
+      {
+        "id": "t1_n5dpvgv",
+        "author": "hereditydrift",
+        "score": 11,
+        "body": "PM sent. Edit: Nevermind. It's a link to an Amazon book created by AI. Guys... c'mon. This is getting ridiculous."
+      },
+      {
+        "id": "t1_n5e1mx2",
+        "author": "",
+        "score": 11,
+        "body": "Pm me for the ChatGPT wrapper course, I will make you a billionaire in 2.948 hours exactly. If if it takes you 2.949 hours, you owe me a trillion"
+      },
+      {
+        "id": "t1_n5dq1s1",
+        "author": "na85",
+        "score": 9,
+        "body": "I think those are already against the rules but maybe aren't getting enforced."
+      },
+      {
+        "id": "t1_n5drs5o",
+        "author": "Orchidivy",
+        "score": 8,
+        "body": "link borked, use https://www.reveddit.com/y/venturetm/?all=true"
+      },
+      {
+        "id": "t1_n5ewy4i",
+        "author": "Jrbell19",
+        "score": 7,
+        "body": "Yeah, we\u2019ve started seeing much more of this garbage. Reporting these posts is helpful from our end for the ones that slip through the filter."
+      },
+      {
+        "id": "t1_n5dsic5",
+        "author": "dougie_fresh121",
+        "score": 7,
+        "body": "Repository: git profit"
+      },
+      {
+        "id": "t1_n5fqj7m",
+        "author": "Liviequestrian",
+        "score": 7,
+        "body": "They are!!! Dont fall for it."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rdhw2n",
+    "subreddit": "algotrading",
+    "title": "Stop paying for Polymarket data. PMXT just open-sourced the orderbooks.",
+    "score": 742,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1rdhw2n/stop_paying_for_polymarket_data_pmxt_just/",
+    "selftext": "We are officially dropping free orderbook data for polymarket today. This is part 1/3 of our data dumps. It\u2019s small, orderbooks only. We need to stress-test our pipelines before we release the full historical data, trade-level data, and other exchanges. We\u2019re doing this because charging devs for raw market data is basically a scam at this point. Grab the data: https://archive.pmxt.dev/Polymarket . It's powered entirely by pmxt. Star the pmxt library: https://github.com/pmxt-dev/pmxt",
+    "comments": [
+      {
+        "id": "t1_o75kgk5",
+        "author": "SammieStyles",
+        "score": 82,
+        "body": "DomeAPI costs ~$40/month, Telonex.io is even worse, at $79/month. For indie developers, researchers, and hobbyists, these recurring costs simply aren\u2019t feasible. Data should be open and accessible."
+      },
+      {
+        "id": "t1_o759d8h",
+        "author": "SammieStyles",
+        "score": 33,
+        "body": "They don't offer historical orderbook data, nor trades data. The current dump contains some historical orderbook data; part 2 will contain a lot more across kalshi, limitless, opinion, etc. Part 3 will contain all trade data."
+      },
+      {
+        "id": "t1_o7590tn",
+        "author": "Automatic-Essay2175",
+        "score": 19,
+        "body": "Polymarket has a free API. Are you offering enhanced historical data?"
+      },
+      {
+        "id": "t1_o75k1mm",
+        "author": "johnhuey",
+        "score": 13,
+        "body": "Great! Just curious why would you share this for free?"
+      },
+      {
+        "id": "t1_o766kip",
+        "author": "Toine_03",
+        "score": 13,
+        "body": "legend"
+      },
+      {
+        "id": "t1_o768mje",
+        "author": "SammieStyles",
+        "score": 12,
+        "body": "Yeah, that's what data is for."
+      },
+      {
+        "id": "t1_o75ciq5",
+        "author": "SammieStyles",
+        "score": 11,
+        "body": "I'm glad we're helping! I love your site btw."
+      },
+      {
+        "id": "t1_o765133",
+        "author": "Ser_PounceOfMars",
+        "score": 11,
+        "body": "Amen"
+      },
+      {
+        "id": "t1_o7681ie",
+        "author": "GRBM_Z",
+        "score": 9,
+        "body": "God bless you brother, can I make a trading bot with that data?"
+      },
+      {
+        "id": "t1_o76jf05",
+        "author": "SammieStyles",
+        "score": 8,
+        "body": "It literally doesn't provide this data!"
+      },
+      {
+        "id": "t1_o75q2o1",
+        "author": "Strange_Control8788",
+        "score": 8,
+        "body": "Sign me up for the kalshi please \ud83d\ude4f"
+      },
+      {
+        "id": "t1_o77k4oc",
+        "author": "cfeichtner13",
+        "score": 7,
+        "body": "God bless"
+      },
+      {
+        "id": "t1_o766teo",
+        "author": "SammieStyles",
+        "score": 7,
+        "body": "No, you!"
+      },
+      {
+        "id": "t1_o76ft7k",
+        "author": "its-actually-over",
+        "score": 6,
+        "body": "their API is garbage"
+      },
+      {
+        "id": "t1_o76kmax",
+        "author": "SammieStyles",
+        "score": 5,
+        "body": "Try the load markets method in pmxt. It'll work!"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1oob9kv",
+    "subreddit": "algotrading",
+    "title": "6 year algo trading model delivering the goods",
+    "score": 717,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1oob9kv/6_year_algo_trading_model_delivering_the_goods/",
+    "selftext": "I trade only GBPUSD using the broker with the highest spreads (Fusion markets). The strategy is to detect bounces off support and resistance points and quickly capitalise on the reverse bump. Quick trades, closed within avg 2 mins. I trade at leverage having qualified for a pro level account (500:1), so always use stop losses and take profits. Behind the scenes I built an algo model from the ground up using VSC, with trend reversal + sufficient price movement within 3 mins as the target variable. The features were 30-50 technical analysis indicators, all vetted as being useful through EDA, with a tilt for fast detection / leading indicators. The model itself predicts the trend reversals with +- 4 pips with 84% accuracy, and this is the bedrock for my trading. I should note that on heavy \u2018fundamentals\u2019 days I tend not to trade a lot and I avoid opening and closing hours (too erratic and illogical). In 5/6 years turned \u00a310k into \u00a3550k, which includes a period where a lost a chunk due to 1st Trump tariff announcements. Happy to get more technical for people interested.",
+    "comments": [
+      {
+        "id": "t1_nn350ua",
+        "author": "disaster_story_69",
+        "score": 259,
+        "body": "For clarity, I am a data scientist by profession and run a department of ds\u2019s doing projects on hedging, trading and forecasting in energy space."
+      },
+      {
+        "id": "t1_nn3lwfk",
+        "author": "JoJoPizzaG",
+        "score": 122,
+        "body": "I am surprised you are even allowed to trade your own account."
+      },
+      {
+        "id": "t1_nn468a0",
+        "author": "disaster_story_69",
+        "score": 61,
+        "body": "My job is commodities space"
+      },
+      {
+        "id": "t1_nn3yny0",
+        "author": "TRichard3814",
+        "score": 57,
+        "body": "Currency markets are very different from equity markets when it comes to this sort of thing"
+      },
+      {
+        "id": "t1_nn33zcy",
+        "author": "disaster_story_69",
+        "score": 57,
+        "body": "Ensemble model, retrain every month or so. Just about kills my pc, have had to migrate to conda environment to push it through the gpu It\u2019s more classification than regression, but has elements of both, hence the ensemble build"
+      },
+      {
+        "id": "t1_nn385k6",
+        "author": "disaster_story_69",
+        "score": 47,
+        "body": "I mean it\u2019s not that complicated if you can code, have a lot of patience and build up an OCD level of fixation on TA. Use visual studio code, use conda environment, install Jupyter notebooks. Pull in the data using a broker\u2019s api, create the target, calculate the indicators, one-hot encoding. Plug in NLP from reddit. Run a classification model, jobs a good un"
+      },
+      {
+        "id": "t1_nn2vnbs",
+        "author": "stoicdoge",
+        "score": 46,
+        "body": "Thanks for sharing! Super cool! You mentioned 30-50 featurea, I\u2019m curious How often do you retrain the model? Is it a simple regression model or something more sophisticated?"
+      },
+      {
+        "id": "t1_nn3sey4",
+        "author": "disaster_story_69",
+        "score": 46,
+        "body": "Getting into a DS role is super tough now, with a surplus of high calibre candidates. I had 300 applicants for a junior ds role recently and had to knock back some oxbridge and lse applicants, including a phd oxbridge candidate. It\u2019s that competitive"
+      },
+      {
+        "id": "t1_nn43psw",
+        "author": "JPureCottonBuds",
+        "score": 40,
+        "body": "still. i work in investment banking and I'm not allowed to hold an instrument for less than 30 days basically banning this sort of trading for me. well .. i could still do it through a friend's account which is a different sort of illegal"
+      },
+      {
+        "id": "t1_nn3k10v",
+        "author": "RoozGol",
+        "score": 32,
+        "body": "100 lots? That's 10M GBP right there. Your typical win is 3000, so it gives you a 0.03% return. This is Forex, and I'm not sure how you are not screwd with the spreads and fees."
+      },
+      {
+        "id": "t1_nn341j2",
+        "author": "disaster_story_69",
+        "score": 28,
+        "body": "ML ensemble model with 30-50 features"
+      },
+      {
+        "id": "t1_nn41umc",
+        "author": "DysphoriaGML",
+        "score": 28,
+        "body": "RIP me"
+      },
+      {
+        "id": "t1_nn3x0gc",
+        "author": "disaster_story_69",
+        "score": 26,
+        "body": "I went back 10 years, then hummed and hawed about the covid years. in the end left it in."
+      },
+      {
+        "id": "t1_nn4ront",
+        "author": "JoJoPizzaG",
+        "score": 21,
+        "body": "If you work for an IB firm, you need permission from compliance for each and every trade and no short term trade allow."
+      },
+      {
+        "id": "t1_nn3skap",
+        "author": "disaster_story_69",
+        "score": 18,
+        "body": "Cos fusion markets spreads are the lowest available. My TP is 0.025% and SL is 0.055%"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lnm48w",
+    "subreddit": "algotrading",
+    "title": "Meta Labeling for Algorithmic Trading: How to Amplify a Real Edge",
+    "score": 623,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1lnm48w/meta_labeling_for_algorithmic_trading_how_to/",
+    "selftext": "I\u2019ve commented briefly on some other posts mentioning this approach, and there usually seems to be some interest so I figured it would be good to make a full post. There is a lot of misunderstanding and misconceptions about how to use machine learning for algo trading, and unrealistic expectations for what it\u2019s capable of. I see many people asking about using machine learning to predict price, find a strategy, etc. However, this is almost always bound to fail - machine learning is NOT good at creating its own edge out of nowhere (especially LLM\u2019s, I see that a lot too. They\u2019ll just tell you what it thinks you want to hear. They\u2019re an amazing tool, but not for that purpose.) ML will not find patterns by itself from candlesticks or indicators or whatever else you just throw at it (too much noise, it can't generalize well). A much better approach for using machine learning is to have an underlying strategy that has an existing edge, and train a model on the results of that strategy so it learns to filter out low quality trades. The labels you train on could be either the win / loss outcomes of each trade (binary classification, usually the easiest), the pl distribution, or any metric you want, but this means it\u2019s a supervised learning problem instead of unsupervised, which is MUCH easier, especially when the use case is trading. The goal is for the model to AMPLIFY your strategies existing edge. Finding an edge -> ml bad Improving an existing edge -> ml good Introduction Meta labeling was made popular by Marco Lopez de Prado (head of Abu Dhabi Investment fund). I highly recommend his book \u201cAdvances in Financial Machine Learning\u201d where he introduces the method. It is used by many funds / individuals and has been proven to be effective, unlike many other ml applications in trading. With meta labeling, instead of trying to forecast raw market movements, you run a primary strategy first \u2014 one that you\u2019ve backtested and know already has at least a small edge and a positive ",
+    "comments": [
+      {
+        "id": "t1_n0gpt4i",
+        "author": "mvstartdevnull",
+        "score": 30,
+        "body": "Read your post with great attention, very valuable, thanks! If I had awards, I'd give you one. I've been experimenting with ML for some time now - and am currently deep down the rabbithole. But, I am still pretty new to this so I have some follow up questions: - On average, how many features are you training your models with? - Do you use just OHLCV data or do you complement with ticker/orderbook or other datasets? - Do you have any ALGO's in production, what do returns (& drawdowns ;-)) look like (feel free not to answer) ;-) - If you have any in production, how? Personally I am considering running them on my homelab Kubernetes cluster for now - ideally colocated at some point. I ask because perhaps there is a way smarter approach - How do you design your pipeline, any tips? I find myself starting completely from scratch for every strat I come up with which isnt very effective - Where do you source reliable historic data (for cheap ;-))? Particularly tick and orderbook data seems pretty expensive if you need a bunch of it - I notice you do not mention deep learning at all, what is your experience with that? LSTM/GRU etc? Or are metalabeled sets usually too small to consider deep learning? - In your experience, how much performance loss might you expect if you compare bench results (backtesting on unseen test data or walkforward) compared to production? - Can you give any guidance on realistic slippage settings on ES and NQ? Any feedback is greatly appreciated man!"
+      },
+      {
+        "id": "t1_n0gx7l1",
+        "author": "Yocurt",
+        "score": 27,
+        "body": "Thanks! Here\u2019s what I\u2019d say for those:\n- I use six base models, and the features used range from 20-70 for each. Some with the lower range, some with higher range.\n- I use mbo data (level 3) from Databento, so I have some orderbook features, as well as some macro based features from FRED.\n- just two in production right now, one for NQ one for ES. Both around a 1.15 profit factor and 2.5 calmar ratio. \n- I have them coded in Ninjatrader. Definitely better solutions out there but it works for what I need. \n- modulate the parts are typically repeated across strategies, then just reuse those parts for the new ones. \n- I use Databento, it\u2019s probably the best source but a little pricey. Kibot has pretty good quality and much cheaper - good alternative.\n- personally I haven\u2019t tried deep learning other than some basic ANN\u2019s. I feel like it\u2019s overkill for many applications, and trading is one of them. YMMV though.\n- ideally, if you set everything up right, you will see 0 performance loss compared to your bench results. But you need to give it enough time to play out as well (be sure you did everything 100% correct though, otherwise you\u2019ll be waiting forever).\n- For ES, 1 tick for entries and exits is usually more than enough. For NQ, 4 ticks is more reasonable. However I use the mbo data, so I can simulate slippage in real time based on the order book, which I would highly recommend."
+      },
+      {
+        "id": "t1_n0hkm9m",
+        "author": "wallbouncing",
+        "score": 14,
+        "body": "This is probably the most useful post I've seen here in a while with actual real-life information."
+      },
+      {
+        "id": "t1_n0gaspl",
+        "author": "Heyitsmejohn123",
+        "score": 13,
+        "body": "nice detailed post I like it!"
+      },
+      {
+        "id": "t1_n0h5ukx",
+        "author": "Yocurt",
+        "score": 12,
+        "body": "No problem! Also this first one is a really good question. I typically look for a strategy that was profitable in over ~80% of the years I backtested on, and always do at least five years. Mainly looking for a profit factor of at least 1.07, over ~2500 total trades (enough to be statistically significant), and a max drawdown that\u2019s no higher than the average yearly profit. I\u2019m confident in the results from my backtest engine since it models slippage and fees accurately, so these would each be a bit higher otherwise. For the rest:\n- I retrain weekly. Technically every day there\u2019s a new signal would be ideal, but if your dataset already has thousands of trades, weekly or even monthly is fine. \n- if you use non-binary, what you said would be a multi-class classification problem. Certainly should work fine! Just may be a bit harder to implement. The other approach would be predicting a continuous variable, but I personally hate doing that and find it way harder. Binary or multi-class are both great though!\n-  I guess slightly different purposes since each has their strengths and weaknesses, and then the ensemble attempts to detect these and take advantage of where each is strongest.\n- yeah exactly, pretty much iterating through every single event. Then at trade times, you know the bid/ask prices and their sizes so you know where your fill would be / if you would get filled at all if using a limit order. If you want to do this there\u2019s plenty of good tutorials online. I think it\u2019s worth the effort so you can actually trust the results. \n- I run a python script with a socket that opens a port on my pc, then for every trade signal on Ninjatrader I send the features needed to the script, it makes its prediction, then sends whatever action it decided back to Ninjatrader for it to handle."
+      },
+      {
+        "id": "t1_n0gj225",
+        "author": "Phunk_Nugget",
+        "score": 9,
+        "body": "Great post. I've had some success with meta labelling for filtering using LightGBM.  Not super far along  with it, especially with finding the best features to use, but it made me smile the few times I saw my model's PnL go up while the trade count went down  De Prado also mentions using meta labelling for the bet size as well, although I haven't tried that yet, but plan to. While I generally agree with your statement about finding an edge and ML, I have had some success in combining techniques (and a lot of local compute) to find profitable trade signals without any edge to begin with.  I spent years figuring out a way to frame the problem using variations of ideas from AFML and other sources and built everything from scratch in C#/F#, but I do have statistically significant models based on it.  That being said, I'm adjusting my direction at the moment, since, as I learn more, I see serious limitations in that approach.  It did lead me from trying to scalp to more intraday swing/momentum as a trading style."
+      },
+      {
+        "id": "t1_n0ga5n7",
+        "author": "",
+        "score": 9,
+        "body": "Nice all good and well if initial strategy isn't over fit in first place"
+      },
+      {
+        "id": "t1_n0hf5j6",
+        "author": "mvstartdevnull",
+        "score": 8,
+        "body": "Amazing, thanks. You have no idea how helpful this is."
+      },
+      {
+        "id": "t1_n0gj8ao",
+        "author": "xTruegloryx",
+        "score": 8,
+        "body": "I'm currently working on a 6 stack ensemble of XGB, lightGBM, GBRT, HGB, CatBoost, and ADA - with a lightGBM meta trainer. When it comes to your pipeline, there are so many viable variations. Comes down to feature engineering, Optuna hyper-parameter tuning, train time, and how well you make sure not to have any look-ahead bias, data leakage, etc. I enjoyed your post, thanks."
+      },
+      {
+        "id": "t1_n0h0bvz",
+        "author": "mvstartdevnull",
+        "score": 6,
+        "body": "Amazing, thanks a lot! If you don't mind, a couple more :-) - You mentioned applying ML only to capitalize on an existing Edge ... but .. what are your minimum requirements before even considering applying ML? - How often do you retrain your models in production? Is this time based or do you monitor some metric? - I am considering using non-binary labels, so as opposed to winner/loser: predict a profit/loss quantile or some risk adjusted metric ... do you have any experience with this? - The six models you describe, do they all have the same purpose or do you create specialized models for different purposes? - How are you simulating slippage? Are you replaying the mbo data tick by tick? - How are you getting your predictions (Python I assume) into Ninjatrader?"
+      },
+      {
+        "id": "t1_n0nyr69",
+        "author": "tomdieck",
+        "score": 6,
+        "body": "This is the highest quality post on quant trading on reddit I've ever read."
+      },
+      {
+        "id": "t1_n0hr7vo",
+        "author": "zhatz111",
+        "score": 5,
+        "body": "Great post thanks for this detailed write up! A question for you, how many assets are you trading at once and at what frequency? You mention it is good to have 5000+ trades to feel comfortable so just wondering how you generally hit that. Also do you train a new ensemble for each asset or generalize it across assets with a specific strategy?"
+      },
+      {
+        "id": "t1_n0gc9f4",
+        "author": "syd-slice",
+        "score": 5,
+        "body": "This is a very well put post. Thanks"
+      },
+      {
+        "id": "t1_n0io2l2",
+        "author": "Yocurt",
+        "score": 4,
+        "body": "Thank you! And for my use case, I use it for my day trading strategies on ES and NQ, a separate model for each though. They generate about 3-6 signals a day, so over 5+ years of backtests I get to around that 5000 number. You could use the same primary base strategy on multiple instruments/assets to increase the number if your strategy doesn\u2019t take as many trades, but for this you would always want to include a categorical feature that represents the symbol the signal is for."
+      },
+      {
+        "id": "t1_n0hkjlw",
+        "author": "echoeysaber",
+        "score": 4,
+        "body": "For additional context, the meta labelling OP explains is also coined the Triple Barrior Method by Lopez, and he suggests value of of 1,0,-1, where 1 is the trade achieves the take-profit threshold (higher price than entry price of the trade for longs ), within a set number of observations (price , dollar or volume bar ), indicating a successful exit; 0 for the trade not achieving the profit target by the target observation; - 1 when the trade is below or at the stop-loss price ( lower price than the entry price for longs ).  OP simplifies this by treating the 0 label as -1."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1osz7u6",
+    "subreddit": "algotrading",
+    "title": "My life's pride and joy is completed.",
+    "score": 603,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1osz7u6/my_lifes_pride_and_joy_is_completed/",
+    "selftext": "5 years of 100% non lookahead returns. (Data removed, picks locked in, returns calculated) 600 Unique tickers chosen from Russell1000. Average of 15 per rebalance. 35% CAGR and 18.5% max DD. (Sp in this period was 25%) I have never been more proud of myself.",
+    "comments": [
+      {
+        "id": "t1_no12oyt",
+        "author": "Phunk_Nugget",
+        "score": 99,
+        "body": "Is this is a backtest?"
+      },
+      {
+        "id": "t1_no8xgve",
+        "author": "warpedspockclone",
+        "score": 74,
+        "body": "Sir, this is Reddit. Yes, of course it is"
+      },
+      {
+        "id": "t1_no19h0y",
+        "author": "RedditUser32804",
+        "score": 57,
+        "body": "It looks great. I wish you the best success in your trading."
+      },
+      {
+        "id": "t1_no1j8u0",
+        "author": "BAMred",
+        "score": 53,
+        "body": "Your backtest is 5 years. Did you choose the tickers based on criteria from before 2020?"
+      },
+      {
+        "id": "t1_no2lf5n",
+        "author": "dagmarski",
+        "score": 43,
+        "body": "How many other strategies did you test? If you send 4 monkeys to Las Vegas, it\u2019s not surprising one monkey might make a profit of 300% while the others go bankrupt. Similarly, if you test just 4 aggressive strategies and simply pick the top performing one, that doesn\u2019t carry significant meaning on future profits. I think the vast majority of people here would benefit from an actual academic statistics course, to test for significance. Not trying to be rude, I genuinely think it\u2019s the best advice :)"
+      },
+      {
+        "id": "t1_no14idm",
+        "author": "BAMred",
+        "score": 42,
+        "body": "survivorship bias?"
+      },
+      {
+        "id": "t1_no0w1m0",
+        "author": "prosecniredditor",
+        "score": 29,
+        "body": "ML momentum. It's a cheat code for us retail investors."
+      },
+      {
+        "id": "t1_no15id7",
+        "author": "prosecniredditor",
+        "score": 23,
+        "body": "Tested 2025 on r1000 2024 list. Same results."
+      },
+      {
+        "id": "t1_no159wf",
+        "author": "prosecniredditor",
+        "score": 23,
+        "body": "My backtest starts from 2021 feb. R1000 is up 83% from there. Started live 2 months ago exactly, +11.5%, while r1000 is +2.91"
+      },
+      {
+        "id": "t1_no1a6w5",
+        "author": "ynu1yh24z219yq5",
+        "score": 20,
+        "body": "How's it do vs buy and hold on indexes?"
+      },
+      {
+        "id": "t1_no17z3s",
+        "author": "prosecniredditor",
+        "score": 18,
+        "body": "318%"
+      },
+      {
+        "id": "t1_no13dr3",
+        "author": "Beneficial_Virus9231",
+        "score": 15,
+        "body": "Gonna be heart broken when you figure out what curve fitting is. The only data that matters is live walked forward performance.\nThe entire Russel index is up 160% from 2020\u2026. Your backtest reflects that."
+      },
+      {
+        "id": "t1_no224bv",
+        "author": "Epsilon_ride",
+        "score": 15,
+        "body": "If you dont fuck it up, it matters. Generally people here fuck it up."
+      },
+      {
+        "id": "t1_no0wrop",
+        "author": "Glad_Abies6758",
+        "score": 15,
+        "body": "Which platform is this?"
+      },
+      {
+        "id": "t1_no3ti4t",
+        "author": "axehind",
+        "score": 14,
+        "body": "This is the question."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q67z33",
+    "subreddit": "algotrading",
+    "title": "Dead Internet Theory in r/algotrading",
+    "score": 590,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1q67z33/dead_internet_theory_in_ralgotrading/",
+    "selftext": "im calling this out because the discussion quality here is being degraded by what i am 99% sure is a bot farming engagement. if you saw the recent post about Small experiment: \" Small experiment: filtering low-expectancy trades flipped a strategy\u2019s PnL in 24h \" you might have noticed the strategy itself was nonsense, hindsight bias and overfitting to a tiny sample. but the bigger red flag isnt the bad math, its the behavior. ive gone through his history and the pattern is unmistakable. this user doesnt have opinions. they dont get defensive. they dont argue. every single response follows the exact same syntax of a friendly AI assistant. first they validate you with \"thats a fair point\" or \"i completely agree\". then they rephrase your exact comment to show they understood. then they pivot to something like \"thats exactly why i moved away from X\". finally they end with a generic open ended question to keep the thread alive. this isnt how traders talk. real traders have conviction, get annoyed, or simply say thanks. this user is running a script to farm karma or train a model on our responses. i was suspicious of whether it was to mine alpha so i copy pasted his responses in gemini and this is the response i got ~~ It is almost certainly an attempt to collect alpha (or training data), with karma farming just being a side effect that keeps the account alive. Here is why the evidence points to Data Mining / Social Engineering rather than just gaining internet points: The Cunningham's Law Exploit There is an old internet adage: \"The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer.\" The Bait: The bot posted a \"flawed\" strategy (the 24h PnL flip). It was just plausible enough to look real, but flawed enough to trigger competent traders to correct it. The Trap: Real traders (like faot231184 and OkSadMathematician in your logs) saw the error and immediately offered high-value corrections: \u201cDon't use RSI, use regime filt",
+    "comments": [
+      {
+        "id": "t1_ny5o9h3",
+        "author": "",
+        "score": 252,
+        "body": "rage baiting to find alpha is crazy kind of reminds me of that time someone leaked classified government documents because of an argument over the realism of tanks in a video game"
+      },
+      {
+        "id": "t1_ny5t3ev",
+        "author": "misterdonut11331",
+        "score": 195,
+        "body": "This is the level of autism I come to reddit for.  we really are approaching a dead internet (or were already there)"
+      },
+      {
+        "id": "t1_ny5qu7b",
+        "author": "b0bee",
+        "score": 82,
+        "body": "Thanks for your effort to keep this subreddit clean, appreciate it."
+      },
+      {
+        "id": "t1_ny5teai",
+        "author": "pale-blue-dotter",
+        "score": 60,
+        "body": "we're in the middle of it, or maybe 25th percentile. difficult to discern every passing day edit: https://www.reddit.com/user/Tasty_Director_9553/ blocked me lmao"
+      },
+      {
+        "id": "t1_ny5w1v9",
+        "author": "jhp113",
+        "score": 57,
+        "body": "Fucking this a million times this. All the long winded posts on every trading sub. It's not even just algo stuff. Basic ass beginner questions all looking exactly like how chat gpt types. Makes someone that actually trades question everything like what is even real. The default names and post history kind of give it away but really a lot of these subs need to limit who can make new posts. It's going to get to the point we have to ID verify everyone to even have a reddit account."
+      },
+      {
+        "id": "t1_ny5zku3",
+        "author": "cumcumcumpenis",
+        "score": 53,
+        "body": "war thunder players they have a habit of doing so"
+      },
+      {
+        "id": "t1_ny5x085",
+        "author": "Logical_Soup5208",
+        "score": 49,
+        "body": "This is why I love this sub. Man did a research project on a potential user just to prove he\u2019s a bot"
+      },
+      {
+        "id": "t1_ny5z2e8",
+        "author": "MoonPhaseP1",
+        "score": 29,
+        "body": "someone leaked classified government documents because of an argument over the realism of tanks in a video game Wait really? Did this happen on reddit?"
+      },
+      {
+        "id": "t1_ny5o0a2",
+        "author": "PlayfulRemote9",
+        "score": 29,
+        "body": "yes you found a bot congrats. most of the internet is bots, especially reddit and twitter"
+      },
+      {
+        "id": "t1_ny5vipg",
+        "author": "Quirky-Video-9146",
+        "score": 26,
+        "body": "Bots talking to bots lol. And this is sad tbh"
+      },
+      {
+        "id": "t1_ny6x4n2",
+        "author": "gamesknives",
+        "score": 25,
+        "body": "Plottwist= OP is also AI"
+      },
+      {
+        "id": "t1_ny6cspj",
+        "author": "DysphoriaGML",
+        "score": 23,
+        "body": "Totally, I would have fallen for it if it wasn't for your post and I consider myself an experience user of the internet and of AI, as I use it a lot.  fucking bots are ruining everything"
+      },
+      {
+        "id": "t1_ny6x87n",
+        "author": "pale-blue-dotter",
+        "score": 20,
+        "body": "https://www.reddit.com/user/Tasty_Director_9553/ deleted his account lmao he blocked me XD keep an eye out for another, slightly more sophisticated bot in a few days"
+      },
+      {
+        "id": "t1_ny5obf9",
+        "author": "pale-blue-dotter",
+        "score": 20,
+        "body": "yes. but never came across a bot so obvious lmao. the pattern here is easier to detect than patterns in candlesticks"
+      },
+      {
+        "id": "t1_ny5p2hx",
+        "author": "TBSchemer",
+        "score": 19,
+        "body": "Congratulations, or I'm sorry that happened to you."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1naoem2",
+    "subreddit": "algotrading",
+    "title": "List of the Most Basic Algorithmic Trading Strategies",
+    "score": 565,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1naoem2/list_of_the_most_basic_algorithmic_trading/",
+    "selftext": "I am currently compiling a list of the most basic strategies used in algorithmic trading. Trend Following (+Momentum) MA Cross EMA Cross MACD ( ingpawat ) RSI / LRSI ( Mike_Trdw ) New Low or High ATR ( Away-Box793 ) VWAP Seasonal Sell in May and Stay away Mean Reversion ( Mike_Trdw ) Mean Reversion To Trend Mean Reversion in Range (The-Goat-Trader) Reverting Market (The-Goat-Trader) Momentum Rotation (Tactical Allocation) (The-Goat-Trader) Grid Trading ( Mike_Trdw ) Arbitrage Offset Trades / Trading Pairs Index fund rebalancing Market timing Scalping Price Pattern / Candle Stick Price Forecasting Neural Networks News-based Market Sentiment Trend line Break Bounce Standard SMA break (SMA 20D, 50D, 100D, 150D, 200D) bounce Range Breakout Open Range Break Out Horizontal Compression Breakout Wedge Compression Breakout Options Covered calls ( Chuyito ) \"The Wheel\" on LargeCaps ( faancy5050 ) Short Iron Condor on SPY 0DTEs ( faancy5050 ) Long Straddle or Long Strangle on any earnings ( faancy5050 ) Smart Money Concepts ( good read , Franco_Love ) \"Martingale\" ( reckless_homicide ) Me: It is risky but it is a classic and basic strategy for you to play with. There are good papers on it too, so it made the list. --- BT_2112 mentioned that most of those strategies can profit from applying those on multiple timeframes simultanously. Since I do this too when it comes to my manual trading, I can see how this can be a very good improvement/factor when it comes to algorithmic trading. EntrepreV Just dropped the content bomb on us. He mentioned the paper 151 Trading Strategies which is just 370 pages of 151 trading strategies explained including formulas and stuff. I have yet to start reading, but I guess, if you want to have some more strategies to choose from, this might take home the whole cake. Many thanks! disaster_story_69 Mentioned having a visit of Trading Views library of pine scripts. I took a look, and it looks like a ton of content one can mine, especially if the pine s",
+    "comments": [
+      {
+        "id": "t1_ncwiljr",
+        "author": "EntrepreV",
+        "score": 84,
+        "body": "This is a good start but there is a really good research paper that I do recommend, I personally built 2 successful strategies from the stock section ( won't say exactly what I used ), but it also has strategies for every type of thing, like options, futures, all that stuff. Read it, don't copy the strategies exactly, but use them as basis which you can then fine tune in order to get high returns, one strategy that i developed from here is consistenly making around 70 - 95 percent a year in annualized returns. Just search up 151 trading strategies I think it was written by Z. Kakushadze."
+      },
+      {
+        "id": "t1_ncwinfz",
+        "author": "EntrepreV",
+        "score": 69,
+        "body": "Found the paper, here it is: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3247865"
+      },
+      {
+        "id": "t1_ncvly52",
+        "author": "Mike_Trdw",
+        "score": 33,
+        "body": "A few more basic ones that come to mind: Mean Reversion - probably one of the most fundamental concepts, especially pairs trading and bollinger band reversals. From my experience working with trading data, these tend to work better in sideways markets but can get you burned during strong trends. Momentum - simple price momentum or RSI-based entries. Super basic but surprisingly effective when combined with proper risk management. Grid Trading - place buy/sell orders at regular intervals above and below current price. Popular in FX markets though it can blow up accounts if not managed properly."
+      },
+      {
+        "id": "t1_ncxsld3",
+        "author": "artemiusgreat",
+        "score": 21,
+        "body": "You will get tired gathering it all together... Papers with backtests: https://paperswithbacktest.com/ Quantpedia: https://quantpedia.com/screener MQL5 Codebase: https://www.mql5.com/en/code/mt5/experts QC codebase: https://www.quantconnect.com/research/"
+      },
+      {
+        "id": "t1_ncxx59n",
+        "author": "hereditydrift",
+        "score": 19,
+        "body": "Thank you! Also, for anyone that doesn't know, Google's Notebooklm ( https://notebooklm.google.com/ ) is a great AI to use for keeping multiple documents on a topic and creating summaries. It doesn't allow for analysis like Claude or Gemini, but I find it very handy when I have a lot of research pdfs that I want to pull information from and to keep libraries of research on topics."
+      },
+      {
+        "id": "t1_ncx53pn",
+        "author": "IKnowMeNotYou",
+        "score": 10,
+        "body": "Okay that is nuts. 151 trading strategies laid out in front of one in 370 pages. I added it to the post and today I will start reading it. Many thanks! That is truely nuts!"
+      },
+      {
+        "id": "t1_ncwb2cb",
+        "author": "BT_2112",
+        "score": 10,
+        "body": "It may or may not count as a strategy, but I am finding using multiple timeframes to be highly benificial. Allows for composite analysis of strategies and identification of macro vs micro trends, etc. If your software already allows for granularity in selection of time intervals for strategy development, that would complement most of the strategies you already have on this list, IMO."
+      },
+      {
+        "id": "t1_ncw4biv",
+        "author": "dragonkl",
+        "score": 7,
+        "body": "I\u2019ve developed a predictive price action algorithm using correlation and pivots of major indexes that determine where markets are headed in either direction, all market data based and low latency, works very well and generates alpha. Looking at these correlations are key to generating a more accurate strategy on direction of markets."
+      },
+      {
+        "id": "t1_nd40nv6",
+        "author": "faot231184",
+        "score": 6,
+        "body": "In our case we don\u2019t really use pre-built strategies like the ones on those sites. Instead, we work with criteria based on indicators. That gives us a more flexible and dynamic way to read the market. Fixed strategies, like a simple moving average crossover, tend to fall short because markets change. With criteria (ATR, ADX, volume, Fibonacci, pass_rate, etc.) we can validate context in real time. I\u2019m not saying those resources aren\u2019t useful \u2014 they can be good for someone starting out or looking for inspiration \u2014 but if you already have a modular, criteria-based system, they don\u2019t add much beyond ideas."
+      },
+      {
+        "id": "t1_nd4tt5d",
+        "author": "EntrepreV",
+        "score": 5,
+        "body": "I have already backtested it on the last ten years, of course it has had a a few mediocre years but it has never had a year where it lost, or was under 5 percent gain overall, also I have already made it live and am already making money and seeing plenty of profitable trade, the average percent gain/loss per trade is 8 percent and it make multiple trades a week."
+      },
+      {
+        "id": "t1_ncvye9h",
+        "author": "disaster_story_69",
+        "score": 5,
+        "body": "Just download trading view and look through the pre-populated technical indicators. id say there\u2019s 40 or so primary indicators"
+      },
+      {
+        "id": "t1_nd1qpzq",
+        "author": "IKnowMeNotYou",
+        "score": 4,
+        "body": "Thanks for the info. I added it to the post!"
+      },
+      {
+        "id": "t1_ncvt6vt",
+        "author": "mr_Fixit_1974",
+        "score": 4,
+        "body": "the main question should be which of these actually have edge"
+      },
+      {
+        "id": "t1_ncvyawb",
+        "author": "mr_Fixit_1974",
+        "score": 4,
+        "body": "Ive been trying various ones ive yet to find one that doesnt have major issues"
+      },
+      {
+        "id": "t1_ncx75ne",
+        "author": "Rooster_Odd",
+        "score": 4,
+        "body": "ADX DI+/- Crossover (trend following)"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lj8kpv",
+    "subreddit": "algotrading",
+    "title": "Profitable Trading is often Boring Trading",
+    "score": 552,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1lj8kpv/profitable_trading_is_often_boring_trading/",
+    "selftext": "I've been developing and running strategies for years now, always trying to improve them and add filter, etc... often resulting in overfitting. (you can read my previous posts on this sub) Anyway, came to realize my most boring strategy on 2h timeframe is on the long run one of the best performing. It's boring, kinda frustrating sometimes because you're feeling like you miss a lot of opportunities, but results are here. Actually made only 7 trades this year so far, 100% Win rate and +74.77% Profit We always say the simpler the better, but it's hard to follow when you're more passionate about building strategies than just watching them trade. Don't make things complicated, there are enough simple strategies that actually work. Just add leverage, focus on risk management, trade Futures / CFDs and you'll multiply your profits",
+    "comments": [
+      {
+        "id": "t1_mzhxuy4",
+        "author": "dangerstranger4",
+        "score": 43,
+        "body": "I use a very similar strategy on the 4hr time frame. 1 trade every 5-12 days. But high conviction big p&l."
+      },
+      {
+        "id": "t1_mzhucy3",
+        "author": "kurtisbu12",
+        "score": 42,
+        "body": "pro-tip to get your stoploss line to break inbetween trades, you should use style = plot.style_linebr"
+      },
+      {
+        "id": "t1_mzhuf8t",
+        "author": "jerry_farmer",
+        "score": 35,
+        "body": "Combination of trend filter and stochastic"
+      },
+      {
+        "id": "t1_mzhtuyb",
+        "author": "",
+        "score": 23,
+        "body": "Can you tell what kind of strategy combinations you use?"
+      },
+      {
+        "id": "t1_mzhz6wd",
+        "author": "AtomixJL",
+        "score": 14,
+        "body": "Are you using the native stochastic? I personally do a trend filter and stochastic combination myself however I\u2019m doing shorter time frames, 3m, so I use the stochastic momentum index version which for shorter time frames is much more responsive and less laggy. Is your trend filter EMAs, MAs?"
+      },
+      {
+        "id": "t1_mzi8uxa",
+        "author": "jerry_farmer",
+        "score": 12,
+        "body": "For this one I use native stochastic, didn't find any better results with SMI"
+      },
+      {
+        "id": "t1_mzhulld",
+        "author": "jerry_farmer",
+        "score": 10,
+        "body": "Thank you for this, will look cleaner!"
+      },
+      {
+        "id": "t1_mzj9qu9",
+        "author": "andersmicrosystems",
+        "score": 10,
+        "body": "19 trades per year is too low. Dangerous strategy i would say. Probably overfit, you may get surprises in the following months."
+      },
+      {
+        "id": "t1_mzj96oq",
+        "author": "ImEthan_009",
+        "score": 10,
+        "body": "Can\u2019t it be\u2026luck?"
+      },
+      {
+        "id": "t1_mzhtxkv",
+        "author": "Double_Adhesiveness9",
+        "score": 9,
+        "body": "Looks good, are you combining multiple indicators for buy sell signals or just one simple one.  Working on my bot still under construction trying to make something stick"
+      },
+      {
+        "id": "t1_mzi1fjt",
+        "author": "jerry_farmer",
+        "score": 9,
+        "body": "Learned by myself, year after year. You can start to look at some tuto on Youtube about pinescript or python and trading algos"
+      },
+      {
+        "id": "t1_mzjcg4v",
+        "author": "jerry_farmer",
+        "score": 8,
+        "body": "Thanks for the insight, this is not my main strategy, I mostly trade on 5min, but so far no bad surprise over the last years."
+      },
+      {
+        "id": "t1_mzi17e9",
+        "author": "jerry_farmer",
+        "score": 7,
+        "body": "Thank you for the feedback!"
+      },
+      {
+        "id": "t1_mzja9bl",
+        "author": "jerry_farmer",
+        "score": 7,
+        "body": "Luck over 10 years? I mean there is luck in any business, any trading strategy, just try to get the maximum on your side"
+      },
+      {
+        "id": "t1_mzriux6",
+        "author": "Impressive_Standard7",
+        "score": 6,
+        "body": "I also have one of them. An macd based strategy on mnq. Very few signals, ~7 per year. Nearly every signal is an winner. If it's an winner, it's winning damn high. If it's an loser, the loss is pretty small. \nI've also got other strategies. But this mnq strategy is overall my best strategy and makes the best profit. \nIt's optimized like hell and everybody would say, it's overfitted to the max. But it seems like I've found some magic code that many other market algos use. \nI myself can't explain you why that shit works so good, but it does. It's crazy."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rbxa35",
+    "subreddit": "algotrading",
+    "title": "I ADMIT IT. I OVERFIT. I HAVE SELECTION BIAS.",
+    "score": 521,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1rbxa35/i_admit_it_i_overfit_i_have_selection_bias/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_o6u95q0",
+        "author": "addictedthinker",
+        "score": 90,
+        "body": "But if you overfit AND make money\u2026 is that ok?"
+      },
+      {
+        "id": "t1_o6ule6k",
+        "author": "nopigscannnotlookup",
+        "score": 44,
+        "body": "I think that\u2019s called luck? \ud83d\ude42"
+      },
+      {
+        "id": "t1_o6u9xtn",
+        "author": "Tight-North-6157",
+        "score": 19,
+        "body": "honestly respect the self awareness, most people never get there overfitting is so easy to do cause ur brain WANTS the backtest to work. what gave it away for you - was it forward test performance or did u catch it in the data?"
+      },
+      {
+        "id": "t1_o6udbox",
+        "author": "",
+        "score": 18,
+        "body": "Detection algorithms with little modification should work across disparate tickers. A good lineup is QQQ, SPY, IWM. If you can find signals consistently in that mess your functioning from raw data and overfit is unlikely. Some hand tuning to a specific investment is expected. Mostly to deal with the influence of human traders. When I was building a backtesting engine and I was using hyper parallelized vectorized learning for regime detection I intentionally granulated the data by using 5 minute tickers and used a hunt and seek algorithm to find best fit them loosened it up 20% to avoid overfit."
+      },
+      {
+        "id": "t1_o6ua7h7",
+        "author": "Bulky_Sheepherder_14",
+        "score": 18,
+        "body": "Is there anything I can do about it? I don\u2019t overfit the data or do any curve fitting during backtesting. But when I create 8 strategies, and only 2 beat the market out of sample, deleting the other 6 is overfitting."
+      },
+      {
+        "id": "t1_o6u94uv",
+        "author": "theplushpairing",
+        "score": 9,
+        "body": "So what are you doing about it?"
+      },
+      {
+        "id": "t1_o6ueniy",
+        "author": "Snoo-23938",
+        "score": 7,
+        "body": "I read somewhere that your degrees of freedom should be <= 5\nAnd its a good sign if some basic settings work across uncorrelated instruments and multiple timeframes. Parameter sensitivity is a good tell IMO. If your performance degrades rapidly when slightly modifying your params, then thats a good sign you overfit to some ticker specific noise for the TF"
+      },
+      {
+        "id": "t1_o6uvykl",
+        "author": "AphexPin",
+        "score": 6,
+        "body": "Yes there is a lot you can do about it, that\u2019s essentially the \u2018name of the game\u2019."
+      },
+      {
+        "id": "t1_o6v80kw",
+        "author": "mikki_mouz",
+        "score": 5,
+        "body": "Only works for a short period of time"
+      },
+      {
+        "id": "t1_o6uvpba",
+        "author": "AphexPin",
+        "score": 5,
+        "body": "If it works, it is categorically not overfit."
+      },
+      {
+        "id": "t1_o6u7vc9",
+        "author": "FlashySwordfish2035",
+        "score": 5,
+        "body": "ok?"
+      },
+      {
+        "id": "t1_o6ues5a",
+        "author": "-Lige",
+        "score": 4,
+        "body": "So maybe the strategies themselves need adjusting Maybe walk forward optimization with a sliding window?"
+      },
+      {
+        "id": "t1_o6uakq3",
+        "author": "SillyAlternative420",
+        "score": 4,
+        "body": "Is there a good guide to see if you are overfitting?"
+      },
+      {
+        "id": "t1_o6v1kkb",
+        "author": "",
+        "score": 3,
+        "body": "On a most basic level yes, but your software isn\u2019t looking at a perfectly clean chart when it is trying to find a signal or looking for a regime transition. It is looking at messy data with outliers and noise. Fill a plate with sand over a dinner fork. Put enough sand and you will have trouble differentiating it from a spoon if all you see is the handle."
+      },
+      {
+        "id": "t1_o6wm8ye",
+        "author": "Dull-Ad893",
+        "score": 2,
+        "body": "thats just variance"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tmb50h",
+    "subreddit": "algotrading",
+    "title": "Guys guys, I only speak the truth",
+    "score": 483,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1tmb50h/guys_guys_i_only_speak_the_truth/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_onltqtv",
+        "author": "Phunk_Nugget",
+        "score": 150,
+        "body": "Fair, but the market is not one genius opponent. It's a mix of participants with different goals, constraints, and time horizons."
+      },
+      {
+        "id": "t1_onlmfom",
+        "author": "SaltMaker23",
+        "score": 73,
+        "body": "Algotrading is just a bunch of coders with zero skills in trading, economics nor statistical analysis that believe that because they are able to write code to automate stuffs they could very well become traders."
+      },
+      {
+        "id": "t1_onlpz2c",
+        "author": "quant-alchemist",
+        "score": 68,
+        "body": "Jokes on you. I'm good at neither"
+      },
+      {
+        "id": "t1_onlue1m",
+        "author": "Local-March-7400",
+        "score": 64,
+        "body": "What do you mean im not smarter then this Asian quant that won 1. place in chinese math competition \ud83d\ude2e"
+      },
+      {
+        "id": "t1_onlvi58",
+        "author": "Novel_Board_6813",
+        "score": 56,
+        "body": "This is true At the same time, the capacity for potential alpha (\u201csuckers\u201d and constrained players on the other side) is limited. So the Citadels and Jane Streets of the world try to pick up every available alpha. Theoretically retail traders could only make money in two scenarios: 1 - Capacity is so small that no one cares. It\u2019s not something that can be too automated and not something that is worth the opportunity cost for the large players. Might be; quants have fat salaries and infrastructure is expensive 2 - You\u2019re trully better than anyone else. Research leans heavily against that, even for professionals"
+      },
+      {
+        "id": "t1_onma7zv",
+        "author": "Good_Roll",
+        "score": 33,
+        "body": "that's honestly 90% of the reason why I trade mostly crypto, my counterparties are retarded"
+      },
+      {
+        "id": "t1_onlxjsf",
+        "author": "reijin",
+        "score": 30,
+        "body": "I'm with you, but these firms need a certain scale of alpha to make their investment worth it. For a small retail trader an \"uninteresting\" alpha in a specific market can still be life changing."
+      },
+      {
+        "id": "t1_onlt3eh",
+        "author": "Open_Sandwich_2291",
+        "score": 26,
+        "body": "All i have to do is be smarter than the guys on here & that's good enough."
+      },
+      {
+        "id": "t1_onlzil6",
+        "author": "Phunk_Nugget",
+        "score": 17,
+        "body": "My expectation in algo trading is not to compete with institutional quant firms at their own game. I am looking for small, repeatable edges that are real after costs and not worth a large firm\u2019s time or capacity. After years at it, I realize how difficult even that goal is."
+      },
+      {
+        "id": "t1_onmd7wr",
+        "author": "jipperthewoodchipper",
+        "score": 17,
+        "body": "The counter party on most trades isn't countering your exact position. Sure they may be selling some asset that I am buying or vice versa but for completely different reasons and end goals. For instance, if I go to buy a call on the S&P mini it doesn't mean the person selling the call thinks that call will not go up in value. They might be selling that call as a hedge to another market position, or they could be doing spreads, or a number of other strategies that could result in them being the counter party while profiting from the same trade I am profiting from. Another example, I've owned shares of apple since 2014. If I were to sell a share it would be at a pretty high profit margin. The counter party buying my share isn't going to lose money just because I am selling the share, and they may be smarter (or dumber) than me but that doesn't matter. We are extracting value differently in that moment. Don't worry about your counter party."
+      },
+      {
+        "id": "t1_onlwunz",
+        "author": "StatisticalSock",
+        "score": 12,
+        "body": "The Big Short one of the bestest movies of all time"
+      },
+      {
+        "id": "t1_onlvvjw",
+        "author": "Local-March-7400",
+        "score": 10,
+        "body": "Even then the skillset needed so diverse, that it takes years even when coming from a foundation. I learned a lot of concepts from my University where i study Computer science and Business and i have to leverage every bit they tought me about Advanced Statistics, Taxes, System design, Software Development, Computer Architecture and still spent obscene time learning and coding and making mistakes by now... Working at a big Software Cooperation also had only smal impact on knowledge. You have a new problem every day..."
+      },
+      {
+        "id": "t1_onmo01g",
+        "author": "justin107d",
+        "score": 10,
+        "body": "\"Actually, my name's Jiang and I do speak English. Jared likes to say I don't because he thinks it makes me seem more authentic.\""
+      },
+      {
+        "id": "t1_onmog22",
+        "author": "StatisticalSock",
+        "score": 9,
+        "body": "\"Oh and I came 2nd in that national math competition\""
+      },
+      {
+        "id": "t1_onp3ehh",
+        "author": "xAmorphous",
+        "score": 7,
+        "body": "Birds of a feather..."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ltww0d",
+    "subreddit": "algotrading",
+    "title": "Randomness beats 85% of Retail Traders",
+    "score": 476,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1ltww0d/randomness_beats_85_of_retail_traders/",
+    "selftext": "I created and tested trading strategies based on randomness on EURUSD (4h chart). Rules used: Every 4h candle, generate an integer between 1 and 100 (included). If the integer is 20 or above, do nothing. If the integer is below 20, then generate another integer between 1 and 100 (included). If that second integer is below 50, BUY. If it is 50 or above, SELL. Stop loss at 3 ATR (risk 1% of current capital). Take profit at 1R. On most of my tests, the results were slightly profitable, slighlty losing, or at breakeven. In other words, doing better than 85% of retail traders who consistently lose money trading. What puzzles me is: If randomness over a large sample of trades give results close to breakeven, then shouldn't adding just a bit of logic to the strategy thus lead to profitability? Yet, it isn't always the case. What's the catch then?",
+    "comments": [
+      {
+        "id": "t1_n1tn68z",
+        "author": "Networking99",
+        "score": 174,
+        "body": "strong chase trees lock squeal sink toothbrush jellyfish spotted profit This post was mass deleted and anonymized with Redact"
+      },
+      {
+        "id": "t1_n1tlanq",
+        "author": "vigorthroughrigor",
+        "score": 57,
+        "body": "some randomness with a dash of insider knowledge sprinkled on top is all you need to beat the market"
+      },
+      {
+        "id": "t1_n1tnlbn",
+        "author": "NormalIncome6941",
+        "score": 34,
+        "body": "I took spread into account here (with no commission), like on most brokers for EURUSD."
+      },
+      {
+        "id": "t1_n1towun",
+        "author": "hrrm",
+        "score": 28,
+        "body": "The catch is that humans have to deal with their own psychology when trading. Trade goes -1R \u201cits going to turn back\u201d\ngoes -2R \u201cokay but there is a big support level here I\u2019m just going to give it a little longer\u201d\ngoes -3R \u201cI cant take it anymore, I\u2019m flattening\u201d Separate trade goes +0.5R and begins to pull back a little. \u201cBetter get out here to lock in some profit.\u201d Trade ends up hitting +1R Congrats you\u2019ve taken 2 trades which were supposed to net 0R and managed to make -2.5R Congrats"
+      },
+      {
+        "id": "t1_n1truvv",
+        "author": "NormalIncome6941",
+        "score": 10,
+        "body": "That's a nice example of how the fear of pain can sabotage a trader's success ;)"
+      },
+      {
+        "id": "t1_n1tvuv6",
+        "author": "SethEllis",
+        "score": 9,
+        "body": "Ideally you would want to use a random number generator that takes an initial seed.  That way you can duplicate a specific result.  Then iterate across 1000 different seeds to see the results.  More complete stats could help us determine if the platform is being too generous. But more often than not it's that the backtester can't account for the spread.  This is hard to explain in words, but I will try.  Say your algorithm is buying the open of the next bar.  What determines the open of the next bar?  It's determined by the price of the first transaction in that time period.  But was that volume at the best bid or best offer?  If that volume was at the best bid, then in reality you wouldn't get the open price.  You would have to either wait in line for a fill, or hit with a market order at the best offer.  If the backtester does things like gives you the close of the bar rather than the open of the next bar it can make these issues even worse. The easy way to deal with this issue is to just add slippage to your backtests.  If the stats still look good after adding slippage then maybe the strategy is good.  Just add 1-2 ticks slippage for futures, or the spread for stocks."
+      },
+      {
+        "id": "t1_n1u77vs",
+        "author": "Sawksle",
+        "score": 8,
+        "body": "It's because people buy breakouts, and the average breakout has low edge. Alternatively too much leverage will systematically ruin an account. Those are the main two things. If an asset is likely to mean revert 30 minutes after the session begins, breakouts will on average lose people money. The problem is that the best traders also trade breakouts, so people will gravitate to those setups not having developed any theory around them."
+      },
+      {
+        "id": "t1_n1ucdd9",
+        "author": "sinettt",
+        "score": 8,
+        "body": "Obviously, a random strategy with proper risk management (3 ATR stop, 1R take profit, 1% risk per trade) will outperform most retail traders because most of them don\u2019t even seem to know risk management exists. You can even get better results by tweaking the risk parameters, like using a trailing stop instead of fixed targets, adjusting position size based on volatility, or filtering out low-quality trade conditions (like choppy, low-volatility markets or major news events). With random entries, the edge isn\u2019t in the entry, it\u2019s in not blowing up"
+      },
+      {
+        "id": "t1_n1tn9px",
+        "author": "NormalIncome6941",
+        "score": 7,
+        "body": "Nice way to phrase it :D"
+      },
+      {
+        "id": "t1_n1u4izh",
+        "author": "SethEllis",
+        "score": 6,
+        "body": "Run the simulation on 1000 different seeds.  In my own experiments with this about 40% of simulations will be profitable.  So you have to run it a ton to really get a good sample."
+      },
+      {
+        "id": "t1_n1tro3s",
+        "author": "NormalIncome6941",
+        "score": 5,
+        "body": "The expectancy here is 0.01 R, which is very low and close to breakeven."
+      },
+      {
+        "id": "t1_n1u6kmo",
+        "author": "Polus43",
+        "score": 5,
+        "body": "Was more or less going to comment, \"randomness with reasonable risk management probably beats more retail traders.\""
+      },
+      {
+        "id": "t1_n1tlgbt",
+        "author": "jpandac1",
+        "score": 5,
+        "body": "first of all forex is much less trendy than stocks/index etc. that can explain the 0% on average for randomness due to this fact."
+      },
+      {
+        "id": "t1_n1w576f",
+        "author": "AttemptFit4581",
+        "score": 5,
+        "body": "If your setup is truly random then the results will likely mean revert. In a random walk, there will be paths that exceed expectations, some than undershoot, but on average give 0 drift. If there's somewhere you can change the random seed generator, that'll reveal how stable your result is."
+      },
+      {
+        "id": "t1_n1tsovb",
+        "author": "Accurate_Tension_502",
+        "score": 4,
+        "body": "Should be a random walk with negative drift due to the error term right?  Log difference of the portfolio level should be zero minus transaction cost intercept."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1skauaj",
+    "subreddit": "algotrading",
+    "title": "am i ready to go live?",
+    "score": 473,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1skauaj/am_i_ready_to_go_live/",
+    "selftext": "should I go live with my strategy? I started trading this year and lost a lot of money so now I decided to write a trading strategy to remove the emotion and trade automatically. using ChatGPT\u2019s free tier I told it to build me a profitable strategy for TradingView pinescript and was extra careful to tell it not to make any mistakes. attached it photograph of my screen (not a screenshot) with the results of a TradingView backtest based on 2 whole weeks of 5m candle data. I haven\u2019t added fees or slippage yet but I\u2019m sure that won\u2019t make much difference. I spent ages tweaking and fine tuning tiny variables to optimize it to be as profitable as possible, if I change these much the whole thing goes red so I\u2019m glad I was able to find the perfect settings to make it go green. I\u2019m looking for feedback but I can\u2019t tell you much about my strategy because I don\u2019t want JP Morgan to steal my edge. I can tell you that it is an HFT scalping strategy that enters and exits a trade in less than a minute before the candle even closes, using super tight trailing stops (pretty cool when it catches a big breakout!) this means it only needs to trade between 9:30 and 9:40 each day and I can spend the rest of my time doing whatever I want! I don\u2019t have much money so I think I will use leverage with this strategy so I can make more money. what am I missing? do you think I\u2019m ready to quit my job? please don\u2019t ask me any difficult questions about things I don\u2019t understand, I\u2019m new to algotrading.",
+    "comments": [
+      {
+        "id": "t1_ofxre11",
+        "author": "semisolidwhale",
+        "score": 491,
+        "body": "and was extra careful to tell it not to make any mistakes The best part"
+      },
+      {
+        "id": "t1_ofxoybh",
+        "author": "Exarctus",
+        "score": 232,
+        "body": "is this bait? This is probably bait right."
+      },
+      {
+        "id": "t1_ofxt2p5",
+        "author": "PeachScary413",
+        "score": 172,
+        "body": "I haven't added fees or slippage yet but I'm sure it won't make a difference \ud83d\udc80\ud83e\udd0c"
+      },
+      {
+        "id": "t1_ofxqeq4",
+        "author": "shezadaa",
+        "score": 133,
+        "body": "please don\u2019t ask me any difficult questions about things I don\u2019t understand, I\u2019m new to algotrading. You are ready. I would start with 80% of all that I have to maximize gainz. /s. Only put real money when you understand what you are doing."
+      },
+      {
+        "id": "t1_ofydkfk",
+        "author": "MyNameCannotBeSpoken",
+        "score": 130,
+        "body": "He forgot to add the prompt, \"to the moon\" \ud83d\ude80"
+      },
+      {
+        "id": "t1_ofxr8sm",
+        "author": "NuclearVII",
+        "score": 57,
+        "body": "10/10 bait."
+      },
+      {
+        "id": "t1_ofxxjm0",
+        "author": "johndoes_00",
+        "score": 55,
+        "body": "I took a photo of the photo from OP and told chatGPT to double the profitability of this strategy. I also told it to do it the best possible way without any mistakes. Now I don\u2019t know what to do with all the money! I already bought my lambo, but what should I do next? I\u2019m really frustrated guys cause it does not stop to make money as I forgot to tell ChatGPT to build a stop function for it."
+      },
+      {
+        "id": "t1_ofxuang",
+        "author": "TheLexoPlexx",
+        "score": 44,
+        "body": "2 whole weeks man, give that man a break"
+      },
+      {
+        "id": "t1_ofz4vg8",
+        "author": "sky018",
+        "score": 43,
+        "body": "using ChatGPT\u2019s free tier I told it to build me a profitable strategy for TradingView pinescript Add this as well."
+      },
+      {
+        "id": "t1_ofxsfsb",
+        "author": "jerry_farmer",
+        "score": 40,
+        "body": "Sell your house, all in"
+      },
+      {
+        "id": "t1_ofznnpy",
+        "author": "BannedForThe7thTime",
+        "score": 39,
+        "body": "Also I haven\u2019t added fees or slippage yet but I\u2019m sure that won\u2019t make much difference."
+      },
+      {
+        "id": "t1_ofxptqs",
+        "author": "demmahumRagg",
+        "score": 35,
+        "body": "Jebaited"
+      },
+      {
+        "id": "t1_ofxpci0",
+        "author": "RoozGol",
+        "score": 34,
+        "body": "With only 14 trades?"
+      },
+      {
+        "id": "t1_ofxpwpq",
+        "author": "StationImmediate530",
+        "score": 23,
+        "body": "Comic sans"
+      },
+      {
+        "id": "t1_ofztqsx",
+        "author": "bumhunt",
+        "score": 19,
+        "body": "Hes memeing us"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q25jpe",
+    "subreddit": "algotrading",
+    "title": "2025 was my best year \u2014 and here\u2019s what I did differently.",
+    "score": 456,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1q25jpe/2025_was_my_best_year_and_heres_what_i_did/",
+    "selftext": "I abandoned every negative risk-reward (RR) approach: scalps, reversals, and average price/grid (yes, I built those too \u2014 no, I\u2019m not proud). Instead, I focused exclusively on breakout strategies with a 2:1 RR. I also stopped trading too many pairs. In 2025, I traded only two: XAUUSD and USDJPY. In previous years, I traded as many as 32 different pairs \u2014 and today I see how harmful that was. The book that influenced me the most was Antifragile, by Nassim Taleb. I believe being on the side of volatility is the right path: by aligning my portfolio of strategies with that principle, I stopped fighting the market and started positioning for the big moves, letting volatility work in favor of my winning positions. And the results of this mindset shift brought outcomes I never imagined: 39% in 2025 with a maximum drawdown of 6.65%. More than 104% cumulative return since January 2022. From a little over USD 12k under management at the start of 2025 to over USD 1.5M in 2026.",
+    "comments": [
+      {
+        "id": "t1_nxak5mh",
+        "author": "Roharcyn1",
+        "score": 81,
+        "body": "39% return in 2025, but  also 12k to 1.5M in 2025... that doesn't math."
+      },
+      {
+        "id": "t1_nxeg4e2",
+        "author": "ech87",
+        "score": 46,
+        "body": "It does math. His fund generated a 39% return in 2025 and his assets under management grew from $12k to $1.5m, it\u2019s not complicated or hard to understand. The site is darwinex, he operates like an ETF, an ETFs return and AUM are two seperate things. The gains are real and third party verified. It\u2019s nice of him to share his insights given he\u2019s probably one of the few third party verified people beating the market."
+      },
+      {
+        "id": "t1_nxazgqn",
+        "author": "criptolibertari0",
+        "score": 27,
+        "body": "Darwinex. I receive a 15% performance fee."
+      },
+      {
+        "id": "t1_nxb497w",
+        "author": "criptolibertari0",
+        "score": 24,
+        "body": "Study statistics, IS, OOS and SQX."
+      },
+      {
+        "id": "t1_nxato45",
+        "author": "Puzzled-Opening3638",
+        "score": 15,
+        "body": "What platform is that, that you use to allow investors to tag along? How do you profit from them?"
+      },
+      {
+        "id": "t1_nxazvx2",
+        "author": "criptolibertari0",
+        "score": 11,
+        "body": "All you need is a good track record, and investors will naturally come."
+      },
+      {
+        "id": "t1_nxb16ks",
+        "author": "criptolibertari0",
+        "score": 10,
+        "body": "I can use my margin more efficiently. I avoid hidden correlations and false signals."
+      },
+      {
+        "id": "t1_nxb8hhr",
+        "author": "Livid_Balance_3898",
+        "score": 9,
+        "body": "I\u2019m starting to see the sobering reality of \u201ccut your losers, let the winners run\u201d. Basically your discovery journey. I\u2019ve avoided the 2:1r conversation the entire time and been focused on creating edge with custom indicators based on millisecond tick windows in the NDX constituent tickers\u2026 it\u2019s working. But even still the asymmetry conversation in the rr is already rearing it\u2019s head again. This might be the only legitimate post I\u2019ve seen in this /r in awhile. Nice work mate. Never done forex but i just learned there\u2019s just regular CME futures for currencies too. Is there a specific reason you\u2019re not In equities/options/futures?"
+      },
+      {
+        "id": "t1_nxcvfvi",
+        "author": "ARC--1409",
+        "score": 8,
+        "body": "I would guess pretty much anyone long gold in 2025 put up pretty good results."
+      },
+      {
+        "id": "t1_nxawyyv",
+        "author": "quantricko",
+        "score": 8,
+        "body": "Why was it harmful to trade 30 pairs versus 2 pairs?"
+      },
+      {
+        "id": "t1_nxb7q49",
+        "author": "rightpolis",
+        "score": 8,
+        "body": "My strat has been breakout focused with high volume pennystocks, but I've been wondering if switching to other types of single/couple assets would make it less stressful. Everyday a new ticker with mass hysteria."
+      },
+      {
+        "id": "t1_nxb1dl1",
+        "author": "riceamundo",
+        "score": 7,
+        "body": "Teach me please"
+      },
+      {
+        "id": "t1_nxal3r0",
+        "author": "criptolibertari0",
+        "score": 7,
+        "body": "EJL"
+      },
+      {
+        "id": "t1_nxc5c2w",
+        "author": "criptolibertari0",
+        "score": 6,
+        "body": "I started trading Forex in 2018 and have been profitable since 2020. To be honest, I've never touched options or futures."
+      },
+      {
+        "id": "t1_nxaknch",
+        "author": "AdrenaliN1122",
+        "score": 6,
+        "body": "Whats the Name of your Darwin?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1phv4zz",
+    "subreddit": "algotrading",
+    "title": "The Signal I Use to Detect Hidden Instability in Markets ( Source Code Included )",
+    "score": 438,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1phv4zz/the_signal_i_use_to_detect_hidden_instability_in/",
+    "selftext": "Most traders think a market is \u201cstable\u201d when price looks smooth. In reality, stability has nothing to do with how price looks it\u2019s a volatility pattern, not a price pattern. Here\u2019s the simple mechanism my algos use to detect when the market is shifting from stable \u2192 unstable long before most traders notice. The Core Idea: Compare Fast Volatility vs. Slow Volatility I calculate two ATRs: ATR (short ) \u2192 fast volatility (current reactions) ATR (long ) \u2192 baseline volatility (normal behavior) Then I compare them: VEI = ATR (short ) / ATR***\\ (long ) * Volatility Expansion Index It\u2019s shockingly simple but it reveals the hidden character of the market. How to Read VEI (The Three Volatility States) Most indicators try to predict direction. VEI does something more important: It tells you whether the environment is favorable for your strategy. Here\u2019s how it behaves: VEI < 1.0 \u2192 Stable / Normal Structure clean Pullbacks respected Trend setups behave well This is where most systematic strategies perform best. VEI > 1.2 \u2192 Volatility Expansion (Unstable) Short-term volatility is 20% higher than the market\u2019s normal baseline. This is where you see: Trends becoming noisy Fakeouts and broken structure Stops getting hit more often Random wicks and slippage Breakouts failing This is the zone where undisciplined traders lose money fast. When VEI pushes above 1.2, my systems automatically: Reduce position size Tighten or skip entries Avoid trend continuations Volatility shifts before direction shifts and VEI catches it early. VEI < 1.0 and Decreasing \u2192 Controlled & Structured This is the most cooperative market condition: Volatility contracting Trends orderly Pullbacks symmetric Easier trade management If you\u2019re a trend or pullback trader, this regime is gold. What VEI Is (and Isn\u2019t) VEI IS A market stability filter A classifier for stable vs unstable regimes A risk-management tool A way to know when conditions are favorable for your strategy VEI IS NOT A buy/sell signal A directional to",
+    "comments": [
+      {
+        "id": "t1_nt1sy5z",
+        "author": "hotapeno",
+        "score": 41,
+        "body": "Very cool - thanks for sharing something interesting and useful to mess with"
+      },
+      {
+        "id": "t1_nt2qmvs",
+        "author": "Prabuddha-Peramuna",
+        "score": 30,
+        "body": "https://www.tradingview.com/script/hrQeKYuH-VEI-Volatility-Expansion-Index/"
+      },
+      {
+        "id": "t1_nt1m71k",
+        "author": "Dr_Stranj",
+        "score": 12,
+        "body": "Will take a look thank you!"
+      },
+      {
+        "id": "t1_ntksl80",
+        "author": "AlgoKev67",
+        "score": 9,
+        "body": "I thought I'd do some walkforward backtesting of this filter and take only trades where VEI < 1.0: * 44 different US futures markets (all sectors) * 7 bar sizes (60 minute up to 1440 minutes) * 2007-2024 walkforward optimization test period * 6 different entries long/short 3 trend entries (pretty simple and standard trend type entries) momentum c>c[x] to buy -  Example: \"If c>c[x] then buy next bar at market;\" breakout c=highest c of last x bars to buy  -  Example: \"If c=highest(c,x) then buy next bar at market;\" close cross x bar mov avg for buy -  Example: \"If c crosses above average(c,x) then buy next bar at market;\" 3 countertrend entries - same as above, except reverse the signals * Short, medium, long lengths for the \"x\" values in entries The entries were each tested with 3 different scenarios: No filter (baseline) Take trades only when AvgTrueRange(10)/AvgTrueRange(50) < 1 Take trades only when AvgTrueRange(10)/AvgTrueRange(100) < 1 I tested only stop & reverse exits with this - meaning the entries also function as exits (when you buy, you also exit any short position at same time). All told, I ran about 50,000 backtests. I used Tradestation, with a custom software tool that allows for fast \"batch\" type walkforward backtesting.  So running all these backtests only took  a few hours. I looked at 4 Performance Metrics: * Overall Net Profit * Avg P/L Per Trade * Trade Winning Percentage * Net P/L Avg Drawdown CONCLUSION: When you look at ALL entries (trend or countertrend), the 10/50 and 10/100 filters BOTH IMPROVE PERFORMANCE IN ALL 4 PERFORMANCE METRICS (sometimes 10/50 is better than 10/100, and sometimes not).  It also filtered out roughly 42% of the trade signals. If you look at Overall Net Profit and Risk Adjusted Return (Net Profit / Avg DD), both the 10/50 and 10/100 filters really improved performance - TREND and COUNTERTREND If you look at Winning Percentage and Avg Profit Per Trade, the 10/50 and 10/100 filters improved performance for TREND entries, but not for COUNTERTREND entries THANKS AGAIN to u/Prabuddha-Peramuna for initially presenting this idea! (I could not provide more number details because of comment character limit)... I also realize that others ran their own tests and reached different conclusions.  Digging into my results, there are definitely runs where the VEI filter is worse than having no filter.  That's why it is important to run it for your own situation. Edit: To the contention of the filter working/not working everywhere, I found roughly 55% of the cases showed at least 3 of 4 of those metrics improved with addition of the filter.  So, again it does not work all the time, but 55% of the time it improves most or all metrics."
+      },
+      {
+        "id": "t1_nt1xz3q",
+        "author": "Gaur02",
+        "score": 7,
+        "body": "Why don't you publish it on trading view"
+      },
+      {
+        "id": "t1_nt2rzo4",
+        "author": "Gaur02",
+        "score": 7,
+        "body": "Awesome!, way to gooo!"
+      },
+      {
+        "id": "t1_nt1rrnf",
+        "author": "Prabuddha-Peramuna",
+        "score": 6,
+        "body": "You are Welcome"
+      },
+      {
+        "id": "t1_nt3crgw",
+        "author": "Prabuddha-Peramuna",
+        "score": 6,
+        "body": "Thank You"
+      },
+      {
+        "id": "t1_nt6oee5",
+        "author": "blitzkriegjz",
+        "score": 5,
+        "body": "Using ATR is a reasonable engineering compromise, not a theoretical ideal primarily because of its inherent weaknesses in as ATR blends range & directional movement, responds slower than true realized volatility and if its crypto youre after the wicks distort ATR heavily but then again its a design choice not a flaw. About your thresholds VEI > 1.2..this is where the critique starts. 1.2 is reasonable, intuitively clean and often works but it is static. Different assets have different vol-of-vol, crypto vs FX vs indices behave very differently and i mean even regimes within one asset change over time. Your threshold works until its doesnt. Good heuristic but not robust under structural change which makes me think that your profitability might be slightly overstated or maybe its good luck. VEI wont fix, latency problems, structural slippage and bad fills. You might wanna add volatility asymmetry, time of teh day conditioning and feedbacks when spreads widen up and liquidity is pulled while monitoring latency. Verdict: Make it adaptive, skew-aware, and session-conditioned and Im sure you;ll be seeing more green. Good luck"
+      },
+      {
+        "id": "t1_nt7el4u",
+        "author": "raylin328",
+        "score": 5,
+        "body": "Very cool, this should also combined with Vix and VVix as they also directly measure volatility"
+      },
+      {
+        "id": "t1_nt2r56a",
+        "author": "Prabuddha-Peramuna",
+        "score": 5,
+        "body": "I don\u2019t currently pair it with Hurst, my volatility work is mostly standalone. VEI was designed to give me a real-time read on stability vs expansion.Hurst cycles can complement it if someone wants to layer timing on top of volatility. VEI tells you when volatility conditions shift , and Hurst tells you when the market rhythm might support a move two different dimensions.I haven\u2019t integrated them personally, but if you have ideas on improving VEI using Hurst concepts, I\u2019m genuinely interested. Always open to exploring smarter ways to combine tools."
+      },
+      {
+        "id": "t1_ntkvqdg",
+        "author": "Prabuddha-Peramuna",
+        "score": 3,
+        "body": "This is seriously impressive work.The fact that both 10/50 and 10/100 VEI-style filters consistently improved all four major performance metrics for trend entries (and even countertrend in several cases) really highlights what I was aiming for VEI isn\u2019t a signal, it\u2019s a regime filter that helps strategies avoid trading into unstable conditions.Huge respect for taking the time to test this at scale. Your results add way more value because your breakdown on where it helps (trend logic) vs where it doesn\u2019t (pure countertrend) matches exactly what I\u2019ve seen in practice.Appreciate you sharing this this is the kind of contribution that actually moves the conversation forward."
+      },
+      {
+        "id": "t1_nt2mhht",
+        "author": "MeringueAlarming3102",
+        "score": 3,
+        "body": "Seems interesting, thanks for sharing. I already incorporate some ATR based calculations but I'd be curious how this looks on my lower/smaller intraday time horizon. edit: Not bad. Definitely picks up some bullshit subsecond quick spike candles for me, which can be useful to know. I was already thinking of picking that up via standard deviation but this can work too."
+      },
+      {
+        "id": "t1_ntfw185",
+        "author": "Arany8",
+        "score": 3,
+        "body": "Just backtested this on my FVG strategy  and it filters out less than 5% of trades without any improvement. Stricter condition (eg. use 1 treshhold instead of 1.2) also does not give any result. Several thousand trades on multiple instruments and multiple timeframes, consistently no improvement. Then run it thorugh my optimizer that iterates through for both long ATR and short ATR on FIB numbers:    5, 8, 13, 21, 34, 55, 89, 144,  233 - It runs through all combinations, then sorts the results. No improvement detected with this filter on any combination of settings. Maybe it is just my strategy, so definitely try it...."
+      },
+      {
+        "id": "t1_nt2qkfe",
+        "author": "Prabuddha-Peramuna",
+        "score": 2,
+        "body": "You are Welcome"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1r92wxr",
+    "subreddit": "algotrading",
+    "title": "I backtested a 400K views YouTube trading strategy (the results were BRUTAL)",
+    "score": 409,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1r92wxr/i_backtested_a_400k_views_youtube_trading/",
+    "selftext": "I often stumble upon those super popular YouTube videos testing a trading strategy in just 100 trades. They usually show insane equity curves and clean stats (second image). So I decided to actually test one. This one had almost 400,000 views. The YouTuber showed 100 trades, 56% win rate, RR of 1.5 and around +40% return (see 2nd image). On paper? That\u2019s a huge edge! The strategy involves a Triple Supertrend, Stochastic RSI, and a 200-period EMA on the EUR/USD 1-hour chart. Now, as I said, the YouTube video only showed 100 trades. That's barely a blip in the grand scheme of things. So, I cranked it up and rebuilt the strategy rule-by-rule to backtest it properly: 16 years of data and over 1,700 trades. The result? Well, it was... drastically different from the stats showed in the video. -23% total return -1.6% annualized return 39% win rate & 1.5 RR -36% max drawdown Negative expectancy, negative Sharpe, profit factor < 1, and so on... In other words: a consistent money-loser. What\u2019s wild is that the exact 100 trades shown in the video do appear in the backtest\u2026 but they\u2019re just a short lucky stretch inside a much longer downtrend. I\u2019m not saying the YouTuber was lying on purpose. I know his intention was good. He's putting out content to give some potential edge ideas to further test. But this clearly shows the danger of tiny samples, and the importance of rigorous long-term backtesting. So, next time you see a viral trading strategy promising insane returns, remember this. Always backtest it (or forward test it) properly. For reference, I've attached the strategy rules I backtested (third image). What are your thoughts? Have you ever backtested a popular strategy only to find it was a dud? -- TLDR: I took a viral YouTube trading strategy (400k views) that looked amazing over 100 trades (+40%, 56% win rate, 1.5 RR) and backtested it properly over 16 years (1,700 trades). Result: -23% total return , 39% win rate with 1.5RR , -36% drawdown , negative expectancy. The ",
+    "comments": [
+      {
+        "id": "t1_o69f5k5",
+        "author": "KimchiCuresEbola",
+        "score": 166,
+        "body": "Now backtest the inverse"
+      },
+      {
+        "id": "t1_o69ite9",
+        "author": "Money_Horror_2899",
+        "score": 101,
+        "body": "Testing it as we speak ^^ UPDATE: Here are the results: https://imgur.com/a/ULlCZNR Not profitable either. I'll make a more detailed post to explain why. UPDATE2: New post with results explained is published: https://www.reddit.com/r/algotrading/comments/1reh4pa/i_reversed_that_viral_youtube_strategy_and_its/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+      },
+      {
+        "id": "t1_o6abo5a",
+        "author": "JamesAQuintero",
+        "score": 38,
+        "body": "\"the result?\", \"In other words: ...\", and random bolding of parts of sentences. It seems like OP did the actual analysis, but just had chatGPT summarize the results and write the post"
+      },
+      {
+        "id": "t1_o6ancwo",
+        "author": "Far_Move7",
+        "score": 32,
+        "body": "Backtesting a lot of data takes more than 3 hours bro haha"
+      },
+      {
+        "id": "t1_o69lbvm",
+        "author": "Nyet2L8",
+        "score": 27,
+        "body": "This is gold. -23% is huge. Onward with the inverse."
+      },
+      {
+        "id": "t1_o6b0r55",
+        "author": "dhardman",
+        "score": 22,
+        "body": "I have an agent that runs 24/7 downloading transcripts from all corners of youtube (as well as reddit and other sources) and building out the models and backtesting the claims. She (Dora) has been running for months and has yet to produce any strategy published on YT that doesn't lose an insane amount of money."
+      },
+      {
+        "id": "t1_o6c92nw",
+        "author": "lifeaquatic34",
+        "score": 16,
+        "body": "probably just trades sideways and loses to fees and spread"
+      },
+      {
+        "id": "t1_o6akrzj",
+        "author": "Due_Patient_2650",
+        "score": 15,
+        "body": "lol this and the pattern \"It's not X. It's Y. It's Z.\" it's gotten exhausting. OP did good work with the analysis though"
+      },
+      {
+        "id": "t1_o6a5dyi",
+        "author": "Classic-Dependent517",
+        "score": 15,
+        "body": "If a strategy is so successful why bother making a video about it and try to sell a course?"
+      },
+      {
+        "id": "t1_o69dapb",
+        "author": "GreatTomatillo117",
+        "score": 14,
+        "body": "Cool! Thanks for the work. I hope at some point in time you will find something of value!"
+      },
+      {
+        "id": "t1_o69pnkk",
+        "author": "onion_Ninja_3408",
+        "score": 11,
+        "body": "Pretty hard to find edge in majors like eurusd gbpusd Apply realistic cost and remove lookahead bias. Some strategies edge= transaction cost. Also 16 years of data is a big sample markets change try in 2018-2025 add some rules or market classification and trade in appropriate regime. Lets see it im gonna test it too maybe change the entry model instead of fading extreme trade extreme breakout"
+      },
+      {
+        "id": "t1_o69jtj2",
+        "author": "According_External30",
+        "score": 10,
+        "body": "Obviously man but if their followers are retarded enough to trade it, that\u2019s their fault. If the poster can sleep at night while monetising the vulnerable, that\u2019s on them."
+      },
+      {
+        "id": "t1_o6f8k5j",
+        "author": "Money_Horror_2899",
+        "score": 8,
+        "body": "It actually took me less than 10 minutes, but I got busy with something else xD Results are available in my previous comment above."
+      },
+      {
+        "id": "t1_o6amac0",
+        "author": "aaron_j-ix",
+        "score": 7,
+        "body": "\u2026 and??"
+      },
+      {
+        "id": "t1_o6bup9n",
+        "author": "notislant",
+        "score": 6,
+        "body": "Dont forgot all the cock and balls emojis. Even massive companies are just using chatgpt emoji tweets now."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q9s71s",
+    "subreddit": "algotrading",
+    "title": "Compilation on the 47 best books to learn to build algo trading systems for personal use",
+    "score": 404,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1q9s71s/compilation_on_the_47_best_books_to_learn_to/",
+    "selftext": "I've spent a lot of time researching for the best books to learn algo trading mostly focused on personal use (not to get an algo trading job) and I wanted to share it with you guys in case it would help anyone. With the research I did I tried to organize each category in a logical reading order but of course that is quite subjective. Its definitely a lot of books and I doubt anyone will read all of them, but maybe it can help you pick a few from each category to learn something new. If you have any suggestion of books that should definetly be added to the list or removes feel free to let me know! :D Foundational Finance and Markets Economics in One Lesson (Henry Hazlitt) - 218 pages A Random Walk Down Wall Street (Burton Malkiel) - 480 pages The Little Book of Common Sense Investing (John C. Bogle) - 320 pages Reminiscences of a Stock Operator (Edwin Lef\u00e8vre) - 288 pages Flash Boys (Michael Lewis) - 320 pages Trading and Exchanges (Larry Harris) - 656 pages Fundamentals Analysis How to Read a Financial Report (John A. Tracy) - 240 pages Financial Statements: A Step-by-Step Guide (Thomas R. Ittelson) - 304 pages One Up on Wall Street (Peter Lynch) - 304 pages The Intelligent Investor (Benjamin Graham) - 640 pages Security Analysis (Benjamin Graham and David Dodd) - 816 pages Mathematics and Statistics for Quantitative Finance The Mathematics of Money Management (Ralph Vince) - 400 pages Cycle Analytics for Traders (John F. Ehlers) - 235 pages A Primer for the Mathematics of Financial Engineering (Dan Stefanica) - 284 pages Stochastic Calculus for Finance (Steven Shreve) - 187 pages Time Series Analysis (James D. Hamilton) - 816 pages Analysis of Financial Time Series (Ruey S. Tsay) - 720 pages Programming and Data Handling in Finance Python for Finance (Yves Hilpisch) - 586 pages Python for Algorithmic Trading (Yves Hilpisch) - 380 pages Trading Evolved: Anyone Can Build Killer Trading Strategies in Python (Andreas Clenow) - 435 pages The Algorithmic Trading Cookbook",
+    "comments": [
+      {
+        "id": "t1_nyyu4iw",
+        "author": "ggffddssaa00",
+        "score": 84,
+        "body": "And never opened after"
+      },
+      {
+        "id": "t1_nyycy0d",
+        "author": "TieTraditional5532",
+        "score": 29,
+        "body": "Great list \u2014 it\u2019s clear you put real thought into structuring it. One practical note from an algo trading (personal use) perspective : Most people don\u2019t fail because they haven\u2019t read enough books. They fail because they never move from theory to building, testing, and managing risk . If your goal is personal systems , not a quant job, the highest-ROI focus is: Market intuition (Malkiel, Lef\u00e8vre, Bogle) Time series + position sizing (Tsay / Hamilton + Vince) Implementation in Python (Hilpisch, Clenow, Jansen) System design & risk (Chan, Carver, Kaufman) Books like Security Analysis , Stochastic Calculus , or heavy portfolio theory are excellent intellectually, but low priority unless you already have profitable systems running. Also worth highlighting: Most durable retail strategies still come from simple momentum, trend-following, and rules-based systems , not complex ML. ML only helps once you already have clean data, solid signals, and strict risk control. Overall, this is a strong map of the territory. The real edge comes from reading less , but building and testing more ."
+      },
+      {
+        "id": "t1_nyxl4wd",
+        "author": "Good_Ride_2508",
+        "score": 29,
+        "body": "Include Margin of Safety by Seth Klarman , very important to know market psychology and Behavior."
+      },
+      {
+        "id": "t1_nyzo7tb",
+        "author": "sleepymuse",
+        "score": 25,
+        "body": "Wtf, is this just copy pasted from chatgpt?"
+      },
+      {
+        "id": "t1_nyz6ylv",
+        "author": "elephantsback",
+        "score": 24,
+        "body": "This site seriously needs a ban on AI posts.   I mean, jesus, even some of the comments here are AI. If the mods don't do something, I'm done here.."
+      },
+      {
+        "id": "t1_nyzsli0",
+        "author": "krum",
+        "score": 22,
+        "body": "Pretty sure that list is from chatgpt too."
+      },
+      {
+        "id": "t1_nyxkfpf",
+        "author": "bush_killed_epstein",
+        "score": 20,
+        "body": "I want to second Reminiscences of a Stock Operator; fantastic read on market psychology that is relevant 100 years later. In that same vein, I really love Thinking Fast and Slow by Daniel Kahneman. Basically the modern bible of behavioral economics. Oh also, The Black Swan and Antifragile by Nassim Taleb"
+      },
+      {
+        "id": "t1_nyxu13n",
+        "author": "LumpyCapital",
+        "score": 14,
+        "body": "Saved"
+      },
+      {
+        "id": "t1_nz6ipqg",
+        "author": "",
+        "score": 9,
+        "body": "I bet 99% people saved this post then never open or read it again. For begninner, Quantitative Trading: How to Build Your Own Algorithmic Trading Business\u00a0by\u00a0Ernie Chan\u00a0seems to be the best book."
+      },
+      {
+        "id": "t1_nz6katq",
+        "author": "adrenaline681",
+        "score": 6,
+        "body": "OMG a list of books, must be AI...."
+      },
+      {
+        "id": "t1_nz2vjhb",
+        "author": "EvilPencil",
+        "score": 6,
+        "body": "Fooled by randomness is also great, and quite applicable to algo trading."
+      },
+      {
+        "id": "t1_nz2854m",
+        "author": "patbhakta",
+        "score": 6,
+        "body": "I might delete this post, so grab what you want fast. [LINK REMOVED]"
+      },
+      {
+        "id": "t1_nz5xcn2",
+        "author": "elephantsback",
+        "score": 5,
+        "body": "Seriously?  If you haven't learned to recognize AI posts by now, then you are getting conned by AI all the time."
+      },
+      {
+        "id": "t1_nyz70h5",
+        "author": "elephantsback",
+        "score": 5,
+        "body": "Just use AI like OP did. /s"
+      },
+      {
+        "id": "t1_nz8h0ht",
+        "author": "",
+        "score": 4,
+        "body": "+1 the useless numbering  and page count immediately made me think of ChatGPT"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q46b8v",
+    "subreddit": "algotrading",
+    "title": "Ah, that sweet moment of bliss before you realise you've coded in epic look-ahead bias...",
+    "score": 387,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1q46b8v/ah_that_sweet_moment_of_bliss_before_you_realise/",
+    "selftext": "At least I know what it is right away now (not my first rodeo)",
+    "comments": [
+      {
+        "id": "t1_nxqb3lm",
+        "author": "privatepublicaccount",
+        "score": 158,
+        "body": "Idk, maybe just add leverage and see you in Forbes next week."
+      },
+      {
+        "id": "t1_nxqimfd",
+        "author": "b0bee",
+        "score": 103,
+        "body": "So relatable. I\u2019ve done this so many times now that when it happens, I just step away from my PC and enjoy the moment for a few minutes before getting back to hunting the bug."
+      },
+      {
+        "id": "t1_nxr1g2s",
+        "author": "Spare_Cheesecake_580",
+        "score": 78,
+        "body": "After the second \"I finally did it \ud83d\ude03\ud83d\ude03\ud83d\ude03\" moment i transitioned to \"it's fucking lying to me again\""
+      },
+      {
+        "id": "t1_nxriwd0",
+        "author": "__throw_error",
+        "score": 75,
+        "body": "his code looked something like this if (future == good)\n    buy stock\nelse \n    sell stock easy to miss"
+      },
+      {
+        "id": "t1_nxqvjub",
+        "author": "",
+        "score": 31,
+        "body": "step away from the pc to enjoy your moment being a future zillionaire"
+      },
+      {
+        "id": "t1_nxrbsn8",
+        "author": "tonvor",
+        "score": 18,
+        "body": "You sure you\u2019re not madoff?\ud83e\udd23"
+      },
+      {
+        "id": "t1_nxs60kj",
+        "author": "WhiskyWithRocks",
+        "score": 18,
+        "body": "rookie my secret sauce if(low == true) buy elif (high == true) sell dm if you want a ride in my ferrari"
+      },
+      {
+        "id": "t1_nxqcqxd",
+        "author": "thor_testocles",
+        "score": 14,
+        "body": "Discovered it mostly by looking at the chart. It was a new feature I added for multi timeframe analysis and I had measured off the wrong close price."
+      },
+      {
+        "id": "t1_nxqe6x7",
+        "author": "thor_testocles",
+        "score": 13,
+        "body": "All custom, typescript"
+      },
+      {
+        "id": "t1_nxsdx12",
+        "author": "SaltMaker23",
+        "score": 12,
+        "body": "It's not i+1, it's generally the close price that does the trick. The most common case is using the close price of the N candle in one of the indicators, it's not obvious but it create a small and consistent edge. A catastrophic example is ichimoku indicator, it's a delayed indicator where the Nth value is only availabe on N+K bar. Using this indicator and using the Nth value on the Nth bar is dead sentence. The common thing in my examples in pre-computing things, if things aren't computed during the walk forward simulation, the risk of leaking a close price goes through the roof."
+      },
+      {
+        "id": "t1_nxr2b8l",
+        "author": "thor_testocles",
+        "score": 11,
+        "body": "We at least get to laugh for a minute right"
+      },
+      {
+        "id": "t1_nxs5vaf",
+        "author": "WhiskyWithRocks",
+        "score": 11,
+        "body": "Not mad-off but certainly mad-as-fuck"
+      },
+      {
+        "id": "t1_nxru0xc",
+        "author": "misterdonut11331",
+        "score": 6,
+        "body": "is this Claude Code?"
+      },
+      {
+        "id": "t1_nygoaqh",
+        "author": "DutchDCM",
+        "score": 5,
+        "body": "I'm jacked to the t*ts!!"
+      },
+      {
+        "id": "t1_ny07dea",
+        "author": "moobicool",
+        "score": 5,
+        "body": "I felt it several times \ud83d\ude05"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qebxud",
+    "subreddit": "algotrading",
+    "title": "I built a bot to automate 'risk-free' arbitrage between Kalshi and Polymarket. Here is the source code.",
+    "score": 378,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1qebxud/i_built_a_bot_to_automate_riskfree_arbitrage/",
+    "selftext": "The strategy is simple: Synthetic Arbitrage. When the implied probability of an event (like a Fed Rate Cut) diverges between Kalshi and Polymarket, my bot automatically buys \"YES\" on one and \"NO\" on the other. The combined cost is $0.95, the payout is a guaranteed $1.00. It is a mathematical guarantee, but only if you hold to maturity. I don't hold. Holding funds for 3 months to make 2% kills your IRR. Instead, my bot actively trades the convergence. As seen in the chart, we enter when the spread widens and exit immediately when it closes. This introduces execution risk (it's NOT risk free) but drastically increases capital velocity. I would rather turn that 2% over ten times a month than wait for the resolution. The bot is fully open source, and built on top of pmxt: https://github.com/qoery-com/pmxt . The bot is available here: https://github.com/realfishsam/prediction-market-arbitrage-bot Disclaimer: Not financial advice. Educational purposes only.",
+    "comments": [
+      {
+        "id": "t1_nzway3u",
+        "author": "Blankcarbon",
+        "score": 199,
+        "body": "Bogus. Kalshi fees alone can eat most of that \u201c2\u00a2 per share\u201d Kalshi\u2019s fee schedule (Oct 2025 PDF) says: Taker fees (orders immediately matched) are:\nfees = round up(0.07 \u00d7 C \u00d7 P \u00d7 (1 \u2212 P)) Polymarket fees may be low here, but spread + exit costs are real The \u201crisk-free\u201d framing is the trap The moment you choose not to hold to maturity, you\u2019ve changed the trade from \u201carb\u201d to stat-arb / basis trading, with these risks: legging risk (one fills, the other doesn\u2019t) regime risk (spread widens more before it closes) liquidity risk (exit gets worse when you need it most) The mere fact that you\u2019ve bet around $20 on this proves you have little faith in the strategy."
+      },
+      {
+        "id": "t1_nzxzywj",
+        "author": "bigchickendipper",
+        "score": 47,
+        "body": "This was written by AI Edit: Jesus I'm being down voted here haha I meant the OPs code not the comment above me"
+      },
+      {
+        "id": "t1_nzwsg9t",
+        "author": "sam_in_cube",
+        "score": 40,
+        "body": "This, plus: - you need to cross twice (entry + exit), which doubles on both slippage, legging risk, and fees - they are doing string matching, which absolutely doesn't guarantee contract similarity and resolution criterias\n- hedge ratio on the screenshot is weird"
+      },
+      {
+        "id": "t1_nzwyclh",
+        "author": "rdrvx4",
+        "score": 40,
+        "body": "I'm almost 100% sure it doesn't work. Not the bot, but the strategy. This is already the fifth post I've seen, so how long can this inefficiency last? If something makes money, it's not worth sharing. Unfortunately, markets are not a team game"
+      },
+      {
+        "id": "t1_nzwdqgn",
+        "author": "m3m0m2",
+        "score": 19,
+        "body": "I read that someone made about half a million in december using a similar strategy on crypto prices."
+      },
+      {
+        "id": "t1_nzwyx0p",
+        "author": "SammieStyles",
+        "score": 12,
+        "body": "Obviously the more posts the more the alpha diminishes. I am posting to show off the capabilities of pmxt and hoping kore people get into coding strategies with it."
+      },
+      {
+        "id": "t1_nzwdv0a",
+        "author": "SammieStyles",
+        "score": 11,
+        "body": "Sounds about right, but crypto is way more liquid that prediction markets. It\u2019s most likely impossible to make that much that quickly from just this on prediction markets."
+      },
+      {
+        "id": "t1_nzx2tie",
+        "author": "Ok-Lobster-919",
+        "score": 11,
+        "body": "The thing is, if this strategy is real, you kind of ruined it now by exposing it publicly. You are closing the spread. People are thinking wtf are you doing? Did you actually throw away a seemingly winning lottery ticket who is that dumb? Risk free arbtitrage? Really? Are you at least posting this from your 2nd yacht? So people are like, \"this guy's an idiot\" or \"this guy's malicious\". I'm not sure myself."
+      },
+      {
+        "id": "t1_nzwnk6r",
+        "author": "SammieStyles",
+        "score": 10,
+        "body": "No? Import the project into an ai agent and ask it if there\u2019s sleeper code before you slander me. I built pmxt because there was no good package to train across exchanges. Now I\u2019m trying to get traffic to it by showing the possibilities."
+      },
+      {
+        "id": "t1_nzx3y7a",
+        "author": "SammieStyles",
+        "score": 9,
+        "body": "I'm actually running other strategies that I haven't disclosed publicly. My goal is to attract more contributors to the pmxt.dev library so it develops faster and creates additional opportunities for me to capitalize on."
+      },
+      {
+        "id": "t1_nzxu1fa",
+        "author": "imp4455",
+        "score": 8,
+        "body": "Exactly.  When you have an edge in these markets due to market inefficiecies, keep it to yourself.  The more\nPeople you tell or show how to do it,  the more you are shooting yourself in the foot."
+      },
+      {
+        "id": "t1_nzwm15u",
+        "author": "cs_legend_93",
+        "score": 8,
+        "body": "Why are you sharing this? Is there some sort of sleeper code to steal our private keys?"
+      },
+      {
+        "id": "t1_nzwdrpa",
+        "author": "Past_Lime_176",
+        "score": 7,
+        "body": "What's your leg-fill delta during spread-widening? Kalshi's 100 req/min limit seems like the real bottleneck here."
+      },
+      {
+        "id": "t1_nzwnnqn",
+        "author": "SammieStyles",
+        "score": 5,
+        "body": "Feel free to implement other prediction markets available in your jurisdiction into pmxt. I\u2019ll merge prs quickly!"
+      },
+      {
+        "id": "t1_nzxuyum",
+        "author": "SammieStyles",
+        "score": 4,
+        "body": "I know this. I literally just want more people to contribute to pmxt, so more opportunities show up long term!"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1s4hoyi",
+    "subreddit": "algotrading",
+    "title": "Mom, I want TradingView, no we have TradingView at home",
+    "score": 362,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1s4hoyi/mom_i_want_tradingview_no_we_have_tradingview_at/",
+    "selftext": "Since some of the tradingview charting libraries are freely available, it is surprisingly easy to build simplified version of tradingview with customized indicators (python) and feed it your data - for example from yahoo finance. I dont know if anybody would find it useful, but let me know, I can open source the code so others can play with it. Edit: due to great interest I have open sourced the project here: https://github.com/tristcoil/zero-sum-public live demo: https://zero-sum-times.com/",
+    "comments": [
+      {
+        "id": "t1_ocn65af",
+        "author": "tidushue",
+        "score": 61,
+        "body": "Please open source it. This looks great"
+      },
+      {
+        "id": "t1_ocn6qpm",
+        "author": "tcoil_443",
+        "score": 41,
+        "body": "for now you can test it here https://zero-sum-times.com/chart?symbol=AAPL I think I could release public repo like a next week, will be still a bit buggy"
+      },
+      {
+        "id": "t1_ocn6tlv",
+        "author": "SwagBuns",
+        "score": 31,
+        "body": "Ya! I recently figured this out too at a hackathon lol. Tried whipping up a backtesting website. I'll share it here for people if i can get it working propperly (for free)! You can also turn off some of the TradingView icons so they aren't pasted all over the place. Looks a bit cleaner."
+      },
+      {
+        "id": "t1_ocnzm8u",
+        "author": "MormonMoron",
+        "score": 18,
+        "body": "We use the TradingView Lightweight charts for all the plotting in our dashboard for our algo trader. I assume that is the libraries you are talking about? https://github.com/tradingview/lightweight-charts https://www.tradingview.com/lightweight-charts/"
+      },
+      {
+        "id": "t1_ocn45xi",
+        "author": "futurefinancebro69",
+        "score": 11,
+        "body": "duhhhhh you open source it lmaoo... open source everything."
+      },
+      {
+        "id": "t1_ocnuzo5",
+        "author": "WorldPeaceStyle",
+        "score": 10,
+        "body": "Yes, Github please. Python is the way."
+      },
+      {
+        "id": "t1_ocofer2",
+        "author": "SwagBuns",
+        "score": 6,
+        "body": "Sure, for now its bring your own data lol. Im just focusing on making a back testing suite that I can chug my own data into! Currently I've got like a couple sample day-by-day candle charts loaded on the db by default just to toy with the UI and backend logic. Though if I can accumulate enough data that doesn't involve prohibitive ToS stuff maybe I'll host that too! Mostly I've been trying to give myself a nice playground to test my own algorithms and show off a cool project. Trying to make a nice codeless UI then step it up with API access so I can try some ML solutions."
+      },
+      {
+        "id": "t1_ocq3ijl",
+        "author": "NoodlesOnTuesday",
+        "score": 6,
+        "body": "The approach is solid. Lightweight Charts is genuinely underrated for custom tooling. One thing worth knowing if you move to live data: static data from Yahoo Finance and real-time WebSocket feeds behave pretty differently in practice. With Yahoo you get clean, gap-free OHLCV. With live exchange feeds you get timestamp drift, sequence gaps, and the occasional duplicate tick. The chart rendering logic handles both fine but the data pipeline has to be a lot more defensive. The other thing I ran into building something similar for crypto: exchange APIs have different candlestick construction rules. Binance closes a 1m candle strictly on the minute. Some others do not. If you are aggregating across exchanges you end up with candles that are off by a few seconds and it breaks any multi-exchange comparison you want to build. What data source are you using for the Python indicators? Wondering if you are pulling the same Yahoo data or building your own aggregation on top."
+      },
+      {
+        "id": "t1_ocoblag",
+        "author": "Arty_Puls",
+        "score": 5,
+        "body": "You still have to pay for the data no?"
+      },
+      {
+        "id": "t1_ocuktqb",
+        "author": "tcoil_443",
+        "score": 5,
+        "body": "I have open sourced the project here: https://github.com/tristcoil/zero-sum-public live website: https://zero-sum-times.com/"
+      },
+      {
+        "id": "t1_ocqysoi",
+        "author": "FortuneGrouchy4701",
+        "score": 5,
+        "body": "I agree! It's easy, but you need to know what are you doing and how to do it well to not transform your ideia into a giant elephant. I do automations for those type of setup, mostly for exchanges and DeFi and have tons of jupyter notebooks, data collectors, transforms, ...  this is a nice tool to integrate services or tools, like frontend with backend and apis, nice to work: https://www.themaestri.app . For DeFi is nice too. I have some prints here: https://ibb.co/5X6CyGvs Free tip: for python and jupyter notebook, use .parquet files for data, plotly for the graphs and polars instead of pandas. Good lucky."
+      },
+      {
+        "id": "t1_ocum9cw",
+        "author": "tcoil_443",
+        "score": 5,
+        "body": "the point of building custom tools is not to save money on tradingview subscrription"
+      },
+      {
+        "id": "t1_ocnlzq6",
+        "author": "MaryAnne_john",
+        "score": 4,
+        "body": "Amazing. Yes please!"
+      },
+      {
+        "id": "t1_oco1asj",
+        "author": "Infamous_Silver_1801",
+        "score": 3,
+        "body": "Where are you fetching data from? Is it real time?"
+      },
+      {
+        "id": "t1_ocpn53b",
+        "author": "RITCHIEBANDz",
+        "score": 3,
+        "body": "its yahoo finance"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qklj4o",
+    "subreddit": "algotrading",
+    "title": "After about 4 years of exploration and 1.5 year of persistent effort, I think we finally have a \"system\"",
+    "score": 354,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1qklj4o/after_about_4_years_of_exploration_and_15_year_of/",
+    "selftext": "I would say that about 80% of the first 12 months of working on this had little involvement from LLMs. We got something working, paper-traded it from Mar 2025 to July 2025, then live traded from Aug 2025 to Dec 2025. Made some big mistakes while experimenting (two accidental sells with huge losses) and ended up with an OK return of 4.5% on 5 months (but still behind just market BAH by 4.5%). Along the way we kept working on better TSL, better stop-losses, better keep-outs, regime detection, etc. We decided to just sell out of everything on Dec 31, and do a clean restart with all our improvements working on the full capital (on Dec 31 about 60% of our capital was tied up in some stuck trades). From the start of the year to present, I have been hammering on these visualization tools. I would say that this is the aspect that I have leaned SUPER heavy on LLMs for coding help. I am not a web developer. I cannot make stuff like this look pretty on my own for the life of me. But the LLM assistance made this process quite easy. I pretty much vibe coded the entire web interface. I had manually coded an ugly version of the Live Trades page a while ago, and I had a spreadsheet with manual entry that I had developed that looks almost identical to the new analysis webpage. I literally just took a screenshot of the spreadsheet and then saved it out with the equations instead of the raw values, uploaded those to Claude Opus 4.5 and told it to make me a webpage that replicated my spreadsheet analysis. Of course I had to iterate back and for for an hour or two to get it to do things right, but probably only fixed 1-2 bugs myself in that period (though I did pore over the code quite a bit to give it insight into where it messed up). Long story short is that with about $35 in Claude Opus 4.5 credits and about 4 nights and one weekend, I took my very command-line-only algo trader and added a pretty nice web frontend. There is no way I would trust my actual trading algorithm to this kin",
+    "comments": [
+      {
+        "id": "t1_o17iei9",
+        "author": "Tradefxsignalscom",
+        "score": 28,
+        "body": "Nice work! \nTell us a little more about  how the accidental sells and the huge losses occurred.\nThanks"
+      },
+      {
+        "id": "t1_o17jioc",
+        "author": "MormonMoron",
+        "score": 14,
+        "body": "Well one was me being an idiot (but I will still call it an accident). The other was truly an accident. The first was a time I thought I had made a change that was irrelevant. Usually I am pretty good about testing changes with a parallel system running a paper trader against IBKR. This is just to flesh out whether there are any issues. I had been backtesting some new techniques over the weekend and thought I had reverted everything back to the base repository, but was still in a git branch. I ran one that had a pretty aggressive hard stop loss and we sold out of all our open positions. We sold one that was in a slump for -$600 and another for -$300. Our starting test capital was $27000, so that was a 3.33% mistake. LESSON LEARNED: Alway, always, always test against the paper system before deploying The second one was just a mistake. We used to download historical data and store it in parquet files (from the images you can see we now store it in a database and are alway collecting the bars live). Apparently one of the times our historical data download crapped out halfway through, so we had a gap of 7 days in our historical data. I launched our software just before opening bell and come to find out, those gaps in the historical data messed up our algorithm and made a whole bunch of stoploss triggers hit. LESSON LEARNED: write some sanity checks on the inputs to your system into the software so that when starting up, there are no red flags about bad parameters, missing data, etc."
+      },
+      {
+        "id": "t1_o17sozu",
+        "author": "Intrepid_Card8950",
+        "score": 8,
+        "body": "My architecture looks almost the same. I wrote it this months for IG."
+      },
+      {
+        "id": "t1_o1853vt",
+        "author": "sky018",
+        "score": 8,
+        "body": "IBKR have an API. https://www.interactivebrokers.com/en/trading/ib-api.php https://www.interactivebrokers.com/campus/ibkr-api-page/ibkr-api-home/"
+      },
+      {
+        "id": "t1_o18pcvv",
+        "author": "MormonMoron",
+        "score": 8,
+        "body": "Yes, IBKR api. I really like theirs because their paper testing is as close to the real system as possible and uses the same API. They even simulate realistic slippage in time and price based on tag contracts that were executed."
+      },
+      {
+        "id": "t1_o19631p",
+        "author": "MormonMoron",
+        "score": 8,
+        "body": "Just me and my brother. In the beginning, he was the one with all the trading experience and I was the one with all the coding experience. \nNow, we are both still better than the other in our expertise, but have each delved into the other side"
+      },
+      {
+        "id": "t1_o17xs2g",
+        "author": "rezditya",
+        "score": 6,
+        "body": "IBKR provide an API? Or you scrape it? Can use websocket?"
+      },
+      {
+        "id": "t1_o18qqga",
+        "author": "MormonMoron",
+        "score": 6,
+        "body": "Our whole system is based on Rust. For years  I had been wanting a reason to learn Rust, and have found that a project that a big project is usually the best way to learn ac new language. The thing that Rust is great at, namely concurrency, makes it so that we can scale easily. We have fluctuated between 25 and 100 high volume stocks  where we are capturing are 5 second bars and all 250ms market data ticks. Our parameter optimization process often only results in 24-50% of the stocks resulting in a favorable optimization. The rest of them are turned off until the optimization gives a favorable result. We definitely still have a ton to do in the rush mitigation front. Thanks for some suggestions things to look into."
+      },
+      {
+        "id": "t1_o1alkv9",
+        "author": "Me06131",
+        "score": 5,
+        "body": "could you explain why you migrated from parquet to timescale? i went the opposite way because of latency issues when working with raw trades and no major benefit from timescale for my usecase. would be curious"
+      },
+      {
+        "id": "t1_o1aozpf",
+        "author": "MormonMoron",
+        "score": 4,
+        "body": "Parquet was great for working on historical data, but it was a pain to keep adding the new bars, especially when we got to 10 years of historical data. The database approach still has sub-millisecond query times for small windows of historical data. It has felt a ton easier to experiment with new techniques because at any given time I know I can just query the database for whatever historical data I need to implement it. And, I don't have to store it all in memory. Even with lazy loading in parquet+polars, it still felt more clunky that just making the appropriate SQL query. This was mostly because of the dance with parquet about appending to the file, reloading the file, or loading history from parquet and then appending to an in-memory polars dataframe with new incoming data. The database approach is slower than parquet+polars, but is also feels a hair more easy to use, both on the front of appending new data and easily making arbitrary historical queries. Is feels like it divorces our data ingestion from the data usage."
+      },
+      {
+        "id": "t1_o18x3s8",
+        "author": "iFrantik",
+        "score": 3,
+        "body": "I am running something similar with their websocket! Really cool work, well done"
+      },
+      {
+        "id": "t1_o17znft",
+        "author": "mersenne_reddit",
+        "score": 3,
+        "body": "What framework is your frontend built in? I started with AdminLTE which had a CSS switcher much like yours, ended up having to build a time-aware dropdown since i like Darcula on the weekends. On the flipside, no single trade should have enough allocation to capsize your gains. You might benefit from some heavier risk management a la Max Kelly. It's otherwise a sick win and a good example of how more people should use AI. It would be smart to have an extensive postmortem/RCA on your hiccups at this stage as they are proportionally large."
+      },
+      {
+        "id": "t1_o191gmp",
+        "author": "misterdonut11331",
+        "score": 3,
+        "body": "you say \"our system\" instead of \"my system\".  who is we?  you working with a team?"
+      },
+      {
+        "id": "t1_o17zyqm",
+        "author": "mersenne_reddit",
+        "score": 3,
+        "body": "Also, how are you handling candle data when/where stock splits occur?"
+      },
+      {
+        "id": "t1_o1bgyn9",
+        "author": "Right_Business9301",
+        "score": 3,
+        "body": "why did you need a frontend for this."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1r5al3o",
+    "subreddit": "algotrading",
+    "title": "Finally having good results with my scalping alog",
+    "score": 353,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1r5al3o/finally_having_good_results_with_my_scalping_alog/",
+    "selftext": "I've been developing successful swing trading algos, but I always struggled to find a profitable scalping strategy I can automate that works more than 1-2 weeks Market is changing everyday and while a swing trading algo avoid the noise, my scalping algos failed. I've been working on this one for few months, and have been running it for 3 weeks so far, with 3 negative days. Results match the backtest (slippage included) so I'm pretty happy of it. Can't wait to close the first month of live trades to start increasing my position sizes, my goal is to run it with 0.8 to 1% risk per trade. What do you think of this backtest (Sharpe > 1)  and how soon do you think this strategy will fail? :)",
+    "comments": [
+      {
+        "id": "t1_o5hh6ep",
+        "author": "neo-futurism",
+        "score": 109,
+        "body": "I confirmed that having a machine learning element that can predict the regime and then route to the successful strategy for either trend or reversion is very successful. Not like standard strategies that overfit on recent data and fail once u move past a year or two. A true 70%~ is possible via that process. Would avoid one shoe fit all principle!"
+      },
+      {
+        "id": "t1_o5hfnah",
+        "author": "jerry_farmer",
+        "score": 32,
+        "body": "Hi, it's a mean reversion principle"
+      },
+      {
+        "id": "t1_o5hncod",
+        "author": "ParkingNerve917",
+        "score": 20,
+        "body": "I made something similar, a model that predicts the current regime and then specific have hardcoded list of indicators and strategy that works best in that regime."
+      },
+      {
+        "id": "t1_o5hpc2l",
+        "author": "sedidrl",
+        "score": 20,
+        "body": "Can you elaborate? planning to test something like that here https://github.com/TorchTrade/torchtrade"
+      },
+      {
+        "id": "t1_o5hirex",
+        "author": "jerry_farmer",
+        "score": 19,
+        "body": "Thank you. No, in session trading only, if a position is open, it's automatically closed before session ends. Strict SL (I'm working on a volatility based SL). For risk management so far I'm just working with risk per trade, + historical losing streak / max equity drawdown to size my positions. Have to work more with Kelly and do a proper risk management Currently working on Vantage broker, Nasdaq CFD, but algo is based on NQ1!"
+      },
+      {
+        "id": "t1_o5hrk4g",
+        "author": "WolfPossible5371",
+        "score": 14,
+        "body": "3 weeks is encouraging but keep your guard up.. scalping algos are notorious for looking great in one regime then dying when vol shifts. The fact that your results match the backtest is actually the most promising signal. Most people see a massive gap between the two. What are you using for execution? direct API or something like IBKR gateway?"
+      },
+      {
+        "id": "t1_o5hi5c1",
+        "author": "_Stylite",
+        "score": 9,
+        "body": "Looks good. A few questions Trading hours and trade length for your model - eg do you keep stops overnight or after hours?\nHow are you managing your stops? \nWhat is basic risk management used? Any kelly or modified kelly?\nWhat broker and data API\u2019s? Really appreciate this insight from a pro with good results"
+      },
+      {
+        "id": "t1_o5hpz5d",
+        "author": "jerry_farmer",
+        "score": 9,
+        "body": "Thank you, it's just a side project aside my main portfolio. I've made hundreds of scalping strategies that failed over time, improved my backtest process and this one looks better to me and already worked as expected for 3 weeks, will see how long it works"
+      },
+      {
+        "id": "t1_o5hm24z",
+        "author": "fathermotherkids",
+        "score": 8,
+        "body": "I have at least 30+ setups coded with the same graph and infact much better. But it doesn\u2019t work.\nFor eg. you can see the Oct - Nov you barely made anything. So much drawdown. Then multiple other months and instances similarly.\nAlso Run it with 2024 data, market changed a lot after 2025, you\u2019ll end up losing money eventually"
+      },
+      {
+        "id": "t1_o5hgxrk",
+        "author": "Reply_Stunning",
+        "score": 8,
+        "body": "This post was mass deleted and anonymized with Redact sense light steer trees cats alleged station fuzzy shy edge"
+      },
+      {
+        "id": "t1_o5hw6vl",
+        "author": "Anonimo1sdfg",
+        "score": 7,
+        "body": "Interesting. Are you using unsupervised models for this? Personally, I was only thinking of implementing a supervised ML model that predicts whether it will rise or fall as a regime filter."
+      },
+      {
+        "id": "t1_o5k59ny",
+        "author": "KeBlam",
+        "score": 5,
+        "body": "Oooo, interested!"
+      },
+      {
+        "id": "t1_o5hp3de",
+        "author": "SometimesObsessed",
+        "score": 5,
+        "body": "I appreciate your humility here and sharing that you found the market changes, or alpha decays.. Good luck with this one! I'd say it depends on how robust your backtest was, both length of time and whether you p-hacked your test results or not."
+      },
+      {
+        "id": "t1_o5mom70",
+        "author": "nicknack_r",
+        "score": 5,
+        "body": "Preliminary results sound super promising. Good luck going forward! Does your algorithm operate on tick data? If so, Have you backtested on tick data? I ask because I've had plenty of experience testing scalping algorithms on 1m bar data to great success with position management be the main culprit in live trading failures due to intra bar prices not accounted for in testing. Typically the stop criteria is invoked intra bar, even if entries are on the bar close. I find it almost impossible to not attempt to accommodate for this in semi high frequency algorithms. Unless you're actually able to adhere to risk criteria on bar close.id be interested to learn how you've overcome this limitation that I've experienced."
+      },
+      {
+        "id": "t1_o5iilwm",
+        "author": "Nokida",
+        "score": 5,
+        "body": "This could be a result of overfitting. If you constantly backtested between 2024-2025 for example, you tweaked your algo to fit the results of that year. Introduce another year that the algo hasn't seen, or go even further to 3-5 years. If that does great too, next step is to forward test"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1o0yych",
+    "subreddit": "algotrading",
+    "title": "After 6 years, its finally learning something!",
+    "score": 339,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1o0yych/after_6_years_its_finally_learning_something/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_nid12d1",
+        "author": "goatxe",
+        "score": 63,
+        "body": "The entropy and success/loss metrics seem stable, and that average reward/profit line trending upward is super promising. Nice work on the hyperparameters too\u2014looks like a solid setup"
+      },
+      {
+        "id": "t1_nidwqee",
+        "author": "rickkkkky",
+        "score": 17,
+        "body": "Half a year - how? Should take a couple days at max to set up a comprehensive hyperparameter search script, and a few days to perform the search, unless you work with massive amounts of data and huge neural nets. Edit: for the downvoters, please, find a single other person with actual quant experience who thinks a hyperparam sweep at this scale should take significantly more than a week in total."
+      },
+      {
+        "id": "t1_nid1fs0",
+        "author": "AffectionateBus672",
+        "score": 16,
+        "body": "Mostly into trading itself. Basic trading, trading view strategies, pinescript, python, keras, and all that stuff... mostly it was waiting and testing."
+      },
+      {
+        "id": "t1_nid49cl",
+        "author": "AffectionateBus672",
+        "score": 14,
+        "body": "Thanks. Needs to be profitable too"
+      },
+      {
+        "id": "t1_nid3j33",
+        "author": "_WARBUD_",
+        "score": 12,
+        "body": "It's a pretty graph.."
+      },
+      {
+        "id": "t1_nieebwg",
+        "author": "tradegreek",
+        "score": 11,
+        "body": "Parameters to tune the neural network he\u2019s training"
+      },
+      {
+        "id": "t1_nidtabv",
+        "author": "ALIEN_POOP_DICK",
+        "score": 11,
+        "body": "Guessing you're just chucking everything into a PPO. Are you rewarding strictly for profit?"
+      },
+      {
+        "id": "t1_nihtc3n",
+        "author": "ALIEN_POOP_DICK",
+        "score": 10,
+        "body": "Hate to say this but you've probably over fit to your dataset. I can't say for sure because I don't know what your input tensors and actions are like, but I suspect if you tried this live it would perform about as well as a completely random model."
+      },
+      {
+        "id": "t1_nid1y76",
+        "author": "AffectionateBus672",
+        "score": 9,
+        "body": "Thanks, huperparameters are random. That will take another half of a year of testing to get \"better\" hyperparameters. Maybe ill throw Optuna at it but need to figure out what to base it on..."
+      },
+      {
+        "id": "t1_nidxryc",
+        "author": "AffectionateBus672",
+        "score": 9,
+        "body": "I have it baked in, just need to enable it. Question is : how to cut it? What will ve the limiting factor? Profit in 5000 rows of data? Hmmm..  not bad m8."
+      },
+      {
+        "id": "t1_nidv07r",
+        "author": "AffectionateBus672",
+        "score": 9,
+        "body": "Yes, and yes. It was hard to figure out because bastard ether was lazy or found a way to get easy rewards. Even now I bet its not taking any real risks because penalties are off."
+      },
+      {
+        "id": "t1_nicypwz",
+        "author": "Unlucky-Will-9370",
+        "score": 9,
+        "body": "You put 6 years into a single model?"
+      },
+      {
+        "id": "t1_nijz2ji",
+        "author": "NerfEveryoneElse",
+        "score": 8,
+        "body": "Any parameters that are not learned in the models are hyperparameters."
+      },
+      {
+        "id": "t1_nig17yu",
+        "author": "NakliTrader",
+        "score": 6,
+        "body": "Where can I learn how to do this? Any beginners guide/video?"
+      },
+      {
+        "id": "t1_nid90pm",
+        "author": "AffectionateBus672",
+        "score": 6,
+        "body": "Cannot answer that one.. none. \"Quitly crying\"  I have many of then, non of them actually work as Tradingview is not showing what will happen on market. I get ghost inputs from strategy that not showing upon tw charts..."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1phybk5",
+    "subreddit": "algotrading",
+    "title": "This is how you algo trade, right?",
+    "score": 326,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1phybk5/this_is_how_you_algo_trade_right/",
+    "selftext": "I\u2019ve been cultivating algo trading bots through neuroevolution. I finally got around to writing a script to visualize their thought process \u2014 it\u2019s both beautiful and terrifying.",
+    "comments": [
+      {
+        "id": "t1_nt2ppn9",
+        "author": "oogi-",
+        "score": 260,
+        "body": "Vibe trading neural networks in 2025"
+      },
+      {
+        "id": "t1_nt27qbn",
+        "author": "djscreeling",
+        "score": 60,
+        "body": "You must be lost: https://www.reddit.com/r/vjing/"
+      },
+      {
+        "id": "t1_nt2hg3c",
+        "author": "Poopytrader69",
+        "score": 47,
+        "body": "What is this made with, chatgpt? It\u2019s almost certainly overfitting. Make sure you do OOS testing"
+      },
+      {
+        "id": "t1_nt2e562",
+        "author": "Embarrassed-Bank2835",
+        "score": 36,
+        "body": "Where do you get this new version of Virtual DJ??"
+      },
+      {
+        "id": "t1_nt2i547",
+        "author": "Grouchy_Spare1850",
+        "score": 26,
+        "body": "brutal assessment. Yes there seems to be somewhat of an repeating pattern, not enough randomness and overtly smooth. I was working on Neural Net's back in the 90's, and love the visual. never saw it like this, I appreciate it."
+      },
+      {
+        "id": "t1_nt3cjns",
+        "author": "Osmirl",
+        "score": 24,
+        "body": "Gonna start my project today had the idea 2019 but i succ at coding anything else than java xD Wish me luck that the ai doesn\u2019t hallucinate to much xD"
+      },
+      {
+        "id": "t1_nt4h5ll",
+        "author": "meh_69420",
+        "score": 24,
+        "body": "Pretty sure it's WinAmp"
+      },
+      {
+        "id": "t1_nt2t4ww",
+        "author": "SaltMaker23",
+        "score": 16,
+        "body": "A simple MLP won't bring you an edge, it'll be a lesson in overfitting and OOS failure though."
+      },
+      {
+        "id": "t1_nt2e6m7",
+        "author": "ScottTacitus",
+        "score": 15,
+        "body": "What are we looking at?"
+      },
+      {
+        "id": "t1_nt6mxri",
+        "author": "dwargo",
+        "score": 9,
+        "body": "My system is in Java and I don't have any issues.  TensorFlow has a JVM binding for the ML stuff, which is why I picked it instead of PyTorch.  I'm using the ZGC garbage collector and haven't noticed any GC hangs. I mean I get why HFT bots are in C++ or maybe an FPGA for all I know, but I'm not even slightly in that weight class."
+      },
+      {
+        "id": "t1_nt2rfm1",
+        "author": "Poopytrader69",
+        "score": 8,
+        "body": "I\u2019m talking about the architecture he said he\u2019s using to find edges in the market. A neuroevolution bot will 100% overfit trading strategies"
+      },
+      {
+        "id": "t1_nt33h5s",
+        "author": "LittleGremlinguy",
+        "score": 8,
+        "body": "Also came here to say this. HTF do you expect to capture time series features with a VERY symmetric MLP. Even OP\u2019s data strategy is sus. Recording market data gives you a phenomenally low signal to noise ratio. OP also completely avoided the time frame conversation. Methinks OP vibe coded this thing and placed too much attention on making it look pretty. OP\u2019s other post he is showing a pic of it doing a Sharpe ratio of over 9. \ud83e\udd26\u200d\u2642\ufe0f I don\u2019t think overfitting is even the start of hard lessons OP is about to find out."
+      },
+      {
+        "id": "t1_nt7amea",
+        "author": "oogi-",
+        "score": 7,
+        "body": "Consider me inspired"
+      },
+      {
+        "id": "t1_nt2mexs",
+        "author": "thor_testocles",
+        "score": 7,
+        "body": "No but clearly I\u2019m doing it wrong"
+      },
+      {
+        "id": "t1_nt34v1m",
+        "author": "Onespokeovertheline",
+        "score": 5,
+        "body": "And I assume on the other monitor there's a chart tracking your account balance that looks like \ud83d\udcc9 ? Lol"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1o6e3ov",
+    "subreddit": "algotrading",
+    "title": "Let's Build a Quant Trading Strategy: Part 1 - ML Model in PyTorch",
+    "score": 314,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1o6e3ov/lets_build_a_quant_trading_strategy_part_1_ml/",
+    "selftext": "I started a brand new YouTube channel. I'm a ex quant and thought you might be interested in my content. In the series, I am going from research, to strategy, to deploying live. Part 1 - Research: https://youtu.be/pgUr-LzBpTo Part 2 - Strategy: https://youtu.be/iWSDY8_5N3U Part 3 - Deploying:\nComing soon",
+    "comments": [
+      {
+        "id": "t1_nji1jng",
+        "author": "memlabs",
+        "score": 18,
+        "body": "Please watch the video because it will answer your remarks. You will see how to create and test (out of sample) an edge using a basic linear model. Let me summarize. You will learn not to focus on win rate. What's more important is maximizing EV. Some of the most successful market markings algorithms I have seen only won 51 to 53 % of its trades. I'm talking Sharpe >20. Just a tiny edge and scale it. With all due respect but your comment about it won't give you an edge is wrong. Empirically verify yourself: 1 Write a python notebook to a simulate a biased coin toss Create a tiny edge by simulating  where the biased coin toss has a tiny EV: win a $1 with 51% chance and lose $0.98 with a 49% chance. Scale your edge by simulating where you make 500,000 coin tosses every day. 4 If you add up your daily's profits then you will see it's very stable - high Sharpe returns. Hope it doesn't come across as rude. Just don't want misinformation spreading."
+      },
+      {
+        "id": "t1_njgdxdz",
+        "author": "hereditydrift",
+        "score": 17,
+        "body": "Seems like some good information based on skimming through the first video. Thanks for making these!"
+      },
+      {
+        "id": "t1_nji0wgl",
+        "author": "tiesioginis",
+        "score": 13,
+        "body": "Nice to see video with market making instead of same old RSI overboughts with talib and pandas! Great content, interested about upcoming deployment video, compare to what I have myself \ud83d\ude01"
+      },
+      {
+        "id": "t1_njojb7a",
+        "author": "No-Customer7548",
+        "score": 6,
+        "body": "Went through Part 1. Wow, finally somebody put an answer to the black hole in my brain of how one could model price. As simple as starting with a linear model! I have a couple of subjective suggestions. I don't know if you're reading a script or not, but I think it would reduce video duration and add more precision and order to the content if you directly read the script and sticked to it, so as not to forget anything, and follow a strict order. Like literally reading. Second, for me for example that I have zero background in finance or the maths around it, just programming, it would have been good to me to have a brief introduction on every step: what do we need now and what we'll do to get it? Last, when would price filtering, such as Savitzky Golay, come into play around here? Maybe training the model on a smoothed tick data instead of raw? What are the effects on the model. Thank you"
+      },
+      {
+        "id": "t1_nji2dnl",
+        "author": "memlabs",
+        "score": 5,
+        "body": "Thanks for the feedback. I'm actually planning to do a video to see if there's any alpha in using TA as features. I have no clue and it will be interesting to compare with traditional econometric features."
+      },
+      {
+        "id": "t1_njhtzln",
+        "author": "Early_Retirement_007",
+        "score": 5,
+        "body": "Tried and tested before - not getting anything meaningful tbh based on similar features. He's getting accuracy ranging 50-52%, how is that going to perform out-of-sample? Good learning exercise nonetheless, but won't get an edge if that's what you're looking for."
+      },
+      {
+        "id": "t1_njozdu6",
+        "author": "memlabs",
+        "score": 4,
+        "body": "That's great feedback. Thank you \ud83d\ude4f I follow high level notes  to ensure I stick to the flow and don't go off tangent. It sounds like so went off-tangent for you. It would be great to know when and where exactly? I only use raw trade feed to build a price time series. The model is not trained on tick data but on the time series that I aggregate."
+      },
+      {
+        "id": "t1_njl118i",
+        "author": "memlabs",
+        "score": 4,
+        "body": "I use posting on r/quant as a peer review \ud83d\ude06 I will look into descript, it looks really promising! Thank you \ud83d\ude4f"
+      },
+      {
+        "id": "t1_nji4sh8",
+        "author": "memlabs",
+        "score": 3,
+        "body": "You're welcome \ud83d\ude42 Please feel free to give me your feedback when you have watched a bit more."
+      },
+      {
+        "id": "t1_njl4isc",
+        "author": "SomeGuyOnInternet7",
+        "score": 3,
+        "body": "The thing you are missing is that you need to to a Monte-Carlo analysis of your winnings. You will find that in most cases, such a small edge is not enough to safely assume your EV will always be positive, unless you are trading a very large amount to overcome trading costs."
+      },
+      {
+        "id": "t1_njicoql",
+        "author": "memlabs",
+        "score": 3,
+        "body": "Good question. That's also covered in the video \ud83d\ude06 TL;DR Depends on the time horizon. In part 1, I developed a linear model forecasting 1 hour ahead. It looks great, high Sharpe when looking at gross PnL; however when looking at net PNL, it destroys the edge. Factoring transaction fees, losses are magnified and the profits are decreased. It turns a positive EV to negative. So I then increase the forecast horizon at 12 hours from 1 hour."
+      },
+      {
+        "id": "t1_njibrsd",
+        "author": "Tradefxsignalscom",
+        "score": 3,
+        "body": "Yes!, Let\u2019s do this!\ud83e\udd14"
+      },
+      {
+        "id": "t1_njm1hdv",
+        "author": "No-Customer7548",
+        "score": 3,
+        "body": "Shouldn't that be a positive remark? Him filming tutorials of exactly what the Wall Street PhDs are doing?"
+      },
+      {
+        "id": "t1_njkw9o9",
+        "author": "shock_and_awful",
+        "score": 3,
+        "body": "Brilliant work.  Saw you posted in r/quant some weeks back.  Looking forward to leaning from and sharing ideas w/you. Also noted you might have been seeking feedback on editing - there\u2019s a great app called descript that can remove filler words and re-dub sections for you. All in all couple of clicks. We need more content like this so let\u2019s make your job easier! \ud83e\udee1"
+      },
+      {
+        "id": "t1_njl4y80",
+        "author": "progmakerlt",
+        "score": 3,
+        "body": "Oh, that's interesting. Thanks, will watch it!"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1pwc4v7",
+    "subreddit": "algotrading",
+    "title": "Happy christmas you filthy animals",
+    "score": 310,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1pwc4v7/happy_christmas_you_filthy_animals/",
+    "selftext": "Results are in for this year - up \u00a3245k in forex space trading using fusion markets (UK). Backend is algo trading model now held and orchestrated by databricks cloud compute (~\u00a3800 a month) to maximise stability and minimise lag to average 35ms. Had to rework code to pyspark to make use of the spark engine - am exploring whether C++ is a better option, but would need to change cloud platform again. Very basically, is an ensemble model to predict true bounces off support / resistance and capturing that high amplitude swing which occurs, so closing on average <2mins. **EDIT** update with model performance stats: For those that are interested, here are the raw performace numbers for my algo trading model. Make of these what you will. Broker is Fusion Markets (zero 'Pro' account, with leverage up to 500:1) - the other type of account, I believe called 'classic' is completely incompatible with this type of trading and would erode all profitability, as the spreads are far wider, with zero commission (confusing I know). Metric Value Total Trades 1179 Win Rate (%) 70.19% Total Net Profit (\u00a3) \u00a3245,623.82 Profit Factor 1.57 Risk-Reward Ratio 1.70 TP pips (avg) 3.71 SL pips (avg) 5.78 Average Trade (\u00a3) \u00a3208.50 Avg trade vs equity inc leverage 1.50% Average Win (\u00a3) \u00a31,400.82 Average Loss (\u00a3) -\u00a32,101.24 Largest Win (\u00a3) \u00a35,766.39 Largest Loss (\u00a3) -\u00a34,206.32 % equity expectancy per trade 0.65 \u00a3 equity expectancy per trade \u00a3216.92 Avg commission \u00a3143.59 Avg time open (min) 12.27 Max Drawdown (%) -13.43% CAGR (%) 47.89% Annual Volatility (%) 29.19% Sharpe Ratio 2.26 Sortino Ratio 2.76 Max Consecutive Losses 4 Max Consecutive Wins 8 Worst Day \u00a3 -\u00a36,303.71 Best Day \u00a3 \u00a311,208.17",
+    "comments": [
+      {
+        "id": "t1_nw2im3f",
+        "author": "AnxSion",
+        "score": 84,
+        "body": "Congratulations! (Spits on face)"
+      },
+      {
+        "id": "t1_nw2i7c2",
+        "author": "DimfreD",
+        "score": 82,
+        "body": "Congrats and fuck you"
+      },
+      {
+        "id": "t1_nw2m2xp",
+        "author": "infinitevoid9",
+        "score": 56,
+        "body": "Congratulations and fuck you"
+      },
+      {
+        "id": "t1_nw2ljp5",
+        "author": "disaster_story_69",
+        "score": 21,
+        "body": "Agreed, Ill pull together the actual performance stats and post them. Baseline 75% win rate otherwise doesn\u2019t work, with sharpe ratio about 1.4."
+      },
+      {
+        "id": "t1_nw2kfph",
+        "author": "Early_Retirement_007",
+        "score": 20,
+        "body": "Your win ratio must be very high in order to make this possible after fees. Whats your label in this set-up - high level?\nWell done btw."
+      },
+      {
+        "id": "t1_nw2mlvy",
+        "author": "disaster_story_69",
+        "score": 16,
+        "body": "Thanks, that\u2019s the general sentiment"
+      },
+      {
+        "id": "t1_nw2ot7p",
+        "author": "BingpotStudio",
+        "score": 12,
+        "body": "We have a very similar strategy  but I trade ZN. Nice to see someone else playing in the same strategy space. I hadn\u2019t considered applying it to forex. Had been looking at ES, but it\u2019s messy."
+      },
+      {
+        "id": "t1_nw2zox9",
+        "author": "moaiii",
+        "score": 12,
+        "body": "This is very interesting to me right now.  I'm a manual trader (price action only, 3-5min TF, 1-10 bar trade duration, PF ~2, WR ~65%, profitable - it's my only income source), and I'm only just starting to investigate algo trading. It's become second nature to spot these big bounces off S/R setting up and I trade them manually quite well.  They are often not perfectly aligned with a line, however, and there can be a lot of noise before the bounce, so there is a bit of art in spotting them and trading them as well as locating a suitable price for stop loss, targets, etc.  I've been trying to figure out how I can programmatically detect these, and I end up bending my brain thinking about what mental process I go through to spot them in order to automate that process. On my second screen, along with daily, hourly, 15m charts, I have a fast tick chart to watch very short term momentum.  One of the things that I notice (which is most evident on the tick chart) often just before these big moves occur off S/R is about 1-3 sharp bursts in momentum along with rapid (but brief) expansions in bid/ask spread.  I put these down to institutional algos \"probing\" the market before then moving in with bigger orders a second or two later, but I can't say for sure what causes it.  Is this a phenomenon that you utilise in your algo? How do you otherwise reliably detect when these bounces are setting up? So many questions and you seem to have figured it out."
+      },
+      {
+        "id": "t1_nw2sni4",
+        "author": "brighterdays07",
+        "score": 8,
+        "body": "Congrats. What is your algo\u2019s operating hours? If you don\u2019t mind me asking. I\u2019m guessing you also avoid dates with significant data releases such as job reports, gdp, uk budget etc, given you\u2019re hyper scalping."
+      },
+      {
+        "id": "t1_nw2tpxj",
+        "author": "disaster_story_69",
+        "score": 8,
+        "body": "Hi, I only run it when I am active, so london trading hours, so I can ensure nothing goes wrong. I WFH so just have it running on a 2nd monitor. Anything that would qualify as fundamental impacts, I try to avoid as the market tends to respond in paradoxical ways, particularly on micro time scale level"
+      },
+      {
+        "id": "t1_nw36v94",
+        "author": "Loose_Management2857",
+        "score": 7,
+        "body": "mmm. i trade ZN too. just tape reading and order book. no indicators. its very methodical. id read a cftc article stating that markets that have the most net losers are NQ and agricultures, the most profitable traders or net profit by traders involved is bonds like UB and ZN. makes sense because those are professional traders and u never see people inexperienced people trade bonds. just that range is annoying. this is the first year bonds have been positive since like 2021. i trade the fucking filthiest dangerous markets. cattle futures and natural gas. profitably. bonds are great nonetheless."
+      },
+      {
+        "id": "t1_nw3iage",
+        "author": "moaiii",
+        "score": 7,
+        "body": "Essentially 10-15 TA indicators It's interesting that you've made that work. I've come to believe over the years that the majority of indicators produce poor signals for trading, and layering them to look for confluence simply reduces the frequency of signals without improving their quality, which makes it hard to use them in systematic algo trading. In my earlier attempts to write algos (a few hundred hours experimenting with MT4 EAs about 15 years ago), I also found that curve fitting is a hard thing to avoid when trying to optimise indicator parameters. Have you written up your strategy in more detail anywhere? I'm very curious to learn more."
+      },
+      {
+        "id": "t1_nw3o9ti",
+        "author": "pcrz81",
+        "score": 6,
+        "body": "Once you get rich, could you send me your algo? Thank you"
+      },
+      {
+        "id": "t1_nw3jzu0",
+        "author": "disaster_story_69",
+        "score": 6,
+        "body": "There or there abouts - 56% I believe, I took out funds to buy a new car and some nice watches which reduced the overall equity"
+      },
+      {
+        "id": "t1_nw3votd",
+        "author": "ParticularDay569",
+        "score": 5,
+        "body": "Thanks for sharing this (and the prior few updates), it has been hard finding many insightful posts lately, just lots of \"how do I backtest\". You mentioned before aggregating to 15min from the 1m candle data, are you finding 15m TAs ideal for detecting these while avoiding the 1m noise? (Unless I misunderstood/misremembered)."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qfw5pl",
+    "subreddit": "algotrading",
+    "title": "Algo Update - 81.6% Win Rate, 16.8% Gain in 30 days. On track for 240% in 12 Months",
+    "score": 300,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1qfw5pl/algo_update_816_win_rate_168_gain_in_30_days_on/",
+    "selftext": "I built an algo alert system that helps me trade. It's a swing trading system that alerts on oversold stock for high performing stocks. My current \"Universe\" of stocks is 135 and I change it every 2-4 weeks to maintain a moving window on performance which, along with market cap, are the filters for picking stock. The current universe of stocks performed at 45% 55% and 75% for 3 months, 6 months, and 12 months respectively. Each stock on the list achieved at least one of those metrics and then are ranked in the list from top to bottom and only the top 153 were chose. Most of the list achieve all 3 performance criteria an about 25% achieved only 2. The idea is if the stocks outperformed in 6 to 12 months they will continue to outperform in the next 1 - 3 months. Redoing the Universe every few weeks ensures the list is fresh with high performing tickers. Often referred to as the Momentum Effect which has been proven in many studies. The system tracks RSI oversold events for each of these stocks. The RSI is not intraday RSI<30 which may happen hundreds of times for a stock in a year. Instead, it's a longer time frame RSI<30 which only happens ~ 12 times a year on average. The system alerts me, but I still use basic trading principles to make an entry. I monitor VIX levels. I check consensus price targets, analyst ratings, and news to make sure it's a good buy. I only take 3% from each trade, but with hundred of alerts each year, I am able to compound my capital over and over again. With high performing stocks that are oversold and only grabbing 3%, each trade has a very high probability of closing in profits. I cut trades that last longer than 10 days. https://preview.redd.it/ieap22ffp0eg1.png?width=1071&format=png&auto=webp&s=e8208de44512f0fe1a9634c8e2976ce54bb26c7b I've been trading the alerts exclusively since November 17th 2025 and earned ~31% since then. https://preview.redd.it/252f0u3bo0eg1.png?width=1940&format=png&auto=webp&s=8266497c573fbfa4ddba5f07cc5fe8419f7a",
+    "comments": [
+      {
+        "id": "t1_o08t48j",
+        "author": "PIYUSH-50N1",
+        "score": 68,
+        "body": "Are you sure that the market isn't trending in general? If the regime changes those 3% per trade compunded return might change otherwise"
+      },
+      {
+        "id": "t1_o07zqgj",
+        "author": "AssistanceDry4748",
+        "score": 40,
+        "body": "Great performance. Keep it up"
+      },
+      {
+        "id": "t1_o08455h",
+        "author": "blasphemous_aesthete",
+        "score": 30,
+        "body": "The initial hypothesis is very similar to the one in 'Quantitative Momentum'. Nice work there!"
+      },
+      {
+        "id": "t1_o08sy23",
+        "author": "Naresh_Janagam",
+        "score": 17,
+        "body": "This setup looks impressive, with an 80% win rate and strong ROI over one year. However, the current market sentiment may be favoring this strategy. In my opinion, swing trading performance should be evaluated over at least 3\u20135 years. During the COVID period, almost any swing trading strategy produced exceptional returns for the following two years. Since then, market dynamics have changed significantly, and returns may have declined or even turned negative."
+      },
+      {
+        "id": "t1_o08c08j",
+        "author": "jabberw0ckee",
+        "score": 13,
+        "body": "I designed the system to download a list of all available stocks traded on the U.S. markets. It's a list from the SEC api. I think use a list of all stocks from the AlphaVantage api and use the two combined to filter out ETF, Warrant, SPACs, etc. I then have a dashboard where I can do an initial filter on market cap, I set it high enough to exclude junky stocks, but low enough to capture som good stocks. This is an initial filter to reduce the list from several thousand to ~ 1,000 - 1,600 stocks. When I commit this \"Seed,\" I download 12 months of candles for all of them. I store these in Supabase so subsequent times there is less candle downloading. Once all the price data is downloaded, I can. filter based on performance. My current Universe, I filter on 45%, 65%, and 75% performance for 3 months, 6 months, and 12 months respectively. For any stock to be considered for the Universe, it has to achieve at least one of those or better. The list is then ranked so the stocks that perform the best are at the top. For the current Universe the first 93 achieved all three criteria and the next 42 achieved two of them. I do understand there is survivor ship bias with back testing stocks in the period for which they performed well, but the primary driver for filtering stocks this way is the Momentum Effect. This often proven phenomenon states that stocks that out perform in 6 - 12 months will continue to do so in the next 1 - 3 months. That oft proven fact is what's important to me. I don't think back testing further back is even realistic since stocks tend to do well in certain time periods than others. I'm worried only about the past 12 because it's a very good indicator for the next 3. I redo the Universe every 2-3 weeks to keep it fresh and provides a moving performance window that changes with the market. I've only backtested on 12 months of data. I'm not worried so much about back testing although I have a back testing system on the public website for anyone to try out, mostly to figure out the best strategy, max hold time, TP%, stop loss, etc. After each trading day the system posts the stats for win rate, average hold time, and gain % of simulated trading with 3 lots so that's forward testing. The forward test on the website uses all the alerts that were fired and since I have all the candle data, it knows when the trade will sell. If you want to test out the back testing and forward testing engines, DM me."
+      },
+      {
+        "id": "t1_o0e1zko",
+        "author": "spicermatthews",
+        "score": 11,
+        "body": "I thought this was a pretty interesting strategy (Thanks for the share!!!) So I backtested it myself yesterday. Today I wrote up my results here. https://options.cafe/blog/momentum-rsi-strategy-backtest-results/ I did not seem to come up with the same results u/jabberw0ckee had but I think the idea is pretty much the same. I might explore doing this strategy with options instead of stock. Either way might give it a shot with real money. Seems interesting enough to try."
+      },
+      {
+        "id": "t1_o08jxa3",
+        "author": "jabberw0ckee",
+        "score": 9,
+        "body": "Thanks for the comment. I just bought the book on Amazon. Always seeking knowledge."
+      },
+      {
+        "id": "t1_o0bw61b",
+        "author": "jabberw0ckee",
+        "score": 9,
+        "body": "I've been investing / trading for years. I've been through, Dot Com, Subprime Meltdown, and Pandemic Bears. During these times it's best to stay in cash and trade selectively. When trading tis system VIX monitoring is important. it guides when to make a trade as well as where to set your take profit. If VIX is elevated into the \"Caution\" or Risk Off\" levels, it's best to not take trades and get out of existing trades by either selling at a loss or setting your TP to 1% or .5%. Most stock even in a downward trend don't just go down, they go up and down on a predominantly downward path. Also, since you're buying at oversold, you're already buying further down than other strategies. A down market affects every trade and trader so everyone is in the same boat. Unless they're shorting."
+      },
+      {
+        "id": "t1_o08ez6r",
+        "author": "jabberw0ckee",
+        "score": 9,
+        "body": "It's written in Python, loaded in Google Cloud, uses Supabase for data storage, and AlphaVantage, Indices-api, and the SEC api for data fetching."
+      },
+      {
+        "id": "t1_o0fr41b",
+        "author": "BAMred",
+        "score": 7,
+        "body": "Perhaps a good way to check this is to see what your backtest performance was in 2022. Have you looked at this?"
+      },
+      {
+        "id": "t1_o0951e2",
+        "author": "jabberw0ckee",
+        "score": 6,
+        "body": "Sure, keep an eye on the updates."
+      },
+      {
+        "id": "t1_o0eevih",
+        "author": "jabberw0ckee",
+        "score": 5,
+        "body": "Not bad. Quick testing and quick results. One of the reasons for the different results is the Universe is changes every 2-3 weeks to only include the best performing stocks in a recent period. You tested starting in 2024. Many of these stocks weren\u2019t out performing in 2024. For example:\nSNDK\nRKLB\nWDC These would not have been included in a Universe built in 2024. They didn\u2019t outperform in 2023. The list would have changed many times in 2024 too. You always have to keep the stocks fresh. Never understood why people back test strategies over 10 year timeframes when it depends which stock you\u2019re trading. And they all perform differently during different periods."
+      },
+      {
+        "id": "t1_o08e9p0",
+        "author": "jabberw0ckee",
+        "score": 5,
+        "body": "It absolutely does have look ahead bias from the simple fact that I'm back testing the very same high performing stocks that are picked because they performed well in that period. But, I don't pick the stocks to get good backtests. I pick them because they have a very high likelihood of performing very well moving forward. I use this method because it's been proven over and over again that stocks that perform well in 6-12 months will continue to perform well in the next 1 - 3 months. By picking these stocks there is a very high probability they will perform well during the 2-3 weeks I use them in my Universe. If they continue to do well, I'll continue to include them. I have bad performance thresholds too, to detect when a stock is declining from a huge run up and may start posting bad gains because of it. The system filters these out so they are not included in the Universe. I pick high performers and buy them when they have an extremely high probability of posting gains (when they're oversold), and I only take 3%. Because of this the win rate is very high. 3% doesn't seem like much, but do it over and over and over again. 3% compounding is a Ram Jet - it goes faster and faster the faster it goes. With 153 stocks in the current Universe and roughly 12 oversold (RSI<30) events a year for each stock that's 1,836 oversold alerts with an 86% probability of making g 3%. It's insane!"
+      },
+      {
+        "id": "t1_o087rm5",
+        "author": "S2vvyintellect",
+        "score": 4,
+        "body": "Thanks for sharing this, could you please elaborate on:\n- the universe of stocks, are you running the strategy across sp500? Russell 2000? Nasdaq? \n-have you taken into account survivorship bias? \n- how far back in the past have you backtested /forward tested the strategy ?"
+      },
+      {
+        "id": "t1_o0897a3",
+        "author": "sureshot58",
+        "score": 4,
+        "body": "not to pick on this, but Im willing to bet you have some hefty look ahead bias in your code.    Ask claude code or whatever your ai tool is to closely examine your code for look ahead bias."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rtepah",
+    "subreddit": "algotrading",
+    "title": "How I improved results on a scalping algo (mean reversion logic)",
+    "score": 286,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1rtepah/how_i_improved_results_on_a_scalping_algo_mean/",
+    "selftext": "I run a scalping algo on NQ, (you can check my initial post there: ( Initial post ) First thing before comments on slippage and fees, it's all incorporated in backtests and has been running live for 2 months now with similar results. Just wanted to share 2 simple steps that considerably improved results. - It's always complicated to have a run a profitable scalping algo for a long time (we'll see if/when it fails) So I created a second strategy with different settings to run in parallel, that adapt more quickly to volatility. Some days one works well, some other days the other one, and sometimes both give great results. I find it interesting to split capital in these 2 different settings to reduce overall drawdown and have more uncorrelated results. Attached pictures of both algos running with same logic but different settings - Second improvement: Offer more room to each trade with the possibility to pyramid 2 entries per strategy. I work on 5 sec timeframe and market is never perfect, sometimes first entry is too early, and allowing a second entry slightly later if market drops a little more statistically improved results and reduced drawdown. So beside splitting capital on 2 different settings, I also split each position to allow a second entry on each settings. These 2 small steps considerably reduced drawdowns and improved overall results. Do you have other ideas / tips to improve a strategy?",
+    "comments": [
+      {
+        "id": "t1_oadunuu",
+        "author": "Soft_Alarm7799",
+        "score": 45,
+        "body": "solid approach running parallel parameter sets. one thing I'd flag from experience with mean reversion scalpers on NQ specifically is that the regime sensitivity is brutal. mean reversion prints money in range bound markets but the second you get a trend day (like a Fed announcement or a gap and go morning), both parameter sets can get caught on the wrong side simultaneously since they share the same core logic. the pyramiding into a second entry is clever but make sure you're tracking the conditional win rate of that second entry separately. in my testing, pyramiding into losers improved average PnL per trade but actually increased tail risk because the worst trades became much worse. if your first entry is already underwater, adding size is only better if your mean reversion signal strengthens at that level, not just because price moved further from the mean. one idea that helped me with a similar setup: adding a volatility regime filter. something as simple as ATR ratio (current 5 bar ATR vs 50 bar ATR). when short term vol is expanding rapidly relative to its recent average, mean reversion tends to fail because you're fighting momentum. turning off the algo or reducing size during those windows can meaningfully reduce drawdown without sacrificing much upside. also curious what your correlation looks like between the two parameter sets on losing days specifically. if they both lose together on the same days, the diversification benefit is mostly cosmetic."
+      },
+      {
+        "id": "t1_oagkx1s",
+        "author": "MilesDelta",
+        "score": 9,
+        "body": "1.396 PF across 1,744 trades is a solid foundation. The stats are honest which is refreshing. Few thoughts on next steps: **Regime filtering.** Your parallel settings approach is smart but it's still reactive. You're letting both run and hoping one catches what the other misses. The next evolution is to build a regime classifier upstream that shifts capital allocation between the two settings dynamically rather than running both at 50/50 all the time. Doesn't need to be complicated. Something as simple as a rolling realized vol percentile rank or an ATR ratio (short term vs long term) can tell you whether you're in a trending or mean reverting environment. When you detect expansion, tilt toward the setting that handles trends. When you detect compression, tilt toward the one that's tighter. This alone can turn your parallel approach from \"diversification\" into \"active adaptation.\" **Time of day filtering.** NQ has very different microstructure behavior across the session. The first 30 minutes after open, the European overlap, the lunch chop from 12-2 ET, and the last hour all have distinct vol and spread characteristics. If you haven't already, break your 1,744 trades down by time bucket and look at the PF and win rate per window. I'd bet money there are 1-2 windows where your PF drops below 1.0 and you're giving back edge. Turning the algo off during those windows is the easiest improvement you can make because you're not changing the logic at all, just removing the hours where it doesn't work. **On the pyramiding.** Your logic for the second entry makes sense, you're essentially averaging into a better price when the first entry is early. But be careful with how you're sizing the second entry. If it's equal size to the first you've doubled your risk on what is by definition a trade that's already moving against you. A better structure might be to make the first entry smaller (say 40% of intended size) and the second entry larger (60%) so your average cost basis improves more meaningfully when the second entry triggers, and your risk is smaller when only the first entry fires and it's wrong. **Correlation between the two settings.** You mentioned they're uncorrelated on some days but correlated on others. Track the rolling 20-day correlation between the two equity curves. When correlation spikes above 0.7 or so, you've effectively got double the position size with no diversification benefit. That's where your max drawdowns will cluster. You could add a rule that reduces total position size when inter-strategy correlation is elevated. **The drawdown you haven't seen yet.** 13.83% max DD on a backtest that covers mostly favorable NQ conditions. Your real max DD will be larger. Plan for 2x the backtest DD in live (so roughly 28%) and make sure your account can survive that without forcing you to shut it down at the worst possible time. The algos that survive long term aren't the ones with the best entries, they're the ones with position sizing that keeps them in the game during the inevitable regime that the backtest didn't fully capture."
+      },
+      {
+        "id": "t1_oadiz3o",
+        "author": "RiraRuslan",
+        "score": 7,
+        "body": "Interesting setup. One thought I had was whether these two algos should really be managed as separate strategies, or whether a portfolio/allocation layer could sit on top of them and coordinate exposure more efficiently.\nSince the logic is similar, I wonder whether there are cases where trades overlap enough that execution could be consolidated, which might reduce unnecessary transaction costs. On the other hand, if both models fire together and that historically improves expectancy, that could also justify a higher-conviction sizing rule \u2014 assuming correlation and portfolio risk are handled properly. Another interesting research angle could be a meta-model that decides when to favor one parameter set over the other, rather than simply running both in parallel all the time. I\u2019d also be curious about the governance behind this: what was the rationale for splitting the strategy into two similar algos, how were the second parameter set chosen, and under what rules do you adjust them over time? Otherwise, there is always the risk that \u201cdiversification\u201d is just parameter spreading without a clear decision framework. Very nice setup if the governance around it is robust. Edit: Rephrased my wild thoughts with ai."
+      },
+      {
+        "id": "t1_oadv6dy",
+        "author": "jerry_farmer",
+        "score": 4,
+        "body": "Thank you for your insight, and that's a very good idea, I will work on combining them into one single strategy to avoid unnecessary costs and improve position sizing. The reason I decided to split with 2 settings: I realized after running it for a month and monitor it that it was missing some good trades in some conditions, so I decided to train the model with totally different settings to catch these trades in different conditions, for highest volatility. It catches other trades than initial strategy but with comparable performance over time, so I found out it a great addition."
+      },
+      {
+        "id": "t1_oadjm61",
+        "author": "jerry_farmer",
+        "score": 4,
+        "body": "So far after 2 months live I did not have this issue, will closely monitor"
+      },
+      {
+        "id": "t1_oag9flf",
+        "author": "brokebutbejeweled",
+        "score": 3,
+        "body": "For about the last 7-8 years I\u2019ve only been a MR guy, the traditional retail algo trader rational move would be to run concurrent trend following algos on heavily correlated derivatives for diversification but mentally for me I can\u2019t bring myself to turn on my trend following algos because I just hate the 20-25% win rate they have. Been wanting to experiment with otm options in case of volatility blowouts when my MR algos go into drawdown but haven\u2019t gotten there yet. I do like OPs idea of running the dual bots for a smoother equity curve as long as he isn\u2019t accidentally increasing his size by doing so. It\u2019s similar to what I\u2019ve implemented and I like it. I think he would be better off taking the logic and applying it to S&P or Dow instead of and literally the exact same instrument. My bots run on euro, pound and Aussie fx pairs with some session time blocking and a hurst exponent \u201cregime filter\u201d like your ATR filter which is an improvement over flat MR algo logic. But the losses still come in chunks because they\u2019re due to rapid spikes in volatility. The \u201cdiversification\u201d is not for account protection but rather for psychological stability. You just have to be aware of what you\u2019re doing and size appropriately"
+      },
+      {
+        "id": "t1_oajsf8g",
+        "author": "jerry_farmer",
+        "score": 3,
+        "body": "Thank you very much for your insights, that's some quality content here. You're totally right, just  adding a lunch pause already improve overall results and PF. I'll continue working on simple rules like that to avoid overfit, my next work is ATR dynamic sizing to work as regime classifier. I'll study each point you mentioned, thank you"
+      },
+      {
+        "id": "t1_oaekh31",
+        "author": "habibgregor",
+        "score": 3,
+        "body": "How did you determine the series was mean reverting? You are taking it as a given, if I understand correctly?"
+      },
+      {
+        "id": "t1_oajz3pc",
+        "author": "MilesDelta",
+        "score": 2,
+        "body": "Keep me in the loop, you are on to something. Cheers man."
+      },
+      {
+        "id": "t1_oadjc03",
+        "author": "Plane-Bluejay-3941",
+        "score": 2,
+        "body": "the commission, slippage, and spread widening will eat the profit. if you backtesting  you should add these variable and use real tick by tick data. not OHLC."
+      },
+      {
+        "id": "t1_oadjw80",
+        "author": "Plane-Bluejay-3941",
+        "score": 2,
+        "body": "this is good news.\nI wonder what is this current 2 months the market trend on higher timeframe when you doing live test?\nand the initial balance Vs risk management you have applied for this 2 months? did it have auto regime detector to switch off the trade when in reversal? did it do buy only or sell only or both direction?"
+      },
+      {
+        "id": "t1_oahbc8y",
+        "author": "Backrus",
+        "score": 2,
+        "body": "Market has been sideways for 6 months."
+      },
+      {
+        "id": "t1_oae3ieo",
+        "author": "OkPomegranate310",
+        "score": 2,
+        "body": "What software/web platform did you use for back testing?"
+      },
+      {
+        "id": "t1_oajxn84",
+        "author": "jerry_farmer",
+        "score": 2,
+        "body": "Tradingview"
+      },
+      {
+        "id": "t1_oaet16m",
+        "author": "roszpunek",
+        "score": 2,
+        "body": "It is a real account or backtest?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rf4mrs",
+    "subreddit": "algotrading",
+    "title": "I just thought of the BEST algo trading idea (NO STEALING!!!)",
+    "score": 280,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1rf4mrs/i_just_thought_of_the_best_algo_trading_idea_no/",
+    "selftext": "Step 1: Make a horrible trading bot that looses millions Step 2: Reverse the strategy Step 3: Make millions in profit and retire",
+    "comments": [
+      {
+        "id": "t1_o7he19t",
+        "author": "Fun-Bake5789",
+        "score": 212,
+        "body": "Morgan stanley is asking for your resume"
+      },
+      {
+        "id": "t1_o7hcv4v",
+        "author": "Thiru_7223",
+        "score": 129,
+        "body": "Bro just casually solved quant finance in 3 steps In all seriousness though, this is literally how some people stumbled onto mean reversion strategies. Built something terrible, flipped the logic, and went \"wait... this actually works?\" The real problem is step 1 costs you your entire account before you get to step 2 lmao"
+      },
+      {
+        "id": "t1_o7hkfoc",
+        "author": "sonic3390",
+        "score": 46,
+        "body": "Cost account? Have you heard of backtesting ?"
+      },
+      {
+        "id": "t1_o7j2j3w",
+        "author": "Persistent_Dry_Cough",
+        "score": 45,
+        "body": "This is how nukes were invented, so you didn't have to backtest enemy cities."
+      },
+      {
+        "id": "t1_o7hm8jh",
+        "author": "merciless001",
+        "score": 39,
+        "body": "Lehmann Bro's getting there first"
+      },
+      {
+        "id": "t1_o7hfgze",
+        "author": "ApopheniaPays",
+        "score": 19,
+        "body": "The great thing about this strategy is it's not just for trading. Like, I came up with a way not to score a high-paying job, and then did the opposite. Bam!"
+      },
+      {
+        "id": "t1_o7ixgk8",
+        "author": "truerandom_Dude",
+        "score": 16,
+        "body": "That is how backtesting was invented, this way you dont have to nuke your account"
+      },
+      {
+        "id": "t1_o7hiqbs",
+        "author": "Suitable-Name",
+        "score": 16,
+        "body": "Someone here tried it lately. Spoiler alert... didn't work"
+      },
+      {
+        "id": "t1_o7hmdwb",
+        "author": "Giant_leaps",
+        "score": 16,
+        "body": "because most bad strategies are random in other words they can swing up 50% and then swing down 50% but when that happens even if you reverse the trades you will still end up losing"
+      },
+      {
+        "id": "t1_o7hkod1",
+        "author": "Money_Horror_2899",
+        "score": 15,
+        "body": "Here it is: https://www.reddit.com/r/algotrading/s/wXVCkbQhAy"
+      },
+      {
+        "id": "t1_o7ic91l",
+        "author": "",
+        "score": 9,
+        "body": "NO ONE came across mean reversion like this ..."
+      },
+      {
+        "id": "t1_o7ii3ok",
+        "author": "octopus4488",
+        "score": 9,
+        "body": "My clueless boss everytime the junior brought another backtest with like -5 Sharpe: \"Try to invert it!\" It is going straight down in backtest because of spread and commission... how the fuck do I inverse that?? Seduce the clearing broker CEO or what?? :)"
+      },
+      {
+        "id": "t1_o7hcr40",
+        "author": "Flyguy86420",
+        "score": 8,
+        "body": "Step 2 steal underpants. Step 3 .... Step 4 profit!"
+      },
+      {
+        "id": "t1_o7iq66g",
+        "author": "Top-Mycologist-5460",
+        "score": 7,
+        "body": "Your step 1 requires a trading bot that looses money on trades, i.e. price differences between open and close, and not on expenses. This is already the whole, difficult problem. But if you really want to attack it in the reversed way -- reverse everything and count all expenses positive. Then see whether you're still able to loose money."
+      },
+      {
+        "id": "t1_o7t216f",
+        "author": "StackOwOFlow",
+        "score": 6,
+        "body": "step 1: open 2 accounts step 2: have them trade against each other step 3: watch both accounts go to 0"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mkrtm5",
+    "subreddit": "algotrading",
+    "title": "How many people on this subreddit do you think are actually profitable? (As in $100k+ per year)",
+    "score": 274,
+    "permalink": "https://old.reddit.com/r/algotrading/comments/1mkrtm5/how_many_people_on_this_subreddit_do_you_think/",
+    "selftext": "Genuinely curious \u2014 what percentage of people do you think on this subreddit are profitable from algorithmic trading, with \u201cprofitable\u201d meaning they consistently make at least $100,000 per year in net income? Feel free to explain your reasoning below too.",
+    "comments": [
+      {
+        "id": "t1_n7kzklf",
+        "author": "puppymaster123",
+        "score": 353,
+        "body": "Not 100k but my niece is. 18 years old. She wanted to learn forecasting so I sent her some papers on garch and galformer and she coded it herself over Xmas. Started trading vol mean reversion after I showed her possible asset class she can trade with. Started jan this year with 10k. She even took out 2k profits for summer trip. Performance so far: Net liq: $12,967 Return: 47.84% Sharpe: 1.09 Max DD: -16.24% Correlation: -0.01% Beta: -0.03 Alpha: 45.27% Sorry for not answering your question but I am a proud uncle!"
+      },
+      {
+        "id": "t1_n7kw0t8",
+        "author": "roflson85",
+        "score": 205,
+        "body": "The people that are profitable are not talking about it that much"
+      },
+      {
+        "id": "t1_n7lavaq",
+        "author": "Aggravating_Mark_229",
+        "score": 200,
+        "body": "I'm 41 but can you by my uncle"
+      },
+      {
+        "id": "t1_n7kwypm",
+        "author": "arbitrageisfreemoney",
+        "score": 123,
+        "body": "I made like $35 last week and was pretty stoked. ($500 portfolio)"
+      },
+      {
+        "id": "t1_n7ktzz4",
+        "author": "Noob_Master6699",
+        "score": 81,
+        "body": "Yes, anyone who owned 2.083 mil can generate exactly 100K per year every fucking year. What a question"
+      },
+      {
+        "id": "t1_n7liafc",
+        "author": "DoringItBetterNow",
+        "score": 78,
+        "body": "Mark stop aggravating my uncle"
+      },
+      {
+        "id": "t1_n7l5jva",
+        "author": "Jackiemoontothemoon",
+        "score": 75,
+        "body": "7% week ain't nothing to sneeze at"
+      },
+      {
+        "id": "t1_n7kzo4e",
+        "author": "jychung0709",
+        "score": 70,
+        "body": "Profitable people keep their mouths shut"
+      },
+      {
+        "id": "t1_n7ljc3p",
+        "author": "LowRutabaga9",
+        "score": 61,
+        "body": "Let\u2019s start with who is actually trading?!"
+      },
+      {
+        "id": "t1_n7l64qi",
+        "author": "Ok_Possibility_4689",
+        "score": 50,
+        "body": "Profitable people are not here IMO. They are busy gatekeeping their alpha!"
+      },
+      {
+        "id": "t1_n7ku0n7",
+        "author": "dkbay",
+        "score": 46,
+        "body": "Barely any."
+      },
+      {
+        "id": "t1_n7ku84e",
+        "author": "inspiredfighter",
+        "score": 46,
+        "body": "100k usd/year is a lot, specially when a lot of people here come from third world countries. But I have a suspicion that much more people are profitable than people here say"
+      },
+      {
+        "id": "t1_n7lls2y",
+        "author": "AlanDmz95",
+        "score": 39,
+        "body": "I keep my mouth shut and I\u2019m not profitable"
+      },
+      {
+        "id": "t1_n7mqo7w",
+        "author": "aerismio",
+        "score": 36,
+        "body": "Panama"
+      },
+      {
+        "id": "t1_n7l2a1u",
+        "author": "Distinct_Egg4365",
+        "score": 34,
+        "body": "Well done for giving her the guidance. I wish I had someone that can shortcut it for me but fuck I will make it one day. I will not stop"
+      }
+    ]
+  }
+]

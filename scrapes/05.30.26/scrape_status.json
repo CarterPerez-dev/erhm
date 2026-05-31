@@ -1,0 +1,20 @@
+{
+  "generated": "2026-05-30T20:00:43.366194+00:00",
+  "total_requests": 420,
+  "total_posts": 6467,
+  "total_comment_threads": 328,
+  "per_subreddit": {
+    "quant": "628 posts / 30 comment-threads",
+    "quantfinance": "639 posts / 30 comment-threads",
+    "quant_hft": "94 posts / 30 comment-threads",
+    "QuantFinanceJobs": "0 posts / 0 comment-threads",
+    "cpp": "572 posts / 30 comment-threads",
+    "cpp_questions": "647 posts / 30 comment-threads",
+    "csMajors": "638 posts / 29 comment-threads",
+    "cscareerquestions": "635 posts / 30 comment-threads",
+    "FPGA": "640 posts / 30 comment-threads",
+    "algotrading": "656 posts / 30 comment-threads",
+    "financialcareers": "647 posts / 30 comment-threads",
+    "leetcode": "671 posts / 29 comment-threads"
+  }
+}

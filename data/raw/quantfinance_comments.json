@@ -1,0 +1,2924 @@
+[
+  {
+    "post_id": "t3_1nmqf1g",
+    "subreddit": "quantfinance",
+    "title": "Every 2nd resume",
+    "score": 2165,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1nmqf1g/every_2nd_resume/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nfenmeb",
+        "author": "GoldenQuant",
+        "score": 182,
+        "body": "“I have simulated asset price paths using Monte Carlo simulation and priced European options.” “I have implemented a binomial tree pricer and analyzed convergence.” “I have implemented optimal portfolio allocation.”"
+      },
+      {
+        "id": "t1_nfeomsu",
+        "author": "",
+        "score": 168,
+        "body": "Do you expect them to write \"I have connected Interactive Broker with QuantConnect and turned 10k into 200k by trading meme stocks and tanked a hedge fund by aggregating more users from Reddit\"?"
+      },
+      {
+        "id": "t1_nfeta0t",
+        "author": "Life_Vast801",
+        "score": 81,
+        "body": "Quant version of Todo list and E commerce website"
+      },
+      {
+        "id": "t1_nfepd9y",
+        "author": "QQTang2024",
+        "score": 68,
+        "body": "What do you expect? I have a strategy of 200% annual return and would like to share with you ?"
+      },
+      {
+        "id": "t1_nfeocjj",
+        "author": "lyingswordsman236711",
+        "score": 42,
+        "body": "If not that then what should one build?"
+      },
+      {
+        "id": "t1_nff2wlr",
+        "author": "Deweydc18",
+        "score": 41,
+        "body": "Because 30% returns on a $5000 net worth will take like 20 years to match a first year comp at Citadel"
+      },
+      {
+        "id": "t1_nff10wq",
+        "author": "",
+        "score": 33,
+        "body": "\"Because Ive got 4 grand to my name\""
+      },
+      {
+        "id": "t1_nfey1ja",
+        "author": "shisui1729",
+        "score": 32,
+        "body": "I have been in the MFT industry for 4 years. During campus hiring, I often see resumes with points like “generated 20% active returns over the benchmark” or “simulated high value Sharpe strategies.” In interviews, I ask candidates a simple question: if they can really do this, why are they looking for a job? They could just apply these strategies to their own portfolio. Meanwhile, I am here trying hard to consistently beat the benchmark by even 5% and that itself feels like a significant hurdle."
+      },
+      {
+        "id": "t1_nfeq98f",
+        "author": "AdInfinite4162",
+        "score": 30,
+        "body": "made my day"
+      },
+      {
+        "id": "t1_nfeu7u3",
+        "author": "thegratefulshread",
+        "score": 30,
+        "body": "All this yap, like mf did you make money or nah"
+      },
+      {
+        "id": "t1_nfexq8c",
+        "author": "CraaazyPizza",
+        "score": 29,
+        "body": "If you build testfol.io you get an internship and full-time job at Citadel (true story)"
+      },
+      {
+        "id": "t1_nfgdwbn",
+        "author": "pg131072",
+        "score": 21,
+        "body": "<rant>How about some practical skills beyond python? Demonstrate some ability beyond regurgitating theory. All the experienced quants already know everything you do. C++, columnar databases, middlewares, low-level system interaction like sockets and multicast, market data feeds, FIX protocol, order book management, hedging, draw down, markouts, whatever... something useful</rant>"
+      },
+      {
+        "id": "t1_nfffn5a",
+        "author": "GoldenQuant",
+        "score": 17,
+        "body": "They are useful projects to practice but way too basic / low effort to put on a resume and done a gazillion times before. An LLM could probably do all of these on first attempt when prompted well. Getting past the resume screen for quant trading / research is about standing out and not doing the same things everyone else does."
+      },
+      {
+        "id": "t1_nff0nd3",
+        "author": "WarBroWar",
+        "score": 17,
+        "body": "Maybe some people just don't t want to sit and wait for the compounding to happen since they have very low starting budget."
+      },
+      {
+        "id": "t1_nff74c9",
+        "author": "panasun_th",
+        "score": 17,
+        "body": "Can I ask really serious question, then what they expected to see in resume?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1oj4rx7",
+    "subreddit": "quantfinance",
+    "title": "found this linkedin post",
+    "score": 1155,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1oj4rx7/found_this_linkedin_post/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nm0asm9",
+        "author": "ProfScratchnsniff",
+        "score": 132,
+        "body": "You found it, or you wrote it?"
+      },
+      {
+        "id": "t1_nm0go11",
+        "author": "Correct-Plant-7907",
+        "score": 50,
+        "body": "Final BOSS of AUTISM BE LIKE"
+      },
+      {
+        "id": "t1_nm0o4xn",
+        "author": "Queasy_Pool4185",
+        "score": 49,
+        "body": "this is basically skibbidi toilet linkedin version 🥲🥲🥲"
+      },
+      {
+        "id": "t1_nm10a4n",
+        "author": "humanCentipede69_420",
+        "score": 42,
+        "body": "avg LinkedIn poster"
+      },
+      {
+        "id": "t1_nm0hrxq",
+        "author": "theschuss",
+        "score": 25,
+        "body": "It's amazing that someone can post from being all the way inside their own ass."
+      },
+      {
+        "id": "t1_nm0hkp5",
+        "author": "Powerful-Rip6905",
+        "score": 24,
+        "body": "It belongs more to another sub: r/LinkedInLunatics"
+      },
+      {
+        "id": "t1_nm0fyis",
+        "author": "BytesofWisdom",
+        "score": 19,
+        "body": "Good one... LoL 😆"
+      },
+      {
+        "id": "t1_nm1alkq",
+        "author": "nooneinparticular246",
+        "score": 17,
+        "body": "Username checks out"
+      },
+      {
+        "id": "t1_nm0q9ht",
+        "author": "Ma4r",
+        "score": 17,
+        "body": "Isn't this a shitpost lmao, the name is James anderson"
+      },
+      {
+        "id": "t1_nm0i60r",
+        "author": "warm_vanilla_",
+        "score": 14,
+        "body": "you wrote this, BUT GREAT JOB MAN, hope you’re happy :)"
+      },
+      {
+        "id": "t1_nm0yto2",
+        "author": "deadshot033",
+        "score": 13,
+        "body": "Bro escaped the matrix and created a new one😂😂"
+      },
+      {
+        "id": "t1_nm1gn3z",
+        "author": "Better-Psychology-42",
+        "score": 10,
+        "body": "Avg chatgpt written linkedin post"
+      },
+      {
+        "id": "t1_nm197c5",
+        "author": "mtfunky",
+        "score": 10,
+        "body": "People really just be saying shit I'm crying"
+      },
+      {
+        "id": "t1_nm7zsez",
+        "author": "Rocket089",
+        "score": 3,
+        "body": "This is my quant."
+      },
+      {
+        "id": "t1_nm25xra",
+        "author": "theschuss",
+        "score": 2,
+        "body": "Probably. That said, way too many people take shitposts seriously these days."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1t2bxiz",
+    "subreddit": "quantfinance",
+    "title": "Should I Say Yes to this old guy?",
+    "score": 672,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1t2bxiz/should_i_say_yes_to_this_old_guy/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_ojmtr2g",
+        "author": "Obvious-Ad-4560",
+        "score": 97,
+        "body": "Bros calling you from the grave."
+      },
+      {
+        "id": "t1_ojmns5x",
+        "author": "Content_Dragonfly_59",
+        "score": 41,
+        "body": "Nah, he just wants you for your body. You're better than that, queen."
+      },
+      {
+        "id": "t1_ojncrcj",
+        "author": "No_Departure_1878",
+        "score": 21,
+        "body": "That tells you how important OP's skills are. Jim Simons himself had to come all the way from hell to recruit him."
+      },
+      {
+        "id": "t1_ojngwh9",
+        "author": "Such_Maximum_9836",
+        "score": 15,
+        "body": "He funded math, he must be in the heaven"
+      },
+      {
+        "id": "t1_ojmpnew",
+        "author": "beautifulday257",
+        "score": 12,
+        "body": "What's wrong Queen? You don't want the job? #YouGoGurl"
+      },
+      {
+        "id": "t1_ojmo9c4",
+        "author": "WishProfessional6450",
+        "score": 6,
+        "body": "I am a straight male mate , this old guy is a bi or smthin"
+      },
+      {
+        "id": "t1_ojn7bq1",
+        "author": "Fluffy_coat_with_fur",
+        "score": 3,
+        "body": "Bro clutched up in the gulag"
+      },
+      {
+        "id": "t1_ojno5pv",
+        "author": "Fun-Bake5789",
+        "score": 2,
+        "body": "Only if he begs to u"
+      },
+      {
+        "id": "t1_ojnyylw",
+        "author": "Krekken24",
+        "score": 1,
+        "body": "Yeah you slayyy kweeen"
+      },
+      {
+        "id": "t1_ojr3f3a",
+        "author": "Mr_Cuddlesz",
+        "score": 1,
+        "body": "no I think you’re misunderstanding. he wants your BODY"
+      },
+      {
+        "id": "t1_ojnwg1x",
+        "author": "Imaginary-Cellist918",
+        "score": 1,
+        "body": "It's giving this"
+      },
+      {
+        "id": "t1_ojoceo4",
+        "author": "StackOwOFlow",
+        "score": 1,
+        "body": "he’s with Intel stock grandma in the sky now"
+      },
+      {
+        "id": "t1_ojulyq0",
+        "author": "Agile-Set-2648",
+        "score": 0,
+        "body": "He’s a quadratic equation, so he’s in both"
+      },
+      {
+        "id": "t1_ojou9b4",
+        "author": "Antique-Programmer72",
+        "score": 0,
+        "body": "This is legit how rentech was founded"
+      },
+      {
+        "id": "t1_ojy3s7m",
+        "author": "n0_nevlar",
+        "score": 0,
+        "body": "a meme in this community is so rare lol"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lcyhvc",
+    "subreddit": "quantfinance",
+    "title": "You will work in Risk. You will not be front office.",
+    "score": 662,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1lcyhvc/you_will_work_in_risk_you_will_not_be_front_office/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_my49xxo",
+        "author": "Dry_Rent_6630",
+        "score": 127,
+        "body": "Yes but I got a 5 in BC calc"
+      },
+      {
+        "id": "t1_my42z0b",
+        "author": "Guinness",
+        "score": 101,
+        "body": "Show me on the doll where Ken Griffin hurt you."
+      },
+      {
+        "id": "t1_my5e87z",
+        "author": "",
+        "score": 98,
+        "body": "Hi I’m Jane from Jane Street I’ve been informed about your mathematical expertise and I’m interested in recruiting you check your messages "
+      },
+      {
+        "id": "t1_my4k8tu",
+        "author": "",
+        "score": 49,
+        "body": "as far back as i can remember, i always wanted to be in risk"
+      },
+      {
+        "id": "t1_my5ihuo",
+        "author": "Additional-Tax-5643",
+        "score": 34,
+        "body": "I think many of us looked at this sub hoping there might be a kernel of genuinely good discourse about methods or research What I have found is that the people who tend to complain about the quality of a sub usually have ZERO to contribute besides bitching and ranting. Someone should make quality content for me to engage with, but that person can't be me! In 7 months on Reddit, you've made zero posts that are actually constructive and positive in the way that you claim you want to see. I'm not even going to bother with how utterly utterly stupid it is to complain about the disproportionate number of newbies on a general interest site like Reddit, as oppose to the much more technical forums like StackOverflow or StackExchange."
+      },
+      {
+        "id": "t1_my4kcpg",
+        "author": "PetyrLightbringer",
+        "score": 26,
+        "body": "If you can’t find an answer to your question about whether your major is okay for quant in the 10,000 already asked questions, you are not resourceful enough to be a quant. Hell you aren’t resourceful enough for most jobs."
+      },
+      {
+        "id": "t1_my5frkc",
+        "author": "Dry_Rent_6630",
+        "score": 25,
+        "body": "Heck yeah. Haters can suck it. I would like to be paid in bags of 5 dollar bills."
+      },
+      {
+        "id": "t1_my435d0",
+        "author": "StandardWinner766",
+        "score": 25,
+        "body": "Continuing my petition to start a “stupid high schooler/undergrad questions” megathread to quarantine the spam"
+      },
+      {
+        "id": "t1_my4va0r",
+        "author": "YouHaveToGoHome",
+        "score": 23,
+        "body": "Former FO at one of the shops listed. Sometimes I read this sub and feel like I’m not getting the scale of either the luck I had or the skills gap between me and the average person on here. What the hell is everyone’s obsessions with MFEs and doing such specific modeling for finance? Stumbled into this profession right before Covid hit with a physics bachelor’s that kind of gave me a leg up with the math behind ML. Work is ok and pays well but like… it’s kinda sad so many students dream of becoming a quant instead of an astronaut or great novelist and then either fabricate comp numbers or take glee in putting each other down like this."
+      },
+      {
+        "id": "t1_my46hh9",
+        "author": "SuperGallic",
+        "score": 22,
+        "body": "Do not agree. I am teaching at Masters level in a French University Exotic Options with a focus on ED, and a significant percentage of my students each year ends up trading in FO. Anywhere in the world. What makes the difference? Students get to manage FO real life situations. Better having already run MC simulations, fitted local volatility surfaces, calibrated SABr or Heston models. Better to know what to do when VAR goes negative in a Heston model Monte-Carlo simulation. Also, besides this specific track some banks are recruiting smart kids having completed a Math intensive cursus who are already familiar with Finance through internship and give them a chance HSBC, BARClays, SocGen, Santander, BNP"
+      },
+      {
+        "id": "t1_my4bge3",
+        "author": "PretendTemperature",
+        "score": 13,
+        "body": "There is a huge difference between hedge funds and HFT/market makers, but in this group and in r/quant most people seem to believe that FO only exists in buy-side and buy-side is only the prop trading world."
+      },
+      {
+        "id": "t1_my5hlac",
+        "author": "Sir-May-I",
+        "score": 11,
+        "body": "Hedge fund vs big banks both make a lot of money but big banks make more and employ far more quants than hedge funds. The biggest difference in working in the two is measured by quality of life. Hedge funds must produce returns and big banks must robust risk tools for all areas of the bank from credit card fraud and nonpayment to market liquidity. The responsibility of producing returns is stressful and often expected to be done with minimal support. Building risk models in a bank is a TEAM effort with a focus on getting it correct. Get your MFE or your CS degree and go work for a big bank you will get paid more than any anyone getting a degree in the arts."
+      },
+      {
+        "id": "t1_my45tpw",
+        "author": "Jlo2467335",
+        "score": 8,
+        "body": "Finally some good content"
+      },
+      {
+        "id": "t1_my7mjmb",
+        "author": "IceIceBaby33",
+        "score": 7,
+        "body": "Right, risk quants are well paid too. If OP is referring to few .1% who makes millions. By definition they are 0.1% because of that and they exist in EVERY field, not just quant"
+      },
+      {
+        "id": "t1_my5qvtg",
+        "author": "Single-Pay-4237",
+        "score": 7,
+        "body": "Just be a c++ guy keep the wheel rolling without the pressure to generate alpha"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1pr94tq",
+    "subreddit": "quantfinance",
+    "title": "Jane Street says no GPA or degree requirement — is it actually possible without a traditional Bachelor’s?",
+    "score": 616,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1pr94tq/jane_street_says_no_gpa_or_degree_requirement_is/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nv03pch",
+        "author": "Ancient-Way-1682",
+        "score": 193,
+        "body": "There’s very very few people that have done it, but they are all exceptional people"
+      },
+      {
+        "id": "t1_nv0hdex",
+        "author": "Many-Ad-8722",
+        "score": 157,
+        "body": "With the degree you are doing you’re gonna have a hard time even getting a normal data science job bro"
+      },
+      {
+        "id": "t1_nv15zlw",
+        "author": "twa8u",
+        "score": 70,
+        "body": "This exactly like Harvard saying they don’t have a GPA cut off in some of their degree programs 😂"
+      },
+      {
+        "id": "t1_nv073sv",
+        "author": "imoshudu",
+        "score": 45,
+        "body": "They will say a lot. It is still entirely up to luck and whether they spot your resume."
+      },
+      {
+        "id": "t1_nv1aq4p",
+        "author": "InvestmentTips-",
+        "score": 33,
+        "body": "hope is a powerful tool to control the mass"
+      },
+      {
+        "id": "t1_nv04umz",
+        "author": "Bubbly_Garage2774",
+        "score": 32,
+        "body": "It needs ton of capacity. And they r very very selective. U need to be as fast as light my boy."
+      },
+      {
+        "id": "t1_nv14geo",
+        "author": "Thatnotoriousdude",
+        "score": 32,
+        "body": "I know a guy who quit his FT math bachelor to play poker nationally (obv won large amounts of money through tournaments), and then became a trader. It’s for those people. The exceptions of the exceptions. To avoid the risk of losing ppl like that."
+      },
+      {
+        "id": "t1_nv0iz2t",
+        "author": "Dangerous-Meeting453",
+        "score": 29,
+        "body": "I feel like it's always a bit unfair when companies say stuff like this. 99.999999999% (conservatively) of people without the usual qualifications have absolutely no shot at all. But they don't want to exclude the one or two exceptionally promising/technically qualified people out there who might not have the usual qualifications, so they write this. It's much easier to just have the usual qualifications. To a complete ignoramus, data science at IIT Madras doesn't seem like the weak background you say it is, just toss in an application. see below"
+      },
+      {
+        "id": "t1_nv0hf6e",
+        "author": "Many-Ad-8722",
+        "score": 26,
+        "body": "And to answer your question , firms like JS don’t view your application at all"
+      },
+      {
+        "id": "t1_nv0g1qc",
+        "author": "RealPigwiggy",
+        "score": 22,
+        "body": "It's not up to luck they review CVs personally. I applied last year and didn't get an interview but this year I did after doing a QR internship at another shop. Same school same grades nothing else changed."
+      },
+      {
+        "id": "t1_nv1o7in",
+        "author": "Many-Ad-8722",
+        "score": 21,
+        "body": "And it says 70 universities are represented , goes without saying it’s top 70 in the world and mostly stem grads"
+      },
+      {
+        "id": "t1_nv10xgc",
+        "author": "Baozicriollothroaway",
+        "score": 17,
+        "body": "\"not a huge firm\"  moves billions of dollars and has offices in three continents Lmao"
+      },
+      {
+        "id": "t1_nv0icej",
+        "author": "RealPigwiggy",
+        "score": 15,
+        "body": "Yes that's precisely what I'm saying, it's not up to luck it's up to the quality of your CV because Jane street is one of the few companies that review CVs personally instead of having some system."
+      },
+      {
+        "id": "t1_nv0nxq7",
+        "author": "DiaPhoenix",
+        "score": 14,
+        "body": "Why are you getting an online « low quality » degree from IIT Madras? Do you want to say you graduated from IIT Madras even though it’s not the actual rigorous education associated with the degree?"
+      },
+      {
+        "id": "t1_nvdrb3z",
+        "author": "jonjopop",
+        "score": 10,
+        "body": "Yeah. I mean Jane Street is an exceptional firm and the reason the “no GPA / no degree requirement” thing exists is so that if some once-in-a-generation Good Will Hunting edge case walks through the door, they don’t get auto-rejected by a checkbox. Not because JS legit believes anyone can waltz in off the street and work there. It’s the same energy as “Bill Gates/Steve Jobs/Mark Zuckerberg doesn’t have a college degree” being used to prove college is pointless. Bill Gates dropped out of Harvard because the opportunity cost of staying was higher than leaving. That’s… a very specific situation lol. Moral of the story: yes, you technically don’t need a degree if you’re insanely smart, deeply self-directed, and capable of becoming unbelievably successful without traditional academic structure. Those people exist, but they’re unbelievably rare, and they usually don’t need Reddit posts to validate the decision lol. If you find yourself looking at that clause and thinking there's a chance...well, there’s a much great chance you’re not actually the exception Jane Street is thinking of. No shade of course, that just means you're like 99.999999999% of the rest of us who need to bust our asses into a good program"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qzfgdn",
+    "subreddit": "quantfinance",
+    "title": "What do they actually see in these monitors?",
+    "score": 577,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1qzfgdn/what_do_they_actually_see_in_these_monitors/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_o4afrbt",
+        "author": "Metals_trader",
+        "score": 167,
+        "body": "Is mainly for viewing dashboards with data - Data to inform changes to model parameters (main use of screen space), Trades you’re doing, PnL on the day, how different products are moving,"
+      },
+      {
+        "id": "t1_o4ak0c6",
+        "author": "Spirited-Muffin-8104",
+        "score": 95,
+        "body": "Mostly custom made dashboards (built by the Quant Developers or from 3rd party ) that show metrics for different strategies, products, market signals, etc. Coming from consumer focused software engineering, the UI/UX in these dashboards is awful, but they get the job done and you'd normally be trained how to use them in your onboarding."
+      },
+      {
+        "id": "t1_o4am165",
+        "author": "Puzzleheaded-Can-480",
+        "score": 72,
+        "body": "As a quant trader I personally have 6 monitors, I use 4 of them to watch different markets, 2 for US, 1 for Europe and UK, 1 for rest of the countries, 1 monitor is for my pricing and calculation dashboards, and 1 monitor is for risk monitors and positions, also use it for research and accessing Refinitiv/Bloomberg remotely."
+      },
+      {
+        "id": "t1_o4aj6ja",
+        "author": "InvestigatorMain4008",
+        "score": 29,
+        "body": "I can SMELL this room"
+      },
+      {
+        "id": "t1_o4amgew",
+        "author": "Ocelotofdamage",
+        "score": 29,
+        "body": "In addition to what everyone else has said, usually there's one dedicated monitor where they order the hot dog costumes"
+      },
+      {
+        "id": "t1_o4beqiq",
+        "author": "dafo111",
+        "score": 13,
+        "body": "Being a slutmaker sounds like a good gig too, wanna switch jobs?"
+      },
+      {
+        "id": "t1_o4b54qt",
+        "author": "Vuducdung28",
+        "score": 10,
+        "body": "Sounds fun until you have to do this 12 hours a day 6 days a week."
+      },
+      {
+        "id": "t1_o4bvkx4",
+        "author": "ly5ergic_acid-25",
+        "score": 6,
+        "body": "Can tell the guy on the left is using Rithmic/R | Trader Pro"
+      },
+      {
+        "id": "t1_o4acgmf",
+        "author": "fx_rookie",
+        "score": 6,
+        "body": "DOMs, ladders."
+      },
+      {
+        "id": "t1_o4akhjq",
+        "author": "urmajesticy",
+        "score": 5,
+        "body": "Haha felt that"
+      },
+      {
+        "id": "t1_o4ah6b8",
+        "author": "SpeciousPerspicacity",
+        "score": 5,
+        "body": "God himself."
+      },
+      {
+        "id": "t1_o4asx4x",
+        "author": "__SlutMaker",
+        "score": 4,
+        "body": "I am imagining this and ig i would love this job"
+      },
+      {
+        "id": "t1_o4e1npz",
+        "author": "mersenne_reddit",
+        "score": 4,
+        "body": "At a good firm, these should account for no less than 3% of capex."
+      },
+      {
+        "id": "t1_o4anb8f",
+        "author": "fx_rookie",
+        "score": 4,
+        "body": "DOM, or Price Ladder, shows the live limit order book - all bids and asks at every price level - so you can see supply, demand, and liquidity in real time. Pros watch it because it lets them anticipate price moves, spot support/resistance, and execute orders faster than just using charts. It is basically reading the battle between buyers and sellers as it happens. For a good intro take a look at Axia, Jigsaw, etc - there are some great tutorials on youtube"
+      },
+      {
+        "id": "t1_o4av2d4",
+        "author": "yolotarded",
+        "score": 4,
+        "body": "I am afraid if you really think these guys are acting on the DOM you’re not gonna make it."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1o8czpc",
+    "subreddit": "quantfinance",
+    "title": "My quantitative strategy delivered a +2111% return within a year—this unique approach",
+    "score": 487,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1o8czpc/my_quantitative_strategy_delivered_a_2111_return/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nju5y3h",
+        "author": "Cavitat",
+        "score": 144,
+        "body": "Yeah we have all made a overfit backtest that produces insane results. My best was 506% in 6 months lol. 27 sharpe"
+      },
+      {
+        "id": "t1_njue3h1",
+        "author": "Bitwise-101",
+        "score": 100,
+        "body": "When you see equity curves like this, it tends to boil down to a few classic issues: 1. Overfitting 2. Overfitting 3. Overfitting 4. Look-ahead bias 5. Ignoring Transaction costs 6. Survivorship bias (though less relevant here) Not saying your strategy doesn't work, but every day you can see a naïve algo trader posting wild backtests asking whether they've found the holy grail. 99% of the time, its just one of the above. That said, I’m genuinely curious about how your algo actually works. Your comments are (I assume deliberately) pretty vague."
+      },
+      {
+        "id": "t1_nju2tr7",
+        "author": "",
+        "score": 50,
+        "body": "Isn't one year too short to determine the robustness of strategy?!"
+      },
+      {
+        "id": "t1_njvmppk",
+        "author": "aurix_",
+        "score": 29,
+        "body": "U forgot 7. Overfitting"
+      },
+      {
+        "id": "t1_nju9sop",
+        "author": "onehedgeman",
+        "score": 24,
+        "body": "Bro you have $1.4m, why do you need validation on an equity curve from random redditors? On another note I’m happy to chat about potential backtest errors you may have in private. Tradingview is notorious for unrealistic results"
+      },
+      {
+        "id": "t1_njuhp55",
+        "author": "CrowdGoesWildWoooo",
+        "score": 21,
+        "body": "Only 327 trades, but a lot of mention about “adaptive” and market microstructure. Seems pretty sus"
+      },
+      {
+        "id": "t1_njven5w",
+        "author": "Strict_Long_1201",
+        "score": 12,
+        "body": "if the sharpe is high enough, it can be statistically significant based on a year"
+      },
+      {
+        "id": "t1_njxbd9l",
+        "author": "ImEthan_009",
+        "score": 11,
+        "body": "27 Sharpe is just 🤣"
+      },
+      {
+        "id": "t1_nju0cj3",
+        "author": "TopHospital7317",
+        "score": 11,
+        "body": "is this a backtest?"
+      },
+      {
+        "id": "t1_nju35xi",
+        "author": "Relevant_Breath_4916",
+        "score": 11,
+        "body": "Isn't the drawdown of more than 10% considered bad or something??"
+      },
+      {
+        "id": "t1_njuuk44",
+        "author": "-PxlogPx",
+        "score": 11,
+        "body": "This post was mass deleted and anonymized with Redact treatment airport safe cobweb spark beneficial afterthought mysterious outgoing one"
+      },
+      {
+        "id": "t1_njxl2bw",
+        "author": "",
+        "score": 9,
+        "body": "I try my best to avoid overfitting but somwhow it still happens, my best was ~1200% in a 2 year data set. Nowadays I simply dont train and test on same dataset but the profits dissapoint me after seeing 1200%"
+      },
+      {
+        "id": "t1_njuykpm",
+        "author": "Delta_Bandit",
+        "score": 6,
+        "body": "everybody is a genius in a bull market"
+      },
+      {
+        "id": "t1_njw5f3n",
+        "author": "_FruitPunchSamuraiG_",
+        "score": 5,
+        "body": "I would like to read more on this if you got a source."
+      },
+      {
+        "id": "t1_njubflj",
+        "author": "VividAd2608",
+        "score": 5,
+        "body": "So dud you become a billionaire??"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1oakjgy",
+    "subreddit": "quantfinance",
+    "title": "2026 Graduate Quant Trading Recruitment Cycle",
+    "score": 481,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1oakjgy/2026_graduate_quant_trading_recruitment_cycle/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nka5ncl",
+        "author": "AZXHR1",
+        "score": 62,
+        "body": "Congrats, and best of luck!"
+      },
+      {
+        "id": "t1_nka6u8a",
+        "author": "Available_Lake5919",
+        "score": 21,
+        "body": "p sure this is SIG or IMC"
+      },
+      {
+        "id": "t1_nkaeo4h",
+        "author": "The-Wolf-16",
+        "score": 7,
+        "body": "Congrats Op🎉"
+      },
+      {
+        "id": "t1_nkaoxpt",
+        "author": "",
+        "score": 5,
+        "body": "How do you generate this chart, if you can reveal?"
+      },
+      {
+        "id": "t1_nkashgk",
+        "author": "yuiop300",
+        "score": 4,
+        "body": "https://sankeymatic.com"
+      },
+      {
+        "id": "t1_nkashxt",
+        "author": "yuiop300",
+        "score": 4,
+        "body": "https://sankeymatic.com"
+      },
+      {
+        "id": "t1_nkbec5e",
+        "author": "Jaquivous",
+        "score": 2,
+        "body": "What masters degree?"
+      },
+      {
+        "id": "t1_nkapgti",
+        "author": "AnuMessi10",
+        "score": 1,
+        "body": "!RemindMe 2 days"
+      },
+      {
+        "id": "t1_nkf1pmd",
+        "author": "",
+        "score": 1,
+        "body": "Thank you buddy"
+      },
+      {
+        "id": "t1_nkapk7s",
+        "author": "RemindMeBot",
+        "score": 1,
+        "body": "I will be messaging you in 2 days on 2025-10-21 12:31:24 UTC to remind you of this link CLICK THIS LINK to send a PM to also be reminded and to reduce spam. Parent commenter can delete this message to hide from others. Info Custom Your Reminders Feedback"
+      },
+      {
+        "id": "t1_nkao0z6",
+        "author": "Trick_Split_7878",
+        "score": 1,
+        "body": "You even got test link I even doesn't get that chance I have more than 2 years of experience but still I have been rejected"
+      },
+      {
+        "id": "t1_nkdod1f",
+        "author": "Grouchy_Spare1850",
+        "score": 1,
+        "body": "That happens, have you thought of a redesign of your resume, change your online profile photo's, linkedin, and anywhere else that you show up. I screen people everyday, and If I see you, trashing a pool or being a drunk, I won't provide housing for you. It's that simple. Employers are worst. Don't matter how good you are, if there is a photo of you with a coke spoon, you won't get the job ( unless it's with a cartel )"
+      },
+      {
+        "id": "t1_nkbssnu",
+        "author": "saadallah__",
+        "score": 1,
+        "body": "Congratulations on that, a very nice graph ! What would you advice for junior quants to increase the odds for their first interview ?"
+      },
+      {
+        "id": "t1_nkbzqsg",
+        "author": "Suitable-Memory2914",
+        "score": 1,
+        "body": "Congrats!"
+      },
+      {
+        "id": "t1_nkdwwmd",
+        "author": "Valuable_Bunch5355",
+        "score": 1,
+        "body": "What’s ur masters in"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1nzn7zh",
+    "subreddit": "quantfinance",
+    "title": "Rejected from Jane street 😎",
+    "score": 481,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1nzn7zh/rejected_from_jane_street/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_ni3arbt",
+        "author": "n0obmaster699",
+        "score": 89,
+        "body": "At least made till the 2nd"
+      },
+      {
+        "id": "t1_ni3awfl",
+        "author": "Fluffy_coat_with_fur",
+        "score": 79,
+        "body": "The thing is… I’m just thinking i made that just cuz of target school, and they actually figured out who I actually am after lmao."
+      },
+      {
+        "id": "t1_ni3ru92",
+        "author": "Specific_Box4483",
+        "score": 79,
+        "body": "Jane Street is hit or miss. I'm pretty sure some of the best quants to have ever lived would have failed their interviews, they are very specific about thinking fast under pressure. Very different from the \"slow thinkers\" Jim Simons valued, for example."
+      },
+      {
+        "id": "t1_ni3d4ne",
+        "author": "Fluffy_coat_with_fur",
+        "score": 39,
+        "body": "Cambridge - I promise you I’m not a stellar Cambridge student, I just got in cuz I was kinda good at physics in school and I made out here with a 70.3 in my MPhil which isn’t even a distinction at Cambridge (75) There are brighter people than me at this uni and at other places and I felt like I rode the name here. I even applied in my third year where I had a 2.2 in my second year and they still interviewed me lmao"
+      },
+      {
+        "id": "t1_ni3fmq7",
+        "author": "Fluffy_coat_with_fur",
+        "score": 38,
+        "body": "Sorry - my reply may have come across as me suggesting that my university isn’t helping me. I am saying my university is doing ALL the work and I don’t actually have the capacity to outcompete all of the people here, everyone so sharp with the maths questions and gets them instantly while I take my time and require hints here and there."
+      },
+      {
+        "id": "t1_ni3cr0u",
+        "author": "nightcrawler2503",
+        "score": 36,
+        "body": "2nd round is an achievement in itself 🤣🤣😭 Which school are you from?"
+      },
+      {
+        "id": "t1_ni3ul0n",
+        "author": "Fluffy_coat_with_fur",
+        "score": 35,
+        "body": "I am a slow thinker easily, I enjoy taking my time and drawing nice diagrams and just let my ideas breathe... Not sure which company would value that."
+      },
+      {
+        "id": "t1_ni3bf2i",
+        "author": "Fluffy_coat_with_fur",
+        "score": 26,
+        "body": "The application process is 5 seconds"
+      },
+      {
+        "id": "t1_ni4r4ae",
+        "author": "TrulyIncredibilis",
+        "score": 22,
+        "body": "I'm from a random ass uni in Germany and I passed the resume screen. If you have other things going for you then take your shot."
+      },
+      {
+        "id": "t1_ni39r95",
+        "author": "CodMaximum6004",
+        "score": 20,
+        "body": "jane street is super competitive and getting to 2nd round is an achievement itself keep honing your skills"
+      },
+      {
+        "id": "t1_ni3v90e",
+        "author": "Specific_Box4483",
+        "score": 18,
+        "body": "A lot of companies would. Although these qualities tend to be valued more for PhDs and experienced people."
+      },
+      {
+        "id": "t1_ni4bgh6",
+        "author": "jotapee90",
+        "score": 18,
+        "body": "There is 0 chance those very experienced PHDs in maths would pass those interviews without some serious practise, honestly. Far too much time researching in a much slower way with barely any algebra involved. Those kids going to TV Shows and impressing grannies with their ability to calculate fast non ironically would have a better shot with some training lmao."
+      },
+      {
+        "id": "t1_ni4rjwv",
+        "author": "aldanor",
+        "score": 18,
+        "body": "After 4 phone interviews, was invited to fly to London for the onsite (it wasn't an intern interview, I had 10y prior exp in hft). On the night before the interview, I felt really sick, like a really bad virus, had fever, cough etc, could only sleep for 3h. Crawled to the office literally half-dead, botched the puzzle problem (not completely, but could've nailed it if in good shape - which I did later after getting back), and got rejected. A few years later, I'm actually thankful it happened, so maybe all things happen for a reason :)"
+      },
+      {
+        "id": "t1_ni3vnpy",
+        "author": "Fluffy_coat_with_fur",
+        "score": 15,
+        "body": "I am going for PhDs as well, maybe I become a big fat quant when I do that lmao"
+      },
+      {
+        "id": "t1_ni3ef1l",
+        "author": "nightcrawler2503",
+        "score": 15,
+        "body": "bruh university name takes you a long way at a lot of places Cambridge is awesome"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1n5sbz3",
+    "subreddit": "quantfinance",
+    "title": "Do you need to be a genius to break into quant?",
+    "score": 463,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1n5sbz3/do_you_need_to_be_a_genius_to_break_into_quant/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nbuuasu",
+        "author": "Citizen_of_Danksburg",
+        "score": 87,
+        "body": "Yes. If you don’t have an IQ at least 2 standard deviations above the mean you’re just fucked. Maybe you can get a clearance and work as a janitor in the IC though. If not…… gym teacher??? Gg."
+      },
+      {
+        "id": "t1_nbvqz5i",
+        "author": "tooMuchSauceeee",
+        "score": 54,
+        "body": "If you were a real genius, you wouldn't work for bum ass quant. Can you imagine people like Einstein, Terry tao and Von Neumann trying to crack OAs for JS😂 why would really geniuses waste their talent doing meaningless work in society"
+      },
+      {
+        "id": "t1_nbvyxmw",
+        "author": "luhuh",
+        "score": 48,
+        "body": "Smart? Yes. Genius? No. An IQ ~120 is more than enough to understand the math and how these firms trade. However this threshold doesn't filter the population that much, it's around the top 10%. If you are applying to these positions, you should have the self confidence to believe you are at least in the top 10%. Past IQ, passion for the field and willingness to learn is probably the next big barrier. EDIT: lmao what I said is in the post"
+      },
+      {
+        "id": "t1_nbwoxyk",
+        "author": "Meanie_Dogooder",
+        "score": 47,
+        "body": "The field is clearly saturated with smart people wanting to be quants. So the bar is very high. It's true that you don't need to be a genius to actually succeed in the field. But to break into it you need to be very smart, unfortunately. It's very competitive. More than that, firms don't need that many entry-level quants. The hiring is often opportunistic, sort of like 'wow me and I'll hire you' and this raises the bar even further."
+      },
+      {
+        "id": "t1_nbv47y0",
+        "author": "pm_me_feet_pics_plz3",
+        "score": 47,
+        "body": "This is like rich people saying money doesnt matter,what BS. You need to have a very high iq and inherent intelligence and being blessed by good genetics from your parents is the only way. yes,i didn't add the /s fyi.Some fields are restrcited purely by inherent talent,same like how you can't make it to the nba if you are 5'4"
+      },
+      {
+        "id": "t1_nbwzryj",
+        "author": "Live-Resort-7285",
+        "score": 33,
+        "body": "Money"
+      },
+      {
+        "id": "t1_nbuvoyi",
+        "author": "miingusyeep",
+        "score": 15,
+        "body": "Mcdonalds is good too i heard"
+      },
+      {
+        "id": "t1_nbwq9au",
+        "author": "miingusyeep",
+        "score": 8,
+        "body": "a fair amount realize this and leave the industry early"
+      },
+      {
+        "id": "t1_nbwidnh",
+        "author": "OilAdministrative197",
+        "score": 6,
+        "body": "Theres levels"
+      },
+      {
+        "id": "t1_nby4921",
+        "author": "Specific_Box4483",
+        "score": 6,
+        "body": "Jim Simons?"
+      },
+      {
+        "id": "t1_nbvbu1r",
+        "author": "heroyi",
+        "score": 6,
+        "body": "That isn't what they said. What they said was the interview process is archaic because of the false negatives. People may not have a  math degree but still be extremely intelligent Being successful in the research sphere requires you to be creative and intelligent. Knowing how to bridge that two inch gap can be monumental.  What you are implying is if someone didn't specifically study xyz or get a PhD then they are useless. The above post is saying the opposite "
+      },
+      {
+        "id": "t1_nbwhj1z",
+        "author": "CapitalLoquat5640",
+        "score": 5,
+        "body": "There’s so many geniuses nowadays that nobody’s really a genius"
+      },
+      {
+        "id": "t1_nbwi02q",
+        "author": "No-Falcon-1792",
+        "score": 4,
+        "body": "Terry Tao is a genius"
+      },
+      {
+        "id": "t1_nbvhf7q",
+        "author": "miingusyeep",
+        "score": 4,
+        "body": "yeah ofc genetics and environmental factors matter. if you’re born with a mental disability you’ll probably have a hard time. at the same time though, no matter how good your genetics are, you aren’t going to just stumble into quant on a random tuesday. the deciding factor is hard work and effort. yes, this isnt a new concept, but people in this industry (and big tech tbh) use the genetics cope card way too much."
+      },
+      {
+        "id": "t1_nbwvg18",
+        "author": "violer-damores",
+        "score": 4,
+        "body": "This is junk. He assumes linear relationships (why?), and doesn't into account measurement error."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qta7oz",
+    "subreddit": "quantfinance",
+    "title": "The Ultimate Guide to Breaking Into Quant Finance (Dev, Researcher, Trader) - All Resources in One Place",
+    "score": 458,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1qta7oz/the_ultimate_guide_to_breaking_into_quant_finance/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_o329l1x",
+        "author": "Select-Angle-5032",
+        "score": 9,
+        "body": "It depends on the role and external experiences: Quant Researcher: MS is the bare minimum, and the expectation is PHD (this has heavy overlaps with AI/ML roles rn) (CS/EE/CE/Physics/etc - need to know how to create models) Quant Dev: BS is a standard entry point, but MS is more common (Math/Stats/Physics/CS/CE/etc - but need to know low latency programming) Quant Trader: BS is common (Math/Stats/Physics/CS/etc - focus is on probability/risk intuition)"
+      },
+      {
+        "id": "t1_o31kfwf",
+        "author": "Sample-User",
+        "score": 7,
+        "body": "What about degrees? Is a masters or PhD degree required. (Quant research specifically. I assume the developer and trader don’t necessarily need these degrees.) Coming from an applied math undergrad"
+      },
+      {
+        "id": "t1_o31ljio",
+        "author": "Money-Desperated",
+        "score": 7,
+        "body": "My man doing the lord works here 🫡"
+      },
+      {
+        "id": "t1_o336u2s",
+        "author": "Admirable-Fennel6161",
+        "score": 5,
+        "body": "thanks for this, im in the middle of 1st year for my cs degree and have decided to target quant internships while studying. Will definitely be grinding myntbit + book reading. Any tips as well?"
+      },
+      {
+        "id": "t1_o32bxp3",
+        "author": "Select-Angle-5032",
+        "score": 5,
+        "body": "I have an MS and BS in CS, and in a role at a sell-side tier 2 (i didn't mention it in the post), but i would say it depends, research about math applications you are interested in within the market, apply it with code, and learn deeply about these implications, the basics that are def stats/calc/probability"
+      },
+      {
+        "id": "t1_o3mxzct",
+        "author": "Select-Angle-5032",
+        "score": 3,
+        "body": "Create good projects and surround yourself with smart people, and apply everything you read or your brain will naturally forget unused content"
+      },
+      {
+        "id": "t1_o3mxorm",
+        "author": "Select-Angle-5032",
+        "score": 2,
+        "body": "first, i would say it's easy to neglect building a good network and surrounding yourself with smart communities, and another mistake is choosing quant just for the money; you have to enjoy learning in this field, also listing easy projects on resume, ignoring the easy mental math prep that is made to prune candidates, and only wanting to join JS and Citadel lol second, yeah def, I would say quant is one of those fields that even if you don't get a job in it, you can move into it if you become more experienced in your field. I wouldn't say quant risk is a common path, would be data science or swe, but its still possible"
+      },
+      {
+        "id": "t1_o34tp7s",
+        "author": "akshtttt",
+        "score": 2,
+        "body": "thanks a lot for this. I had a question, would really appreciate it if you could help. How do I get into Jane Street's FTTP or other top first-year programs? I'm an incoming freshman at a top Ivy League school planning to major in CS+Applied Math. I have competitive math, competitive programming, and research experience, but I'm not particularly cracked in any of them. How do I maximize my chances of landing one of these first-year internships?"
+      },
+      {
+        "id": "t1_o331myz",
+        "author": "No_Base_4369",
+        "score": 2,
+        "body": "Is mental math actually tested in the interviews? I wouldn’t be surprised, but it’s the first I’ve heard of it on this sub."
+      },
+      {
+        "id": "t1_o32m2sn",
+        "author": "Sample-User",
+        "score": 1,
+        "body": "Thanks so much, this is very helpful! Also wanted to ask: Are there any common mistakes to breaking in? And are there quant adjacent careers that could make it easier to pivot in to quant (trader/researcher)? I’m guessing quant risk is a common path?"
+      },
+      {
+        "id": "t1_okcfl21",
+        "author": "According-Oven-8414",
+        "score": 1,
+        "body": "hey, what about BS in economic sciences? What can be the path for them?"
+      },
+      {
+        "id": "t1_ob23gfb",
+        "author": "No-Insurance5030",
+        "score": 1,
+        "body": "*assuming possible, creating a real matching engine/exchange and then simulated trading scenarios using it could be a good project or would that be outside the scope of normal quants that they won't care?"
+      },
+      {
+        "id": "t1_ob4cjt0",
+        "author": "Select-Angle-5032",
+        "score": 1,
+        "body": "Do it! Great project in the scope of quant, lots of potential"
+      },
+      {
+        "id": "t1_o3mz3wz",
+        "author": "Select-Angle-5032",
+        "score": 1,
+        "body": "research the winning formula for applications, and find the alpha. create your application with what you learned, and also apply early. you seem to have a background that quant firms look for, so keep doing what you're doing. I would say for the first year, apply everywhere you can, not just quant positions, and choose the best position. then pivot to quant for the 2nd or 3rd internship as you will be able to prove your knowledge with your newly acquired experience"
+      },
+      {
+        "id": "t1_o3mzfgj",
+        "author": "Select-Angle-5032",
+        "score": 1,
+        "body": "Yes, most definitely, it is usually in the screen round for many companies (Optiver is notorious for a 3.5-hour IQ test of an OA)"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1l3ncyo",
+    "subreddit": "quantfinance",
+    "title": "Leaving the sub",
+    "score": 431,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1l3ncyo/leaving_the_sub/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_mw29yrg",
+        "author": "Useful_Ad_9212",
+        "score": 108,
+        "body": "Don’t forget the “my algo strategy made 50000% profit in a year according to my backtest, how do I publish my results” posts."
+      },
+      {
+        "id": "t1_mw2bzb7",
+        "author": "Naive-Bedroom-4643",
+        "score": 55,
+        "body": "This sub has always sucked but then again nobody is going to publish their code in C++ that they wrote to exploit the NQ order book imbalance to print money. But if you’d like to, i’m all ears"
+      },
+      {
+        "id": "t1_mw2cecs",
+        "author": "StandardWinner766",
+        "score": 52,
+        "body": "I just come here for the lols. There are people who wouldn’t even get hired to Amazon during the peak of the tech bubble sincerely thinking that they have a chance at CitSec."
+      },
+      {
+        "id": "t1_mw2avwp",
+        "author": "",
+        "score": 37,
+        "body": "I’ve always loved that “break into” has become the solidified phrase too, almost naturally?? But yes, none of these floozies will ever make it. I’m pretty sure quant is pushed a lot by social media “get rich like me” channels."
+      },
+      {
+        "id": "t1_mw2pjv0",
+        "author": "__htg__",
+        "score": 31,
+        "body": "I’ll give you the code, just sign up for my course bro"
+      },
+      {
+        "id": "t1_mw2yumz",
+        "author": "Dry_Rent_6630",
+        "score": 28,
+        "body": "Hey man. I have a 3.0 GPA from a non target school without a degree in math or computer science. But I want tobreak into quant to make a lot of money. Can I DM you about how to break into quant. Oh I am also in my late 30s. Is it too late for me? Thanks"
+      },
+      {
+        "id": "t1_mw2dldi",
+        "author": "Junior_Direction_701",
+        "score": 19,
+        "body": "This sub has always sucked . Also if you want any real discussion like portfolio optimization, market regimes, discussing crucial parameters to trading strategies go to r/quant . Also know that you won’t really find any useful information on Reddit, due to how protected intellectual property is. No one’s going to be telling you the in and outs if it makes money lol. Your best luck is blogs or books."
+      },
+      {
+        "id": "t1_mw2a082",
+        "author": "traderthroaway124",
+        "score": 15,
+        "body": "Oh shit my bad you right"
+      },
+      {
+        "id": "t1_mw2e9xf",
+        "author": "SignificantFig8856",
+        "score": 15,
+        "body": "Yeah it’s mainly those YT videos on “How I make 700k/yr as a quant” stuff"
+      },
+      {
+        "id": "t1_mw3680y",
+        "author": "AlfalfaFarmer13",
+        "score": 13,
+        "body": "I never got this. If you make 700k a year as a quant why even bother trying to monetize your channel. I know some coworkers who are influencers but one is a lifestyle (mostly travelling and hiking) influencer, one is a fitness influencer, and another makes brainrot content. The only person who makes quant content doesn't even work as a quant, they were an already successful influencer hired to promote our company."
+      },
+      {
+        "id": "t1_mw3uep6",
+        "author": "swarmed100",
+        "score": 12,
+        "body": "Or one day of successful trading with... 8 trades done. \"100% win rate, 8 out of 8, how will JS buy me out?\""
+      },
+      {
+        "id": "t1_mw49y41",
+        "author": "nicoco3890",
+        "score": 11,
+        "body": "My algo is to invest everything into the single stock that did the best daily every single day historically. I did the back test, I get one trillion billion gorillion % returns, these results can only mean one thing: I am the single greatest mind that has ever touched the quant field. Where can I publish this result? P.S. Hire me pls contact me at 1-800-627-5683"
+      },
+      {
+        "id": "t1_mw3w35a",
+        "author": "EastSite4719",
+        "score": 11,
+        "body": "Cold email citadel quants off linkedin"
+      },
+      {
+        "id": "t1_mw2lbyd",
+        "author": "Junior_Direction_701",
+        "score": 9,
+        "body": "😭"
+      },
+      {
+        "id": "t1_mw3c9j5",
+        "author": "RaidBossPapi",
+        "score": 9,
+        "body": "Ok but what type of posts do you want to see? You havent done an AMA in 5 years, or ever on this sub for example. Obv neither you nor anyone else in this industry will share anything which can lead to the smallest benefit to a potential competitor, so exactly what do you want to discuss? \"So you guys use R or Python for research\" lol get real, this sub has basically no value outside of discussions about comp and \"CV reviews\"."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lra803",
+    "subreddit": "quantfinance",
+    "title": "Jane Street banned from Indian markets — genius quants or just rich kids with cheat codes?",
+    "score": 412,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1lra803/jane_street_banned_from_indian_markets_genius/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_n19888j",
+        "author": "AztecAvocado",
+        "score": 67,
+        "body": "Yes everyone in Jane Street is just a rich nepo baby and one of the biggest and most successful trading firms just openly cheats and everyone knows this. This ban is going to create the worst discourse ever seen."
+      },
+      {
+        "id": "t1_n1984h2",
+        "author": "SkyAware2540",
+        "score": 65,
+        "body": "Wtf is that title"
+      },
+      {
+        "id": "t1_n19c8q6",
+        "author": "yoo_si_jin",
+        "score": 56,
+        "body": "I asked chatgpt to explain what Jane Street actually did to get banned. Here is what ChatGPT said : You and your friends are playing a game where everyone guesses the price of a toy at the end of the day. If you guess right, you win candy 🍬. Now, Jane Street is like a very smart kid who: Buys the toy in the morning so that the price goes up 📈. Then sells it later to make the price go back down 📉. But before all this, they secretly placed a bet that the toy's price would change — and made huge candy profits because they knew they were the ones moving the price. So the teacher (SEBI, the market rule-keeper) said: \"Hey! That’s not fair! You're tricking the game to win candy! You’re not allowed to play anymore until we sort this out.\" That’s why Jane Street got banned — for playing unfairly with the market, just like cheating in a game. I guess that pretty much sums it up."
+      },
+      {
+        "id": "t1_n19g2nl",
+        "author": "Ratraceescapist",
+        "score": 52,
+        "body": "This is pretty fucking stupid . The branch that trades India is HK bro . They don't have a lot of Nepo babies instead it is opposite.Most probably a bunch of hardcore sweats that spent their entire life grinding ."
+      },
+      {
+        "id": "t1_n199hgu",
+        "author": "MRS_dot_Kennedy",
+        "score": 44,
+        "body": "Well most Jane Street employees do have strong links to the financial industries thru their parents/close relatives tho. Ofcourse not all but most, so the title is not wildly wrong."
+      },
+      {
+        "id": "t1_n19myu3",
+        "author": "",
+        "score": 24,
+        "body": "That justifies the ban no? Why are people crying for corrupt billionaires who would literally kill us for some profits if they knew they could get away with it?"
+      },
+      {
+        "id": "t1_n1a5tmv",
+        "author": "Real_Square1323",
+        "score": 16,
+        "body": "This is a misconception that the quant industry is meritocratic. It certainly is not. The work done is much easier and much less dependent on genius intellect than the students who LARP as quants would have you believe. Even if it were, the vast majority of people on the right hand side of the intellect curve will be from wealthier and well connected families. It is what it is."
+      },
+      {
+        "id": "t1_n19pzyh",
+        "author": "Murky_Cucumber6674",
+        "score": 16,
+        "body": "I disagree. For many years people that were good at math were underpaid and seen as a joke. Eg in high school the census was \"good luck getting a job with tha brokie\". Knowing quants existed made me feel a lot better. I will probably never become a quant, too stupid, but I still feel good knowing the hardest workers will go on to make good money and compete with actual Nepo babies. But I'm not in India so my option may be different."
+      },
+      {
+        "id": "t1_n19j762",
+        "author": "MRS_dot_Kennedy",
+        "score": 15,
+        "body": "For spring to bloom, winter must first strip the branches bare."
+      },
+      {
+        "id": "t1_n199iqx",
+        "author": "nooneinparticular246",
+        "score": 14,
+        "body": "Could also be politically connected Indian traders who don’t like having competition"
+      },
+      {
+        "id": "t1_n19nmwt",
+        "author": "Saif231",
+        "score": 7,
+        "body": "Tbh also cuz there’s a lot of pending fraud or sus stuffs by Indian industrialists and SEBI just turns the the other way around. It’s most likely one billionaire faction asking the government to take out another billionaire faction or that JS pissed off someone at the top ladder. SEBI isn’t doing it cuz of some virtuous values."
+      },
+      {
+        "id": "t1_n19nzmc",
+        "author": "",
+        "score": 7,
+        "body": "Using ChatGPT for a post is wild"
+      },
+      {
+        "id": "t1_n19nso2",
+        "author": "omeow",
+        "score": 7,
+        "body": "Jane Street's non-financial contributions: PL Theory research, OCaml research, sponsoring several programs."
+      },
+      {
+        "id": "t1_n1a8xhv",
+        "author": "yoo_si_jin",
+        "score": 5,
+        "body": "Mathematicians ? Underpaid ? Top tier mathematicians have never been jobless or underpaid infact that field is significant in a lot of industries you name it, software development, game development, Aeronautics, cybersecurity, economics, cryptology, astronomy, drug research, and now the talk of the town AI development. These are just a few. If you are talking solely about high school teachers teaching highschool mathematics, then I pretty sure Jane Street and Citadel still don't employ them."
+      },
+      {
+        "id": "t1_n1bt5mx",
+        "author": "DucDeBellune",
+        "score": 5,
+        "body": "For many years people that were good at math were underpaid and seen as a joke. Eg in high school the census was \"good luck getting a job with tha brokie\". The fuck are you talking about? Engineers, actuaries, accountants, mathematicians in gov service, etc. always made more money than your average person and held a higher social standing.  Maybe don’t map your weird high school stereotypes on to reality- they were never underpaid or seen as a joke in the real world."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1okrnsy",
+    "subreddit": "quantfinance",
+    "title": "Jane Street accidentally invited me to the final round interview 💀",
+    "score": 407,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1okrnsy/jane_street_accidentally_invited_me_to_the_final/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nmcq0h2",
+        "author": "Infinite_Benefit_335",
+        "score": 82,
+        "body": "Self esteem 📉"
+      },
+      {
+        "id": "t1_nmeb99v",
+        "author": "",
+        "score": 63,
+        "body": "Stop talking shit. You do wanna work for JS"
+      },
+      {
+        "id": "t1_nmcuwlz",
+        "author": "Powerful-Rip6905",
+        "score": 30,
+        "body": "I had a similar situation but with phone call. After a couple of questions it turned out that we were not supposed to call me 🥲"
+      },
+      {
+        "id": "t1_nmd9mui",
+        "author": "VIXMasterMike",
+        "score": 27,
+        "body": "It is a killer though…that’s a $700k job per year fresh out of college…"
+      },
+      {
+        "id": "t1_nmebc96",
+        "author": "Fr8ty",
+        "score": 14,
+        "body": "I don’t actually, not everyone sees quant firm and froths at the mouth"
+      },
+      {
+        "id": "t1_nmf0x3m",
+        "author": "Available_Lake5919",
+        "score": 11,
+        "body": "he has a point icl JS is very good (probably the best in general) but they are super overhyped imo. The delta between them and similar tier firms (from pov as a intern/grad is way smaller than people imagine )"
+      },
+      {
+        "id": "t1_nmdh0am",
+        "author": "Fr8ty",
+        "score": 10,
+        "body": "Speaks volumes to the firms practices. If they can’t even manage recruiting, don’t think I’d wanna work for JS…"
+      },
+      {
+        "id": "t1_nmd0zli",
+        "author": "lionx77",
+        "score": 8,
+        "body": "Why should is Self esteem go down because of one Rejection? Get some tough Skin baby boy"
+      },
+      {
+        "id": "t1_nmhybq8",
+        "author": "emiliocguizar",
+        "score": 8,
+        "body": "fake it till u make it"
+      },
+      {
+        "id": "t1_nmf1mys",
+        "author": "Fr8ty",
+        "score": 7,
+        "body": "I think people in this sub are mainly in college / HS. They see analyst pay and think that equates to extreme pay at a 10 yr of experience level. There are hundreds of companies that out pay JS at higher levels. Hell even a good sales role at a entry level can"
+      },
+      {
+        "id": "t1_nmjgnnl",
+        "author": "bes0m3b0dy",
+        "score": 6,
+        "body": "Where are you even getting these numbers from?"
+      },
+      {
+        "id": "t1_nmenlbf",
+        "author": "Fr8ty",
+        "score": 4,
+        "body": "I know a lot of other firms that pay JS money, like I said, I’d pass"
+      },
+      {
+        "id": "t1_nmklbaj",
+        "author": "bes0m3b0dy",
+        "score": 1,
+        "body": "Do you have a source or know the salary/bonus/signing split?"
+      },
+      {
+        "id": "t1_nmeb70o",
+        "author": "",
+        "score": 1,
+        "body": "😭😭😭😭😭"
+      },
+      {
+        "id": "t1_nmxns5a",
+        "author": "LuccasEndringer",
+        "score": 1,
+        "body": "Sue them"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mi365l",
+    "subreddit": "quantfinance",
+    "title": "Start gatekeeping this industry ffs",
+    "score": 368,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1mi365l/start_gatekeeping_this_industry_ffs/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_n70txmr",
+        "author": "Yempic1",
+        "score": 144,
+        "body": "Realistically anyone who finds out about quant roles via tiktok is not competition 😂"
+      },
+      {
+        "id": "t1_n71cnpv",
+        "author": "Sad_External_2554",
+        "score": 67,
+        "body": "It's quite funny. My wife is a quant (sell side), and one of my best friend is as well (buy side...J.S.). They are legit geniuses. My friend on the buy side is also the most gifted programmer I have ever seen, and he tells me he's not even top performer there. Competition is mind blowing. I have a scientific PhD, and my field is competitive but nothing in comparison. Gigantic salaries though."
+      },
+      {
+        "id": "t1_n7291em",
+        "author": "AvailableArugula1337",
+        "score": 50,
+        "body": "Found out from TikTok been in 3 top firms now"
+      },
+      {
+        "id": "t1_n70o42a",
+        "author": "rogusflamma",
+        "score": 50,
+        "body": "I think every pure math major knows about quantitative finance and how much it pays. Most of us just aren't interested in it."
+      },
+      {
+        "id": "t1_n71zbwx",
+        "author": "Away-Line-24",
+        "score": 29,
+        "body": "This sub specifically is full of salty ass students. A post like this get upvoted tremendously cause people here don't like the idea that they probably wont ever break in, and whilst there is merit in the annoyance of people asking how to break in, u didn't see this saltyass behaviour with the SWE wave or even DS wave. Even people who are just curious and specify they don't want to break in get crapped on Yes some posts are ridiculous like Oh I'm 16 how can I break in, but other posts that look decently like they have a chance just get downvoted and ignored. Yes again we could spew out saying If your posting this stuff you probably wont get into the industry but then what's the point of this sub? r/quant would be better if that's what your proposing where people actual discuss meaningful quant topics. This sub is clearly informally meant to be the career guide (as 99% people here are probably students) but has this toxic of an environment. Again probably expected but just a consequence of the saltiness"
+      },
+      {
+        "id": "t1_n70ojxg",
+        "author": "pm_me_feet_pics_plz3",
+        "score": 18,
+        "body": "s-tier copypasta from chatgpt,yum yum i like it"
+      },
+      {
+        "id": "t1_n73efbd",
+        "author": "Aristoteles1988",
+        "score": 14,
+        "body": "You’ll be surprised to know That most math and physics majors Don’t want to be quants It’s probably like a plan D for them. Just saying, please proceed"
+      },
+      {
+        "id": "t1_n73fo0w",
+        "author": "the_physik",
+        "score": 12,
+        "body": "Probably job hopping for salary increase. Seems to be the way the new career path is working."
+      },
+      {
+        "id": "t1_n71dqji",
+        "author": "TheBiiggestFish",
+        "score": 11,
+        "body": "I recently caught up with a friend working for a bank as a software developer. When asking if they wanted to be a quant as a joke they said “Yeh basically I’ll be going into quant work” Didn’t mention dev or research or trading but whatever. The kicker is they only know JavaScript and python, and have no clue about even a concept of performance focused programming or trading strategies. I think it’s just a social media thing, the same as investment banking. It’s cool to want to be a quant"
+      },
+      {
+        "id": "t1_n721r4u",
+        "author": "No_Departure_1878",
+        "score": 9,
+        "body": "Everyone knows quants make a lot of money and have a pretty good life. The problem is that to become a quant you have to be a math genius. So THAT is what is gatekeeping 99% of people out there."
+      },
+      {
+        "id": "t1_n70t8pg",
+        "author": "",
+        "score": 8,
+        "body": "Don’t worry, the industry gate keeps itself with the brutal entry requirements. Same as how pretty much everyone knows that investment banking is but 99% of those people won’t break in"
+      },
+      {
+        "id": "t1_n77tsxc",
+        "author": "Ok_Composer_1761",
+        "score": 6,
+        "body": "I bet you the R1 tenure track faculty jobs in your field are more competitive than quant jobs at citadel securities."
+      },
+      {
+        "id": "t1_n73bugi",
+        "author": "Unusual-Pass8282",
+        "score": 5,
+        "body": "hudson river trading? there ain't no trading in a river, its just a runway"
+      },
+      {
+        "id": "t1_n72ljkg",
+        "author": "AlfalfaFarmer13",
+        "score": 4,
+        "body": "Tangent, but why don’t you stay at one place?"
+      },
+      {
+        "id": "t1_n73uhlw",
+        "author": "Professional-Case257",
+        "score": 4,
+        "body": "I could barely breathe in my lecture theaters without hearing the name of some prop shop 😭"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rzc6xk",
+    "subreddit": "quantfinance",
+    "title": "I'm tired of seeing the same question so here's the real guide to breaking into quant",
+    "score": 365,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1rzc6xk/im_tired_of_seeing_the_same_question_so_heres_the/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_obkzu5w",
+        "author": "Witty_Language_2",
+        "score": 15,
+        "body": "Thank you for this"
+      },
+      {
+        "id": "t1_oblcwde",
+        "author": "Spirited-Muffin-8104",
+        "score": 9,
+        "body": "Mods better pin this post or link it in the FAQs. I joined this subreddit to learn more about the industry from people working in it. I can only learn so much from my colleagues who all work in the same market trading the same products as myself. I want to get a broader idea of this field since i'm still new to it. However i'm disappointed by the shallow and repetitive questions asked. I understand most Redditors are students, add in the secrecy nature of this industry, but i really hope we get more interesting discussions in this subreddit."
+      },
+      {
+        "id": "t1_obliowy",
+        "author": "Edobardo",
+        "score": 9,
+        "body": "If I can add to this, it’s okay if you don’t know which track is best for you right away. This is why internships exist: you can intern in QT and realise what you like is really the data work and move to QR, or do any other combination like this which a path that exists and is common. The QT/QR/QD spectrum is very wide and there are so many roles that are hybrid between two or more, and some that might mix in data science, macroeconomics… that sooner or later you will find what works for you even if it takes a couple of tries."
+      },
+      {
+        "id": "t1_obl54os",
+        "author": "BreakfastKindly480",
+        "score": 7,
+        "body": "Love you for this"
+      },
+      {
+        "id": "t1_obl5btt",
+        "author": "razer_orb",
+        "score": 5,
+        "body": "solid take!"
+      },
+      {
+        "id": "t1_obl0qiq",
+        "author": "Wonderful-Bunch-3343",
+        "score": 4,
+        "body": "anytime :)"
+      },
+      {
+        "id": "t1_oblkmsc",
+        "author": "Shockwavetho",
+        "score": 4,
+        "body": "I know this is probably too niche, but I often see advice for quant and software folks and hardware gets pretty overlooked. Since there aren't many big competitions or standardized paths, do you have any thoughts for hardware (FPGA)?"
+      },
+      {
+        "id": "t1_obnmone",
+        "author": "TalkInternal6681",
+        "score": 4,
+        "body": "what would you advise for prep for QT? i know everyone says prob brainteasers and green book but from what ive heard that seems like a filter for early rounds at this point. anything that develops the intuition for the higher level stuff asked in later rounds? the more open-ended stuff e.g. betting games, market making, game theory, good estimation"
+      },
+      {
+        "id": "t1_obmxdvh",
+        "author": "Bewatershark",
+        "score": 3,
+        "body": "Thanks for this post, it is very insightful! I a have a very strong mathematics background, I love poker etc...I believe that quant trading fits my personality, but I turned 30 a few days ago. Do you think that age can be a very restrictive factor, even if I do very well in interviews? I don't care about the tier of the firm, I just want to break into the world of trading..."
+      },
+      {
+        "id": "t1_obnik8v",
+        "author": "Wonderful-Bunch-3343",
+        "score": 2,
+        "body": "The lack of active mods fuel these issues, I just found and started using r/learnquant , talked with the mod, he seems to want to create a more moderated community focused on actual discussion vs whatever this subreddit has turned into."
+      },
+      {
+        "id": "t1_obl9ggp",
+        "author": "darkpplord",
+        "score": 1,
+        "body": "Thinking probabilistic is incredibly counterintuitive, anyone got concrete examples of how they apply probabilistic reasoning in quant/life?"
+      },
+      {
+        "id": "t1_od2kdnz",
+        "author": "dan_schaten",
+        "score": 1,
+        "body": "Yes but the CV is still the first filter before getting the chance to prove yourself on an interview, no? I hear firms get thousands of CVs and can only hire a few dozens each year, with University brand being among the main filters (I.e. target schools) While there are a few who made it without an Ivy League degree, I wonder if it was just through sending the CV in the traditional way or something else?"
+      },
+      {
+        "id": "t1_oblqggx",
+        "author": "Outrageous247",
+        "score": 0,
+        "body": "What undergrad major to pick for QD /QT roles? CS, applied math with CS minor or stats etc?"
+      },
+      {
+        "id": "t1_obmxln2",
+        "author": "Unusual_Contact_1209",
+        "score": 0,
+        "body": "I tried the exams to be a trader once and it seems like an unrealistic standard. Are the people scoring 72 in an 80 in 8 not exceptional? Is this a skill that people develop or are just naturally good and also work hard?"
+      },
+      {
+        "id": "t1_obnfmj5",
+        "author": "Clonkerz",
+        "score": 0,
+        "body": "Is the expectations normally to get a masters to get into Quant or is a PhD the norm?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1scz2fs",
+    "subreddit": "quantfinance",
+    "title": "Fast thinkers vs Slow thinkers in the Quant world",
+    "score": 365,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1scz2fs/fast_thinkers_vs_slow_thinkers_in_the_quant_world/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_oef4lzw",
+        "author": "Such_Maximum_9836",
+        "score": 90,
+        "body": "The problem is that you need someone as senior as Jim Simons to realize your value as a slow thinker."
+      },
+      {
+        "id": "t1_oeenpvz",
+        "author": "stielxdsceef",
+        "score": 52,
+        "body": "I think if Jim Simons personally knows your thesis advisor at Harvard you could answer whatever the fuck you want"
+      },
+      {
+        "id": "t1_oefl6ur",
+        "author": "Such_Maximum_9836",
+        "score": 28,
+        "body": "Not necessarily. But solving hardest problem requires patience and persistence."
+      },
+      {
+        "id": "t1_oeepbek",
+        "author": "",
+        "score": 9,
+        "body": "Nahh, he isn't talking about the kind of statisticians that come from business or finance focused majors. He's talking about dedicated statistical scientists who do more data heavy stuff with rigorous maths."
+      },
+      {
+        "id": "t1_oefkktr",
+        "author": "Fearless-Can-1634",
+        "score": 8,
+        "body": "Slow thinker solving the hardest problems?"
+      },
+      {
+        "id": "t1_oefn588",
+        "author": "defectivetoaster1",
+        "score": 8,
+        "body": "What the fuck are these duplicate comments"
+      },
+      {
+        "id": "t1_oegn8lx",
+        "author": "Such_Maximum_9836",
+        "score": 7,
+        "body": "If it worked that way, hiring at rentech would have quickly become a political shitshow like tenure track faculty recruiting in many universities."
+      },
+      {
+        "id": "t1_oefzk15",
+        "author": "LEV0IT",
+        "score": 6,
+        "body": "half of reddit is probably ai bots"
+      },
+      {
+        "id": "t1_oef7mdq",
+        "author": "minetta7",
+        "score": 5,
+        "body": "I dont know if its fair to call them slow thinkers rather than methodological thinkers. It sounds like they take their time to consider and map out all the details before giving an answer."
+      },
+      {
+        "id": "t1_oeff6nh",
+        "author": "hobo_stew",
+        "score": 4,
+        "body": "but it is also possible there is a large percent who would be a good fit, but could not solve simple brainteaser. everybody that has done a math phd realises that there are quite few strong research mathematicians that would probably struggle with brainteasers or multiplying large numbers in their head. the quant interview tests mainly select for smart and quick people in their early to mid twenties and don't mind filtering a lot of smart people, as there are more than enough applicants"
+      },
+      {
+        "id": "t1_oeg9a6u",
+        "author": "maest",
+        "score": 2,
+        "body": "It's possible this is a repost made by a karma farming bot. Bots will then repost the top comment from the original post, for more karma farming."
+      },
+      {
+        "id": "t1_oeo5wsb",
+        "author": "ChessMaryland",
+        "score": 2,
+        "body": "that's amazing cuz i'm slow af"
+      },
+      {
+        "id": "t1_oeenzq2",
+        "author": "Mickybanker",
+        "score": 2,
+        "body": "well there goes the chance to work with them."
+      },
+      {
+        "id": "t1_oefepq5",
+        "author": "hobo_stew",
+        "score": 2,
+        "body": "he's probably talking about statistics researchers which usually have a strong math background, like people researching bayesian nonparametric methods for instance"
+      },
+      {
+        "id": "t1_oeeoqrl",
+        "author": "Enough_Education_137",
+        "score": 1,
+        "body": "His sentence doesnt make much sense, there are msc in quant finance that have the same technical knowledge and rigour of a msc in stats or even more, I think Jim simons is refering to like finance business students."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1r7iv6l",
+    "subreddit": "quantfinance",
+    "title": "How to LARP as a quant professionally?",
+    "score": 336,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1r7iv6l/how_to_larp_as_a_quant_professionally/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_o5xsill",
+        "author": "Fine-Comparison-2949",
+        "score": 118,
+        "body": "I get this is a jerk, but it's kind of sad this is basically every post here. It's just people asking how to break into the industry without realizing it's not an industry that can be broken into. "
+      },
+      {
+        "id": "t1_o5xybdn",
+        "author": "Fine-Comparison-2949",
+        "score": 50,
+        "body": "Supply and demand. It's a high finance industry and if you ignore the social aspects and numbers game you're being naive. The fact is there's only 10 spots for every 10000 people that want a job. To statistically have a good chance of getting in, you have to have a prestigious record and GPA at a top 50 global school, have connections, and also you're going to be asked to work insane hours. It's a world that demands excellence beyond just being able to code and do stats, and they can demand that high excellence because there's a huge line of prestigious people that want those positions."
+      },
+      {
+        "id": "t1_o5yno15",
+        "author": "y0uthful",
+        "score": 33,
+        "body": "It’s more tractable than this guy suggests. Controlling for a decent undergraduate institution, you can break into the industry with enough preparation. I became a QT from a non stem background several years out of school. You just need to read the green book, intro probability books, and a few referrals—that’s about it. The job itself isn’t even that technical at 90%+ of firms in the industry."
+      },
+      {
+        "id": "t1_o5xqq7d",
+        "author": "miikaa236",
+        "score": 27,
+        "body": "You take the right off 6th street"
+      },
+      {
+        "id": "t1_o5yiqw2",
+        "author": "Issa-Melon",
+        "score": 17,
+        "body": "Maybe on the buyside sure, but plenty of bank quant roles are much more manageable with good wlb and pay."
+      },
+      {
+        "id": "t1_o5y9fjx",
+        "author": "",
+        "score": 16,
+        "body": "Make a dashboard using yahoo finance data for high alpha strats"
+      },
+      {
+        "id": "t1_o5y6f8z",
+        "author": "fighter116",
+        "score": 16,
+        "body": "personally i really like stochastic calculus i think its my favourite hobby"
+      },
+      {
+        "id": "t1_o5zprm1",
+        "author": "realive2",
+        "score": 7,
+        "body": "i think a big problem is how late people start asking this question. if you are 14 and thinking to break into quant, you can will yourself to it with determination - get into a target school, study math and cs, apply to early career program at quant. It’s a long road but achievable. when people ask this question as people already in the middle of a normal career, or at a normal college, then the path becomes much harder. there is just not enough time to steer the ship towards quant. maybe thinking too deeply here but it’s probably a reflection on the human condition. most people only think about making a career and succeeding financially after high school, not before. i think this explains why ultimately, most people in the standard quant pipeline aren’t ones that were dead set on the career. most are just naturally intelligent people who applied themselves consistently in school and found success in a field they were passionate about. if that field happened to math, cs, or stem related, and some coincidental exposure to quant happens, then they apply and pass the interview and et voila, they’re now a quant. "
+      },
+      {
+        "id": "t1_o61nc90",
+        "author": "BagNo1849",
+        "score": 6,
+        "body": "I love when people say this shit instead of just saying they want to do it for the money"
+      },
+      {
+        "id": "t1_o5ynclv",
+        "author": "4esv",
+        "score": 5,
+        "body": "I don’t get the whole “break into the industry” read some fucking textbooks > get good at programming > run back tests on strategies > get good numbers > double check that your shit isn’t wrong (probably is) > run it again > eventually get good numbers for real > walkforward test > paper trade> and then finally throw 10k down. They call this “retail trading” or some shit, turns out you can just do it. I think this is the cheapest and path to proof of profitability and/or a reality check. Superior but less available/more costly strategies include getting the degree + internships and being related to the right people. Am I wrong?"
+      },
+      {
+        "id": "t1_o610o5q",
+        "author": "According_External30",
+        "score": 5,
+        "body": "How to enter? You start a substack claiming 48% CAGR where you prompted for code and used candlesticks + in-sample vol as your explanatory variables. You also need some serious looking profile pic with a flashy background and in your sub-bio say something like “Consultant to Hedge Funds.” Your qualifications need to be: BA Journalism and CFA Level 1 Candidate."
+      },
+      {
+        "id": "t1_o625qde",
+        "author": "Mundane-String180",
+        "score": 4,
+        "body": "I have absolutely no clue what you’re talking about! I’ve been obsessed with stochastic calculus since I was 5 and dreaming of becoming a quant since I was 2. Like, while other kids were drawing astronauts, I read options, futures and other derivatives by John Hull for fun. Ask my kindergarten friends, they can confirm I could do stochastic calculus before I could even tie my shoes."
+      },
+      {
+        "id": "t1_o613frs",
+        "author": "Mundane-String180",
+        "score": 3,
+        "body": "For the qualifications I have a BA in unemployment studies, will this be a good enough substitute for journalism or am I cooked?"
+      },
+      {
+        "id": "t1_o63n2wz",
+        "author": "Electronic_Back1502",
+        "score": 2,
+        "body": "I got into “quant” for the money and found I liked calculus more than options and now I’m going to grad school for pure math lmfao"
+      },
+      {
+        "id": "t1_o613l6a",
+        "author": "According_External30",
+        "score": 2,
+        "body": "Rookie numbers you’ll have to ramp up"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tbsis7",
+    "subreddit": "quantfinance",
+    "title": "Harsh truth is 99% of question posters here can't make it into quant",
+    "score": 335,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1tbsis7/harsh_truth_is_99_of_question_posters_here_cant/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_oljewjv",
+        "author": "QuantEdgeNewsletter",
+        "score": 98,
+        "body": "A lot of people treat quant like a regular career pivot,but you’re often competing with people who’ve been obsessed with math and probability since high school.It’s not impossible to break in from another background....just way harder than most expect."
+      },
+      {
+        "id": "t1_oljwahv",
+        "author": "HunterPrestigious615",
+        "score": 50,
+        "body": "People won’t like this post but it’s true, some people here are either delusional or just totally uneducated on the field, I advise anyone wondering to go and find QT/QR’s on LinkedIn and take a look at their educational background, almost all will be from top schools and will have a STEM major and minor, so for all the “I have a bachelor’s degree in a humanities subject but I really like math and puzzles can I self teach myself and break into quant?” the answer is absolutely not."
+      },
+      {
+        "id": "t1_oljgmba",
+        "author": "Nimbus20000620",
+        "score": 29,
+        "body": "Quant dev is no where near as obsessed with academic credentialing as this sub tries to imply tbh"
+      },
+      {
+        "id": "t1_oljck6c",
+        "author": "Own-Trade-2243",
+        "score": 25,
+        "body": "The highest education level I got is a high school diploma, so I did have to get into Meta first, then moved to a top shop as a quant dev. Once you’re an experienced hire the education matters less, it’s more of a skillset + intelligence case. <10 yoe, peak year at 2.5M"
+      },
+      {
+        "id": "t1_olk1fgk",
+        "author": "Soft-Minute8432",
+        "score": 17,
+        "body": "As someone in mid 20s, tldr is there's been a lot of influencers on instagram, tiktok etc who tell how much $$$ JS traders get, and how doing their courses is gonna help them land a quant job. As people in the industry ourselves we know this is utter bullshit but surprisingly a lot of people have been tricked to believe getting a quant job is doable with just 'effort' + therefore Jane Street is being a household name just like it is like Google and Goldman Sachs, and so is the quant industry"
+      },
+      {
+        "id": "t1_olkiejs",
+        "author": "Leading_Avocado_7836",
+        "score": 16,
+        "body": "Can I Just add that even if you have a STEM degree, it is just hard af to enter. I have a master in applied mathematics, one publication in ML/RL, got near the top in a national level math Olympiad (from country in Europe true, so not near a imo level). I am from a no name uni tho cause I could not afford anything better. It is just a very hard \"sector\" to break into."
+      },
+      {
+        "id": "t1_oljy9s0",
+        "author": "HunterPrestigious615",
+        "score": 15,
+        "body": "I’m also confused about the huge recent drive into this field, yeah the pay is great at top firms but it’s for top performers, you can earn huge money being a top performer in any field and you’ll probably work less, also this job binds you to extreme HCOL areas, I’ve probably spent deep into 6 figures on rent alone from working in London and Manhattan."
+      },
+      {
+        "id": "t1_oljxfld",
+        "author": "Soft-Minute8432",
+        "score": 14,
+        "body": "Real. Just look up 20 people from Citadel and most people will figure out who they're competing against"
+      },
+      {
+        "id": "t1_olj4lfn",
+        "author": "Frascus",
+        "score": 10,
+        "body": "But if you have a PhD in Math/Physics, even without experience in finance, you should be able to transition pretty easily right? Provided you are driven and talented enough"
+      },
+      {
+        "id": "t1_olj4ts6",
+        "author": "Soft-Minute8432",
+        "score": 10,
+        "body": "Yeah but majority of people posting here come from noname unis or non stem backgrounds"
+      },
+      {
+        "id": "t1_ollq1eb",
+        "author": "John-ozil",
+        "score": 9,
+        "body": "Agreed bro I got into a mid tier prop shop as junior risk in 2018 at 23. I had a math degree from a t-10. Relevant certificates + math competition backgrounds + internships + projects + reference from my cousin who was a PM at Millennium (not my proudest moment but let's be honest anyone with an influential insider relative would ask for help) And it took me almost 6 years to get a book with lots of stumbles and (when I look back) unbelievable luck. I was on the floor firefighting during covid, russo-ukraine shock , The posts here are (mostly by indians) ive worked as swe , know a bit of Python, linear algebra and have a kaggle certificate. How difficult is it to 'crack' Jane Street?"
+      },
+      {
+        "id": "t1_ollobwk",
+        "author": "Accomplished_Flan676",
+        "score": 7,
+        "body": "My feeling is that it is the combination of your talent, academic path, experience, and interests that somehow leads you to quant finance, it's not like all of a sudden you wish to be a quant and then prepare a random amount of time for interviews to get there. That said, you don't need to be a math prodigy to break into quant. I'm not anything close to genius or prodigy myself. Being a math genius definitely is neither necessary nor sufficient."
+      },
+      {
+        "id": "t1_olk75vk",
+        "author": "HunterPrestigious615",
+        "score": 6,
+        "body": "Yes I’ve seen those same influencers, almost all of them are just lying, I saw one video where the guy was claiming to be a trader at JS, he filmed himself “leaving the office” and was on the completely wrong side of town lmao."
+      },
+      {
+        "id": "t1_olkebxb",
+        "author": "Soft-Minute8432",
+        "score": 6,
+        "body": "One JS guy I know ditched his ~200k youtube channel after working there full time. Why would any quant at any prop shop waste time chronically exposing their lives on social media lol"
+      },
+      {
+        "id": "t1_olo0h0h",
+        "author": "WhenIntegralsAttack2",
+        "score": 5,
+        "body": "This is a good point. I’ve been obsessed with mathematics since senior year of high school. I have more than 15 years of intense work dedicated to it. Some kid is not going to green book his way into being better than me because he saw a juicy salary level posted. They’re going to need to be as obsessed as I was"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mqnggt",
+    "subreddit": "quantfinance",
+    "title": "Quant vs. Google vs. SpaceX",
+    "score": 325,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1mqnggt/quant_vs_google_vs_spacex/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_n8s8dcf",
+        "author": "coconutboy1234",
+        "score": 216,
+        "body": "i wish i had these problems in life"
+      },
+      {
+        "id": "t1_n8tw3hr",
+        "author": "n0obmaster699",
+        "score": 63,
+        "body": "Some are dying of thirst and some are drowning"
+      },
+      {
+        "id": "t1_n8s6oly",
+        "author": "CompIEOR",
+        "score": 37,
+        "body": "I'd say Millennium if you want a career in quant (and its in Miami so LCOL than NYC) but I can see P72 being a top pick if you are in the right pod If you want tech, I'd say SpaceX. Google SWE seems too boring and generic. I also think your Point72 TC seems pretty low for someone with 3 YOE given that some of the pods like Cubist have a 200k-300k new grad base."
+      },
+      {
+        "id": "t1_n8s13bb",
+        "author": "foopgah",
+        "score": 34,
+        "body": "Need more information - what motivates you and what are you interested in?"
+      },
+      {
+        "id": "t1_n8sl3o2",
+        "author": "rustyantenna",
+        "score": 33,
+        "body": "Yeh man, here in Europe these salaries.. some execs dont get that lol, not to speak about someone “early in their career” - Well done OP!"
+      },
+      {
+        "id": "t1_n8sikhf",
+        "author": "LaggingInRealLife1",
+        "score": 14,
+        "body": "You took everyone’s jobs, leave something for us😂"
+      },
+      {
+        "id": "t1_n8sqy4j",
+        "author": "",
+        "score": 14,
+        "body": "funny how everyone gives different answers lol"
+      },
+      {
+        "id": "t1_n8st32b",
+        "author": "CandiceWoo",
+        "score": 12,
+        "body": "cos growth in a fund is mostly bonus growth. base doesnt really change w yoe in most fe roles"
+      },
+      {
+        "id": "t1_n8scxa1",
+        "author": "rm1709",
+        "score": 12,
+        "body": "Updated post"
+      },
+      {
+        "id": "t1_n8slrvn",
+        "author": "Hot-Sky1877",
+        "score": 10,
+        "body": "You have other offers, isn't that negotiating power?"
+      },
+      {
+        "id": "t1_n8tm084",
+        "author": "SunOGTom",
+        "score": 10,
+        "body": "this is a big problem that requires very deep analysis."
+      },
+      {
+        "id": "t1_n8vitfj",
+        "author": "tooMuchSauceeee",
+        "score": 5,
+        "body": "The law of life"
+      },
+      {
+        "id": "t1_n8s184n",
+        "author": "Accomplished_Knee295",
+        "score": 5,
+        "body": "depends on long term goals. it’s def google or point72 tho"
+      },
+      {
+        "id": "t1_n8tgtjg",
+        "author": "Substantial_Part_463",
+        "score": 5,
+        "body": "Amazon Warehouse https://hiring.amazon.com/job-opportunities/warehouse-jobs#/ 20 bucks of Real Money per hour...starting"
+      },
+      {
+        "id": "t1_n8s2trt",
+        "author": "miikaa236",
+        "score": 5,
+        "body": "Honestly probs google! If you’re trying to be a quant dev, you’ll make lots of money, but I feel like the „fun part“ of quant is in trading, analysis, and research (the math stuff) If you just want to be a swe, surely google"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1s6qucf",
+    "subreddit": "quantfinance",
+    "title": "Breaking into quant with non-target preschool alma mater",
+    "score": 324,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1s6qucf/breaking_into_quant_with_nontarget_preschool_alma/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_od3ys8e",
+        "author": "ex_gatito",
+        "score": 80,
+        "body": "With that level of humour, I don’t know how did you end up in this sub."
+      },
+      {
+        "id": "t1_od41ux0",
+        "author": "skullfuckr42",
+        "score": 46,
+        "body": "sorry to break it to u but if your parents aren't quants you're unlikely to become a quant anyway - jim simons"
+      },
+      {
+        "id": "t1_od47lqu",
+        "author": "Imaginary-Cellist918",
+        "score": 17,
+        "body": "It's okay... Just try and get into a challenging competition by 3rd grade latest. Plenty of olympiads cater to 1st graders and you can kinda do something cool like represent your country by then. The most fun ones are math (where you do challenging problems like dividing, multiplying and adding fractions simultaneously) or coding (make scratch cat move forward). Do both of them, in both 1st and 2nd grade. Perfect your mental math abilities, as well as your stochastics (narcisisstic Ethan jumping across the park) and your probability (close your eyes and pick a color from the crayola pack, how likely is it you'll get blue). It's a little late, and your 'dog' error is a little heavy, but I think you can still increase your chances from 0% to 0.00000000000000001%. Good luck!"
+      },
+      {
+        "id": "t1_od4as61",
+        "author": "ChefZealousideal909",
+        "score": 12,
+        "body": "Nah ur life is over lil bro. Just respawn and try again."
+      },
+      {
+        "id": "t1_od3zt4q",
+        "author": "ajnycz",
+        "score": 7,
+        "body": "it absolutely will, g young generations are indeed out of touch of reality"
+      },
+      {
+        "id": "t1_od5db04",
+        "author": "sig_figs_2718",
+        "score": 6,
+        "body": "not true! they don't place as well but math professors also work"
+      },
+      {
+        "id": "t1_od5qbf3",
+        "author": "ApogeeSystems",
+        "score": 2,
+        "body": "I'm tired of these posts man, they're stale, I see them more than what they're making fun of."
+      },
+      {
+        "id": "t1_od7x8bm",
+        "author": "genfuncology",
+        "score": 2,
+        "body": "this joke has been done to death"
+      },
+      {
+        "id": "t1_odf58to",
+        "author": "Ok_Ear_328",
+        "score": 1,
+        "body": "This comment makes it funny 💀"
+      },
+      {
+        "id": "t1_ogfmd5j",
+        "author": "deliver_ebitda",
+        "score": 0,
+        "body": "Will do great in the back office"
+      },
+      {
+        "id": "t1_od555l6",
+        "author": "Essayaditor",
+        "score": 0,
+        "body": "Honestly it isn’t funny ."
+      },
+      {
+        "id": "t1_od9ju7w",
+        "author": "wannabe_roryglimore",
+        "score": 0,
+        "body": "your life is over"
+      },
+      {
+        "id": "t1_od5hju9",
+        "author": "",
+        "score": -2,
+        "body": "😂 AHH man, I read it expecting a twist but it was just it. Us Gen Z are funny ngl"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q2lblx",
+    "subreddit": "quantfinance",
+    "title": "Thoughts on this?",
+    "score": 321,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1q2lblx/thoughts_on_this/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nxdxgxu",
+        "author": "Complete_Relation321",
+        "score": 168,
+        "body": "These guys have absolutely no idea what they’re talking about"
+      },
+      {
+        "id": "t1_nxdwfrz",
+        "author": "Available_Lake5919",
+        "score": 87,
+        "body": "said by guys who wouldn’t get an interview at top quant shops or top ai labs"
+      },
+      {
+        "id": "t1_nxehhkq",
+        "author": "WATUPTRAGUY",
+        "score": 69,
+        "body": "it's absolutely ridiculous people will down vote you for asking for consent before shooting someone a DM."
+      },
+      {
+        "id": "t1_nxdzcwu",
+        "author": "Jazzlike_Primary_615",
+        "score": 64,
+        "body": "JS QR here, happier than ever Edit: Sorry guys, I am unable to reply to any DMs. However, u/Wise-Cattle7788 below and I have verified using our next week food menu and we are both JS employees, so you should DM them because they are open to it. Or maybe both are my accounts and I am just saying this, but either way, dm-ing them certainly has a better ROI than dm-ing me"
+      },
+      {
+        "id": "t1_nxe0fbw",
+        "author": "Vishdafish26",
+        "score": 50,
+        "body": "when was JS ever a safe career? absolute muppets"
+      },
+      {
+        "id": "t1_nxf8dtf",
+        "author": "",
+        "score": 30,
+        "body": "always the same guys posting tutorials and online courses to \"work at JS or Citadel\" when they barely passed calc 2"
+      },
+      {
+        "id": "t1_nxhkpgb",
+        "author": "tadgaq_104",
+        "score": 26,
+        "body": "He’s a Harvard CS grad, General Partner at YC, exited his startup lab, SWE at Google and Palantir, 36 ACT, did competitive math. Sadly your statement doesn’t apply here lol"
+      },
+      {
+        "id": "t1_nxfxlpm",
+        "author": "throw_away1049",
+        "score": 21,
+        "body": "Yea - but that's like saying Ankit Gupta couldn't land an interview as a neurosurgeon in a hospital. Of course he couldn't - but he's still qualified to comment on the state of biotech jobs given what he does for a living."
+      },
+      {
+        "id": "t1_nxfho9d",
+        "author": "Fit-Sea742",
+        "score": 19,
+        "body": "Being a gp at yc is all about exiting a startup, and entrepreneurship doesn’t have the same skill reqs as most quant/fund shops"
+      },
+      {
+        "id": "t1_nxe5fdg",
+        "author": "coochie4sale",
+        "score": 19,
+        "body": "not a quant but when a vc shits on big tech/traditional finance/consulting, you should view it from the lense of them trying to decrease the prestige of other well remunerated paths so that top students will be more likely to become founders. every {insert elite school here} student that pursues these paths is one less safe pick for themselves and their portfolio. especially true for quants which take a fair share of the very best students at the very schools"
+      },
+      {
+        "id": "t1_nxe1huq",
+        "author": "WhatNazisAreLike",
+        "score": 13,
+        "body": "I had the choice and it was obvious: stay in finance. Finance allows you to collect liquid bonuses AND work in lean small teams and make big personal contributions. In tech you generally have to pick one or the other (startup or big tech)."
+      },
+      {
+        "id": "t1_nxe2vvh",
+        "author": "kryptonian2805",
+        "score": 9,
+        "body": "Hi! Can I DM you regarding your experience? Aspiring QR here"
+      },
+      {
+        "id": "t1_nxiy3l7",
+        "author": "FlowerPositive",
+        "score": 8,
+        "body": "This is an average YC partner take when discussing a field/topic they have no experience in. Loud and wrong."
+      },
+      {
+        "id": "t1_nxfe4os",
+        "author": "Panda_Lord_of_hell",
+        "score": 8,
+        "body": "ankit gupta is a harvard grad and general partner at yc…"
+      },
+      {
+        "id": "t1_nxfpimt",
+        "author": "Panda_Lord_of_hell",
+        "score": 8,
+        "body": "im just saying a harvard cs grad, ml researcher and founder of reverie labs would probably be good enough to get an interview at a top quant shop or ai lab"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tge77s",
+    "subreddit": "quantfinance",
+    "title": "IMC!!!",
+    "score": 304,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1tge77s/imc/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_omfslxk",
+        "author": "_TygerTyger",
+        "score": 141,
+        "body": "Dawg left his name and date of birth in there."
+      },
+      {
+        "id": "t1_omggta7",
+        "author": "RojoRockstar",
+        "score": 60,
+        "body": "Dude you should really hide your personal details. Even posting any part of a contract is risky."
+      },
+      {
+        "id": "t1_omi5ypq",
+        "author": "rsha256",
+        "score": 30,
+        "body": "no, youre someone who is getting their offer rescinded."
+      },
+      {
+        "id": "t1_omfus1n",
+        "author": "RopeAdventurous5609",
+        "score": 26,
+        "body": "The role is quantitative trader internship. The interview consisted a lot of mental math at very high speed (8-second arithmetic tests are common). Probability games. Strong focus on rapid calculation and decision-making under pressure. Less emphasis on advanced math"
+      },
+      {
+        "id": "t1_omfuu6q",
+        "author": "RopeAdventurous5609",
+        "score": 21,
+        "body": "The truth is \"I'm Iron Man\""
+      },
+      {
+        "id": "t1_omi22v1",
+        "author": "Turbulent-Ad8813",
+        "score": 19,
+        "body": "delete this brother, congrats but why take the risk"
+      },
+      {
+        "id": "t1_omgex7m",
+        "author": "RopeAdventurous5609",
+        "score": 16,
+        "body": "Ig, my projects contributed a lot to it. I built a HFT + Trading Signal engine that mimicked the intraday swing and end-of-day systematic trading style used at quant firms (although it was a million times slower). I was suggested to do this project by a friend at JS, Hong Kong"
+      },
+      {
+        "id": "t1_omgc96b",
+        "author": "SadTower3",
+        "score": 13,
+        "body": "Off campus, tier 2 and for an internship. Boy was playing at extreme difficulty and still came up top. Crazy honestly. Just curious how you got the interviews? because that honestly is the hardest part here. Was it some crazy referral?"
+      },
+      {
+        "id": "t1_omi4y5i",
+        "author": "EnigmaMind",
+        "score": 10,
+        "body": "Please take this down cadet"
+      },
+      {
+        "id": "t1_omg1g3i",
+        "author": "RopeAdventurous5609",
+        "score": 8,
+        "body": "A lot of questions on EV, Variance, CLT, Daily PnL volatility. Example: You test 100 random strategies. Each has a 5% chance of appearing good. Probability at leas one looks great in backtest?"
+      },
+      {
+        "id": "t1_omg1kep",
+        "author": "RopeAdventurous5609",
+        "score": 7,
+        "body": "None actually. It was off-campus"
+      },
+      {
+        "id": "t1_omfsr0t",
+        "author": "Karthik-1",
+        "score": 6,
+        "body": "hey can you share your background, what role you got into, and how was the interview?"
+      },
+      {
+        "id": "t1_omn4c7r",
+        "author": "kenaj30",
+        "score": 5,
+        "body": "Here be4 legal and hr calls"
+      },
+      {
+        "id": "t1_omgq3u5",
+        "author": "Intelligent-Web-8017",
+        "score": 4,
+        "body": "congrats you just secured ur bloodline"
+      },
+      {
+        "id": "t1_ommfvr1",
+        "author": "RopeAdventurous5609",
+        "score": 4,
+        "body": "Let me be honest about something. I applied to IMC not because I needed the job. I'm already earning more than their stipend. I applied because of a question that had been eating at me for years: Am I even in the same league as these people? Growing up, I genuinely believed quant finance was a different world. A world for IIT toppers, Ivy League kids who'd been groomed for this since birth. I was never that. Average student. Average rank. The kind of person who looks at a Jane Street or IMC career page and quietly closes the tab. But something changed when I actually started preparing. The more I studied — probability, stochastic processes, options pricing, brain teasers — the more I realised the gap wasn't talent. It was just knowledge. Structured, learnable knowledge. So I applied. Went through every round. And got the offer. I'm not saying this to brag. I'm saying this because I know there are people reading this right now who have already decided they're not good enough. Who've never applied because they assumed the answer was no. Who've watched others get these offers and told themselves \"that's just not for people like me.\" It is for you. The firms don't care about your rank as much as you think. They care whether you can think clearly under pressure. That's it. That's the whole game. If an average student from a non-metro Indian city with a middling JEE rank can walk into IMC and come out with an offer — and then have the luxury of turning it down — then the barrier you think exists is mostly in your head. Don't let it stay there."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qfx6kv",
+    "subreddit": "quantfinance",
+    "title": "Q&A: I'm Junior Quant Trader at T1 Prop firm (Jane Street, Citadel Securities, Optiver)",
+    "score": 299,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1qfx6kv/qa_im_junior_quant_trader_at_t1_prop_firm_jane/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_o08hlt3",
+        "author": "Civil_Analyst3305",
+        "score": 56,
+        "body": "Be coachable. A lot of interns don’t get a return offer because they’re hard to work with and don’t apply the feedback they get."
+      },
+      {
+        "id": "t1_o08ix7b",
+        "author": "Civil_Analyst3305",
+        "score": 46,
+        "body": "if ur past 30 ur chances are low if u’ve never done anything related, unless ur absolutely cracked in math and cs. yeah most hires come from internships and grad programmes. Stick with python and C++, R not commonly Used"
+      },
+      {
+        "id": "t1_o08df1p",
+        "author": "onefactormodel",
+        "score": 39,
+        "body": "Spoken like someone who didn’t get an offer from even a T2"
+      },
+      {
+        "id": "t1_o08l1s3",
+        "author": "Civil_Analyst3305",
+        "score": 33,
+        "body": "strong passion, there are some people who simply love math and the type of work done. Sometimes it shocks me that people love the work THAT much"
+      },
+      {
+        "id": "t1_o08j7if",
+        "author": "Civil_Analyst3305",
+        "score": 31,
+        "body": "don’t get cocky since you’ve broke in, this is the stage with the most cuts. Act as if it’s an internship and put 110% in. Double check everything u do. Ask for help when needed "
+      },
+      {
+        "id": "t1_o08a6gy",
+        "author": "Ok-Ordinary-9394",
+        "score": 29,
+        "body": "Congrats on Optiver"
+      },
+      {
+        "id": "t1_o08apsa",
+        "author": "TimeGone43",
+        "score": 24,
+        "body": "How to increase chances of return? Beyond the obvious ask questions, etc."
+      },
+      {
+        "id": "t1_o08kjkq",
+        "author": "Civil_Analyst3305",
+        "score": 17,
+        "body": "depends how reckless ur financial decisions are "
+      },
+      {
+        "id": "t1_o09ivln",
+        "author": "endlezzfacepalm",
+        "score": 15,
+        "body": "From what I’ve seen age doesn’t matter too much but be prepared to start off at a junior level."
+      },
+      {
+        "id": "t1_o08d2m1",
+        "author": "Borep",
+        "score": 12,
+        "body": "Advice for making it through the initial training and not being cut in year 1?"
+      },
+      {
+        "id": "t1_o09rbcc",
+        "author": "Technical-Fix8513",
+        "score": 10,
+        "body": "Its not optiver"
+      },
+      {
+        "id": "t1_o08fy68",
+        "author": "Fun-Passenger430",
+        "score": 9,
+        "body": "in your mind from experience, what qualities separate the elite traders from the good ones a few years senior to you?"
+      },
+      {
+        "id": "t1_o08xcq9",
+        "author": "Civil_Analyst3305",
+        "score": 9,
+        "body": "QT vs QR--total comp can be similar in first few years but really depends on desk and ur contribution. QT usually has a bit more upside if ur directly contributing to PnL. QR is a bit more steady. usually TC is higher, bc sign ons are apart of first yr package. drop u mentioned only happens if 1st year had unusually large sign on (common in lateral moves or internationals)"
+      },
+      {
+        "id": "t1_o08t6u9",
+        "author": "Mark_Calculus",
+        "score": 6,
+        "body": "How to learn to make alphas with free resources"
+      },
+      {
+        "id": "t1_o08bhty",
+        "author": "Civil_Analyst3305",
+        "score": 6,
+        "body": "meant tier 1 from a global standpoint, probaby not US"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1sx4ck2",
+    "subreddit": "quantfinance",
+    "title": "Grew up really low income now in quant finance vent",
+    "score": 287,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1sx4ck2/grew_up_really_low_income_now_in_quant_finance/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_oikirit",
+        "author": "Haruspex12",
+        "score": 110,
+        "body": "Old guy here, giving old guy advice. Don’t tell them or anyone what you make. It doesn’t matter. Also, dress the part you are supposed to play, but don’t live the part. If you live well below your means, you’ll always be secure and eventually be quite wealthy. If you live your salary, you’ll almost certainly become bankrupt. You will get sick or you will lose your job. Additionally, if you are a fresh out and they are paying you 400k, there is a good chance that they are about to cover you in gasoline and light you on fire, unless you are performing a critical function like security. Even then, look for any gas cans lying about. A lot of these firms are meat grinders, they chew through staff. People have either been there forever or six months. Wages for software workers are falling overall. You may be there ten years, but you might be there six months."
+      },
+      {
+        "id": "t1_oik5rhx",
+        "author": "Fearless-Can-1634",
+        "score": 103,
+        "body": "Buy them a house if they don’t have it?"
+      },
+      {
+        "id": "t1_oik6943",
+        "author": "Distinct-Reserve-511",
+        "score": 56,
+        "body": "Working on it"
+      },
+      {
+        "id": "t1_oik9y2x",
+        "author": "FrostingInfamous3445",
+        "score": 36,
+        "body": "Don’t fucking tell them. Similar background, dissimilar success. Help, but keep your mouth closed."
+      },
+      {
+        "id": "t1_oikbstt",
+        "author": "adpoy",
+        "score": 35,
+        "body": "I somewhat feel the same. I'm 24 and I just switched jobs and got a huge increment. My current salary is 36 times of what my father used to make. However, I have a pretty close relationship with my family and they are actively involved in my life. My problem arises with trying to adapt, I don't know how to accept that I'm an individual. Every time I go home I end up splurging on them and I think that I'm making their lives better, but whenever I come back nothing's changed."
+      },
+      {
+        "id": "t1_oik6jwe",
+        "author": "Capable-Performer-51",
+        "score": 20,
+        "body": "When your mom and sister raised you and sacrificed their life for you, there is no point in you not sharing your success story with them. Share your success with them. They never depended on you, and will never. Your success is a big reward for them."
+      },
+      {
+        "id": "t1_oikb98n",
+        "author": "wire0tapped",
+        "score": 19,
+        "body": "Suffering from success"
+      },
+      {
+        "id": "t1_oik76k7",
+        "author": "Distinct-Reserve-511",
+        "score": 18,
+        "body": "I guess it’s a bit hard to explain but my family first didn’t believe me for like 2 weeks, then kind of got paranoid when I told them I made 30k as a FAANG intern I don’t know how they’ll react to my current salary"
+      },
+      {
+        "id": "t1_oikez1e",
+        "author": "Distinct-Reserve-511",
+        "score": 14,
+        "body": "Tbh I was hungrier for success than a lot of people in a way, and everytime I wanted to give up I thought about my family and how I’m wasting my education Looking back idk if that was the healthiest way to go about it I was really stressed"
+      },
+      {
+        "id": "t1_oikl3z3",
+        "author": "Rasp-berry-gold",
+        "score": 11,
+        "body": "That’s a very real concern from experience. Money can change how people behave, even in close families, so it makes sense to protect both your finances and your relationships. You don’t have to share your income. I wouldn’t disclose full earnings. When you help, keep it limited and avoid revealing what you can afford. Trying to solve everything often leads to entitlement and resentment on both sides."
+      },
+      {
+        "id": "t1_oirqqao",
+        "author": "twocafelatte",
+        "score": 8,
+        "body": "Hell yea this is the straight high octane advice shit that I love to snort while going on a bender. Fucking awesome sir!"
+      },
+      {
+        "id": "t1_oikfing",
+        "author": "wire0tapped",
+        "score": 8,
+        "body": "If you genuinely are doing that well you never tell them any exact personal finance info no matter how close but when you see them in need help them in a way that it does not look like pitty, even your father wants to have dignity with your help do it in a way that makes them feel as if they helped themselves if that's what you decide to do, keep steam rolling dude."
+      },
+      {
+        "id": "t1_oikclww",
+        "author": "Distinct-Reserve-511",
+        "score": 7,
+        "body": "aww yeah I know exactly what you mean"
+      },
+      {
+        "id": "t1_oill6bk",
+        "author": "Diligent_Vanilla_275",
+        "score": 4,
+        "body": "My perspective having been in a somewhat similar situation and now also a parent myself: First, therapy has been very helpful for me in being more self aware about my emotions around money, my childhood and family relationships. It has also made me more comfortable with setting boundaries. Second, try to prioritize your own financial stability. Not to say that you can’t help out at all until you reach X milestone, just that as others have pointed out, you are very young and there is no guarantee that you will have access to this level of income for the next 20 years or even next year. On the worries of dependency: for most of our family, our strategy has been to give generous cash gifts at various holidays/milestones, so we can help them out a bit without it becoming too much of an expectation. For certain close family members, we have also made it clear that they should let us know if they are struggling and we will do our best to help. For the most part this has worked decently well in that we are able to help out but don’t feel that we are being used as an ATM. As others have mentioned, I do think not being 100% open about our income or financial situation has helped with this. However, we have one family member that is struggling a lot for whom we pay a monthly allowance… and it is a constant back and forth where this person is asking for more and we have to set a boundary and say no. It’s a long story how we got into that situation, and probably not completely avoidable (people who push boundaries are going to push them no matter what you do) but just to be aware that if you start giving an amount at a regular cadence, it will be very, very difficult to ever stop or reduce it. Only do this if you are 100% comfortable giving the amount indefinitely."
+      },
+      {
+        "id": "t1_ois1ztw",
+        "author": "monkeysnipe",
+        "score": 4,
+        "body": "Firstly, Reddit is an awful place for advice (or any social media). However, my parents actually cry with tears of joy when I fly them over to visit me. Nothing will make them happier than seeing your success and realising their sacrifice was worth it. Again, read my first sentence. I have no idea about your family and the stories about remittance. But others have already mentioned to be prioritising stability and setting clear boundaries until you reach that. About childhood friends, that is inevitable. You live in different worlds now only ways to stay closer is if you were either living back home in the same neighbourhood or living the same life elsewhere. If neither is true, you will grow apart eventually, nobody says how much apart but it won’t be the same."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rfjkpv",
+    "subreddit": "quantfinance",
+    "title": "My final message",
+    "score": 280,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1rfjkpv/my_final_message/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_o7leswl",
+        "author": "algebroni",
+        "score": 51,
+        "body": "Anyone who scored higher than me either has a Chinese name or was homeschooled."
+      },
+      {
+        "id": "t1_o7kql6p",
+        "author": "Junior_Direction_701",
+        "score": 17,
+        "body": "You got IQ terramogged broski (but genuinely that’s very good what argument style did you use)"
+      },
+      {
+        "id": "t1_o7kpkwf",
+        "author": "Junior_Direction_701",
+        "score": 12,
+        "body": "This is a shitpost"
+      },
+      {
+        "id": "t1_o7kqeuv",
+        "author": "Odd-Error5661",
+        "score": 11,
+        "body": "I only got a 10 on B1 as a freshman"
+      },
+      {
+        "id": "t1_o7lu95k",
+        "author": "LucySandevistan",
+        "score": 9,
+        "body": "larp"
+      },
+      {
+        "id": "t1_o7qdjut",
+        "author": "alchemist0303",
+        "score": 4,
+        "body": "Wow a Putnam fellow"
+      },
+      {
+        "id": "t1_o7kgcfj",
+        "author": "Local_Ad135",
+        "score": 4,
+        "body": "😂😂😂😂😂😂"
+      },
+      {
+        "id": "t1_o7kgugl",
+        "author": "Avondschh",
+        "score": 2,
+        "body": "cfbr +++"
+      },
+      {
+        "id": "t1_o8vaddo",
+        "author": "",
+        "score": 0,
+        "body": "THANK YOU!!!!!!!!!!!!!!"
+      },
+      {
+        "id": "t1_o8w4c53",
+        "author": "",
+        "score": 0,
+        "body": "Anyone who scored at least my score (32) is going to MIT."
+      },
+      {
+        "id": "t1_of3hz49",
+        "author": "TangerineKitchen2260",
+        "score": 0,
+        "body": "thank you."
+      },
+      {
+        "id": "t1_o7wc7tp",
+        "author": "Junior_Direction_701",
+        "score": 0,
+        "body": "QDev\\QT\\QR??"
+      },
+      {
+        "id": "t1_o7zp1c0",
+        "author": "neatFishGP",
+        "score": 0,
+        "body": "What language?"
+      },
+      {
+        "id": "t1_o7krezz",
+        "author": "Odd-Error5661",
+        "score": -2,
+        "body": "I forgot lmao what’d you drop?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lrrc5b",
+    "subreddit": "quantfinance",
+    "title": "You should be able to solve this",
+    "score": 266,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1lrrc5b/you_should_be_able_to_solve_this/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_n1cwdid",
+        "author": "",
+        "score": 72,
+        "body": "Great idea, more people should just post interesting math/interview problems. Though rewards might be hard to put in place"
+      },
+      {
+        "id": "t1_n1dd3cc",
+        "author": "dulsu",
+        "score": 14,
+        "body": "a) 2/3 b) 4 c) all multiples of 4"
+      },
+      {
+        "id": "t1_n1dw34k",
+        "author": "Checkmatealot",
+        "score": 11,
+        "body": "Let f(n) be P(winning at n with it being your move) Doing the algebra gives f(4) = 4/9 < 1/2 f(4n +1) = 1 - f(4n) f(4n+2) = 2/3 - (1/3)f(4n) f(4n+3) = 5/9 - (1/9)f(4n) f(4n+4) = 4/9 + (1/9)f(4n) So by induction f(4n) < 1/2 implies f(4n+1), f(4n+2), f(4n+3) > 1/2, f(4n+4) < 1/2 So f(4) < 1/2 implies f(n) < 1/2 iff n is a multiple of 4."
+      },
+      {
+        "id": "t1_n1de49w",
+        "author": "Informal-Skill2698",
+        "score": 11,
+        "body": "She’ll have losing chances whenever she runs into a multiple of four! 😱"
+      },
+      {
+        "id": "t1_n1d04si",
+        "author": "Junior_Direction_701",
+        "score": 4,
+        "body": "Yeah that’s true"
+      },
+      {
+        "id": "t1_n1diaex",
+        "author": "Junior_Direction_701",
+        "score": 4,
+        "body": "Woah nice. obviously Reddit is too short for proof. See you next Friday."
+      },
+      {
+        "id": "t1_n1d2do1",
+        "author": "Natural-Fishing-3744",
+        "score": 2,
+        "body": "Ideally, shouldn't the first probability of Alice winning be 2/3 ? Considering she's playing optimally she will always remove 2 stones if she rolls a 2 and 3 which gives her the win condition."
+      },
+      {
+        "id": "t1_n1d34mh",
+        "author": "Junior_Direction_701",
+        "score": 2,
+        "body": "Correct it is 2/3. If Alice rolls a 2 or a 3, then she may take both stones in the pile and win. Otherwise, she rolls a 1, and she must take exactly one stone; then, no matter what Bob rolls, he may take the other stone to win. Thus, Alice wins with probability (2/3), when she rolls a 2 or a 3."
+      },
+      {
+        "id": "t1_n1e506u",
+        "author": "Dismal-Farmer1453",
+        "score": 2,
+        "body": "I’m a bit confused on question b, why isn’t it 3? Alice will have 1/3 chances of winning if she gets 3 on her first roll, but she’s has a 2/3 chance of leaving 1 or 2 stones if she rolls a 1 or 2. That basically leaves bob with a 100 percent chances of winning. Doesn’t that mean there’s 2/3 chance that bob wins the game automatically at n=3, I suck at probability so sorry if I said something stupid."
+      },
+      {
+        "id": "t1_n1dk6kj",
+        "author": "Junior_Direction_701",
+        "score": 2,
+        "body": "Nope it’s just a very famous name in math problems. Alice is a girl usually and signifies the first player. Player A. And bob signifies second player usually. This is from the COMC"
+      },
+      {
+        "id": "t1_n1di5x8",
+        "author": "Junior_Direction_701",
+        "score": 1,
+        "body": "Woah bingooo"
+      },
+      {
+        "id": "t1_n1fq3ua",
+        "author": "Curios_techie37",
+        "score": 0,
+        "body": "Agreed"
+      },
+      {
+        "id": "t1_n1czu6y",
+        "author": "",
+        "score": 0,
+        "body": "quick question, if Alice rolls a 3 but there’s 2 stones available, does she take 1, or 2 ? basically does she take as much as she can or the minimum amount (1)"
+      },
+      {
+        "id": "t1_n1djoc0",
+        "author": "HHPwndx",
+        "score": 0,
+        "body": "The names Alice and Bob are way too familiar, is this from Introduction to Probability by Blitzstein?"
+      },
+      {
+        "id": "t1_n1dub9k",
+        "author": "Leather-Department71",
+        "score": 0,
+        "body": "first two are relatively easy but the last one requires some patience "
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ogmh78",
+    "subreddit": "quantfinance",
+    "title": "If you can’t cook the market…cook up content??",
+    "score": 262,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1ogmh78/if_you_cant_cook_the_marketcook_up_content/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nli38yi",
+        "author": "saintex422",
+        "score": 25,
+        "body": "A senior quantitative trader? Its been a while since ive worked there but thats not an actual title in the U.S. Its analyst-> associate-> vp-> MD no matter if you're back office or in IB"
+      },
+      {
+        "id": "t1_nligyhb",
+        "author": "robertovertical",
+        "score": 10,
+        "body": "She’s delta hedgeing simps"
+      },
+      {
+        "id": "t1_nlhhiz6",
+        "author": "AdAmbitious1988",
+        "score": 8,
+        "body": "💀💀💀"
+      },
+      {
+        "id": "t1_nlodu4f",
+        "author": "nikprod",
+        "score": 3,
+        "body": "Can't spell quantitative without tit"
+      },
+      {
+        "id": "t1_nlnie0x",
+        "author": "Issa-Melon",
+        "score": 2,
+        "body": "I think you’re talking out of your ass. I work in rates trading and all we literally do is make markets for clients since the Volcker rule prohibits us from prop trading."
+      },
+      {
+        "id": "t1_nm4ebzm",
+        "author": "0zeto",
+        "score": 0,
+        "body": "Simpsnare a derivative of what then?"
+      },
+      {
+        "id": "t1_nm0u35d",
+        "author": "Individual_Jelly_278",
+        "score": 0,
+        "body": "😏"
+      },
+      {
+        "id": "t1_nlj8jat",
+        "author": "aether_sports",
+        "score": 0,
+        "body": "Foldman Sachs is my name for them now they’re been making horrible investments, they might have taken a playbook from SoftBank lmao see bad Oracle investment The wework deal of this year lmfao Both companies are mixed with horrible decisions on paper"
+      },
+      {
+        "id": "t1_nlkyf0z",
+        "author": "SmoothTraderr",
+        "score": 0,
+        "body": "Hah"
+      },
+      {
+        "id": "t1_nlk2mi6",
+        "author": "SerialRepeatCustomer",
+        "score": -1,
+        "body": "Wow.   She knows how to market in 2 lucrative ways.     "
+      },
+      {
+        "id": "t1_nloinyt",
+        "author": "Prior-University-962",
+        "score": -6,
+        "body": "?? I've never seen a quant trader at GS but if you have good for you ig"
+      },
+      {
+        "id": "t1_nlipz1f",
+        "author": "Prior-University-962",
+        "score": -14,
+        "body": "As far as I know goldman isn't a MM either so they shouldn't have quant traders"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1n5xcij",
+    "subreddit": "quantfinance",
+    "title": "I have divine intellect can i be a quant dev",
+    "score": 251,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1n5xcij/i_have_divine_intellect_can_i_be_a_quant_dev/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_nbw03xj",
+        "author": "heroyi",
+        "score": 58,
+        "body": "Hey guys I too wanna be a Quant but I don't wanna go through school or do any competitions. I prefer to just self teach myself the math. How easily can I get into citadel without any job experience, no publication, no competition attendance etc... I did make a calculator app though "
+      },
+      {
+        "id": "t1_nbw4fi6",
+        "author": "rkhan7862",
+        "score": 16,
+        "body": "that’s one post about self teaching but skipping school had me dying"
+      },
+      {
+        "id": "t1_nbw8h8r",
+        "author": "Yaakov310",
+        "score": 15,
+        "body": "The code part took me out 💀"
+      },
+      {
+        "id": "t1_nbwar28",
+        "author": "pencil5611",
+        "score": 12,
+        "body": "“I am the best programmer on earth that’s why God chose me. And he gave me divine intellect. This is divine fucking intellect. Isn’t it obvious?”"
+      },
+      {
+        "id": "t1_nbvzp2u",
+        "author": "NinjaInThe_Night",
+        "score": 7,
+        "body": "Only people with a certain unique kind of satanic intellect succeed in this field"
+      },
+      {
+        "id": "t1_nbvz2qc",
+        "author": "yolowagon",
+        "score": 4,
+        "body": "Is it n😎😎😎😎😎licious? It is it divine intellect?"
+      },
+      {
+        "id": "t1_nbwbgc6",
+        "author": "Pickle_Monster_1",
+        "score": 3,
+        "body": "Guys we found him, we found John Quantdev"
+      },
+      {
+        "id": "t1_ncem9w4",
+        "author": "usr199846",
+        "score": 1,
+        "body": "Do you have any thought experiments about quantum physics, especially ones that prove Einstein wrong? A big breakthrough like that can be exactly what you need to stand out"
+      },
+      {
+        "id": "t1_nbw1f8z",
+        "author": "",
+        "score": 1,
+        "body": "Only if you know you are the best quant developer in the world"
+      },
+      {
+        "id": "t1_nbwa130",
+        "author": "NobodyPrime8",
+        "score": 1,
+        "body": "my brain hurts reading every part of this post"
+      },
+      {
+        "id": "t1_nbylee0",
+        "author": "Wide_Fly_7728",
+        "score": 1,
+        "body": "I used to think the same buddy until I came across Stochastic Calculus"
+      },
+      {
+        "id": "t1_nc913s2",
+        "author": "Cronarch_The_Great",
+        "score": 1,
+        "body": "Dinning krugar"
+      },
+      {
+        "id": "t1_nc9wbn9",
+        "author": "Born-Requirement-303",
+        "score": 1,
+        "body": "Dining Cougar"
+      },
+      {
+        "id": "t1_nceq3tc",
+        "author": "heroyi",
+        "score": 0,
+        "body": "yes, I found out you can do 2+2=1 because you can use technical analysis on real numbers. Checkmate, nerds"
+      },
+      {
+        "id": "t1_nmo6ujg",
+        "author": "ApogeeSystems",
+        "score": 0,
+        "body": "The amount of people not realizing it is satire is mildly concerning, perhaps to be expected with the amount of autism this field radiates."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1sgfwmw",
+    "subreddit": "quantfinance",
+    "title": "Facts!",
+    "score": 250,
+    "permalink": "https://old.reddit.com/r/quantfinance/comments/1sgfwmw/facts/",
+    "selftext": "Quantfinance subreddit is a place to share ideas and discussion surrounding the application of quantitative methods to the management of investments and risk.",
+    "comments": [
+      {
+        "id": "t1_of55m6i",
+        "author": "apdgjoabsp",
+        "score": 14,
+        "body": "Because the birds don't have access to formal education, or because they don't have access to @tiktok/ig quant[name]'s reels?"
+      },
+      {
+        "id": "t1_of55mpx",
+        "author": "apdgjoabsp",
+        "score": 4,
+        "body": "I am autistic"
+      },
+      {
+        "id": "t1_of546gz",
+        "author": "TaviorFaux",
+        "score": 2,
+        "body": "do you have a source for this?"
+      },
+      {
+        "id": "t1_of68tth",
+        "author": "WhenIntegralsAttack2",
+        "score": 2,
+        "body": "This is the content that I’m subscribed for. Fuck yeah"
+      },
+      {
+        "id": "t1_of6a9qc",
+        "author": "ResolveDense4214",
+        "score": 2,
+        "body": "do tier 1 firms hire target-school birds?"
+      },
+      {
+        "id": "t1_of6pa0s",
+        "author": "AdvantagePresent2603",
+        "score": 1,
+        "body": "okay"
+      },
+      {
+        "id": "t1_of5f3y7",
+        "author": "WishProfessional6450",
+        "score": 0,
+        "body": "both"
+      },
+      {
+        "id": "t1_ofe9n3g",
+        "author": "Unlikely_Permission4",
+        "score": 0,
+        "body": "I remember a hamster that did..."
+      }
+    ]
+  }
+]

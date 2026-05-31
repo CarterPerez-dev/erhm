@@ -1,0 +1,1082 @@
+[
+  {
+    "post_id": "t3_1mmkgji",
+    "subreddit": "quant_hft",
+    "title": "Can a masters degree in economics or maths from IIT Delhi land me a starting package of 50-60L?",
+    "score": 96,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1mmkgji/can_a_masters_degree_in_economics_or_maths_from/",
+    "selftext": "Hi everyone, I\u2019m a final year Bsc. Maths student at DU and I love economics. Hence, I\u2019m preparing for both Maths and Economics JAM. However, I\u2019m confused about the placement status of both departments in IIT Delhi. \nMy priority is to get a Quant trader role but I surfed the whole internet today and found out top trading firms only hire CSE/ EE/ MnC engineering majors. Also, I\u2019m preparing for masters in ISI Delhi and DSE too. Since my parents have strictly said I can\u2019t go outside Delhi to study. \nPlease guide, thank youu \ud83e\udd79\ud83d\udc96",
+    "comments": [
+      {
+        "id": "t1_n7y85dp",
+        "author": "thatShawarmaGuy",
+        "score": 6,
+        "body": "I don't have a master's degree but I've worked in the industry for like 1\u00bd years now, so ig I can answer this. Plenty of people from ISI (Calcutta), BITS, and IIT M. Tech's get hired at various prop trading firms - so not a problem there. IITD is advantageous due to its proximity to Gurugram and IITB has the location perk just alright. So yeah, go to a branded school and you'd have your shot. But that's where the easy part ends. Since you're already prepping for JAM, I assume you'd be alright with Probability and stats if you manage to score well. That knowledge will extend to Derivative pricing, Stochastic processes etc as well - so yeah, I \"think\" you'd be able to the math. The place where you'd be at a disadvantage is your coding skills. You're supposed to be fantastic with C++ - think excellent competitive programming profile. You'd also need Python if you're trying for Research roles. Watch this section very carefully - you need excellent C++ for the HFTs. So yeah, you've a realistic chance. But couple of caveats : Don't be rigid about only working at HFTs. Plenty of other firms can pay you 45-50lpa straight outta school. But you'd have to be very good at what you're doing. Goes without saying. Try out quant finance first before going all in. The stress levels are high, the work can be... Tough at times. Some people I've met have been worried that the skills aren't exactly transferrable to others professions. Lock-in only once you're sure that you like this field."
+      },
+      {
+        "id": "t1_n7y8w3j",
+        "author": "loveandhatemaths2005",
+        "score": 5,
+        "body": "This helps a lot. Thank you so much \nI\u2019m trying to get a good salary in beginning because I have this business idea in mind which only engineering students can help me with. And we find top engineers at IIT. Im not trying to go there just for this (although it IS my priority), but I\u2019ve always wanted to do my masters after my UG degree"
+      },
+      {
+        "id": "t1_n8ey3ql",
+        "author": "NoConsequence4996",
+        "score": 3,
+        "body": "I assume you know which Quant we are saying ,here the companies are like Optiver,JS,Citadel,Alphagrep,Graviton, NK Securities, Quantbox. These hire only from old IIT CSE (and that to TOP people).There is literally only less than 1percent chance of getting in these without old IITs tag(at least of Indian HFTs) for foreign HFTs(even more tougher) We are not talking of GS,Morgan Stanley,JPMC(these are like also Quant Role firms but they are too easy to get into when compared to the above companies). YOu can definitely get into these with any degree in Maths you have"
+      },
+      {
+        "id": "t1_n7z1dlk",
+        "author": "thatShawarmaGuy",
+        "score": 2,
+        "body": "I totally understand lol, I had a similar thing in mind and will be going for master's. But having worked as a quant, I've kinda felt that this field requires your complete dedication - so just be extra careful to not get sidetracked at the start. Once you've landed on your feet and know how things work, you can definitely look to start something of your own. Just my 2 cents tho, don't let it limit you :) Best!"
+      },
+      {
+        "id": "t1_n84nipl",
+        "author": "",
+        "score": 2,
+        "body": "Go for math. As you said in comments, a lot of math people are doing nothing afterwards. Well, it depends on what you do. If you spend your whole life solving the Perfect cuboid problem, nobody will be willing to hire you. Rather, even if you solve it, almost no one will care to hire you in at least in India. Some unsolicited advice: You can also look into machine learning. You can go for a math master's at ISI/IIT. Machine learning is much more math than computer science/classical algorithms. Rather a lot of researchers in the field are from a math background (even the person who got a 100 million package at Meta did MSc Math from IIT Kanpur :) ). I am saying this as Quant roles are very limited, and I would not recommend anyone to choose a career in those roles. With machine learning, you can also go to the high-frequency trading companies but also opens opportunities at tech companies. But if you are hell-bent on getting Quant roles, then you should also start looking into programming and not just learning surface level C++/Python (eveyone knows this), but serious competitive programming, deep understanding of C++, and operating systems. As you said, HFTs hire from the top IITs, well, I will add to this, these people are not only from top IITs but also top competitve progammers of the country."
+      },
+      {
+        "id": "t1_n84w13s",
+        "author": "",
+        "score": 2,
+        "body": "aim for isi or dse. consulting or investment banking can get you big bucks. i dont think it will be 50 L to begin with. more towards 30."
+      },
+      {
+        "id": "t1_n84x8fg",
+        "author": "loveandhatemaths2005",
+        "score": 2,
+        "body": "Donezo \u2705\nI\u2019ve been preparing for DSE for the past few months but ISI is really scaring the shit out of me (especially the interview). Also which programme in ISI? M. Stat or MSQE since I\u2019m only allowed to study in Delhi? Yeah, I checked the highest package and it did say 36-39LPA \nThat\u2019s fine though. I just wanna break into investment banking so confused about the PG programme now"
+      },
+      {
+        "id": "t1_n87ti3l",
+        "author": "Just_Monika5772",
+        "score": 2,
+        "body": "As someone from IIT Delhi, I have never seen any msc student getting into HFT's, first off most HFT's won't even allow you to apply, they mostly only open for cs/MnC/ee as you said, it's very risky, not to mention your competitors are gonna be the BTech students, so make a wise call"
+      },
+      {
+        "id": "t1_n88mx2l",
+        "author": "Just_Monika5772",
+        "score": 2,
+        "body": "Having said that, I noticed you have a vision of a startup idea, IIT will help u alot in that regard incase your idea is genuinely great and IIT tag will definitely attract alot of investors/VC's towards you. I myself have been working on a startup idea, and I landed lots of VC interviews in two days, I also got VC referrals from the startup people here at IITD"
+      },
+      {
+        "id": "t1_n7z0at2",
+        "author": "",
+        "score": 1,
+        "body": "I lost isi seat by few rank now going to get admitted in a nit for my bachelor's should i even try or don't even consider it at all? I wanted isi for the same type of jobs but got unlucky"
+      },
+      {
+        "id": "t1_n7zgc5o",
+        "author": "Born-Requirement-303",
+        "score": 1,
+        "body": "Feels a bit misleading. \nYou dont have to go into stochastic ito calculus, derivative pricing unless you\u2019re targeting for QR roles. Stats and prob with solid mental math for QT roles. Tho this can be highly dependent on the firm. But deep knowledge of C++ isn\u2019t required unless youre prepping for QD roles. QR/QT dont ask coding questions, if ever thry do ask then their is no obligation to do it in c++. Infact python and R can do the job from what i know."
+      },
+      {
+        "id": "t1_n95qamx",
+        "author": "Old-Sandwich-5440",
+        "score": 1,
+        "body": "can an ma in economics from iit delhi be helpful in earning good money from the start? i am planning to start preparing for a masters in economics and need guidance on what to expect."
+      },
+      {
+        "id": "t1_n8f0j3w",
+        "author": "loveandhatemaths2005",
+        "score": 1,
+        "body": "Yess even I was referring to optiver etc. no worries, I\u2019ve accepted the fact the acceptance rate is less than 1%"
+      },
+      {
+        "id": "t1_n88dxqj",
+        "author": "loveandhatemaths2005",
+        "score": 1,
+        "body": "Haan I\u2019ve accepted the fact \nThank youu"
+      },
+      {
+        "id": "t1_n7ys1d1",
+        "author": "",
+        "score": 1,
+        "body": "Go with maths. Maths is more relevant. 50-60L depends on your role/luck, etc But generally answering your question, Math has more opportunities."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q17ib2",
+    "subreddit": "quant_hft",
+    "title": "How I optimized my C++ Order Matching Engine to 27 Million orders/second",
+    "score": 94,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1q17ib2/how_i_optimized_my_c_order_matching_engine_to_27/",
+    "selftext": "I\u2019ve been building a High-Frequency Trading (HFT) Limit Order Book (LOB) to practice low-latency C++20. Over the holidays, I managed to push the single-core throughput from 2.2M to 27.7M orders/second (on an Apple M1). Here is a deep dive into the specific C++ optimizations that unlocked this performance. Lock-Free SPSC Ring Buffer (2.2M -> 9M) My initial architecture used a std::deque protected by a std::mutex. Even with low contention, the overhead of locking and active waiting was the primary bottleneck. The Solution: I replaced the mutex queue with a Single-Producer Single-Consumer (SPSC) Ring Buffer. Atomic Indices: Used std::atomic<size\\_t> for head/tail with acquire/release semantics. Cache Alignment: Used alignas(64) to ensure the head and tail variables sit on separate cache lines to prevent False Sharing. Shadow Indices: The producer maintains a local copy of the tail index and only checks the shared atomic head from memory when the buffer appears full. This minimizes expensive cross-core cache invalidations. Monolithic Memory Pool (9M -> 17.5M) Profiling showed significant time spent in malloc / new inside the OrderBook. std::map and std::deque allocate nodes individually, causing heap fragmentation. The Solution: I moved to a Zero-Allocation strategy for the hot path. Pre-allocation: I allocate a single std::vector\u00a0of 15,000,000 slots at startup. Intrusive Linked List: Instead of pointers, I use int32_t next_index to chain orders together within the pool. This reduces the node size (4 bytes vs 8 bytes for pointers) and improves cache density. Result: Adding an order is now just an array write. Zero syscalls. POD & Zero-Copy (17.5M -> 27M) At 17M ops/sec, the profiler showed the bottleneck shifting to memory bandwidth. My Order struct contained std::string symbol. The Solution: I replaced std::string with a fixed-size char symbol[8]. This makes the Order struct a POD (Plain Old Data) type. The compiler can now optimize order copies using raw register move",
+    "comments": [
+      {
+        "id": "t1_nx90szb",
+        "author": "bmswk",
+        "score": 6,
+        "body": "Frankly speaking, I think the priority is in conceptual clarity rather than performance optimization. As the other comment points out, you are just measuring submission throughput. This is purely in user-space, and even in the same process in your benchmark setup. Your benchmark doesn't involve networking anywhere, so kernel bypass/DPDK is unrelated and not gonna help \"break the 100M barrier\". Besides, in your benchmark the \"exchange\" already has all orders ready in memory, and they are even implicitly shard-aware through the thread id, so you've essentially created a perfectly balanced, embarrassingly parallel workload, bypassing real challenges such as load skew, order mix, worker contention etc. faced by a real-world engine. Ultimately, your submitOrder boils down to a level of indirection + queue push, so your benchmark is essentially measuring amortized enqueue performance with added overhead. Even so, you only measure aggregate throughput and ignore the arguably more important tail latency. imho you'd benefit from taking a pause to review your project more thoroughly. Try to clarify the concepts and metrics first, before chasing a startling number like 100m/sec. Btw, you should do a back-of-envelope calc. first to see what the implied amortized cycles/op/core is here. Some additional quick QoL improvements in my opinion: Your SPSC buffer only statically align the head and tail, but not the buffer itself when you use the new operator in the ctor. Since you're on C++20 you should use std::align_val_t with new to dynamically allocate cache-aligned buffer. std::hardware_destructive_interference_size is not absolutely guaranteed to be defined across platforms. Best practice is to define a fallback say 64-byte to make your program more portable. Better yet, use CMake option + macro to allow users to customize, if needed. You mention that you are on Apple M1, so naturally one wants to test both 64 (likely the value of std::hardware_destructive...) and 128 (sysctl hw.cachelinesize). You don't have to make your buffer size power of 2 just to wrap around with the AND mask trick. The opaque round-up could be wasteful if your intended capacity is large, leaving your consumer starved most of the time. Moreover, it risks spilling your buffer to lower level caches when the original capacity could comfortably fit in L2 or above, which could hurt performance inadvertently. You can use a generic size, and your compiler most likely will issue csel or cmov, which on modern archs won't cost many more cycles than your AND trick. You could confirm this by microbenchmarks - btw you need more in your project. If you really want to use a power-of-2 buffer, you don't have to round up the capacity using an iteration like this: size_t cap = 1; while (cap < capacity) cap *= 2; It is a good opportunity to practice bit hacks early in your perf engineering journey. There is a neat trick to round up your cap; alternatively, you can use countl_zero from the <bit> header. Continuing from 4, you should use utilities from the <bit> header instead of intrinsics like __builtin_ctzll since you are already on C++20. Your benchmark setup uses the controversial std::high_resolution_clock, which depending on the implementation may alias system_clock and break monotonicity. You could read more about this on cpprefrence. Since you are using threads/atomics, consider writing some TSan'd unit tests to check if your queue is race free. Also when writing SPSC queue it is customary to test + benchmark using a single core vs two or more cores (logical siblings or separate physical cores). Clang-tidy is your friend. Your benchmark setup doesn't quiesce the system and doesn't feel very hardware/OS sympathetic. For example, you are using std::thread::hardware_concurrency() number of threads, but many of the cores will be serving other workloads and forced to context switch. The first step in serious benchmarking is to create a low-noise environment to reduce jittering. Depending on the platform, this often includes core isolation, tickless mode, scheduler (rt/NICE/PR), interrupt mask, HT/SMT on/off, DFS off, core/thread affinity ... a long list of preamble to add to your run_benchmark.sh. Tools like perf are invaluable for designing ring buffer: you want to check at least cache miss and c2c traffic."
+      },
+      {
+        "id": "t1_nx96g86",
+        "author": "Crafty-Biscotti-7684",
+        "score": 3,
+        "body": "I am really really grateful for the feedback. Thank you so much! I will thoroughly go through every point, see what I doing wrong and what can be done better, and will incorporate it. I really appreciate it. Thanks again"
+      },
+      {
+        "id": "t1_nx4cuin",
+        "author": "eeiaao",
+        "score": 3,
+        "body": "Benchmark measures submission throughput only, not matching engine performance. To properly evaluate the system consider adding end to end latency measurement from submit to execution report, order stream handling under backpressure and execution results verification"
+      },
+      {
+        "id": "t1_nxfzpli",
+        "author": "Crafty-Biscotti-7684",
+        "score": 3,
+        "body": "My personal opinion, don't do it just because it looks cool. I do it, because I like speed and precision where nanoseconds matter. Thank you by the way, really appreciated"
+      },
+      {
+        "id": "t1_nx4en8a",
+        "author": "Crafty-Biscotti-7684",
+        "score": 2,
+        "body": "Oh! You are correct, I should change the benchmarking logic, and measure it with end to end latency. I will also think about verification too! Thank you, I will make changes for it soon!!!"
+      },
+      {
+        "id": "t1_nxfxw6s",
+        "author": "antmikinka",
+        "score": 2,
+        "body": "Wow this is so freaking cool. Maybe I should learn C++ instead of only being data science with python"
+      },
+      {
+        "id": "t1_nxl7ccu",
+        "author": "Crafty-Biscotti-7684",
+        "score": 2,
+        "body": "I think you should run it once if you can. I mean you can only grow from the starting point, you are not going to fall until you start anyway"
+      },
+      {
+        "id": "t1_nxtt94j",
+        "author": "dragon-q",
+        "score": 1,
+        "body": "We need more people like you in tech community"
+      },
+      {
+        "id": "t1_nxl6wqy",
+        "author": "antmikinka",
+        "score": 1,
+        "body": "Haha that\u2019s a good one, I would want to save myself from the headache. From what I\u2019ve heard abt C++ it can be a pain. Maybe if I was using C++ on this arbitrage bot I built 4 years ago it woulda done more. I actually built it but then never ran it or determined it wasn\u2019t worth it to run like why?? It seems profitable considering it was only trading if opportunity and fee-less pairs arbitrage bot I made 4 yrs ago"
+      },
+      {
+        "id": "t1_nxr8w1e",
+        "author": "its4thecatlol",
+        "score": 1,
+        "body": "I didnt peruse all the code not a cpp guru) so bear with me: Why did you create a SPSC queue specifically? The mutex is obv too slowly, but there are several other implementations in the literature. Have you seen rendezvous or exchanger queues? If you publish/consume at roughly comparable throughputs, it might help. How do you avoid contention on the pooled entries? Do you use another queue for the entries? Or do you store left/right pointers to the entries in the large pool in the queue and deref them later? (I think this is what you do) Why only a single producer? I'm guessing this is to avoid the CAS mumbo jumbo on maintaining the pointers. It is much simpler when u can CAS on just the head/tail nodes without having to worry about other producers moving your pointers already. There are pretty well-trodden impl's of this (Michael-Scott), curious if you consulted any references?"
+      },
+      {
+        "id": "t1_nx73eqy",
+        "author": "Crafty-Biscotti-7684",
+        "score": 0,
+        "body": "Thank you so much!!! This will be really useful to improve and learn"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qwqtyc",
+    "subreddit": "quant_hft",
+    "title": "We just hit 1k stars on our repo!",
+    "score": 51,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1qwqtyc/we_just_hit_1k_stars_on_our_repo/",
+    "selftext": "We just hit 1k stars on the open-source VisualHFT repo. It\u2019s not a big number, sure, but for me, it\u2019s a bit more than that. We are always looking for quants to grow the community",
+    "comments": [
+      {
+        "id": "t1_o5gm4ty",
+        "author": "Formal_Wolverine_674",
+        "score": 2,
+        "body": "Congrats on hitting 1k stars! \ud83c\udf89 Open-source HFT tooling is pretty niche, so that\u2019s definitely a strong milestone"
+      },
+      {
+        "id": "t1_o5gvrix",
+        "author": "silahian",
+        "score": 1,
+        "body": "thanks"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mj81pr",
+    "subreddit": "quant_hft",
+    "title": "Help Wanted: Join the VisualHFT Team",
+    "score": 51,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1mj81pr/help_wanted_join_the_visualhft_team/",
+    "selftext": "Hi all, quick update on our project. The project is growing and it's time to expand the team. If you've been following VisualHFT and want to get more involved, now is the perfect time. We're looking for collaborators in a few key areas: Core C# Development Community & User Success Partner Quant Program We're pre-beta, so this is an equity-for-collaboration role. No salaries yet. If you're interested, you can find the specifics in the links below. Let's talk. Dev Details: https://github.com/visualHFT/VisualHFT/discussions/57 Community Details: https://github.com/visualHFT/VisualHFT/discussions/53 Partner Details: https://github.com/visualHFT/VisualHFT/blob/master/PartnerQuantProgram.md",
+    "comments": [
+      {
+        "id": "t1_n7j1att",
+        "author": "Fearless_Bee976",
+        "score": 1,
+        "body": "Use Matlab and t-SNE for more precise visualization."
+      },
+      {
+        "id": "t1_n7y3nvk",
+        "author": "drkbrns",
+        "score": 1,
+        "body": "Interesting"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qksaxw",
+    "subreddit": "quant_hft",
+    "title": "HFT traders of Reddit,what\u2019s your net worth and YOE?",
+    "score": 51,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1qksaxw/hft_traders_of_redditwhats_your_net_worth_and_yoe/",
+    "selftext": "Curious to hear from people actually working in high-frequency trading firms. If you\u2019re comfortable sharing: Role (trader / quant / dev) Firm type (prop shop / MM / bank, no names needed) Years of experience Approx net worth range (feel free to be vague) I know comp varies massively with firm, desk, and market conditions, so mainly looking for rough trajectories rather than exact numbers. Would be especially interesting to see how net worth evolves from year 1 \u2192 year 5 \u2192 year 10 in HFT. Throwaway accounts welcome.",
+    "comments": [
+      {
+        "id": "t1_o1eixzk",
+        "author": "FunnyExcellent707",
+        "score": 12,
+        "body": "trader MM 15+ wake up man, that's something I would disclose to maybe 2-3 of my closest friends. Not on reddit when a 3 months old account asks."
+      },
+      {
+        "id": "t1_o1ht45y",
+        "author": "No_Brilliant_5955",
+        "score": 2,
+        "body": "You would disclose your net worth to your closest friends? How odd."
+      },
+      {
+        "id": "t1_o1sxzul",
+        "author": "No_Brilliant_5955",
+        "score": 2,
+        "body": "For many reasons. It changes the way people see you, it introduces comparisons and changes expectations. There\u2019s very little upside to disclosing this sort of thing and it doesn\u2019t improve trust. It\u2019s actually lot less risky to disclose a net worth on Reddit that it would be to a close friend."
+      },
+      {
+        "id": "t1_o1ja2xv",
+        "author": "FunnyExcellent707",
+        "score": 2,
+        "body": "Apply?"
+      },
+      {
+        "id": "t1_o1mrmst",
+        "author": "FunnyExcellent707",
+        "score": 2,
+        "body": "Warren Buffet's net worth is widely known. Mine is not and i like to keep it that way."
+      },
+      {
+        "id": "t1_o1p2x7l",
+        "author": "",
+        "score": 2,
+        "body": "No one here is making money lol... come on. Wannabe Jim Simons LOL"
+      },
+      {
+        "id": "t1_o1s5uuo",
+        "author": "ContestInevitable79",
+        "score": 2,
+        "body": "12 years, $4M.. should be more but I spend most of what I earn \ud83d\ude05"
+      },
+      {
+        "id": "t1_o1s969d",
+        "author": "Beautiful-Hotel-3094",
+        "score": 1,
+        "body": "Why is it odd"
+      },
+      {
+        "id": "t1_o1sdvuk",
+        "author": "No_Brilliant_5955",
+        "score": 1,
+        "body": "Is this a serious question?"
+      },
+      {
+        "id": "t1_o1sx0ot",
+        "author": "Beautiful-Hotel-3094",
+        "score": 1,
+        "body": "Genuinely serious, no idea why it would be odd to share it with ur close friends. Maybe culture differences?"
+      },
+      {
+        "id": "t1_o1fqy8v",
+        "author": "TRAILOKYA123",
+        "score": 1,
+        "body": "How can someone get into this ? I think that it's pretty much possible to tell somebody"
+      },
+      {
+        "id": "t1_o1jg2ck",
+        "author": "bdudisnsnsbdhdj",
+        "score": 1,
+        "body": "lol"
+      },
+      {
+        "id": "t1_o1jk2tf",
+        "author": "TRAILOKYA123",
+        "score": 1,
+        "body": "Well everybody knows that , I was asking about the knowledge required to do it"
+      },
+      {
+        "id": "t1_o1t8dme",
+        "author": "HugeExpert684",
+        "score": 1,
+        "body": "This is the quant version of \"They dont have bread? Let them have cake\"."
+      },
+      {
+        "id": "t1_o1mia8o",
+        "author": "Leverage_Trading",
+        "score": 1,
+        "body": "Why does eveyone acts like they have Warren Buffet type of money \ud83d\ude02"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q2w8to",
+    "subreddit": "quant_hft",
+    "title": "Update: From 27M to 156M orders/s - Breaking the barrier with C++20 PMR",
+    "score": 34,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1q2w8to/update_from_27m_to_156m_orderss_breaking_the/",
+    "selftext": "TL;DR: Two days ago, I posted about hitting 27M orders/second . Receiving feedback regarding memory bottlenecks, I spent the last 48 hours replacing standard allocators with C++20 Polymorphic Memory Resources (PMR) . The result was a 5x throughput increase to 156M orders/second on the same Apple M1 Pro. Here is the breakdown of the changes between the 27M version and the current 156M version. The New Numbers Hardware: Apple M1 Pro (10 cores) Previous Best: ~27M orders/sec (SPSC Ring Buffer + POD optimization) New Average:\u00a0156,475,748 orders/sec New Peak:\u00a0169,600,000 orders/sec What held it back at 27M? In the previous iteration, I had implemented a lock-free SPSC ring buffer and optimized Order structs to be Plain Old Data (POD). While this achieved 27M orders/s, I was still utilizing standard std::vector and std::unordered_map. Profiling indicated that despite\u00a0reserve(), the\u00a0memory access patterns\u00a0were scattered. Standard allocators (malloc/new) lack guaranteed locality, and at 100M+ ops/sec, L3 cache misses become the dominant performance factor. Key Optimizations 1. Implementation of std::pmr::monotonic_buffer_resource This change was the most significant factor. Before: std::vector After: std::pmr::vector\u00a0backed by a\u00a0512MB stack/static buffer. Why it works: A monotonic buffer allocates memory by simply advancing a pointer, reducing allocation to a few CPU instructions. Furthermore, all data remains contiguous in virtual memory, significantly improving CPU prefetching efficiency. 2. L3 Cache Locality I observed that the benchmark was utilizing random IDs across a large range, forcing the engine to access random memory pages (TLB misses). Fix: I compacted the ID generation to ensure the \"active\" working set of orders fits entirely within the CPU's L3 cache. Realism: In production HFT environments, active orders (at the touch) are typically recent. Ensuring the benchmark reflected this locality resulted in substantial performance gains. 3. Bitset Optimization The m",
+    "comments": [
+      {
+        "id": "t1_nxw14xw",
+        "author": "SneakyHyraz777",
+        "score": 2,
+        "body": "How do you trade with it? Or what do you do with it? Market making type stuff?"
+      },
+      {
+        "id": "t1_nxl003b",
+        "author": "Crafty-Biscotti-7684",
+        "score": 2,
+        "body": "I am sorry, there's no network pipe. This is purely in memory and on local environment. I haven't physical bottlenecks yet, since I can't do kernel bypass(DPDK) on a mac."
+      },
+      {
+        "id": "t1_nxlanfu",
+        "author": "Crafty-Biscotti-7684",
+        "score": 2,
+        "body": "you can now test against real crypto books, I added capability for it. You can get live binance data for a symbol and test it, since a symbol is only on 1 core, it proves that one core can handle a load of hot and busy symbol alone https://github.com/PIYUSH-KUMAR1809/order-matching-engine/pull/6"
+      },
+      {
+        "id": "t1_nxhms71",
+        "author": "MrChrisRodriguez",
+        "score": 1,
+        "body": "Very cool following your progress, OP. Do you have any metrics on throughput for a single symbol (like if you were handling routing externally, scaling this horizontally, and checking maximum throughout per shard/core)?"
+      },
+      {
+        "id": "t1_nxkz8h0",
+        "author": "Crafty-Biscotti-7684",
+        "score": 1,
+        "body": "No, I don't right now, but I see where you are coming from and probably I should include it."
+      },
+      {
+        "id": "t1_nxkiy6o",
+        "author": "QuantumVol",
+        "score": 1,
+        "body": "Sounds pretty hard core(s)  awesome  \ud83d\ude05 ..If not prop ..what network pipe u have 1gbs? 10gbs? Otherwise - does it make sense to test this against some of the  liquid crypto books?"
+      },
+      {
+        "id": "t1_nxl3i5g",
+        "author": "Crafty-Biscotti-7684",
+        "score": 1,
+        "body": "I will test the engine from real crypto books using the binance/coinbase data, and then I will update you soon. Its a true test, thanks I never thought of that"
+      },
+      {
+        "id": "t1_nxp43en",
+        "author": "QuantumVol",
+        "score": 1,
+        "body": "Wow thats fast nice \ud83e\udd23 ...i will try to setup should be fun ... exactly i was thinking coinbase and/or binance ... cheers !"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rqyef5",
+    "subreddit": "quant_hft",
+    "title": "Transitioning from C++ in EDA software \u2192 HFT C++ roles? Looking for a reality check.",
+    "score": 33,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1rqyef5/transitioning_from_c_in_eda_software_hft_c_roles/",
+    "selftext": "I\u2019m graduating this year and may be starting in a C++ role working on EDA / PCB design software (large desktop C++ codebase, performance-sensitive geometry/graphics type work). Long term I\u2019m interested in moving toward low-latency/HFT C++ roles. While working I\u2019m planning to spend the next couple of years building systems-level projects and strengthening fundamentals. Things I\u2019m planning to work on include: \u2022 implementing a lock-free SPSC ring buffer\n\n\u2022 experimenting with CPU pinning / cache alignment\n\n\u2022 writing a simple market data feed handler (UDP multicast)\n\n\u2022 exploring kernel bypass approaches (e.g. DPDK / similar)\n\n\u2022 benchmarking latency and throughput of different designs I\u2019m also currently working through C++ concurrency, atomics, memory ordering, and learning more about Linux networking internals. I guess I\u2019m mainly looking for a reality check on whether this is a viable path. Specifically: \u2022 do HFT firms value experience from large C++ systems like EDA software?\n\n\u2022 would projects like the above meaningfully demonstrate relevant skills?\n\n\u2022 are there particular systems topics or projects that would make a candidate stand out more? My goal would be to build the right skills while working and then try to make the jump in ~1\u20132 years, but I\u2019m not sure how realistic that is. Would appreciate any perspectives from people working in the space. I\u2019m UK based if that makes a difference",
+    "comments": [
+      {
+        "id": "t1_o9vmzv3",
+        "author": "PuzzleheadedAgent138",
+        "score": 3,
+        "body": "Interesting, I was under the impression C++ is still heavily used in HFT, particularly for latency-sensitive systems (execution engines, market data handlers, exchange gateways, etc.). I\u2019ve also seen quite a lot of roles at firms like Jane Street, HRT, IMC, Optiver, Citadel and many more specifically looking for C++ engineers working on trading infrastructure. Are you referring more to the research side where Python is more common?"
+      },
+      {
+        "id": "t1_o9ww6aa",
+        "author": "PuzzleheadedAgent138",
+        "score": 1,
+        "body": "You too ! What's you background, and have you applied/got any interviews?"
+      },
+      {
+        "id": "t1_o9wdiqn",
+        "author": "PuzzleheadedAgent138",
+        "score": 1,
+        "body": "That\u2019s what I thought. My plan is to take on as much performance related work as possible and leverage that in my CV to position myself as a \u201cperformance obsessed\u201d engineer and try talk more about optimisations than \u201cworked on EDA windows application\u201d"
+      },
+      {
+        "id": "t1_o9wu3ck",
+        "author": "PuzzleheadedAgent138",
+        "score": 1,
+        "body": "I've been devoting a lot of time in C++ particularly in the features used for low latency/optimising hot paths. I'm not too worried about the actual interviews (not trying to sound cocky, they are obviously extremely competitive and difficult) but more worried about not ever getting the chance to interview"
+      },
+      {
+        "id": "t1_o9x1c7l",
+        "author": "j_hes_",
+        "score": 1,
+        "body": "Listen to me and you\u2019ll get the job. Listen to him and you\u2019ll be back on Reddit asking for advice in 2 weeks."
+      },
+      {
+        "id": "t1_o9wt5gt",
+        "author": "PuzzleheadedAgent138",
+        "score": 1,
+        "body": "I think you misunderstand. I don't want to build apps I want to work on the low latency systems. From my research C++ is still heavily used in these firms, sometimes rust especially in crypto. If you have a look yourself on the careers pages for quant/hft firms you will see a lot of C++ engineer positions."
+      },
+      {
+        "id": "t1_o9whzzy",
+        "author": "Trending_Boss_333",
+        "score": 1,
+        "body": ".net serves a different purpose lol. Almost all modern low latency systems I can think of are cpp based."
+      },
+      {
+        "id": "t1_o9wtrqg",
+        "author": "PuzzleheadedAgent138",
+        "score": 1,
+        "body": ".net is not used for low latency trading paths, .NET is used for GUIs - order entry panels, risk dashboards, PnL monitoring etc. The actual engines seem to all be built in C++/Rust"
+      },
+      {
+        "id": "t1_o9wxgli",
+        "author": "j_hes_",
+        "score": 1,
+        "body": "Notice he can\u2019t name a single system. Thats because he doesn\u2019t actually do this work. He doesn\u2019t know of any."
+      },
+      {
+        "id": "t1_o9y1cs5",
+        "author": "SHFTD_RLTY",
+        "score": 1,
+        "body": "Can you name one written in C#?"
+      },
+      {
+        "id": "t1_oaiz7jd",
+        "author": "CBax777",
+        "score": 1,
+        "body": "Seems like a pretty strong indicator that he\u2019s just trying to stir the pot. C++ is definitely still the go-to for low-latency systems in HFT. If he can't name a system, maybe he should stick to GUI development."
+      },
+      {
+        "id": "t1_oaklwsn",
+        "author": "j_hes_",
+        "score": 1,
+        "body": "You first."
+      },
+      {
+        "id": "t1_o9wjejv",
+        "author": "j_hes_",
+        "score": 0,
+        "body": "I wouldn\u2019t listen to that dude. He\u2019s trying to placate you for karma. Another room had this same issue, a bunch of liars and non professionals yelling C++ because it\u2019s all they\u2019ve had access to. c++ is for building robots. .Net is for building apps. Don\u2019t let these fools lie to you. They\u2019re retail clowns."
+      },
+      {
+        "id": "t1_o9wjj7w",
+        "author": "j_hes_",
+        "score": 0,
+        "body": "Name 1"
+      },
+      {
+        "id": "t1_o9wwu3n",
+        "author": "j_hes_",
+        "score": 0,
+        "body": "No, they don\u2019t. You\u2019re getting sucked into retail hell. Every article you read is being written by someone trying to throw you off. This started in the early 2000s when retail got access to E*Trade. It\u2019s very easy to lie to the public. Also, HFT research from actual production systems is not published. Anywhere."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tnasj6",
+    "subreddit": "quant_hft",
+    "title": "The Kernel-Bypass Bottleneck Trap: Why $2M in HFT Infrastructure Does Not Fix Your Latency Problem",
+    "score": 28,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1tnasj6/the_kernelbypass_bottleneck_trap_why_2m_in_hft/",
+    "selftext": "",
+    "comments": []
+  },
+  {
+    "post_id": "t3_1n41uhb",
+    "subreddit": "quant_hft",
+    "title": "Quant Math Resources",
+    "score": 27,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1n41uhb/quant_math_resources/",
+    "selftext": "What are the best resources to learn math (Probability, Statistics, Linear Algebra, Calculus, Stochastic Calculus) for Quantitative Finance?",
+    "comments": [
+      {
+        "id": "t1_nbm9i0f",
+        "author": "kvantoz",
+        "score": 2,
+        "body": "\u041a\u0443\u0440\u0441 \"\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043c\u0435\u0442\u043e\u0434\u044b \u0434\u043b\u044f \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\" \u043e\u0442 MITx \u043d\u0430 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 edX, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043b\u0438\u043d\u0435\u0439\u043d\u0443\u044e \u0430\u043b\u0433\u0435\u0431\u0440\u0443, \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044e, \u0442\u0435\u043e\u0440\u0438\u044e \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0435\u0439 \u0438 \u0441\u0442\u043e\u0445\u0430\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u044b . \u0423\u0447\u0435\u0431\u043d\u0438\u043a \u043f\u043e \u0442\u0435\u043e\u0440\u0438\u0438 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0435\u0439 \u043e\u0442 \u0424\u0435\u043b\u043b\u0435\u0440\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u0430\u0435\u0442 \u0438\u043d\u0442\u0443\u0438\u0442\u0438\u0432\u043d\u043e\u0435 \u043e\u0431\u044a\u044f\u0441\u043d\u0435\u043d\u0438\u0435 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u043d\u044b\u0445 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u0439 . \u041e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441 \u043f\u043e \u0442\u0435\u043e\u0440\u0438\u0438 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0435\u0439 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0438\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f, \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u043c\u044b\u0439 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u043e\u043c \u0421\u0442\u0438\u0432\u0435\u043d\u0441\u0430 . \u041e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u044b \u043f\u043e \u0441\u0442\u043e\u0445\u0430\u0441\u0442\u0438\u043a\u0435 \u043d\u0430 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 Coursera . \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043e\u043d\u043b\u0430\u0439\u043d-\u0443\u0447\u0435\u0431\u043d\u0438\u043a Statlect, \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439 \u0442\u0435\u043e\u0440\u0438\u0438 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0435\u0439, \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0435 \u0438 \u043c\u0430\u0442\u0440\u0438\u0447\u043d\u043e\u0439 \u0430\u043b\u0433\u0435\u0431\u0440\u0435 ."
+      },
+      {
+        "id": "t1_nbmbeqy",
+        "author": "Nocturnal_Atavistic",
+        "score": 2,
+        "body": "Well, what I have figured out is, There's no one-stop solution, for eg, right now I'm learning Linear algebra with this one book, definitely it is making me understand, but not at all the contents in deep. So after learning a bit with this, I'll ask myself which concepts require a better understanding, then I will go specifically to those books that have those topics. Key is to start making sense, bit by bit. Every book will teach you. Once done with that, go to the next one for clarity of specific topics. You'll never find a perfect book for yourself,  but you'll find a perfect book for some specific topic. So it's a marathon you have to go step by step. \nIt takes time (this is the point people want to eliminate). And that's my friend how you really learn deeply,  I guess."
+      },
+      {
+        "id": "t1_nbjlfxv",
+        "author": "Dry-Sir7828",
+        "score": 1,
+        "body": "I too need this. \ud83d\ude4f\ud83c\udffb"
+      },
+      {
+        "id": "t1_nbn1oqh",
+        "author": "polyphonic-dividends",
+        "score": 1,
+        "body": "Depending on your level, brilliant could be a good resource"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tpvsfs",
+    "subreddit": "quant_hft",
+    "title": "I built a high-performance Rust Matching Engine with real NASDAQ ITCH replay \u2014 98ns p50, 28M ops/sec",
+    "score": 25,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1tpvsfs/i_built_a_highperformance_rust_matching_engine/",
+    "selftext": "I built a high-performance Rust Matching Engine with real NASDAQ ITCH replay \u2014 98ns p50, 28M ops/sec Hey rust (and HFT folks), I just open-sourced a high-performance Limit Order Book + Matching Engine in Rust, built from first principles with real exchange-grade performance in mind. ### Key Results - p50 latency: 98 ns - p99 latency : 1.9 \u00b5s - p99.9 latency : 4.3 \u00b5s - Peak throughput: 28M warm inserts/sec - Real-world mixed : ~4.1M ops/sec across 100 symbols Validation: Replayed a full trading day from NASDAQ TotalView-ITCH 5.0 (Jan 30, 2020) \u2014 108M operations across top 100 symbols . ### Core Optimizations - Flat price array (`Vec<Option<PriceLevel>>` \u2014 100k slots, O(1) access) - Bitmap-based BBO + top-N depth queries - Per-symbol OS threads (lock-free hot path) - `bumpalo::Bump` arena allocator - `Vec`-based order index (no HashMap) - Active flag + head index for O(1) cancels - Full property-based + fuzz testing (`cargo-fuzz`) Started from a `BTreeMap` baseline and iteratively optimized with detailed benchmarks at each step. ### Links - GitHub: https://github.com/AsthaMishra/matching-engine - Full README with architecture diagram, benchmarks, optimization progression, and replay tools Would love feedback from the community \u2014 especially on: - Further latency/throughput improvements - Scaling to 500+ symbols - Adding persistence / journaling - Anything I might have missed for production use ### Note i have used AI help but core logic is written by me Open to contributions too! #Rust #HFT #LowLatency #OrderBook #MatchingEngine",
+    "comments": [
+      {
+        "id": "t1_oobsa8o",
+        "author": "joesatch_11",
+        "score": 1,
+        "body": "I haven't gone through the code and most likely I won't but from the description - what a beast! Loved reading it."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1omjwlj",
+    "subreddit": "quant_hft",
+    "title": "Want Quant developer learning resources.",
+    "score": 21,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1omjwlj/want_quant_developer_learning_resources/",
+    "selftext": "I am a BCA student from tier 3 collage I want to educate myself for quant developer role ,please give me legit sources to educate myself . It will be help-full please give me right source for it.",
+    "comments": [
+      {
+        "id": "t1_np1orfv",
+        "author": "7_Luffy",
+        "score": 1,
+        "body": "In which year are you in?"
+      },
+      {
+        "id": "t1_nqufjyo",
+        "author": "RK9_2006",
+        "score": 1,
+        "body": "I'm in 3rd sem"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1pk5lfo",
+    "subreddit": "quant_hft",
+    "title": "I optimized my Order Matching Engine by 560% (129k \u2192 733k ops/sec) thanks to your feedback",
+    "score": 20,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1pk5lfo/i_optimized_my_order_matching_engine_by_560_129k/",
+    "selftext": "Hey everyone, A while back I shared my C++ Order Matching Engine here and got some \"honest\" feedback about my use of std::list and global mutexes. I took that feedback to heart and spent the last week refactoring the core. Here are the results and the specific optimizations that worked: The Results: Baseline : ~129,000 orders/sec (MacBook Air) Optimized : ~733,000 orders/sec Speedup : 5.6x The Optimizations: Data Structure: std::list -> std::deque + Tombstones Problem : My original implementation used std::list to strictly preserve iterator validity. This killed cache locality. Fix : Switched to std::deque . It offers decent cache locality (chunked allocations) and pointer stability. Trick : Instead of erase() (which is O(N) for vector/deque), I implemented \"Tombstone\" deletion. Orders are marked active = false . The matching engine lazily cleans up dead orders from the front using pop_front() (O(1)). Concurrency: Global Mutex -> Sharding Problem : A single std::mutex protected the entire\u00a0Exchange. Fix : Implemented fine-grained locking. The Exchange now only holds a Shared (Read) lock to find the correct\u00a0OrderBook. The\u00a0OrderBook\u00a0itself has a unique mutex. This allows massively parallel trading across different symbols. The Hidden Bottleneck (Global Index) I realized my\u00a0cancelOrder(id)\u00a0API required a global lookup map ( OrderId -> Symbol ) to find which book an order belonged to. This map required a global lock, re-serializing my fancy sharded engine. Fix : Changed API to\u00a0cancelOrder(symbol, id). Removing that global index unlocked the final 40% performance boost. The code is much cleaner now I'd love to hear what you think of the new architecture. What would you optimize next? Custom Allocators? Lock-free ring buffers? PS - I tried posting in the showcase section, but I got error \"unable to create document\" (maybe because I posted once recently, sorry a little new to reddit also) Github Link - https://github.com/PIYUSH-KUMAR1809/order-matching-engine",
+    "comments": []
+  },
+  {
+    "post_id": "t3_1r9xay4",
+    "subreddit": "quant_hft",
+    "title": "Benchmarking a limit order book matching engine",
+    "score": 18,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1r9xay4/benchmarking_a_limit_order_book_matching_engine/",
+    "selftext": "I am a noobie in this area but I am building a limit order book matching engine in C++ as part of a side project in uni and I am at the stage of benchmarking and performance analysis after my initial implementation. Looking for some advice on what metrics are most meaningful for benchmarking. I am currently measuring insert latency percentiles and throughput. Working on end to end latency currently. Is Apache Spark or something similar worth using for post-trade analytics on the event log? I am thinking of using it to process recorded order streams and compute statistics. I was suggested this by a professor at uni just not sure if its suitable. Any other tools worth running? I am already planning to use Linux perf for cache miss rates and Valgrind. https://preview.redd.it/ro46khavwnkg1.png?width=262&format=png&auto=webp&s=c1739bb1d5ede907a9791791110c6c58c8c0ab93 Is mapping out the main branch of the code valuable for adding expected latency for each section? Any advise is welcome.",
+    "comments": [
+      {
+        "id": "t1_o71vjja",
+        "author": "privateack",
+        "score": 1,
+        "body": "I think another question you should ask yourself is how you enchant them test harnesses cpu pinning ect is also very important when you are measuring in the mic to nano range"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rj11fn",
+    "subreddit": "quant_hft",
+    "title": "Quant developer",
+    "score": 18,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1rj11fn/quant_developer/",
+    "selftext": "Can anyone please guide me on learning c++ for hfts...\nLike from where to learn low latency programming and all... (Idk what should I ask so please guide with whatever you can)\nAll i have done till now is cp",
+    "comments": [
+      {
+        "id": "t1_o8a6qrn",
+        "author": "Near_10",
+        "score": 2,
+        "body": "check dm"
+      },
+      {
+        "id": "t1_o8a9vhp",
+        "author": "Near_10",
+        "score": 2,
+        "body": "done"
+      },
+      {
+        "id": "t1_o8broo9",
+        "author": "Getalife123456789",
+        "score": 2,
+        "body": "Bruh\u2026 \ud83e\udd21"
+      },
+      {
+        "id": "t1_o936nzn",
+        "author": "LeaveNo4115",
+        "score": 2,
+        "body": "I am experienced .net Dev how can i start my journey please guide"
+      },
+      {
+        "id": "t1_o934orl",
+        "author": "thevnom",
+        "score": 2,
+        "body": "They downvote but you are right Our shop is C# too"
+      },
+      {
+        "id": "t1_o8x17oy",
+        "author": "ElephantTough8887",
+        "score": 1,
+        "body": "same here!! it would be great if you can suggest me some resources as well \ud83d\ude05"
+      },
+      {
+        "id": "t1_o8dbqw7",
+        "author": "WearyCat1475",
+        "score": 1,
+        "body": "Mujhe bhi bata do bhai please."
+      },
+      {
+        "id": "t1_ocryfb2",
+        "author": "Otherwise_Ring_2492",
+        "score": 1,
+        "body": "Send me too"
+      },
+      {
+        "id": "t1_o8ayozy",
+        "author": "Cactus746",
+        "score": 1,
+        "body": "Please let me know what you find jaded mushroom"
+      },
+      {
+        "id": "t1_o95la7c",
+        "author": "j_hes_",
+        "score": 1,
+        "body": "Find someone to teach you a profitable business to trade with/for. Retail traders trading for fun is not smart. They should focus on finding edge for someone other than themselves. It\u2019s easier too."
+      },
+      {
+        "id": "t1_o95kuwu",
+        "author": "j_hes_",
+        "score": 1,
+        "body": "I\u2019m starting to think the community leaders are pushing the retail narrative and if I tell folks the truth, I\u2019m ruining their business of selling nonsense strategies and crappy algo platforms. The retail crowd has been misled in a sinister way. They\u2019re so disconnected from the real business it\u2019s not even funny anymore."
+      },
+      {
+        "id": "t1_o8lj4u4",
+        "author": "j_hes_",
+        "score": 1,
+        "body": "In 1 sentence you just told us why you\u2019re not an HFT a month later."
+      },
+      {
+        "id": "t1_o8x3cxm",
+        "author": "Anthonyngg_192",
+        "score": 0,
+        "body": "there're too many thing that u must know before choose a language for hft. About networking, linux kernel, NIC, etc.. i thing that u need to prepare or just searching anything on the internet before choose to learn cpp. Or got a plaining if u wanna be dive deep into that."
+      },
+      {
+        "id": "t1_o8a71pu",
+        "author": "Near_10",
+        "score": 0,
+        "body": "Can u guide pls ?"
+      },
+      {
+        "id": "t1_o8a3iyk",
+        "author": "j_hes_",
+        "score": -1,
+        "body": "C++ is not what they use in professional environments. Stop trusting internet liars who don\u2019t work at HFT shops."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1p7cjym",
+    "subreddit": "quant_hft",
+    "title": "Work culture at Graviton",
+    "score": 12,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1p7cjym/work_culture_at_graviton/",
+    "selftext": "Hi folks - can someone help me understand the work culture at Graviton? Also interested to know what is the breakdown of wfh and wfo. Any mandatory wfo?",
+    "comments": [
+      {
+        "id": "t1_nr77tae",
+        "author": "Firm_Replacement91",
+        "score": 2,
+        "body": "That\u2019s too less ( assuming its a systematic trading )"
+      },
+      {
+        "id": "t1_nqwsjk4",
+        "author": "LabOk2733",
+        "score": 1,
+        "body": "Time is really dilated there"
+      },
+      {
+        "id": "t1_nqzea9a",
+        "author": "Shooobummm",
+        "score": 1,
+        "body": "Care to explain more?"
+      },
+      {
+        "id": "t1_nr0plq0",
+        "author": "LabOk2733",
+        "score": 1,
+        "body": "Bad physicist joke"
+      },
+      {
+        "id": "t1_nqzqx5j",
+        "author": "No-Pattern-9266",
+        "score": 1,
+        "body": "shady place"
+      },
+      {
+        "id": "t1_nr3goa6",
+        "author": "Maximum-Mountain-296",
+        "score": 1,
+        "body": "It\u2019s better than almost all indian hft for sure.. mostly wfo but you can take 2 wfh in month"
+      },
+      {
+        "id": "t1_nr2ij07",
+        "author": "Shooobummm",
+        "score": 0,
+        "body": "Pls elaborate"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q6djbt",
+    "subreddit": "quant_hft",
+    "title": "Exploring an Algo Trading Venture (Looking for Insights and Experiences, 30-50k Initial Idea)",
+    "score": 11,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1q6djbt/exploring_an_algo_trading_venture_looking_for/",
+    "selftext": "Hi everyone and Happy New Year! I\u2019m in the corporate world with a financial background and a bit of quant knowledge, and I\u2019m considering launching a lean algo trading venture as a side project. I\u2019m thinking of investing around 30-50k USD to test strategies live, and if it goes well, we can scale up from there. At this point, I\u2019m just exploring the concept and would love to hear insights or experiences from anyone who\u2019s done something similar / explored the idea / simply has a POV shaped. Eventually, I imagine forming a small team of two to three people with complementary skills - quant, infrastructure, and trading knowledge, but for now, I just want to see the community sounding. So if you have any thoughts or have been part of something like this, I\u2019d love to hear your feedback. Thanks in advance!",
+    "comments": [
+      {
+        "id": "t1_nyajtoz",
+        "author": "traderalgoritmic",
+        "score": 1,
+        "body": "We are QuantumAeterna, a software house specialized in the design and development of advanced algorithmic systems. Our focus is on creating high-performance, scalable, and innovative solutions tailored to complex technological challenges.\nIf you are interested in exploring potential collaborations or learning more about our work, feel free to reach out via direct message.\nWishing you a pleasant evening."
+      },
+      {
+        "id": "t1_ny9uydx",
+        "author": "jade_belk",
+        "score": 0,
+        "body": "one of the areas that seemed attractive to me right now , as a good starting point would be 0dte spx options . you can capitalise upon gamma and theta , provided we are able to execute well. additionally, the infra cost would be low as low latency isn\u2019t a stringent requirement and reasonable returns can be made as these contracts expire everyday,  a recurring opportunity"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1phdrm1",
+    "subreddit": "quant_hft",
+    "title": "I built a high-performance Order Matching Engine from scratch \u2013 would love feedback from quants/devs",
+    "score": 10,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1phdrm1/i_built_a_highperformance_order_matching_engine/",
+    "selftext": "My main goals were: Learn how real-world matching systems work Study low-latency design tradeoffs Build something useful for other devs learning system design I\u2019d genuinely love feedback on: Architecture decisions Performance bottlenecks What features would make this more production-ready GitHub: https://github.com/PIYUSH-KUMAR1809/order-matching-engine",
+    "comments": [
+      {
+        "id": "t1_ntbuhbf",
+        "author": "Crafty-Biscotti-7684",
+        "score": 3,
+        "body": "I have done this :D Made a commit for it as well, you can check it out. Thanks a lot"
+      },
+      {
+        "id": "t1_nsyxsn1",
+        "author": "auto-quant",
+        "score": 2,
+        "body": "I would rename OrderType to OrderSide, and OrderKind to possibly PriceType.  Later you will have a different use for \"OrderType\", which might take values like FOC, FOK, GTC, GTD etc. In terms of design, I think the OrderBook class should focus on just being an efficient container, and not contain the matching logic itself.  Really is just a small component in a larger design  Matching logic itself will become increasingly sophisticated, for example, perhaps you'd like to have auction phases or hidden orders?   So I'd move that out of OrderBook, and have it elsewhere.    And your class MatchingEngine I would rename to Exchange, since essentially, an exchange is a collection of books/matching engines, one per separate instrument.  And I'd expect to see one class to represent the new order instruction, and a different class to represent a resting order.  Also add a client order ID. But this is a good way to learn about matching engines / order books etc."
+      },
+      {
+        "id": "t1_nt26tzi",
+        "author": "Crafty-Biscotti-7684",
+        "score": 1,
+        "body": "Thanks, really appreciated. I will note down your points, and incorporate them in my project. I will rethink that how I should design and name the variables"
+      },
+      {
+        "id": "t1_nsxwm1z",
+        "author": "Crafty-Biscotti-7684",
+        "score": 1,
+        "body": "It is CPP"
+      },
+      {
+        "id": "t1_nt8rh32",
+        "author": "goflapjack",
+        "score": 1,
+        "body": "Have a look at HFT literature, specifically applied to C++. It can help you with architecture and performance for the next steps and don\u2019t forget to\u00a0\u00a0flamegraph everything. Put together as much benchmarks as possible:\n- Can you hint the compiler for branch predictions, inline, etc?\u00a0\n- Should you use other data structures for the levels queue (BTree, AVL, etc)\n- Should you adopt a concurrency models? Channels, Event Based, Actors\n- How about nonces, sequencers, etc"
+      },
+      {
+        "id": "t1_nt8rrkw",
+        "author": "goflapjack",
+        "score": 1,
+        "body": "Oh\u2026 MPSC and lock free data structures are your friends"
+      },
+      {
+        "id": "t1_ntbtptq",
+        "author": "Crafty-Biscotti-7684",
+        "score": 1,
+        "body": "Thank you so much!! If you have any resources, it would be great if could share. Thanks again btw. I will look more into it"
+      },
+      {
+        "id": "t1_ntw1252",
+        "author": "felixx_g",
+        "score": 1,
+        "body": "AI slop. AI generated spam posts, look at the source code lmfao"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1n5cec6",
+    "subreddit": "quant_hft",
+    "title": "Hey I'm a 20 male ,2nd year btech ds and cse in tier 2 clg ,I want to build a carrer in hft and quant could some give advice on how can I learn and how hard would it be to enter this industry",
+    "score": 10,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1n5cec6/hey_im_a_20_male_2nd_year_btech_ds_and_cse_in/",
+    "selftext": "I understand it's a very competitive and niche field, especially for someone not from IITs or top-tier colleges. Still, I\u2019m willing to put in the effort to learn the necessary skills. Could someone guide me on: What should I start learning right now (math, programming, finance)? How hard is it realistically to break into HFT/quant roles from a Tier-2 background? Are there specific resources (books, courses, projects) I should follow? What kind of internships or projects would make my profile stronger? Any advice, personal experiences, or roadmap suggestions would really help me figure out how to get started and stay on track. Thanks in advance!",
+    "comments": [
+      {
+        "id": "t1_nbunmab",
+        "author": "Cutie_pie_xxx",
+        "score": 7,
+        "body": "Don't wanna be rude but ; If you re aiming for \"Quant\" I think you should be smart enough in the first place to SEARCH SOMETHING YOURSELF. Explore subreddits ; watch videos ; See profiles on LinkedIn who ve made it to top , what they did and how they did; ITS NOT fucking JEE that if you follow a specific book and and solve it you ll land a job ; So please let go off this attitude now ; make some efforts ; ask some genuine doubts .... make yourself a little credible so that people answer you"
+      },
+      {
+        "id": "t1_nc1j8vd",
+        "author": "",
+        "score": 1,
+        "body": "I can refer you for Quant roles if you want despite being from IET"
+      },
+      {
+        "id": "t1_nc1jk0y",
+        "author": "",
+        "score": 1,
+        "body": "Quant in Graviton"
+      },
+      {
+        "id": "t1_nco03mk",
+        "author": "Global-Camera968",
+        "score": 1,
+        "body": "Yes pls sir do tell me"
+      },
+      {
+        "id": "t1_ncnzovq",
+        "author": "Global-Camera968",
+        "score": 1,
+        "body": "Umm sorry but as I said I dunno anything about the field I want to build a career and I was asking guidance thanks for opinion"
+      },
+      {
+        "id": "t1_ncnzsle",
+        "author": "Global-Camera968",
+        "score": 1,
+        "body": "Still searching bro"
+      },
+      {
+        "id": "t1_nceajjp",
+        "author": "Outside_Exercise9426",
+        "score": 1,
+        "body": "Hi - why r u in 2nd year of btech at age 20??"
+      },
+      {
+        "id": "t1_nco088d",
+        "author": "Global-Camera968",
+        "score": 1,
+        "body": "1 year drop I couldn't get into iit"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rmo7jd",
+    "subreddit": "quant_hft",
+    "title": "Want to know about the scope of FPGA engineering in HFTs(also would love to connect and get a referral maybe?\ud83e\udd79)",
+    "score": 9,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1rmo7jd/want_to_know_about_the_scope_of_fpga_engineering/",
+    "selftext": "Yeah the title is self explanatory. I'm currently working at Analog Devices and wanted to try my luck at working with a HFT. So I wanted to learn about the work done there and try my hand at working at one.",
+    "comments": [
+      {
+        "id": "t1_o90uilq",
+        "author": "j_hes_",
+        "score": 1,
+        "body": "Yesterday someone tried sell me an FPGA appliance from 15 years ago for $21k. Thats the scope of the industry."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1oqxg6d",
+    "subreddit": "quant_hft",
+    "title": "Georgia tech good enough for top HFT firms?",
+    "score": 9,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1oqxg6d/georgia_tech_good_enough_for_top_hft_firms/",
+    "selftext": "Hi All, Is an engineering undergraduate degree from Georgia tech good enough to get qualified for interviews straight out of college (for tech jobs such as FPGA engineer) in top HFT firms such as Jane Street, Optiver etc?",
+    "comments": [
+      {
+        "id": "t1_nnu6s1s",
+        "author": "igetlotsofupvotes",
+        "score": 2,
+        "body": "Good enough to not get auto rejected. Not good enough off of school name alone"
+      },
+      {
+        "id": "t1_nnulavj",
+        "author": "igetlotsofupvotes",
+        "score": 2,
+        "body": "That is probably fine for most shops, especially intern"
+      },
+      {
+        "id": "t1_nnuknj6",
+        "author": "BennyManny2",
+        "score": 1,
+        "body": "I thought not even Princeton, CMU, MIT would be good enough of school name alone if the applicant didn\u2019t have FPGA project experience. Is it?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1o2lp8o",
+    "subreddit": "quant_hft",
+    "title": "Experienced Quant Developers?",
+    "score": 9,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1o2lp8o/experienced_quant_developers/",
+    "selftext": "Any experienced quant dev interested to join in joining our strartup? Huge potential: #visualHFT Please DM'me",
+    "comments": []
+  },
+  {
+    "post_id": "t3_1qf0qmi",
+    "subreddit": "quant_hft",
+    "title": "beginner in cp, aiming for quant/ds looking for like-minded study partners.",
+    "score": 9,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1qf0qmi/beginner_in_cp_aiming_for_quantds_looking_for/",
+    "selftext": "Hi there I am looking for like minds here who have similar goals. Some backstory: I am a fresher at one of the iits in cse branch looking for people with similar ambitions. I want to go towards either quant or data science as of now. I am an absolute beginner to competitive  programming and explored a tiny bit of deep learning but I will resume that once I get a hold of cp. My main focus right now is acads and developing these skills. If you have similar goals lets get in touch :)",
+    "comments": [
+      {
+        "id": "t1_o2rmprq",
+        "author": "UnEthicalMK",
+        "score": 1,
+        "body": "Looks like we can join!"
+      },
+      {
+        "id": "t1_o2u3d25",
+        "author": "Gullible-Answer-7389",
+        "score": 1,
+        "body": "dm pleasee"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lkcukc",
+    "subreddit": "quant_hft",
+    "title": "Just published my first whitepaper on SSRN \u2014 would love feedback from the quant/algo community",
+    "score": 8,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1lkcukc/just_published_my_first_whitepaper_on_ssrn_would/",
+    "selftext": "Hey folks,\nI\u2019m a student and independent quant researcher. Just published my first whitepaper on SSRN titled:\n\u201cAsymmetric Hidden Markov Modeling of Order Flow Imbalances for Microstructure-Aware Market Regime Detection.\u201d\nIt\u2019s an applied model that blends asymmetric HMM with entropy-weighted OFI to detect intraday liquidity regimes using tick-level data (NSE + US ETFs).\nI\u2019d really appreciate any feedback, suggestions, or criticism from those working in signal design, execution models, or quant research.\n\ud83d\udcc4 Here\u2019s the paper https://ssrn.com/abstract=5315733 Thanks in advance \u2014 open to ideas, extensions, or collaboration!",
+    "comments": [
+      {
+        "id": "t1_na1ksno",
+        "author": "OkReplacement2821",
+        "score": 1,
+        "body": "It's just an indicator in a liquidity provider setup. Kinda use rigorous stochastic calculus and stata with increased parameters for better decision making of confirmed regime shifting."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ozd9ha",
+    "subreddit": "quant_hft",
+    "title": "GUYS! Is this certificate worth or not . Can this certificate help me .",
+    "score": 7,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1ozd9ha/guys_is_this_certificate_worth_or_not_can_this/",
+    "selftext": "",
+    "comments": [
+      {
+        "id": "t1_npb89ac",
+        "author": "IntelligentVisual955",
+        "score": 1,
+        "body": "How much was the cost and work?"
+      },
+      {
+        "id": "t1_nto7yv7",
+        "author": "Traditional_Gas7474",
+        "score": 1,
+        "body": "I think this is available for free after completing certain number of hours"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tm47kc",
+    "subreddit": "quant_hft",
+    "title": "The US equity markets did not invent execution efficiency by accident",
+    "score": 7,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1tm47kc/the_us_equity_markets_did_not_invent_execution/",
+    "selftext": "https://electronictradinghub.com/what-growing-electronic-trading-markets-should-adopt-from-us-hft-and-what-to-leave-behind/",
+    "comments": []
+  },
+  {
+    "post_id": "t3_1pjqt2i",
+    "subreddit": "quant_hft",
+    "title": "Join 4400+ Quant Students and Professionals (Quant Enthusiasts Discord)",
+    "score": 7,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1pjqt2i/join_4400_quant_students_and_professionals_quant/",
+    "selftext": "We are a global community of 4,400+ quantitative finance students and professionals , including those from tier 1 firms. This server provides: Mentorship: Guidance from senior quants. Networking: Connect with peers and industry experts. Resources: Discussions and materials on quant finance, trading, and data careers. Career Opportunities: Facilitated connections to quant roles. Join the Discord Server: https://discord.gg/JenRWVCfzh",
+    "comments": []
+  },
+  {
+    "post_id": "t3_1n04byu",
+    "subreddit": "quant_hft",
+    "title": "How much for a small set up in NY5 or CH3?",
+    "score": 7,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1n04byu/how_much_for_a_small_set_up_in_ny5_or_ch3/",
+    "selftext": "Hi! I am looking at renting a box or a port at NY5 or CH3 to play with some HFT algos on crypto exchanges. This would be an experimental endeavor; I'm not looking to get super competitive. If it's possible to just rent a computer at one of these data centers, that would be ideal, but if that's not possible, I assume I would need: a medium-grade computer ($1-2k) a rack ($2-4k/month) colocation ($1k?/month) data feed and order entry port ($2-4k/month) I'm guessing it would cost somewhere in the $5-10k/month range (plus start-up costs around $2k). Can anyone squash/validate my estimates? I'd be happy to learn about any cheaper/more accessible alternatives",
+    "comments": [
+      {
+        "id": "t1_naqlgt4",
+        "author": "",
+        "score": 1,
+        "body": "Contact me: +39 339 693 4641. I like what you said"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1to3m0z",
+    "subreddit": "quant_hft",
+    "title": "Need Help regarding right path for HFTs/quant",
+    "score": 6,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1to3m0z/need_help_regarding_right_path_for_hftsquant/",
+    "selftext": "Hello everyone I am actually looking for some advice regarding the required path for landing good SE/SDE/HFTs / quant roles or something else. I don't know if this is the right subreddit for it , so incase if it isn't kindly do Direct me to the right one I am a upcoming second year (just got done with semester 2) Doing Btech in a 2nd Gen IIT Mathematics and Computing branch Rn my CGPA is :9+ And I have been doing competitive programing over the past few months and my current rating is 1300-1350 on codeforces I am confused regarding my goal / target over the next two months In my college the internship  season begins right from the start of third year. So I have currently a whole year to prepare for it and that's my main goal as I want to land a good ppo through it So I really need to utilise next two months (holidays) Initially my plan was to do cp/dsa over the next two months rigorously with a side hustle like (web dev , ai/ML, or work on a project or something else) But I am confused apart from cp what exactly should I do ? I have got lot of mixed opinions so I am really confused right now Should I do web dev side by side or do ai/ML (currently i don't even know basics of any of these). My main goal is still competitive programing. What should I mainly target in these two months which would actually help me get a big leverage for internships/placements Thank you Once again if incase it's the wrong subreddit to ask such questions then please do direct me to the right one.",
+    "comments": [
+      {
+        "id": "t1_oo1r2na",
+        "author": "nian2326076",
+        "score": 2,
+        "body": "You're doing great with competitive programming, especially for quant roles. Since you're in your second year, keep focusing on algorithms and data structures. Try to boost your Codeforces rating to 1600+ to really stand out on your resume. For HFTs and quant roles, knowing some finance basics can be helpful. Check out some courses or books on financial mathematics. Internships are super important, so aim to get one at the end of your second year. Networking can really help too. Try connecting with seniors or industry professionals. They can offer insights and maybe even refer you to opportunities. For interview prep, resources like PracHub can be handy, but don't stress about it now. Just keep making steady progress. Good luck!"
+      },
+      {
+        "id": "t1_oogr5wg",
+        "author": "Worth-Prompt-6900",
+        "score": 1,
+        "body": "Thanka a lot"
+      },
+      {
+        "id": "t1_oofi4w3",
+        "author": "matchingengine",
+        "score": 1,
+        "body": "Most HFT\u2019s don\u2019t visit 2nd gen IIT\u2019s. For off campus offer - You need to get great cp ratings + target for DR. Also start preparing for quant aptitude. Few quant firms have also started hiring for ML researcher."
+      },
+      {
+        "id": "t1_oogr2oe",
+        "author": "Worth-Prompt-6900",
+        "score": 1,
+        "body": "What's DR?\nAlso can you list sources / websites which i should use for preparation?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1o4v1gg",
+    "subreddit": "quant_hft",
+    "title": "Quants Researchers/Devs & HFT Pros for a niche LinkedIn engagement group",
+    "score": 6,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1o4v1gg/quants_researchersdevs_hft_pros_for_a_niche/",
+    "selftext": "Hey everyone, I recently ran an experiment by joining a generic LinkedIn engagement group (or \"pod\"). The results on my post reach and views were immediate and significant\u2014the algorithm definitely rewards active engagement. However, the group consists of people from all industries, which often leads to generic comments like \"Great post!\" or \"Thanks for sharing.\" The engagement is broad, but not deep. The Idea: I'm creating a focused engagement group exclusively for professionals in the quantitative finance space. The purpose is to genuinely engage with each other's content through insightful comments and discussion, not just empty likes. How it Works: We share our new posts within a private group. We commit to engaging with each other's content (likes, and more importantly, insightful comments). Who This Is For: You work in a quantitative role (Quant Dev, Quant Researcher, Trader, etc.). You are an active content creator on LinkedIn. You have a solid, established network (ideally 20k+ followers) to maximize our collective impact. If you're interested in amplifying your professional presence and connecting with peers in a meaningful way, send me a DM with a link to your LinkedIn profile. Looking forward to connecting.",
+    "comments": []
+  },
+  {
+    "post_id": "t3_1pai994",
+    "subreddit": "quant_hft",
+    "title": "Query/advice from HFT folks for swe to HFT switch for low latency dev",
+    "score": 6,
+    "permalink": "https://old.reddit.com/r/quant_hft/comments/1pai994/queryadvice_from_hft_folks_for_swe_to_hft_switch/",
+    "selftext": "I have done EE B.tech from tier 1 IIT, with CG 9.3. Due to indecisiveness about goals in life etc it's been 2.5+ YOE with a pretty avg package but decent c++ level experience. Never did CP in college, loved Prob stat though. Is it possible if I grind CP (which I am enjoying since I started from a few weeks btw) now along with CS fundamentals and C++ advanced/high perf low latency self study and self project etc to get into HFTs like quadeye graviton or TRC? If possible please guide about things to focus on to maximise ROI and convert the chances, if not please help me save my time so that I can try for faang/other back end roles only, by giving honest and practical response. Also I wanted to clarify about the fact that indian HFTs apparently only looking for young/fresher lateral entries and being skeptic towards experienced ones.",
+    "comments": [
+      {
+        "id": "t1_nrvgytd",
+        "author": "RoofEnvironmental608",
+        "score": 1,
+        "body": "Dm"
+      }
+    ]
+  }
+]

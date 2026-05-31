@@ -1,0 +1,3002 @@
+[
+  {
+    "post_id": "t3_1mvid8s",
+    "subreddit": "cscareerquestions",
+    "title": "[Breaking] AWS Cloud Chief says \"replacing junior employees with AI is one of the dumbest things I've ever heard\". The tide is shifting back.",
+    "score": 6899,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1mvid8s/breaking_aws_cloud_chief_says_replacing_junior/",
+    "selftext": "Matt Garman, Amazon's cloud boss, has a warning for business leaders rushing to swap workers for AI: Don't ditch your junior employees. ... The Amazon Web Services CEO said on an episode of the \"Matthew Berman\" podcast published Tuesday that replacing entry-level staff with AI tools is \"one of the dumbest things I've ever heard.\" ... \"They're probably the least expensive employees you have. They're the most leaned into your AI tools,\" he said. ... \"How's that going to work when you go like 10 years in the future and you have no one that has built up or learned anything?\" https://www.businessinsider.com/amazon-cloud-chief-replacing-junior-staff-ai-matt-garman-2025-8 Slowly, day by day, the AI hype is dying out as companies realize it's basically just a faster google search. What are your thoughts?",
+    "comments": [
+      {
+        "id": "t1_n9qarv2",
+        "author": "sd2528",
+        "score": 1723,
+        "body": "Well the push wasn't coming from the people who hire and work with the juniors. They knew it was a terrible idea already."
+      },
+      {
+        "id": "t1_n9qei62",
+        "author": "",
+        "score": 525,
+        "body": "Most of the layoffs at the big tech firms arent em getting rid of people because ai does their jobs. It's budgets from other part of the business getting redirected to AI."
+      },
+      {
+        "id": "t1_n9qc9oh",
+        "author": "BeReasonable90",
+        "score": 478,
+        "body": "Yeah. It is those in charge of hiring trying this. Anyone that used AI knows it is very flawed and it is not a replacement."
+      },
+      {
+        "id": "t1_n9qfrer",
+        "author": "Ozymandias0023",
+        "score": 275,
+        "body": "CEOs will foam at the mouth for anything they think will reduce labor costs. We always need to examine claims like these with a grain of salt. I'm glad there are people in leadership that are pushing back."
+      },
+      {
+        "id": "t1_n9qca0j",
+        "author": "Silver-Parsley-Hay",
+        "score": 243,
+        "body": "I read an article about the response to GPT-5 which said that despite $3tr in investments, not a single AI firm has turned a profit. Read that again. Not ONE of these companies has been profitable so far. I agree that the bubble is deflating. It\u2019s becoming clear that the AI hype was just a marketing campaign to sell Search + autocorrect."
+      },
+      {
+        "id": "t1_n9qhwws",
+        "author": "Bard_and_Barbell",
+        "score": 179,
+        "body": "AWS' whole business model is to take junior professionals and throw them at the wall like eggs until some bounce off without breaking"
+      },
+      {
+        "id": "t1_n9qf70f",
+        "author": "MagicBobert",
+        "score": 172,
+        "body": "His boss is mostly paid in stock, and needs to spout such lies to pump up the stock price and thus his own compensation."
+      },
+      {
+        "id": "t1_n9ql0e6",
+        "author": "One-Scientist-6997",
+        "score": 166,
+        "body": "Big tech is pouring huge money into GPUs, data centers, and power, and cutting staff is the fastest way to balance the books and keep investors happy while they double down on AI. But if their big bets on AI revenue don\u2019t pan out, the whole thing risks turning into a bubble that could crash hard. I personally think we\u2019re already in a bubble."
+      },
+      {
+        "id": "t1_n9qcqz4",
+        "author": "inputwtf",
+        "score": 141,
+        "body": "Doesn't this contradict what his boss (Jassey) was saying a couple weeks/months ago?"
+      },
+      {
+        "id": "t1_n9qgtm5",
+        "author": "ProfessionalFirm6353",
+        "score": 129,
+        "body": "I\u2019m sure even tech CEOs knew it was crap. They just wanted to appeal to VCs to boost investments from them. When the Fed raised interest rates back in 2022, VCs were disincentivized from investing in tech companies because tech is a \u201chigh-risk (though high-value) asset\u201d. So tech companies had to position themselves as \u201cvisionaries making world-changing breakthroughs\u201d to keep VCs interested. And furthermore, in order to boost profits, investors also pressured tech companies to thin out their workforce. Those articles and press releases about \u201cAI boosting efficiency and replacing developers\u201d gloss over this side of the story."
+      },
+      {
+        "id": "t1_n9qe74a",
+        "author": "epelle9",
+        "score": 93,
+        "body": "I mean, uber took almost a decade to turn a profit, now its a profitable and thriving business, same as Youtube. Basically all companies in all industries (but specially in tech) suck in investment at first, it\u2019s not until they have a great product with market control that they start focusing on profit."
+      },
+      {
+        "id": "t1_n9qsdqq",
+        "author": "angelicosphosphoros",
+        "score": 89,
+        "body": "But if their big bets on AI revenue don\u2019t pan out, the whole thing risks turning into a bubble that could crash hard. Don't worry, they would just nationalize losses."
+      },
+      {
+        "id": "t1_n9qgnmc",
+        "author": "firecorn22",
+        "score": 77,
+        "body": "That's just how blitz scaling works, they pour any potential profit into R&D so they can get a large market share and then they'll start price gouging to get full profit. Amazon, Netflix, Facebook, Disney+ and Uber all did it and I think all of them besides maybe Uber is profitable, though who knows who in this race will become profitable later."
+      },
+      {
+        "id": "t1_n9qfeod",
+        "author": "ShaveTheTurtles",
+        "score": 74,
+        "body": "That's some mad survivor bias though.  It feels exactly like Silicon Valley right now."
+      },
+      {
+        "id": "t1_n9qgfgx",
+        "author": "twinelephant",
+        "score": 71,
+        "body": "From what I've heard from current Amazon devs, Amazon has a proprietary AI they have you use and it's trash. This can be interpreted many ways, but their takeaway is that they don't feel threatened by being replaced at all."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1m7zvlx",
+    "subreddit": "cscareerquestions",
+    "title": "No more tech hiring in India, Donald Trump tells Google, Microsoft and others to focus on Americans",
+    "score": 6181,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1m7zvlx/no_more_tech_hiring_in_india_donald_trump_tells/",
+    "selftext": "https://www.indiatoday.in/technology/news/story/no-more-tech-hiring-in-india-donald-trump-tells-google-apple-and-others-to-focus-on-americans-2760486-2025-07-24",
+    "comments": [
+      {
+        "id": "t1_n4vdxpj",
+        "author": "Patient-Bee5565",
+        "score": 3151,
+        "body": "Incoming r/csmajors MAGA arc"
+      },
+      {
+        "id": "t1_n4vdr4r",
+        "author": "TerriblyRare",
+        "score": 1957,
+        "body": "Yeah like he told Walmart not to pass tariffs onto customers and they raised prices by 51%. Why would they listen"
+      },
+      {
+        "id": "t1_n4vgfni",
+        "author": "hearty_barty",
+        "score": 909,
+        "body": "Microsoft posted 2,000 new positions in India hours after this announcement, as did Google and Cisco. The entry level manufacturing and coding jobs are never going to come back from China and India, all this is just speaking into the void."
+      },
+      {
+        "id": "t1_n4vr3kf",
+        "author": "chacharealrugged891",
+        "score": 466,
+        "body": "Just because he says it doesn't mean it will magically happen."
+      },
+      {
+        "id": "t1_n4vf9bq",
+        "author": "ComprehensiveRate953",
+        "score": 448,
+        "body": "This one I can get behind. The amount of friends telling me they're losing jobs to entire teams being offshore'd is ridiculous."
+      },
+      {
+        "id": "t1_n4wl6u5",
+        "author": "RapeVan",
+        "score": 312,
+        "body": "\"I hear by declare, NO MORE INFLATION!\""
+      },
+      {
+        "id": "t1_n4vk2d9",
+        "author": "ImportantDoubt6434",
+        "score": 266,
+        "body": "Vs what, roll over and die? I fucking hate Trump, but yeah American companies outsourcing salary jobs needs to be cracked down on the abuse is rampant."
+      },
+      {
+        "id": "t1_n4vg8tx",
+        "author": "zdrup15",
+        "score": 249,
+        "body": "Ah yes, because those companies will surely do what he says and this isn't just propaganda for dumb supporters to believe him..."
+      },
+      {
+        "id": "t1_n4vgtoq",
+        "author": "",
+        "score": 187,
+        "body": "Congrats! Trump has declared victory for developers. Tomorrow every CS graduate in US will have a 100k+ job. /s"
+      },
+      {
+        "id": "t1_n4wd42d",
+        "author": "PotatoPrince84",
+        "score": 179,
+        "body": "It\u2019s all bluster, he won\u2019t actually impose penalties"
+      },
+      {
+        "id": "t1_n4viuwz",
+        "author": "designgirl001",
+        "score": 164,
+        "body": "I'm interested to see what will happen if India gets xpensive and SE Asia and/or Africa or other countries become competitive. CS can be done from anywhere and is easy to get into. This isn't an 'India' thing anymore, other countries are catching up too."
+      },
+      {
+        "id": "t1_n4vli60",
+        "author": "bakochba",
+        "score": 161,
+        "body": "I'm confused by the last sentence While these changes may not have an immediate impact, they hint at a future where Indian IT professionals and outsourcing firms could face more hurdles if Trump returns to power. He's already in power?"
+      },
+      {
+        "id": "t1_n4wxbtg",
+        "author": "TotalInvestigator715",
+        "score": 155,
+        "body": "Theres been a few articles recently that have this language. I suspect AI mostly wrote it"
+      },
+      {
+        "id": "t1_n4vunj6",
+        "author": "MisterMittens64",
+        "score": 142,
+        "body": "It's because many of the politicians are either in or protecting the pedophiles in that ring"
+      },
+      {
+        "id": "t1_n4vrftl",
+        "author": "Bandolero101",
+        "score": 138,
+        "body": "LEGISLATION, NOT WORD SALAD"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ohnh7q",
+    "subreddit": "cscareerquestions",
+    "title": "[BREAKING] Amazon to layoff 30,000 corporate employees in one of the largest layoffs in its history",
+    "score": 5369,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1ohnh7q/breaking_amazon_to_layoff_30000_corporate/",
+    "selftext": "Amazon is planning to cut as many as 30,000 corporate jobs beginning Tuesday, as the company works to pare expenses and compensate for overhiring during the peak demand of the pandemic, according to three people familiar with the matter. The figure represents a small percentage of Amazon\u2019s 1.55 million total employees, but nearly 10% of the company\u2019s roughly 350,000 corporate employees. This would represent the largest job cut at Amazon since around 27,000 jobs were eliminated starting in late 2022. Managers of impacted teams were asked to undergo training on Monday for how to communicate with staff following notifications that will start going out via email tomorrow morning https://www.reuters.com/business/world-at-work/amazon-targets-many-30000-corporate-job-cuts-sources-say-2025-10-27/ What are your thoughts on this?",
+    "comments": [
+      {
+        "id": "t1_nlpby28",
+        "author": "Altruistic-Cattle761",
+        "score": 3628,
+        "body": "> compensate for overhiring during the peak demand of the pandemic My dudes it is Q4 2025. How much longer is this excuse going to hold water?"
+      },
+      {
+        "id": "t1_nlp5t16",
+        "author": "GIThrow",
+        "score": 2906,
+        "body": "Layoffs will continue until morale improves. Thank you for your attention on the matter."
+      },
+      {
+        "id": "t1_nlplysw",
+        "author": "macrohatch",
+        "score": 809,
+        "body": "I don't know but a lot of Redditors buy into it still"
+      },
+      {
+        "id": "t1_nlp743a",
+        "author": "HeckXX",
+        "score": 793,
+        "body": "Wonder how many more years companies are gonna be able to milk the pandemic overhiring excuse"
+      },
+      {
+        "id": "t1_nlp6pa8",
+        "author": "freshmozart",
+        "score": 626,
+        "body": "Amazon treats workers like shit. It doesn't mater if you're a highly educated developer or just a delivery driver. You're basically just a sacrificable pawn."
+      },
+      {
+        "id": "t1_nlpb1i4",
+        "author": "Unfamous_Trader",
+        "score": 593,
+        "body": "The better question is how many new job openings will Amazon have overseas"
+      },
+      {
+        "id": "t1_nlp74d0",
+        "author": "se-podcast",
+        "score": 539,
+        "body": "For some clarification on what \"corporate\" employees are being referred to here: The cuts beginning this week may impact a variety of divisions within Amazon, including human resources, known as People Experience and Technology, devices and services and operations, among others, the people said. I think we all are clear on HR, but \"devices and services\" appears to be this, specifically: https://www.aboutamazon.com/what-we-do/devices-services"
+      },
+      {
+        "id": "t1_nlpahr0",
+        "author": "Unfamous_Trader",
+        "score": 537,
+        "body": "I would happily be sacrificed if it means more share holder value generated. If billionaires get richer then it will eventually trickle down to me. Ronald Reagan said so and he was the POTUS and no POTUS has ever lied before"
+      },
+      {
+        "id": "t1_nlp72hq",
+        "author": "donniedarko5555",
+        "score": 509,
+        "body": "Is amazon pushing big new tech anymore? Seems like they staffed up for AWS and other things, I wonder if the company is moving towards the \"maintenance\" stage where they try to milk their existing products as long as possible. I feel like Apple is very similar at this point too. But yeah excited to see the innovation direction that takes off post AI bubble pop"
+      },
+      {
+        "id": "t1_nlpppr7",
+        "author": "Illustrious-Pound266",
+        "score": 503,
+        "body": "It's copium. The mental gymnastics people go through to rationalize this as a unique thing when in fact, a shit job market with layoffs has been the normal for about 3 years now."
+      },
+      {
+        "id": "t1_nlp7wqx",
+        "author": "Lower_Peril",
+        "score": 464,
+        "body": "It's always seems to be HR, Alexa and devices etc. When they start laying off in AWS is when you know shit has to hit the the fan"
+      },
+      {
+        "id": "t1_nlp83jt",
+        "author": "ForsookComparison",
+        "score": 354,
+        "body": "Any idea what percentage of this is SWE/Engineering? They're counted as corporate but I've heard there was rampant empire growth problems in the more corporatey types (sales, marketing, legal) of orgs as well."
+      },
+      {
+        "id": "t1_nlp5q51",
+        "author": "Shanks1708",
+        "score": 334,
+        "body": "Diabolical, I mean the rich gets richer and people help to build the system and infrastructure gets tossed. We are basically pawns, just before Christmas also. \nMade over 60billion in profit last year, this shows never be loyal to a company."
+      },
+      {
+        "id": "t1_nlp8by5",
+        "author": "Imminent1776",
+        "score": 289,
+        "body": "This is bad news for anyone looking for a job, not just Amazon folks. You'll be competing with thousands of laid off FAANG engineers for jobs."
+      },
+      {
+        "id": "t1_nlp8xk1",
+        "author": "NebulousNitrate",
+        "score": 259,
+        "body": "Morale within Amazon was said to be horrible even before all of these layoffs. I can't imagine what it must be like now. Sadly, it's going to set off waves of more layoffs elsewhere. We've seen time and time again when one large tech company announces major layoffs, it's not long before others follow them. I think in a way it's seen as a strategy to make employees think more that's it's an industry problem rather than their company's problem."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mrujpf",
+    "subreddit": "cscareerquestions",
+    "title": "4 years at Big tech. Being likeable beats being productive every single time",
+    "score": 4990,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1mrujpf/4_years_at_big_tech_being_likeable_beats_being/",
+    "selftext": "TL;DR: Grinding harder made me less productive AND less likeable. Being calm is the actual cheat code. I'm 4 years deep at a big tech company, and work-life balance has been absolutely brutal lately. For the past year, I went full psycho mode\u2014trying to crush every single task, racing through my backlog, saying yes to everything. Plot twist: It made me objectively worse at my job. Here's what I didn't expect: When you're constantly in panic mode, your nervous system goes haywire. You become that coworker who's stressed, short with people, and honestly just not fun to be around. And here's the kicker\u2014being pleasant to work with is literally the most important skill in Big Tech. Think about it: The people who get shit done aren't grinding alone in a corner. They're the ones other people WANT to help. They get faster code reviews. They get invited to the important meetings. They get context shared with them freely. When you're stressed and snappy? People avoid you. Your PRs sit in review hell. You get excluded from decisions. You end up working 2x harder for half the impact. The counterintuitive solution: Embrace strategic calm. I started doing less. I stopped panic-working. I took actual lunch breaks. I said \"I'll get back to you tomorrow\" instead of dropping everything. Result? My productivity went UP. My relationships improved. My manager started praising my \"executive presence.\" In Big Tech, your nervous system IS your competitive advantage. Stay calm, stay likeable, and watch opportunities come to you instead of chasing them down like a maniac. Anyone else discover this the hard way?",
+    "comments": [
+      {
+        "id": "t1_n909lp0",
+        "author": "Anaata",
+        "score": 1225,
+        "body": "Pretty sure I've said this before, but I'm convinced that my social skills secured the position I have in big tech. I was able to have an interesting conversation with the HM during the final interview. And I have a lot of social anxiety, but had a job in the past that required I talk to people a lot on the phone. So even tho I may be awkward in social settings, my work relationships are usually much easier to maintain. Then again, I like playing politics at work, I think it's kinda fun. But here are some additional tips I'd recommend: audibly repeat back your understanding of what someone else wants you to do to avoid confusion Don't complain about co workers, it's fine to ask your boss for feedback on how to handle a coworker, but don't come across as attacking them. Only bitch upwards, it's not a good look if you're complaining about bosses to people less senior than you,but when you do complain about something to your boss, offer solutions praise often, praise early - if someone has a good idea, tell them. This avoids coming across like a contrarian and shows you're open to other people's ideas. admit when you don't know something - no one likes a no it all especially about matters you clearly don't understand. This gives your thoughts and opinions more weight when you do express them. Use words like \"We\", \"Us\", & \"As a team\", instead of \"you created this bug on this PR\", \"we created this bug, and we missed it during the PR\", \"what if we need to add  X functionality?\" form relationships with users (if non public facing software) and stakeholders. If you have a bug you're investigating, just tell the user, this builds more trust and good will. when debating about designs/patterns/architecture, just don't say \"this isn't good because X, Y, Z\", ask people questions in a way that it will lead them to the conclusion you want them to make. \"Will this work under this use case?\", \"what if the user does X?\", etc. ask your manager how other folks are doing, \"how is John doing lately? He seems a bit stressed out or anxious\". Shows you're aware of people's emotions and you're concerned about others. I feel like there are more, but this is what I've found."
+      },
+      {
+        "id": "t1_n904um1",
+        "author": "horizon_games",
+        "score": 572,
+        "body": "Almost everyone on earth likes a human written post more than AI Stop contributing to the dead internet with slop"
+      },
+      {
+        "id": "t1_n903c6o",
+        "author": "ArchitectAces",
+        "score": 556,
+        "body": "Thanks ai"
+      },
+      {
+        "id": "t1_n90d7rt",
+        "author": "sailhard22",
+        "score": 408,
+        "body": "I spent six years at FAANG. I had glowing performance reviews for the first 5 Transfer to a new team. Manager and I didn\u2019t get along because he overloaded me with work. Unsurprisingly, I underperformed the last year"
+      },
+      {
+        "id": "t1_n904t7x",
+        "author": "kurinjifesto",
+        "score": 349,
+        "body": "This is better."
+      },
+      {
+        "id": "t1_n90qy5k",
+        "author": "IBenBad",
+        "score": 305,
+        "body": "Excellent. I would add, give credit where credit is due. If someone helped you, mention it in team meetings. It doesn\u2019t detract from your accomplishments and builds trust and favor with others."
+      },
+      {
+        "id": "t1_n907fz4",
+        "author": "Western_Objective209",
+        "score": 289,
+        "body": "Yes, that is better. You're outsourcing your personality to AI"
+      },
+      {
+        "id": "t1_n903sgd",
+        "author": "NeedTheSpeed",
+        "score": 225,
+        "body": "That's what I've always told friends who wanted to get into the tech: social skills/personality >>> tech skills Almost every single time it proves true unless you are so exceptional that others have to carry on with your lack of social abilities but let's be honest - most people arent. It's much easier to bump up in terms of tech skill than fixing fucked up personality"
+      },
+      {
+        "id": "t1_n905zos",
+        "author": "TagProNoah",
+        "score": 120,
+        "body": "If you wrap your writing in AI no one will know if it\u2019s actually based on what you think or if you just told it \u201ccome up with an r/cscareerquestions post\u201d. I like this one better :)"
+      },
+      {
+        "id": "t1_n9047fc",
+        "author": "soulsintention",
+        "score": 112,
+        "body": "Just asked it to make it more digestable do you like this instead? I'm at big tech, been here for around 4 years, and lately WLB was getting insane. For past year, I've been going so hard, trying to complete as many tasks as possible, but I realized it's actually very unproductive. When you're trying to do so much, your nervous system gets overwhelmed, and you start to become someone who isn't as pleasant to work with. and to survive in this big tech hell, we need to be pleasant to work with, because people who are pleasant to worth with get more done by scaling through other people. So if you panic, it's the worst thing you can do. instead do the counter intuitive thing and be relaxed."
+      },
+      {
+        "id": "t1_n9140sp",
+        "author": "pickyourteethup",
+        "score": 100,
+        "body": "Absolutely this. It also makes you look humble and competent. Everyone wins."
+      },
+      {
+        "id": "t1_n90oep8",
+        "author": "Jolly-joe",
+        "score": 87,
+        "body": "I personally have seen the exact opposite in my career, 14 YoE. Guys who were notorious assholes but great at what they did rose fast, one is even a distinguished engineer in his early 30s. Nice, calm people were seen as happy where they were. Squeaky wheels got the grease, in this case, raises and promos. Could just be cultural though"
+      },
+      {
+        "id": "t1_n904yhk",
+        "author": "Horror_Response_1991",
+        "score": 77,
+        "body": "Wow so just like everything else in life"
+      },
+      {
+        "id": "t1_n909q1k",
+        "author": "____candied_yams____",
+        "score": 70,
+        "body": "This is better. Much less clanker."
+      },
+      {
+        "id": "t1_n90eg1r",
+        "author": "chipper33",
+        "score": 69,
+        "body": "This is the way. This is straight up just a guide for navigating any human organization, not just \u201ctech\u201d alone. Well done"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1m1uw9v",
+    "subreddit": "cscareerquestions",
+    "title": "I just watched an AI agent take a Jira ticket, understand our codebase, and push a PR in minutes and I\u2019m genuinely scared",
+    "score": 4746,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1m1uw9v/i_just_watched_an_ai_agent_take_a_jira_ticket/",
+    "selftext": "I\u2019m a professional software engineer, and today something happened that honestly shook me. I watched an AI agent, part of an internally built tool our company is piloting, take in a small Jira ticket. It was the kind of task that would usually take me or a teammate about an hour. Mostly writing a SQL query and making a small change to some backend code. The AI read through our codebase, figured out the context, wrote the query, updated the code, created a PR with a clear diff and a well-written description, and pushed it for review. All in just a few minutes. This wasn\u2019t boilerplate. It followed our naming conventions, made logical decisions, and even updated a test. One of our senior engineers reviewed the PR and said it looked solid and accurate. They would have done it the same way. What really hit me is that this isn\u2019t some future concept. This AI tool is being gradually rolled out across teams in our org as part of a pilot program. And it\u2019s already producing results like this. I\u2019ve been following AI developments, but watching it do my job in my codebase made everything feel real in a way headlines never could. It was a ticket I would have knocked out before lunch, and now it\u2019s being done faster and with less effort by a machine. I\u2019m not saying engineers will be out of jobs tomorrow. But if an AI can already handle these kinds of everyday tickets, we\u2019re looking at serious changes in the near future. Maybe not in years, but in months. Has anyone else experienced something similar? What are you doing to adapt? How are you thinking about the future of our field?",
+    "comments": [
+      {
+        "id": "t1_n3k1rt1",
+        "author": "xFallow",
+        "score": 2978,
+        "body": "Insane that people have this experience when I can barely get copilot to write tests for me It does seem better at javascript and react than golang though so it might be technology dependent"
+      },
+      {
+        "id": "t1_n3k4cq4",
+        "author": "zelmak",
+        "score": 1579,
+        "body": "Do you have the worlds best written Jira Tickets and smallest repo?"
+      },
+      {
+        "id": "t1_n3k1q50",
+        "author": "averyycuriousman",
+        "score": 710,
+        "body": "Which AI model was this based on? Claude?"
+      },
+      {
+        "id": "t1_n3keo1n",
+        "author": "WeHaveTheMeeps",
+        "score": 640,
+        "body": "My experience changes day to day. One day it\u2019s doing shit described in the post. Other days? It falls flat\u2026"
+      },
+      {
+        "id": "t1_n3k7cdr",
+        "author": "StackOwOFlow",
+        "score": 539,
+        "body": "your company is ok with egressing internal data to Anthropic?"
+      },
+      {
+        "id": "t1_n3k2qh8",
+        "author": "pingveno",
+        "score": 504,
+        "body": "The history of our industry is that when we get get better tools that increase our productivity, they ask for more features. And remember, this is a small Jira ticket. A small, discrete task like this is where AI shines currently. I doubt it does as well for areas that require design and architecture decisions with input from stakeholders."
+      },
+      {
+        "id": "t1_n3l0piv",
+        "author": "HiddenStoat",
+        "score": 484,
+        "body": "Ah, so if I spent another 3 hours writing my JIRA ticket, I can save 30 minutes on the coding? Sign me up!"
+      },
+      {
+        "id": "t1_n3ka9q7",
+        "author": "Tall-Appearance-5835",
+        "score": 393,
+        "body": "you cant self host anthropic models. your company is probably using it via aws which has established enterprise privacy agreements"
+      },
+      {
+        "id": "t1_n3k45n9",
+        "author": "ser_davos33",
+        "score": 352,
+        "body": "I believe it was yes"
+      },
+      {
+        "id": "t1_n3kdwez",
+        "author": "CaramelCapital1450",
+        "score": 323,
+        "body": "Me too.  It was amazing. None of it worked but the speed was incredible."
+      },
+      {
+        "id": "t1_n3k6iwv",
+        "author": "Manodactyl",
+        "score": 286,
+        "body": "Here I am where I can\u2019t even get a ticket written that I can understand what is being asked of me to be done."
+      },
+      {
+        "id": "t1_n3k1l0w",
+        "author": "AiexReddit",
+        "score": 271,
+        "body": "That sounds awesome.  I have like 100 nice-to-have-but-not-necessary tech debt tickets that i pretend we'll get to someday but i know we wont."
+      },
+      {
+        "id": "t1_n3k8qno",
+        "author": "spoopypoptartz",
+        "score": 269,
+        "body": "i believe that Claude has an option to host it on your own servers. like gemini. At least that\u2019s what my company does."
+      },
+      {
+        "id": "t1_n3k28mq",
+        "author": "AcordeonPhx",
+        "score": 264,
+        "body": "Embedded land is relatively sheltered, especially aviation with regulations"
+      },
+      {
+        "id": "t1_n3k6gyb",
+        "author": "I-AM-NOT-THAT-DUCK",
+        "score": 250,
+        "body": "Can confirm, using AI in a massive legacy C++ codebase and it definitely isnt all sunshine and rainbows."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mcop22",
+    "subreddit": "cscareerquestions",
+    "title": "I quit CS and I\u2019m 300% happier.",
+    "score": 4541,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1mcop22/i_quit_cs_and_im_300_happier/",
+    "selftext": "I slaved 2 years in a IT dev program. 3 internships, hired full time as dev (then canned for being too junior), personal projects with real users, networking 2x per month at meetups, building a personal brand. Interviewing at some companies 5x times and getting rejected for another guy, 100\u2019s of rejections, tons of ghost jobs and interviews with BS companies, interned for free at startups to get experience 75% which are bankrupt now, sent my personal information out to companies who probably just harvested my data now I get a ton of spam calls. Forced to grind Leetcode for interviews, and when I ask the senior if he had to do this he said \u201c nah I never had to grind Leetcode to start in 2010. Then one day I put together a soft skill resume with my content/sales/communications skills and got 5 interviews in the first week. I took one company for 4 rounds for a sales guy job 100% commission selling boats and jet ski\u2019s. They were genuinely excited about my tech and content and communication skills. They offered me a job and have a proper mentorship pipeline. I was hanging out with family this last week and my little 3 year old nephew was having a blast. And I just got to thinking\u2026 This little guy doesn\u2019t give 2 shits how hard I am grinding to break into tech. Life moves in mysterious ways. I stopped giving a shit and then a bunch of opportunities came my way which may be better suited for me in this economy. Life is so much better when you give up on this BS industry. To think I wanted to grind my way into tech just to have some non-technical PM dipshit come up with some stupid app idea management wants to build. Fuck around and find out. That\u2019s what I always say. Edit *** I woke up to 1 million views on this. I\u2019m surprised at the negative comments lol. Life is short lads. It takes more energy to be pressed than to be stoic. Thanks to everyone who commented positively writing how they could relate to my story. Have a great day \ud83d\udc4d",
+    "comments": [
+      {
+        "id": "t1_n5vfpox",
+        "author": "Al_Pallll",
+        "score": 1449,
+        "body": "Posts like these let me breathe a little easier. I feel like we all get tunnel vision sometimes. It\u2019s good to know that there are other paths available."
+      },
+      {
+        "id": "t1_n5vg15t",
+        "author": "Bonzie_57",
+        "score": 840,
+        "body": "I quit selling Jet Skis and Boats for 100% commission for CS and I\u2019m 500% happier"
+      },
+      {
+        "id": "t1_n5wg6m5",
+        "author": "Glum_Worldliness4904",
+        "score": 739,
+        "body": "I graduated back in 2013 with degree in math (Algerbraic geometry) and had to start Software Engineering career because of financial issues. And what\u2019s surprised me was that the interview at my first Junior (not an internship) PHP Dev position with literally 0 (zero) experience was just like \u201cHmmm, you look like you\u2019re a good guy, you\u2019re hired\u201d. IDK how we ended up with all that ridiculous bs with multiple LC hard round and design twitter from scratch in 1 hour just to get a shitty internship."
+      },
+      {
+        "id": "t1_n5viskj",
+        "author": "olduvai_man",
+        "score": 455,
+        "body": "There is no way in hell I would leave the salary and benefits of this career to be on commission selling boats and jet-ski's lol."
+      },
+      {
+        "id": "t1_n5vlawl",
+        "author": "Adept_Carpet",
+        "score": 272,
+        "body": "I've seen the ending of Office Space (person leaves tech for a seemingly menial job and is much happier) play out several times with people close to me. There's a reason they made a movie based on that concept 26 years ago, because even then it was a thing that happened all the time. You can decide to do what you love from the beginning, or try to do what you think you're supposed to do until finally the misery becomes too much."
+      },
+      {
+        "id": "t1_n5vivyf",
+        "author": "",
+        "score": 188,
+        "body": "I took a break and just did doordash and xans for a year and was 1000% happier Like thing is probably only do it for a year though - also it\u2019s not for the weak so maybe not do it"
+      },
+      {
+        "id": "t1_n5vnmgm",
+        "author": "RevolutionaryGain823",
+        "score": 132,
+        "body": "Yeah I\u2019m happy for OP but for most people that would be a terrible idea lmao If you\u2019re a 20 something with no major debt or family obligations happy to house share with friends (or randos) OPs plans could be a cool way to have some adventures and develop useful life skills (sales/communications). If you\u2019re a 40 something with a mortgage, wife and kids it\u2019s an absolutely terrible idea. That might seem like stating the painfully obvious but I\u2019ve seen guys get sucked in by obvious MLMs and abandon their careers/destroy their families lives"
+      },
+      {
+        "id": "t1_n5vicg4",
+        "author": "turnwol7",
+        "score": 126,
+        "body": "I read this comment and I\u2019m 8000% happier so yea\u2026"
+      },
+      {
+        "id": "t1_n5y8m4a",
+        "author": "Baruse",
+        "score": 112,
+        "body": "I graduated in May with a degree in Math and CS and my dad\u2019s side of family don\u2019t understand why I haven\u2019t found a job yet. They also have been trying to get me to apply to financial institutions because of the math part of my degree, but I keep explaining that the math I learned is highly abstract and not related to finance at all. I love them, but it\u2019s a frustrating loop to explain everything. Edit:\nI appreciate all the responses! I\u2019m gonna start applying to finance related positions and see where that goes."
+      },
+      {
+        "id": "t1_n5vfp77",
+        "author": "",
+        "score": 107,
+        "body": "So happy for you, CS is not worth it anymore, if I am back in time, I would choose a different path"
+      },
+      {
+        "id": "t1_n5w1yen",
+        "author": "merRedditor",
+        "score": 100,
+        "body": "The scariest part about Office Space is how little has changed since it was released in the 1990s."
+      },
+      {
+        "id": "t1_n5vjoum",
+        "author": "function3",
+        "score": 100,
+        "body": "A whole lot of words to describe doing everything but getting the most basic requirement for 99% of jobs - a bachelors degree."
+      },
+      {
+        "id": "t1_n5vmhi3",
+        "author": "scungilibastid",
+        "score": 88,
+        "body": "Man I remember my early 20s. Lol"
+      },
+      {
+        "id": "t1_n5vxvsx",
+        "author": "onyxengine",
+        "score": 82,
+        "body": "Rofl tech burnout to leisurely drug use pipeline is real"
+      },
+      {
+        "id": "t1_n5vntce",
+        "author": "m0viestar",
+        "score": 81,
+        "body": "This post sounds like they burned them selves out before they even had a real job and probably have the wrong attitude for CS anyway especially if they're stoked about a sales gig..... Almost no one I've worked with, or for networks 2x a month or cares about building a \"personal brand\".\u00a0 If I was hiring you and you told me you had a personal brand or dropped an Instagram handle on a resume I'd probably pass. I honestly can't tell if this is a parody post or not...."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mk8zj6",
+    "subreddit": "cscareerquestions",
+    "title": "The fact that ChatGPT 5 is barely an improvement shows that AI won't replace software engineers.",
+    "score": 4410,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1mk8zj6/the_fact_that_chatgpt_5_is_barely_an_improvement/",
+    "selftext": "I\u2019ve been keeping an eye on ChatGPT as it\u2019s evolved, and with the release of ChatGPT 5, it honestly feels like the improvements have slowed way down. Earlier versions brought some pretty big jumps in what AI could do, especially with coding help. But now, the upgrades feel small and kind of incremental. It\u2019s like we\u2019re hitting diminishing returns on how much better these models get at actually replacing real coding work. That\u2019s a big deal, because a lot of people talk like AI is going to replace software engineers any day now. Sure, AI can knock out simple tasks and help with boilerplate stuff, but when it comes to the complicated parts such as designing systems, debugging tricky issues, understanding what the business really needs, and working with a team, it still falls short. Those things need creativity and critical thinking, and AI just isn\u2019t there yet. So yeah, the tech is cool and it\u2019ll keep getting better, but the progress isn\u2019t revolutionary anymore. My guess is AI will keep being a helpful assistant that makes developers\u2019 lives easier, not something that totally replaces them. It\u2019s great for automating the boring parts, but the unique skills engineers bring to the table won\u2019t be copied by AI anytime soon. It will become just another tool that we'll have to learn. I know this post is mainly about the new ChatGPT 5 release, but TBH it seems like all the other models are hitting diminishing returns right now as well. What are your thoughts?",
+    "comments": [
+      {
+        "id": "t1_n7gy6dv",
+        "author": "Due_Satisfaction2167",
+        "score": 1436,
+        "body": "As before, it\u2019s essentially like paying a small amount of money to have the gestalt mind of Stack Overflow write some code for you."
+      },
+      {
+        "id": "t1_n7h1hmr",
+        "author": "raccoonDenier",
+        "score": 808,
+        "body": "You have to understand that a lot of decisions aren\u2019t based on how good AI is. It just has to be good enough to convince the non-technical person making decisions at an organization. As you can probably guess, the bar there is pretty low."
+      },
+      {
+        "id": "t1_n7h3ou4",
+        "author": "deviantbono",
+        "score": 299,
+        "body": "The model would generate features we hadn't asked for, make shifting assumptions around gaps in the requirements, and declare success even when tests were failing. So... exactly like human engineers?"
+      },
+      {
+        "id": "t1_n7gxjgr",
+        "author": "bluegrassclimber",
+        "score": 259,
+        "body": "My thoughts are that Claude-4-sonnet is really good and way better than chatgpt 4. I haven't tried chatgpt 5 yet. I see it's available though, so I'm going to try it for my next story. I use these models with Cursor AI and am a huge fan. I find coding way more relaxing. Nonetheless, one can't simply be a BA and use it, I still need to be a senior developer IMO to harness it correctly. EDIT: after trying chatgpt 5, i like claude more. ChatGPT 5 was doing so crazy shit and churning and churning, it can't be trusted."
+      },
+      {
+        "id": "t1_n7jwsfu",
+        "author": "ThePiousInfant",
+        "score": 251,
+        "body": "AI ultimately thrives at convincing non-experts in a given field that it is an expert in that field."
+      },
+      {
+        "id": "t1_n7gyvot",
+        "author": "dowcet",
+        "score": 222,
+        "body": "A helpful assessment of where we are right now: https://martinfowler.com/articles/pushing-ai-autonomy.html"
+      },
+      {
+        "id": "t1_n7h9dhk",
+        "author": "Due_Satisfaction2167",
+        "score": 189,
+        "body": "\u201cYou never need to consider how this works with multiple instances, right?\u201d"
+      },
+      {
+        "id": "t1_n7h57ho",
+        "author": "LetgomyEkko",
+        "score": 178,
+        "body": "Except it forgets what it just wrote for you after 5 min"
+      },
+      {
+        "id": "t1_n7hb97e",
+        "author": "Stock-Time-5117",
+        "score": 170,
+        "body": "I've had juniors get salty because they need to write automated tests. When they write the tests they find bugs and assume the test itself is wrong. One even bypassed reviews by adding outside approvers and put a bug straight into prod. They used AI heavily."
+      },
+      {
+        "id": "t1_n7hjyqr",
+        "author": "zacce",
+        "score": 169,
+        "body": "how does 20% more efficient translate to just needing 20% of the workforce? Is that some AI math?"
+      },
+      {
+        "id": "t1_n7hdnsp",
+        "author": "kitsnet",
+        "score": 145,
+        "body": "The ones you wouldn't hire, yes."
+      },
+      {
+        "id": "t1_n7h9lwp",
+        "author": "UnrelentingStupidity",
+        "score": 135,
+        "body": "Sooo.. exactly like human engineers?"
+      },
+      {
+        "id": "t1_n7gxqcv",
+        "author": "Foreseerx",
+        "score": 105,
+        "body": "Every technology has its inherent limitations that are not possible to overcome. The biggest issues for me with LLMs is their inaccuracy and their inability to solve non-trivial (read: something that's not googleable/something that the model hasn't trained on) tasks or even sometimes help in those tasks. Those stem from the inherent limitations of LLMs as a technology and I don't really think they're possible to completely get over in any way that's feasible financially."
+      },
+      {
+        "id": "t1_n7hdv9s",
+        "author": "dark180",
+        "score": 94,
+        "body": "That\u2019s the thing  ai doesn\u2019t need to replace a dev directly but if it makes them 20% percent more efficient, that means at some point an executive will have to make a decision. I can deliver the same with 20% less of our workforce, save the company millions and get a fat bonus. Or They could allocate those to accelerate other areas. Now imagine this happening at scale over the largest companies."
+      },
+      {
+        "id": "t1_n7l7ut0",
+        "author": "digital_soapbox",
+        "score": 82,
+        "body": "This reminds me of what Elon Musk has built his empire on."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lpwy62",
+    "subreddit": "cscareerquestions",
+    "title": "Microsoft to lay off about 9,000 employees in latest round",
+    "score": 3586,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1lpwy62/microsoft_to_lay_off_about_9000_employees_in/",
+    "selftext": "https://www.seattletimes.com/business/microsoft/microsoft-to-lay-off-as-many-as-9000-employees-in-latest-round/ Microsoft is kicking off its fiscal year by laying off thousands of employees in the largest round of layoffs since 2023, the company confirmed Wednesday. In an ongoing effort to streamline its workforce, Microsoft said that as much as 4%, or roughly 9,000, of the company\u2019s employees could be affected by Wednesday\u2019s layoffs. It\u2019s unclear how many are based in Washington. The move follows two waves of layoffs in May and June, which saw Microsoft fire more than 6,000 employees, almost 2,300 of whom were based in Washington. Microsoft had over 228,000 employees worldwide as of June 2024.",
+    "comments": [
+      {
+        "id": "t1_n0y47c5",
+        "author": "spacecowboy0117",
+        "score": 1185,
+        "body": "They have nothing new to offer"
+      },
+      {
+        "id": "t1_n0y4zdv",
+        "author": "",
+        "score": 790,
+        "body": "And yet made $26 billion with about a 33% profit margin. So much of their shit is way overpriced but since monopoly enforcement is a joke they will continue to rake it in."
+      },
+      {
+        "id": "t1_n0y4xtr",
+        "author": "jfcarr",
+        "score": 765,
+        "body": "So, I suppose Microsoft India is hiring big time."
+      },
+      {
+        "id": "t1_n0y879d",
+        "author": "justleave-mealone",
+        "score": 441,
+        "body": "Used to be a dream to work at FAANG but now it doesn\u2019t seem stable at all. Plus the added pressure of always fearing you\u2019re going to be laid off for some arbitrary reason can\u2019t be good either."
+      },
+      {
+        "id": "t1_n0yfwcn",
+        "author": "OccasionalGoodTakes",
+        "score": 392,
+        "body": "It\u2019s almost entirely operations, marketing, and sales. Tech was like 200 or something. Lots of the jobs are in Europe. I think the Washington jobs removed are 350."
+      },
+      {
+        "id": "t1_n0y57zt",
+        "author": "Illustrious-Pound266",
+        "score": 389,
+        "body": "I still remember back in 2022 when people were insisting that market will improve in 2-3 years lol. I think it's time to accept that this is not temporary but something deeper. There's been a huge drive for \"efficiency\" as companies cut workforce to do more with less. It's been a big cultural shift."
+      },
+      {
+        "id": "t1_n0y74kv",
+        "author": "PictureDue3878",
+        "score": 359,
+        "body": "How many programmers vs sales/recruiter?"
+      },
+      {
+        "id": "t1_n0yh0g6",
+        "author": "doktorhladnjak",
+        "score": 261,
+        "body": "You can get laid off at any size or prestige level of company. Might as well take the better money and perks while you can."
+      },
+      {
+        "id": "t1_n0y8n30",
+        "author": "Crazypyro",
+        "score": 196,
+        "body": "It's not the fact that they have no competition.... It's the fact that they own 80% of huge markets. The only area they don't have dominant market share is cloud. They've proven they can get take over huge software markets in short time. Look at teams. Look at copilot roll out."
+      },
+      {
+        "id": "t1_n0y5khq",
+        "author": "DynamicHunter",
+        "score": 192,
+        "body": "Genuinely, what do they have a monopoly on that other companies don\u2019t offer? Windows vs Mac. Office 365 vs Google cloud services. Azure vs AWS. Teams vs Slack. Xbox vs PlayStation."
+      },
+      {
+        "id": "t1_n0y7w7a",
+        "author": "Thin_Vermicelli_1875",
+        "score": 148,
+        "body": "The fact it\u2019s been 3 years and layoffs are still happening left and right and the job market is still terrible I legitimately don\u2019t see this getting better for at least another 3-4 years, if at all. CS enrollments are still at near all time highs, companies are hiring people outside of the US, etc."
+      },
+      {
+        "id": "t1_n0ydkwt",
+        "author": "PomegranateBasic7388",
+        "score": 142,
+        "body": "Geez how many do they still can layoff? It's like a daily newspaper news"
+      },
+      {
+        "id": "t1_n0y63uz",
+        "author": "Shawn_NYC",
+        "score": 137,
+        "body": "Dot com bust 2.0"
+      },
+      {
+        "id": "t1_n0z3399",
+        "author": "pheonixblade9",
+        "score": 122,
+        "body": "FAANG stress and pressure is on another level. source: microsoft, google, meta alum"
+      },
+      {
+        "id": "t1_n0yk6d8",
+        "author": "Butthole_Alamo",
+        "score": 118,
+        "body": "Chevron is also having massive rounds of layoffand is transferring the work to India. Covid made remote work possible, now companies are realizing they can transfer all work to India for far cheaper. Before it was just call centers and unskilled labor, but now it\u2019s the data science and IT jobs. AI, or at least the perception of what it can achieve, is also causing employers to layoff their Covid-glutted workforce. https://www.thelayoff.com/chevron"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1r5my44",
+    "subreddit": "cscareerquestions",
+    "title": "It is trivial to catch people cheating now, please don't cheat",
+    "score": 3096,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1r5my44/it_is_trivial_to_catch_people_cheating_now_please/",
+    "selftext": "I work for a full remote company that pays great, like 200K+ cash comp. Recently the number of people that try to use int*rviewc*der or other tools to pass has risen. Thing is, these tools don't even work anymore. 1.I ask candidate to share entire desktop on zoom. I ask them to go to zoom settings -> screen share -> advanced. In screen capture mode, I ask them to select Advanced Capture Without Window Filtering And then the cheating UI would suddenly pop up for some candidates. I thank them for their time but tell them our company policy on cheating, and drop off the call. Worst part? Our question isn't even a leetcode hard, we don't expect perfection and you can pass even without solving everything. We care more about communication than writing perfect code. So just a tip to candidates out there, this is how you can easily get caught. Don't cheat.",
+    "comments": [
+      {
+        "id": "t1_o5k1rvo",
+        "author": "MEDICARE_FOR_ALL",
+        "score": 1141,
+        "body": "\"Not even a leetcode hard\" like that should be a real qualification. Any company asking leetcode hards for senior level doesn't deserve the talent they get."
+      },
+      {
+        "id": "t1_o5jzo9h",
+        "author": "zacce",
+        "score": 1029,
+        "body": "Q. From your experience, what were the cheater's resumes like?"
+      },
+      {
+        "id": "t1_o5k5f88",
+        "author": "lizardturtle",
+        "score": 483,
+        "body": "I'm wondering this too!! If they're willing to fake their abilities, who's to say they're not faking their resumes \ud83d\udc40"
+      },
+      {
+        "id": "t1_o5k5h20",
+        "author": "phoenixmatrix",
+        "score": 429,
+        "body": "Some of the tools run on your phone and pick up the screen via camera and microphone. You can also use capture cards and various other tricks. Gamers have done this since the dawn of time, so they can cheat while streaming on Twitch or whatever. There's nothing you can do to catch it. What we do is tailor our interview questions and process to be cheat proof. You can't cheat with tools and AI if I tell you they're allowed. Go ahead, use them. I don't ask leetcode though."
+      },
+      {
+        "id": "t1_o5ka517",
+        "author": "Tefouu",
+        "score": 385,
+        "body": "Worst part? Our question isn't even a leetcode hard, we don't expect perfection and you can pass even without solving everything. We care more about communication than writing perfect code. That's great to hear if it's true. In my last coding interview, I got rejected with the feedback that: \"You were able so solve the challenge and we were really impressed with your strong communication and decision making. However, we will not be following with your process since your code solution was not the most optimized possible.\""
+      },
+      {
+        "id": "t1_o5k5yqd",
+        "author": "AgitatedHearing653",
+        "score": 296,
+        "body": "My first thought as well.  Leetcode has always been ridiculous."
+      },
+      {
+        "id": "t1_o5k4sjc",
+        "author": "gAWEhCaj",
+        "score": 259,
+        "body": "Honestly I can't blame interviewers for cheating. I don't condone cheating in general but you and I know very well that our interviews are fundamentally broken to begin with, even before AI. They are designed intentionally to focus on CS concepts but not actual day-to-day software dev work. Examining someone on whether they can solve a leetcode style question tells you nothing about a candidate's ability to write and ship software. I have met people who work at FAANG that have been able to get there purely by memorizing leetcode questions but not all of them are actually good engineers and a good amount of them have never shipped anything. The people who are using these cheating tools are just shining the light on the bigger problem here which is that our interviews are fundamentally broken and should be redesigned to actually examine someone's engineering skills and foundations. If I am hiring an engineer to work on web apps, I would want them to know skills related to that not whether they can invert a binary search tree. I expect this trend of cheating to continue growing until companies begin to realize how stupid the current interview structure is"
+      },
+      {
+        "id": "t1_o5kjklg",
+        "author": "AHistoricalFigure",
+        "score": 213,
+        "body": "> Gamers have done this since the dawn of time The downfall of society began the day I ripped the corner off a post-it note and stuck it to the center of my screen so I could no-scope people in Counter-Strike."
+      },
+      {
+        "id": "t1_o5k9x3g",
+        "author": "Comet7777",
+        "score": 199,
+        "body": "Lots of fake resumes and LinkedIn profiles"
+      },
+      {
+        "id": "t1_o5ldwtz",
+        "author": "mereel",
+        "score": 177,
+        "body": "\"You impressed us, but the job posting clearly states that candidates must knock our socks off.\""
+      },
+      {
+        "id": "t1_o5k5cgh",
+        "author": "xFloaty",
+        "score": 133,
+        "body": "you can easily just put an ipad next to you, my monitor is extremely wide so it\u2019s not like you can detect by eye movement"
+      },
+      {
+        "id": "t1_o5kehbt",
+        "author": "Maury_poopins",
+        "score": 113,
+        "body": "Not the OP, but undetectable fake resumes are trivial to create. Next time I\u2019m hiring we\u2019ll probably have to do a pre-screen where the candidate just talks through every bullet point in their resume in detail to weed out the cheaters."
+      },
+      {
+        "id": "t1_o5km4bc",
+        "author": "ExpensiveGiraffe4316",
+        "score": 107,
+        "body": "My money would be on the cheaters probably having a bunch of impactful and cool projects on their resume that they can't speak for technically at all. For interviewers, I think the way they discern from pure liars and the potential candidates are: The ones that can speak technically about how they made their projects and what's in them The ones that have projects that are unique. Projects don't have to be well written anymore or have some sort of use. They just have to be never done before so that the interviewers know it's written by the candidate."
+      },
+      {
+        "id": "t1_o5klh90",
+        "author": "JakeTM",
+        "score": 90,
+        "body": "lots of monitors now even have a crosshair option lol"
+      },
+      {
+        "id": "t1_o5k79ua",
+        "author": "wannabeaggie123",
+        "score": 84,
+        "body": "It must be nice to get the job when the bar was on the floor, so you can sit on your high horse a couple of years later and interview people with the bar in the sky, wagging your little finger about cheating."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rteomh",
+    "subreddit": "cscareerquestions",
+    "title": "I was very pessimistic about AI taking jobs. Then a vibe coder joined my team.",
+    "score": 3093,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1rteomh/i_was_very_pessimistic_about_ai_taking_jobs_then/",
+    "selftext": "I saw a lot of posts in this community worrying that AI (especially vibe coding) is going to take over a lot of jobs, and I used to have this feeling as well. However, here is something that happened recently that changed my mind. I had a person working in my team, and we were training a model in colab. He just wanted to do the training part himself (probably for linkedin). When I asked how the process was going, his reply: everything is good. One week later, I noticed that he just vibe coded everything. When I asked him what NMS is in his code (wanted to give him a heads up), he said wait a second I will ask AI. I began to feel something was wrong. He said that he trained the model with 95% accuracy, and it ended up with false positives everywhere. Although he could not provide the loss curve, he said that it was caused by too little labeled data, and we believed it (Foreshadowing here). Later when we tried to switch to binary classification so we don't have to deal with labeling, he said that he would do it. As you can guess, he could not provide anything one week later and what he was trying to do was still YOLO. In the end, I decided to settle both old and new scores at once. I talked with him directly and he didn't even know what an epoch is or what a confusion matrix is. Surprisingly, he didn't even know that he needed to save the pt file in colab, and he was continuing chatting with Cursor trying to let Cursor download the pt file (funny thing, it didn't even connect to colab, and he just gave the name of the colab file). I am actually a person who is very willing to explain things to others and it makes me feel good. However, he didn't even ask for help, and he just repeated \"everything is good\", and he wasted the whole team so much time. What I am trying to say is that AI won't replace people who know what they're doing, it is a very nice trap that captures all companies who do not care about fundamentals, the 0.01% LLM error will add up, and vibe coders wi",
+    "comments": [
+      {
+        "id": "t1_oadhaa3",
+        "author": "darth_koneko",
+        "score": 1358,
+        "body": "I wish every recent graduate came out like this. It would be good for my job prospects."
+      },
+      {
+        "id": "t1_oadil27",
+        "author": "GivingUp321321321321",
+        "score": 687,
+        "body": "I'm finding there's a growing divide between architecture-minded devs who think about the system holistically and are getting great results from LLMs, and devs who are purely ticket-and-execution minded - they grab a ticket, feed it into Claude, Claude suggests whatever, they implement the whatever and move on. I'm increasingly spending my time babysitting the latter group to stop them fucking our shit up. LLMs are a genuinely dangerous tool in the hands of someone who doesn't understand and care about the system they're changing. I think this is also why so many people complain about getting shit results tbh - it's so easy to misuse. I still think AI will lead to mass unemployment in tech lol."
+      },
+      {
+        "id": "t1_oadxpns",
+        "author": "",
+        "score": 309,
+        "body": "There are a lot more of them than you think that's for sure."
+      },
+      {
+        "id": "t1_oadnjey",
+        "author": "SYNTHENTICA",
+        "score": 291,
+        "body": "How is it that people like this (clearly) get no technical interviews, yet when I interview, it's 2 technical rounds + a week long take home challenge?"
+      },
+      {
+        "id": "t1_oadj2jh",
+        "author": "BountyMakesMeCough",
+        "score": 189,
+        "body": "How did he get through the interviews?"
+      },
+      {
+        "id": "t1_oadicbg",
+        "author": "FundamentalSystem",
+        "score": 157,
+        "body": "While I agree with AI not taking our jobs, one guy not knowing what he\u2019s doing isn\u2019t enough to just discount AI lol. There are many many people producing real results quickly with AI"
+      },
+      {
+        "id": "t1_oae94b7",
+        "author": "hibikir_40k",
+        "score": 139,
+        "body": "Even 20 years ago, we had completely incompetent candidates, as most college degrees aren't in any way trying to test for job fitness, and if people drop out of CS is due to random math classes. The degree is not a good filter, and as schools admit more and more students, who also know there's quite a bit of money to be made on the other side, average skill plummets. Yes, there's money, but just liking money and not working on your skillset leads to very short careers. And that's how it's been forever."
+      },
+      {
+        "id": "t1_oadk2xz",
+        "author": "SignalOptions",
+        "score": 139,
+        "body": "OP you\u2019re likely right, but the problem is senior leadership and product won\u2019t understand this for 10 more years (if ever). It takes a lot less skill to maintain software written by others. Takes a while to break down completely. Both things can be true at once - software thats getting created is terrible quality and mass unemployment in tech. Companies will likely try to fix software quality rather than unemployment (which only govt may care about)."
+      },
+      {
+        "id": "t1_oae1y3t",
+        "author": "almost1it",
+        "score": 102,
+        "body": "Agree with this take. I\u2019m seeing that it also takes a non trivial amount of effort to instrument a codebase in a way where LLMs become a productivity multiplier."
+      },
+      {
+        "id": "t1_oadlfxp",
+        "author": "daedalus_structure",
+        "score": 92,
+        "body": "Trillions are being invested for the sole purpose of being able to have software profits without the engineering salaries. The sole reason of existence for these tools is to kill your labor market."
+      },
+      {
+        "id": "t1_oads57m",
+        "author": "lucky_719",
+        "score": 84,
+        "body": "So many people are cheating in interviews it's not even funny at this point."
+      },
+      {
+        "id": "t1_oaeljuq",
+        "author": "kittykellyfair",
+        "score": 77,
+        "body": "Ah the things that increase devx also make llms work better. Documentation, usage examples, linters, written guidelines, design information. The irony I'm seeing is now companies are happily spending the time to do it to make the llms more productive but no one would ever do that for the human engineers. gee, Carl, you know I could have loved a \"skill\" doc when I was joining this company, too."
+      },
+      {
+        "id": "t1_oae022x",
+        "author": "Meaveready",
+        "score": 72,
+        "body": "They vibe-recruited him"
+      },
+      {
+        "id": "t1_oadjixm",
+        "author": "Few-Helicopter-429",
+        "score": 53,
+        "body": "WTF, bro I didn't even do ML(purely a backend distributed systems guy) but even I can do better than this guy Atleast I know some stuff here and there, I can do decent math and I can atleast think a bit. How did he even pass the interview? While I'm suffering going deep reading DDIA, doing helloInterview + fighting with Claude about my design approach, this guy walks in a gets an ML job? -_-"
+      },
+      {
+        "id": "t1_oaeht8p",
+        "author": "",
+        "score": 52,
+        "body": "The thing is, if people drop CS over math classes they can still learn to code and be 10x better than someone who graduates. That's why its not a good filter. Schools will always take in more students because they get paid regardless."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1s8qy30",
+    "subreddit": "cscareerquestions",
+    "title": "Oracle slashes 30,000 jobs with a cold 6 a.m. email",
+    "score": 3017,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1s8qy30/oracle_slashes_30000_jobs_with_a_cold_6_am_email/",
+    "selftext": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/ Teams most affected: RHS (Revenue and Health Sciences) \u2014 employees described a reduction in force of at least 30%, with 16 or more engineers from individual business units cut in a single action. SVOS (SaaS and Virtual Operations Services) \u2014 similarly reported a 30% or greater reduction, with manager-level roles included in the sweep. NetSuite\u2019s India Development Centre (IDC) \u2014 cuts spanned project management, individual contributor, and manager roles across multiple seniority levels. Looking at employees by year: 2010 |  (105,000) 2011 |  (108,000) 2012 |  (115,000) 2013 |  (120,000) 2014 |  (122,000) 2015 |  (132,000) 2016 |  (136,000) 2017 |  (138,000) 2018 |  (137,000) 2019 |  (136,000) 2020 |  (135,000) 2021 |  (132,000) 2022 |  (143,000) 2023 |  (164,000) 2024 |  (159,000) 2025 |  (162,000) Doesn\u2019t seem like they had much of a hiring boom during the COVID era, but I guess they need to pay that $58 billion debt somehow\u2026",
+    "comments": [
+      {
+        "id": "t1_odirlou",
+        "author": "Terrywolf555",
+        "score": 1425,
+        "body": "No Hiring Boom during COVID. Hired 10K and 20K people in back-to-back years during COVID. I'm...not sure what to say here."
+      },
+      {
+        "id": "t1_odirpeo",
+        "author": "NewRengarIsBad",
+        "score": 616,
+        "body": "It\u2019s brutal out here. VPs and staff/architects all got axed."
+      },
+      {
+        "id": "t1_odiweqr",
+        "author": "MonochromeDinosaur",
+        "score": 383,
+        "body": "You know it\u2019s bad when they downsize India too."
+      },
+      {
+        "id": "t1_odixkia",
+        "author": "kitten-warhead",
+        "score": 364,
+        "body": "I was impacted in oci, 5 YOE. The email was sent to all us folks at 3 am pst. Woke up at 5 ct to it Everyone in the companies blind channel knew it was coming and it was going to be large"
+      },
+      {
+        "id": "t1_odisqz6",
+        "author": "SteveLorde",
+        "score": 346,
+        "body": "What's funny is that they might get re-hired again because they are the only ones with experience in Oracle's work environment"
+      },
+      {
+        "id": "t1_oditri8",
+        "author": "Mr_Arrow1",
+        "score": 257,
+        "body": "Yes folks, don\u2019t join Oracle. It\u2019s a shit show. Management doesn\u2019t know what they are doing and keep changing their objectives every Monday."
+      },
+      {
+        "id": "t1_oditlwu",
+        "author": "Terrywolf555",
+        "score": 206,
+        "body": "Yeah, but you'd need to look at hiring trends relative to previous years at the same company to make an apples-to-apples comparison, rather than apples to oranges. Oracle used to have a growth in headcount that ranged between 1K-4K new workers each year. The COVID era blew that up by a magnitude of 10x in just a few years."
+      },
+      {
+        "id": "t1_odiso4x",
+        "author": "masterderptato",
+        "score": 198,
+        "body": "True, I\u2019m just looking at this from the perspective of other big tech like Meta, which grew a much larger percent (58k to 86k) around that time."
+      },
+      {
+        "id": "t1_odita10",
+        "author": "NewRengarIsBad",
+        "score": 196,
+        "body": "I\u2019m not even sure. Management is fully in on the AI replacing devs and deep experience. They will try to move forward with less people as long as the can. Entire orgs are shipping software with zero humans involved. It\u2019s a terrible time to work here."
+      },
+      {
+        "id": "t1_odiu95y",
+        "author": "thisisjustascreename",
+        "score": 168,
+        "body": "Sounds like Oracle management are to blame for the misallocation of capital."
+      },
+      {
+        "id": "t1_odj313u",
+        "author": "TBurnerRU",
+        "score": 152,
+        "body": "Damn, you know it's dire when they're firing the Indians."
+      },
+      {
+        "id": "t1_odisypo",
+        "author": "foo-bar-nlogn-100",
+        "score": 124,
+        "body": "Blame sam altman for creating an AI bubble. Oracle put 100B into AI datacenter that lose massive cash.  Then have to cut in their profitable area to make up for loss. Sam altman is to blame for the misallocation of capital."
+      },
+      {
+        "id": "t1_odiv3nw",
+        "author": "Ecstatic-Capital-336",
+        "score": 118,
+        "body": "Gotta love the Ellisons. Spend billions to buy other companies for political gain but then fire the people that built your wealth"
+      },
+      {
+        "id": "t1_odiz691",
+        "author": "rsha256",
+        "score": 90,
+        "body": "Didn\u2019t they announce 30k layoffs a while ago? Is this that or something additional?"
+      },
+      {
+        "id": "t1_odisaho",
+        "author": "Brave-Finding-3866",
+        "score": 82,
+        "body": "they still have lots of employees to layoff it seem"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tchmgq",
+    "subreddit": "cscareerquestions",
+    "title": "Microsoft's CFO pocketed $29.5M and announced headcount cuts in the same earnings call. I can't stop thinking about it.",
+    "score": 2992,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1tchmgq/microsofts_cfo_pocketed_295m_and_announced/",
+    "selftext": "I wasn't planning to read earnings call transcripts at 11pm on a Tuesday but here we are. The Microsoft one from April 29 kept getting referenced in a bunch of threads about tech layoffs so I pulled it up. And there's this one slide that I keep coming back to. Amy Hood, the CFO, had her FY2025 compensation disclosed \u2014 $29.5 million. On the same call, same presentation basically, she said Microsoft's headcount \"will decrease year over year\" starting FY2027. Buyouts were offered to about 8,750 US employees, which is something like 7% of the US workforce. https://www.businessinsider.com/microsoft-headcount-decrease-earnings-ai-cloud-software-2026-4 I had the transcript open in one window and my own company's quarterly planning doc in another. Kept alt-tabbing between them for I don't know how long. At some point I reached for my coffee and it was completely cold. Didn't even notice. What gets me isn't that a CFO makes a lot of money. That's not surprising I guess. What gets me is the framing. The language. The call was full of phrases like \"AI-driven efficiencies\" and \"workforce agility\" and \"aligning talent to our highest priorities.\" Meanwhile the actual numbers are just... there. $29.5 million for one person. \"Headcount will decrease\" for the people who actually build the things. I don't know why this one hit different. Maybe because it's Microsoft. They're not some struggling startup doing layoffs to survive. They literally had a $2.7 trillion market cap at some point last year apparently. Their cloud business is printing money. And they're still cutting people, still framing it as \"efficiency,\" while the people making the decisions are pulling compensation packages that could fund a small engineering team for years. The stock had its worst quarterly performance since 2008 by the way. That was also in the transcript. Somehow the stock drops and the solution isn't \"maybe our strategy needs adjusting\" it's \"let's reduce headcount and call it workforce transformation.",
+    "comments": [
+      {
+        "id": "t1_olo3uyr",
+        "author": "IESAI_lets_go",
+        "score": 1014,
+        "body": "They made $101.8B last year in profit. , that\u2019s $447k per employee."
+      },
+      {
+        "id": "t1_olo4vt6",
+        "author": "micahld",
+        "score": 791,
+        "body": "I admit I'm enjoying seeing class consciousness rise in this sub. There are workers like us and then there's them. If they can find a route to reducing engineers to tipped minimum wage workers, they will do it. Class solidarity is the only full coverage strategy."
+      },
+      {
+        "id": "t1_olo4for",
+        "author": "Ambitious-Garbage-73",
+        "score": 392,
+        "body": "$101.8B profit and still cutting headcount. That ratio makes the $29.5M comp look even more disproportionate honestly. Hadn't seen that site before puts the scale in perspective. Kind of wild this isn't a bigger story."
+      },
+      {
+        "id": "t1_olo6noq",
+        "author": "billet_aller_simple",
+        "score": 288,
+        "body": "Tech is a meritocracy and there will always be jobs for 10x performers such as myself. /s"
+      },
+      {
+        "id": "t1_olo412q",
+        "author": "susmines",
+        "score": 126,
+        "body": "RIP to your coffee. I wish I had words of encouragement to give, but this repeated news of layoffs attributed to AI while C suites make millions, is getting really old. Edit: I realize my flair says CTO, but it\u2019s a small startup. I\u2019m TC $150k"
+      },
+      {
+        "id": "t1_olof1tp",
+        "author": "tankerton",
+        "score": 113,
+        "body": "Had me in the first half ngl"
+      },
+      {
+        "id": "t1_olo4zp3",
+        "author": "FriscoeHotsauce",
+        "score": 106,
+        "body": "Oh yeah. Well the thing is were in a recession. Companies all over, in all industries, are trying to cover for reduced sales by raising prices, cutting staff, squeezing locked in customers. And here comes along a magic word, a perfect scapegoat, something that lets you say you're \"transforming your workforce\" and being \"forward thinking\" and also makes your stock go up. And as an executive, who is largely paid in stock, you have every incentive to do just that. Lay off staff to reduce your overhead, increase prices to juice profits, blame it on AI to look trendy. Stock goes up, you make bank. The biggest tell is what these executives are doing with the stock they receive. If they hold it, they think it will go up. If they sell, they know they're pump and dumping. Satya Nadella offloaded $75 million in stock back in September. They know what they're doing."
+      },
+      {
+        "id": "t1_olo60zx",
+        "author": "Internal-Fortune-550",
+        "score": 99,
+        "body": "If it was a bigger story, realistically what do you think would be done about it? Serious question not trying to sound like a jerk"
+      },
+      {
+        "id": "t1_olp82g2",
+        "author": "Kossimer",
+        "score": 93,
+        "body": "Would? Nothing. Should? Bring back the 94% top marginal tax rate on earnings over $3.5 million per year (adjusted for inflation). Everybody loves to say \"Nobody actually got taxed that much,\" but that's the point. There's no point in paying yourself a larger sum when it all goes to taxes. That money instead gets reinvested into the business and its employees. We don't have to allow such radical wealth stratification. We don't have to allow corporate raiders wringing companies like lemons to pocket all the money and bankrupting them, leaving thousands jobless, like Toys R Us. It's a policy choice. Through policy, New York City has made it more profitable for developers to build public green space for everybody to enjoy because it earns the developers millions of dollars worth of value in additional allotted height and floorspace. So now the city gets new parks without any additional input from the government. It just happens because they intentionally designed a functioning system that works for everybody, at least in this one specific way. We can do the same thing with wealth inequality."
+      },
+      {
+        "id": "t1_oloqind",
+        "author": "psydelicdaydreamer",
+        "score": 80,
+        "body": "Laments AI Cannot write a few hundred words by themselves and have to resort to said AI Many such cases"
+      },
+      {
+        "id": "t1_olom3xi",
+        "author": "LoveSonics",
+        "score": 78,
+        "body": "This why our industry has never had meaningful unions. Everyone thinks they can get theirs and get out. A bit of an indictment on some of the people joining this industry."
+      },
+      {
+        "id": "t1_olo86ro",
+        "author": "nylockian",
+        "score": 75,
+        "body": "There is no class solidarity, just people pissed off that they're not making the amount of money they want."
+      },
+      {
+        "id": "t1_oloco78",
+        "author": "codefyre",
+        "score": 69,
+        "body": "The reality, IMO, is that software engineering has been automating people out of jobs for decades. Millions of human jobs have been eliminated because someone wrote some code to automate a process that a person used to perform. Accounting is a great example. Over 80% of accounting jobs in the U.S. have been eliminated by computers since 1978, and the number of active accounting positions continues to decline by  about 10,000 a year. The conversion from paper ledgers to computerized accounting, and ongoing improvements in financial automation, are killing that field. I've never heard a single software engineer mourn their loss. I went through once and tried to add up all the jobs that my own work has probably eliminated in my 25+ year career. I stopped at right about 1000 because it was kind of depressing. People are just pissed off because the beast our field built has been turned against us. There's no class solidarity. It's just anger because we were supposed to be the chosen ones who were exempt from all this."
+      },
+      {
+        "id": "t1_olo5xqb",
+        "author": "Candid_Cat_5921",
+        "score": 69,
+        "body": "Microsoft lost its way. People used to stay there despite lower pay because work life balance was better than competitors and you always knew the company would have your back. It also led to people being more passionate about their work and wanting to do as much creative work as they could. Now the pay is less than competitors, the work life balance sucks, and morale is the lowest I\u2019ve seen it in my ~25 years there. People are just completely checked out. The problem is if you don\u2019t fix that soon it becomes a major drain and you can never recover. When all the good people leave or are checked out, then you tend to attract people who are only there for a paycheck, and you enter a feedback loop that\u2019s a race to the bottom."
+      },
+      {
+        "id": "t1_olojv60",
+        "author": "north_canadian_ice",
+        "score": 61,
+        "body": "Employees need to have a seat at the table, and not just shareholders. Unions give employees a seat at the table. Right now, only shareholders have a seat at the table."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ma4i05",
+    "subreddit": "cscareerquestions",
+    "title": "Trump tells tech companies to 'stop hiring Indians', signs new AI orders to focus on US jobs",
+    "score": 2840,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1ma4i05/trump_tells_tech_companies_to_stop_hiring_indians/",
+    "selftext": "https://www.indiaweekly.biz/trump-tells-tech-companies-to-stop-hiring-indians-signs-new-ai-orders-to-focus-on-us-jobs/ I don't live in the United States but it will be interesting to see what impact will have across the industry.",
+    "comments": [
+      {
+        "id": "t1_n5bwpgh",
+        "author": "SkullLeader",
+        "score": 1490,
+        "body": "Its just lip service to placate certain folks.  If he wants to do something, he could make it a lot more difficult to get an H1B visa, for instance.  This is just shifting the burden to act from himself to companies so he can blame them when nothing gets done."
+      },
+      {
+        "id": "t1_n5bxnym",
+        "author": "ajamesyj",
+        "score": 355,
+        "body": "They\u2019ve already issued a filing that they\u2019re planning to change H1B to wage based selection"
+      },
+      {
+        "id": "t1_n5bw46e",
+        "author": "Doombuggie41",
+        "score": 319,
+        "body": "What did he do besides rhetoric in terms of US jobs? The EAs he signed have nothing to do with offshoring"
+      },
+      {
+        "id": "t1_n5bwwj1",
+        "author": "Independent-Mango813",
+        "score": 239,
+        "body": "I\u2019m sure Satya Nadella \u00a0and Sundar Pichai will get right on that. In all seriousness, don\u2019t they just move the jobs to India rather than hire \u00a0Indians in America"
+      },
+      {
+        "id": "t1_n5byi1y",
+        "author": "",
+        "score": 203,
+        "body": "They do both - there are companies that they utilize to hire Indians in the US, and then they also use companies to offshore services and jobs to India. Then you have the issue of managers of Indian ethnicity in the US only hiring other Indians in the US. It is now only starting to be talked about - but it is blatant - and probably someone will, for sure, sue for discrimination soon."
+      },
+      {
+        "id": "t1_n5bzqle",
+        "author": "_BreakingGood_",
+        "score": 182,
+        "body": "Oh nice, so instead of Indians taking assorted jobs at all levels of experience, they will only take far more of the best, highest-paying jobs. Nice FAANGs will be able to fill all their slots with H1Bs, but don't worry, your local small business has a $50k/yr software dev position open that they can't fill anymore."
+      },
+      {
+        "id": "t1_n5c3bc6",
+        "author": "I_saw_it_on_tv",
+        "score": 176,
+        "body": "They can, they either need to raise the salary or train entry level folks."
+      },
+      {
+        "id": "t1_n5bxkpl",
+        "author": "metalreflectslime",
+        "score": 148,
+        "body": "I think Trump is just pandering to voters."
+      },
+      {
+        "id": "t1_n5byetb",
+        "author": "IamGumboDamnit",
+        "score": 137,
+        "body": "Nothing will happen.  Trump always chickens out."
+      },
+      {
+        "id": "t1_n5dt411",
+        "author": "LineageBJJ_Athlete",
+        "score": 129,
+        "body": "IMHO. If a company has layoffs in tech, that should disqualify them from any H1B sponsorships for no less than 3 years."
+      },
+      {
+        "id": "t1_n5c0usm",
+        "author": "icuredumb",
+        "score": 117,
+        "body": "H1b visas are limited and given to foreigners working on American soil. That is significantly less problematic for the American economy than downright outsourcing entire departments overseas. The real issue here is a lot of companies have already moved on from India to Mexico and other countries and most will just continue the practice of opening offices overseas to circumvent any executive orders on the matter."
+      },
+      {
+        "id": "t1_n5bwphp",
+        "author": "ReasonSure5251",
+        "score": 106,
+        "body": "Reduce the H-1B allotments for tech by at least 50% along with a hefty tax penalty for it. Cap H4-EADs at a feasible number or charge a similar tax penalty. Charge companies for offshoring services. Tech shortages can be fixed by Congress in one piece of legislation without even affecting budget. The shift would hit practically overnight. Imagine browsing LinkedIn and not seeing senior dev jobs offering 90k/year that you know you aren\u2019t supposed to apply to. It\u2019s not too late. Trump\u2019s statement however won\u2019t do anything."
+      },
+      {
+        "id": "t1_n5byxrh",
+        "author": "ReasonSure5251",
+        "score": 95,
+        "body": "Anyone who\u2019s ever worked in enterprise software knows that\u2019s how it is. I\u2019ve been at the happy hours where we let our hair down after a few beers. Indian manager hiring preference has always been an open secret in IT."
+      },
+      {
+        "id": "t1_n5d0xpb",
+        "author": "April1987",
+        "score": 89,
+        "body": "I can't stress enough how important it is to have entry level and junior level positions. The problem is management would rather hire completely unmotivated senior developers because it thinks it is a known problem that they can \"fix\" by throwing or withholding money but they don't want the uncertainty of hiring entry level people."
+      },
+      {
+        "id": "t1_n5cbneu",
+        "author": "pheonixblade9",
+        "score": 86,
+        "body": "I was more or less forced out at Microsoft because my new manager was pushing out all non-Indian people on his team. or maybe my productivity just magically dropped when he joined? that said, my previous manager (also Indian) was totally fine and a good guy, so it's not like it's a hard and fast rule."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qpcc2d",
+    "subreddit": "cscareerquestions",
+    "title": "Amazon laid off 16k corporate employees",
+    "score": 2803,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1qpcc2d/amazon_laid_off_16k_corporate_employees/",
+    "selftext": "https://www.aboutamazon.com/news/company-news/amazon-layoffs-corporate-jan-2026 This is on top of the 14k let go in October",
+    "comments": [
+      {
+        "id": "t1_o27yo0y",
+        "author": "8004612286",
+        "score": 804,
+        "body": "When you lay off this many people it should be an expectation that some of senior leadership resign."
+      },
+      {
+        "id": "t1_o27z6iy",
+        "author": "_heqon_",
+        "score": 622,
+        "body": "Is their excuse \"due to AI\", again? \ud83e\udd14 It's funny how that is used as a generic term to lay off people these days without being questioned on why you lay off so many people at once. \"AI is taking over your job\". But then - why are they hiring? Or is it maybe just a good way to hire offshore with lower wages? \ud83e\udd14"
+      },
+      {
+        "id": "t1_o2826by",
+        "author": "isonlegemyuheftobmed",
+        "score": 578,
+        "body": "And that's after multiple rounds of layoffs in years prior"
+      },
+      {
+        "id": "t1_o28t20r",
+        "author": "Ryakuya",
+        "score": 445,
+        "body": "Feels like Amazon is just in a permanent state of layoffs. Who even wants to work there?"
+      },
+      {
+        "id": "t1_o281s8q",
+        "author": "Hey_HaveAGreatDay",
+        "score": 354,
+        "body": "Oh our senior leader laid off a bunch of the sales team and went on mental health leave last year. Not that a person shouldn\u2019t take it if they need it but I wasn\u2019t really a fan of the timing. Then, he left us an AI bot that we could ask questions to and it would answer as if it were him. So the guy that makes almost as much as the laid off workers salaries combined laid them off because of AI, took 6 weeks off while showing us that he could be replaced by AI."
+      },
+      {
+        "id": "t1_o280tts",
+        "author": "budding_gardener_1",
+        "score": 343,
+        "body": "by reducing layers, increasing ownership, and removing bureaucracy So you're letting some execs go as well, right? While we\u2019re making these changes, we\u2019ll also continue hiring and investing in strategic areas and functions that are critical to our future. We\u2019re still in the early stages of building every one of our businesses and there\u2019s significant opportunity ahead. Translation: we'll fire our expensive staff and hire some cheaper staff to replace them so we can pocket the difference in bonuses. Some of you might ask if this is the beginning of a new rhythm \u2013 where we announce broad reductions every few months. That\u2019s not our plan Bullshit. I'm grateful for how our teams continue to deliver \u2013 for customers, for each other, and for the incredible things we're building together. Fuck you."
+      },
+      {
+        "id": "t1_o28rxr7",
+        "author": "likwitsnake",
+        "score": 259,
+        "body": "Feel bad for the people at future companies hiring AWS people managers they\u2019re an absolute poison pill to your culture"
+      },
+      {
+        "id": "t1_o27zari",
+        "author": "_heqon_",
+        "score": 240,
+        "body": "Hate the big corporate world, not gonna lie. Full of bs."
+      },
+      {
+        "id": "t1_o281f7r",
+        "author": "budding_gardener_1",
+        "score": 233,
+        "body": "l'm always amazed that the push for rIghTsiZINg never seems to include the lazy exec class who spend all day frigging themselves off to LinkedIn, catching up, taking things offline and synergizing."
+      },
+      {
+        "id": "t1_o28ixcz",
+        "author": "achomes",
+        "score": 216,
+        "body": "Left Amazon for a 15% paycut that was remote. Morale was in the shitter and they wanted me to move across the country after hiring me remote. I hope this blows up in their face. I enjoyed working there & loved my team but was forced out from the macro-level politics of Andy Assy"
+      },
+      {
+        "id": "t1_o28vicv",
+        "author": "CarelessPackage1982",
+        "score": 212,
+        "body": "It's part of their business strategy. They'd have zero workers if they could get away with it."
+      },
+      {
+        "id": "t1_o291bjn",
+        "author": "phoenixmatrix",
+        "score": 166,
+        "body": "I worked at a company that hired an Amazon upper manager and put them in charge of an entire product vertical. That product group went to a crawl, people quit left and right, it was awful. It only works at Amazon because they make so much money they can burn and churn through people. Anywhere else that is more constrained will fail hard."
+      },
+      {
+        "id": "t1_o286yv2",
+        "author": "SamPom100",
+        "score": 157,
+        "body": "took my intern offer right after a layoff wave (2023) and now stayed up last night waiting for an email or text that thankfully didn\u2019t come. lot of early/mid/senior swe\u2019s axed. not like it\u2019s just Amazon either. the other big tech\u2019s doing this too. so tiring."
+      },
+      {
+        "id": "t1_o28vrd7",
+        "author": "KetoCatsKarma",
+        "score": 148,
+        "body": "I have a buddy that worked at Atlassian, they hired a bunch of Amazon mid level people and he said the culture shifted almost overnight, he toughed it out for a few months but eventually put in his notice. This was a guy who had worked for them for about 11 years, who had no plans to leave, who built his career around this company."
+      },
+      {
+        "id": "t1_o28suhb",
+        "author": "_illogical_",
+        "score": 113,
+        "body": "SysDev @AWS for 9.5 years, got a text from Amazon at 3am: Before coming to the office, check personal/work email, including spam, for a message on your role."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mdcl9n",
+    "subreddit": "cscareerquestions",
+    "title": "Genuinely what the HELL is going on?",
+    "score": 2635,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1mdcl9n/genuinely_what_the_hell_is_going_on/",
+    "selftext": "The complete lack of ethics driving this entire AI push is absurd and I\u2019m getting very scared. Is everyone in tech ghoul? Nobody cares about sustainability or even human decency anymore it seems. The work coming out of Google right now is so evil it\u2019s hard to believe this is the same company from 2016. AI agents monitoring and censoring us based on whatever age they determine we are. The broader implications are mind numbing. There is no way engineers can be this detached from the social contract to make stuff like this what are y\u2019all doing fr??????? I mean some of you work at palantir tho so. It\u2019s all fun and games til it\u2019s not. EDIT: This is not about YouTube but the industry as a whole. I\u2019m 25 bear with me if I sound naive but the apathy over the last two years has lead me down a road of discovery. It genuinely just feels weird working with some of the most influential yet evil people on earth and like nobody says anything\u2026.even if not in the name of strangers, maybe their kids, their families, the planet. We all have more power than we like to believe. It\u2019s hot and it\u2019s only going to get hotter\u2026.. Edit: examples of nonsense https://x.com/culturecrave/status/1950636669507674366?s=46",
+    "comments": [
+      {
+        "id": "t1_n60j11m",
+        "author": "Horror_Response_1991",
+        "score": 1186,
+        "body": "\u201c\u00a0it\u2019s hard to believe this is the same company from 2016\u201d It\u2019s not. \u00a0People leave, new people come in, and the drive to keep stockholders happy means companies will do whatever it takes to maximize profit."
+      },
+      {
+        "id": "t1_n60lrwa",
+        "author": "MilkChugg",
+        "score": 819,
+        "body": "The era of \u201clet\u2019s nerd out and build cool stuff together and have fun doing it\u201d is over. It\u2019s been over for 10 years now. Everything today is built solely to appease Wall Street. Seriously, read that again if you need to. There are no ethics. There are no morals. There is only money. Companies don\u2019t care about long term consequences and their employee\u2019s mental health is in such decline that they can\u2019t muster up enough fucks to give either knowing that there are swarms of people who are begging for work ready to replace them."
+      },
+      {
+        "id": "t1_n60isv9",
+        "author": "Extra-Place-8386",
+        "score": 696,
+        "body": "There are a lot of cs majors and engineers who think ethics and liberal arts classes are a waste of time. So what we get is an industry full of severely one-dimensional people who think they are smarter the rest. But in reality, they dont have the social skills or understanding to understand why what they're doing is bad. Edit: spelling/grammar"
+      },
+      {
+        "id": "t1_n60jbly",
+        "author": "bjdj94",
+        "score": 263,
+        "body": "For years, tech has been all about moving fast without the consequences. Zuckerberg even wrote, \u201cmove fast and break things.\u201d Companies like Uber and Airbnb were built on moving fast before regulation could catch up. Ideally, the government would regulate things quickly, but our leaders are a bunch of ancient politicians who don\u2019t even understand what is happening. Ultimately, this is all about chasing profit and power. If you get in the way, they will find someone else to do the same work. Worse, if they can\u2019t find that person here, they will outsource the work or bring in a foreign worker to replace you."
+      },
+      {
+        "id": "t1_n60i7vt",
+        "author": "Illustrious-Pound266",
+        "score": 250,
+        "body": "It's because of the money. Let's be real. Most of this sub would take an AI engineer position at Google in a heartbeat, if offered."
+      },
+      {
+        "id": "t1_n60sm3e",
+        "author": "the8bit",
+        "score": 148,
+        "body": "Yeah, I miss that era. I loved working in tech, worked at Google circa 2016, but I'm currently on the sidelines because I'm sick of profit over people. Not just in tech though, as a society in general we've forgotten how to collaborate and its so deeply lame and boring. I also hate how I feel that it might be valuable to get back into tech just to try and limit the damage, it feels almost necessary but its a depressing challenge."
+      },
+      {
+        "id": "t1_n60svpg",
+        "author": "speedster217",
+        "score": 117,
+        "body": "My university had a required \"Ethics in computer science\" class as part of our major. We would learn ethical frameworks and then apply it to stuff that was in the news currently (e.g. Facebook disclosing that they had been running experiments on showing people only happy or angry content back in ~2014) One of the best classes in the curriculum. So many of us needed that"
+      },
+      {
+        "id": "t1_n60o5zp",
+        "author": "coffeesippingbastard",
+        "score": 91,
+        "body": "define evil? IMO Amazon is a shittier employer, but Google's impact on the world has been more negative. Youtube by itself has contributed more to radicalization, conspiracy theories, vaccine denial than anybody with the exception of Meta. Google essentially pampers their employees while they pillage the world. If anything that's worse than whatever Amazon has inflicted. edit: I get it- this sub still wants to hold onto hope that they too can don the esteemed noogler hat and make shittons of money. That ship sailed folks. If you want to work for a company that contributes to the downfall of the country- then just admit to it. Plenty of them out there. Meta, Google, Palantir, X, go for it. Get that bag."
+      },
+      {
+        "id": "t1_n60jnsf",
+        "author": "khunmascheny",
+        "score": 91,
+        "body": "You\u2019re so right. Im just reacting to capitalism sorry"
+      },
+      {
+        "id": "t1_n6116zj",
+        "author": "ProfessionalMost8724",
+        "score": 80,
+        "body": "Facebook was the beginning of the downfall for the Internet"
+      },
+      {
+        "id": "t1_n60itxs",
+        "author": "khunmascheny",
+        "score": 75,
+        "body": "The comments \ud83d\ude2d yall we can want jobs and like tech and innovation without subscribing to mindless extinction level capitalism. Whatever though we\u2019re all in it together ."
+      },
+      {
+        "id": "t1_n60nm0u",
+        "author": "Suitable-Dingo-8911",
+        "score": 69,
+        "body": "No worries brother, now get to work - we got shareholder value that needs maximizing"
+      },
+      {
+        "id": "t1_n60jq7j",
+        "author": "SoggyGrayDuck",
+        "score": 67,
+        "body": "There's no time to discuss ethics when deadlines are approaching"
+      },
+      {
+        "id": "t1_n60pdu6",
+        "author": "DigmonsDrill",
+        "score": 63,
+        "body": "A lot of the bad is nerds saying \"let's build cool stuff\" when the cool stuff is a torment nexus, just like in their favorite book. No need for money. They'll do it for free."
+      },
+      {
+        "id": "t1_n60k76z",
+        "author": "khunmascheny",
+        "score": 62,
+        "body": "I went to a liberal arts school and work remotely so genuinely never interacted with many techies personally til recently(past two years) and it\u2019s been a bit jarring."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1n6nk56",
+    "subreddit": "cscareerquestions",
+    "title": "Uncle Bob predicts a reverse bubble pop for CS jobs",
+    "score": 2566,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1n6nk56/uncle_bob_predicts_a_reverse_bubble_pop_for_cs/",
+    "selftext": "AI is in a bubble just like the the dotcom bubble in the year 2000. Internet is one of the greatest technological advancements of all time - but it was in a bubble because tons of investment flowed into it, companies over hired, and most companies just didn't make it. the ones that did changed the world forever Same is happening with AI. Tons of investment flows in, but companies are doing the opposite with hiring. They are under hiring because of the expectation that AI will replace employees (it wont). So when pops, companies will rush to hire talent back up. I agree",
+    "comments": [
+      {
+        "id": "t1_nc1byua",
+        "author": "keyboard_2387",
+        "score": 1445,
+        "body": "I think the hype is already starting to die, despite foaming tech-bros claiming that the AI slop train is just getting started. The recent MIT report and Apple's paper are likely just the start. I'm sure there's someone reading this with a smirk, thinking they are among the top 5% to have a successful AI company and that AGI will replace our jobs in the next 2 years, just like it did 2 years ago, and the 2 year before that..."
+      },
+      {
+        "id": "t1_nc1d8gr",
+        "author": "bamboozled_cs_boi",
+        "score": 572,
+        "body": "Even if that prediction were true, offshoring continues to decimate hiring. Companies are hiring skilled LatAm developers for a fraction of the price who work in the same time zone and speak english. This process will continue unless there are legislative or policy changes that make it more desirable to keep jobs in the US."
+      },
+      {
+        "id": "t1_nc22lrk",
+        "author": "PadyEos",
+        "score": 304,
+        "body": "My CEO literally said in the last all hands meeting two weeks ago \"I know we won't hit the promises that AI vendors make but...\". Basically the first time in 1 year I heard them show a more grounded set of expectations. Also for the last month the susteinability reporter has started asking questions about ethical and sustainable AI use. Seems like the hype is starting to be caught back my reality."
+      },
+      {
+        "id": "t1_nc1cqks",
+        "author": "ForsookComparison",
+        "score": 248,
+        "body": "If we keep with the dotcom analogy, then technically there was a small percentage of smirking tech bros who did eviscerate old-school retail and commerce after the bubble popped."
+      },
+      {
+        "id": "t1_nc1wfwf",
+        "author": "Interesting_Chard563",
+        "score": 212,
+        "body": "Hiring is down overseas too. Numbers don\u2019t lie."
+      },
+      {
+        "id": "t1_nc1bsqd",
+        "author": "ForsookComparison",
+        "score": 195,
+        "body": "I've thought about this. My take (just a redditor) is that the dotcom bubble led to a tech boom because web commerce and internet spending DID reach and surpass even the craziest of estimates eventually. The equivalent for A.I. achieving it's goals would have to involve successfully putting every tech worker out of a job. And if the above doesn't happen and A.I. flops I suspect the offshoring will just accelerate."
+      },
+      {
+        "id": "t1_nc1cwlw",
+        "author": "",
+        "score": 171,
+        "body": "When the bubble pops, it will be more devastating to the average tech worker than most think. Most companies and people do not understand how to leverage generative AI appropriately. They are being sold expectations that do not translate into reality, or they are just fucking dumb. Either way, if some c-suite level executive decides to liquidate their labor because of some AI paradise promised land and it fails is the same amount of damage as if it succeeds. That is the bubble I see popping: the misconceptions, misunderstandings, and ignorance of the general population regarding generative AI. Pandora\u2019s box is already open for companies and people who are leveraging this technology. No one is going to close it. I hope no one believes the whole industry is a bubble. As I don\u2019t want to be the one who pops theirs."
+      },
+      {
+        "id": "t1_nc2agx9",
+        "author": "AzureAD",
+        "score": 162,
+        "body": "Thanks for bringing this up. Indian offshoring giants are cutting staff like crazy too.\nMost folks don\u2019t understand that whatever could be offshored had already been offshored before the AI hype. Why we see so much effort on offshoring again is because :\n1. The AI hype creators sold the idea that offshore engineering + AI will actually address the offshoring issues. In most American businesses, the approval to hire Americans full time is granted ONLY after offshoring and contracting have failed."
+      },
+      {
+        "id": "t1_nc1ilt8",
+        "author": "pydry",
+        "score": 116,
+        "body": "The empty promises are a lot bigger and more stupid this time around."
+      },
+      {
+        "id": "t1_nc1cmaj",
+        "author": "Rich-Suggestion-6777",
+        "score": 101,
+        "body": "The dot com bubble wasn't a research problem.  Achieving AI is much more difficult.  I don't think LLMs will get us there.  So who knows how long it will actually take."
+      },
+      {
+        "id": "t1_nc1cbbw",
+        "author": "mimikyut-ie",
+        "score": 87,
+        "body": "Hey big dog, that's how these bubbles work. It's not that there's nothing valuable underneath, it's just that there's a lot of investment in empty promises at the moment. Once those investors realize the promises are empty, that's when the \"pop\" happens. When things settle I'm sure there will be useful tech that comes out of it, that's pretty obvious. Might take a while though. It took Chewy 20 years to realize the vision that pets dot com failed to achieve back in 2000."
+      },
+      {
+        "id": "t1_nc2z2dq",
+        "author": "s11n24",
+        "score": 83,
+        "body": "This is surely because school was out for summer"
+      },
+      {
+        "id": "t1_nc1it3i",
+        "author": "bobthemundane",
+        "score": 78,
+        "body": "I am of the mind the LLMs CAN\u2019T get us there. It is completely different technology and goals. LLMs use networks to figure out what should come next, and then fill it in. They don\u2019t hallucinate answers, they take what the person wants, and spits it out. They can\u2019t really tell if it is true or not, they just look into their vast database and pull the next word / sentence out. From my understanding, they still aren\u2019t creating \u201cnew\u201d things. They are recreating what they already know."
+      },
+      {
+        "id": "t1_nc1clk8",
+        "author": "Murlock_Holmes",
+        "score": 76,
+        "body": "Robert Martin, wrote some CS books, most famously Clean Code."
+      },
+      {
+        "id": "t1_nc217ze",
+        "author": "StudlyPenguin",
+        "score": 74,
+        "body": "the Big Beautiful Bill passed just recently allows for deducting domestic engineer salaries again after that dropped off in 2022. Section 174 is the magic phrase. It\u2019ll take some time for that to play out but the pieces are already in motion"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ojbebq",
+    "subreddit": "cscareerquestions",
+    "title": "Just pushed my first PR for my new job at Azure after leaving AWS!",
+    "score": 2539,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1ojbebq/just_pushed_my_first_pr_for_my_new_job_at_azure/",
+    "selftext": "After being asked to leave voluntarily departing from AWS last week to search for new opportunities, I am happy to state that I found a new job at Azure! I'm meeting my new team later this afternoon for onboarding, and I wanted to leave a good first impression before that meeting, so I coded my first PR and self-approved it a few minutes ago to show that I'm a go-getter who takes initiative! It was just a one-line change for some DNS settings and I ran it through chatGPT and everything checked out! They are going to be so impressed with me! There were some pipeline warnings that initially prevented me from releasing it to the higher environments, but I managed to find a workaround by borrowing the credentials from my coworker\u2019s laptop! Do you have any other suggestions for what to do before my meeting? It feels good being part of an amazing team and help keep the internet alive!",
+    "comments": [
+      {
+        "id": "t1_nm1qrts",
+        "author": "cfangvisuals",
+        "score": 646,
+        "body": "Yes! That's where I did my summer internship last year!"
+      },
+      {
+        "id": "t1_nm1t2mk",
+        "author": "ThinkOutTheBox",
+        "score": 365,
+        "body": "Great work! But you failed to take down Teams. Can you do that next?"
+      },
+      {
+        "id": "t1_nm1v98f",
+        "author": "AS2096",
+        "score": 290,
+        "body": "Let me know when u get another job I gotta buy puts"
+      },
+      {
+        "id": "t1_nm1tk9c",
+        "author": "NewChameleon",
+        "score": 280,
+        "body": "congratulations! now bring down Google GCP and we'll be complete the cool thing about these outages is I can pretty much point to it for all my oncalls and say \"see that? it's probably <that>\""
+      },
+      {
+        "id": "t1_nm25235",
+        "author": "assaultedpeanut3",
+        "score": 135,
+        "body": "It showed everyone how much of the internet runs on AWS"
+      },
+      {
+        "id": "t1_nm1vqjm",
+        "author": "Kratos427",
+        "score": 118,
+        "body": "PLEASE"
+      },
+      {
+        "id": "t1_nm21854",
+        "author": "RaccoonDoor",
+        "score": 90,
+        "body": "Amazon stock went up during the worldwide AWS outage lol"
+      },
+      {
+        "id": "t1_nm235d3",
+        "author": "SeaworthySamus",
+        "score": 89,
+        "body": "Love these posts lol"
+      },
+      {
+        "id": "t1_nm1pogd",
+        "author": "caiteha",
+        "score": 73,
+        "body": "There was an azure outage this morning ... was that you? \ud83c\udf89 Congrats"
+      },
+      {
+        "id": "t1_nm215ty",
+        "author": "spartanreborn",
+        "score": 50,
+        "body": "\"potentially\"???"
+      },
+      {
+        "id": "t1_nm25bfp",
+        "author": "Dangerous_Ad_5046",
+        "score": 49,
+        "body": "Its the first satirical post I\u2019ve seen on this sub and I wont lie it took me until the ChatGPT part to realize it lol"
+      },
+      {
+        "id": "t1_nm1x8l5",
+        "author": "NanthaR",
+        "score": 42,
+        "body": "Yup. Waiting for my support team to say \"Issue is resolved now from azure end, please verify your system metrics once\". It ain't much, but hardwork."
+      },
+      {
+        "id": "t1_nm1vqwv",
+        "author": "bluegrassclimber",
+        "score": 27,
+        "body": "lmao you self approved a PR? that's sketch bro i'd be pissed if a brand new dev did that and merged without me checking first EDIT: I am just now realizing this is connected to an event and is potentially satire lol"
+      },
+      {
+        "id": "t1_nm22w0j",
+        "author": "SanguineL",
+        "score": 23,
+        "body": "I noticed that. Does anyone know why?"
+      },
+      {
+        "id": "t1_nm260dw",
+        "author": "heroyi",
+        "score": 21,
+        "body": "30k layoff\nearnings\netc... whether we revert is a different story due to fomc"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rt62gb",
+    "subreddit": "cscareerquestions",
+    "title": "Meta planning sweeping layoffs , 20% of company",
+    "score": 2448,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1rt62gb/meta_planning_sweeping_layoffs_20_of_company/",
+    "selftext": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/ It looks like Meta is gearing up for another round of cuts (20% or more of the workforce) to offset the costs of their AI pivot. This is something that got mentioned during the Walmart cuts, even well performing units were getting axed to free up capital for AI spend Seems like traditional engineering is taking a backseat to AI/ML",
+    "comments": [
+      {
+        "id": "t1_oabz441",
+        "author": "Karl151",
+        "score": 1058,
+        "body": "That's crazy, a fifth of the company gone just like that. I wonder how these companies will behave when there's an actual recession"
+      },
+      {
+        "id": "t1_oac3njq",
+        "author": "move_machine",
+        "score": 668,
+        "body": "This is part of the recession lol"
+      },
+      {
+        "id": "t1_oabwn8b",
+        "author": "halfxdeveloper",
+        "score": 553,
+        "body": "I had phase 2 of this conversation with my CTO yesterday. Phase 1 was \u201cwe need to cut IT expenses.\u201d Phase 2 was \u201chow feasible is it to have AI analyze our legacy code base and develop features for production?\u201d Phase 3 I expect next month. However! I personally believe the man\u2019s ego will come to save the day because he\u2019s very proud of how large our development staff is that he manages. No one cares at the C level if you oversee 37 AI agents. Although, I suppose he will spin it as some cost cutting efficiency metric. Fuck."
+      },
+      {
+        "id": "t1_oaby5px",
+        "author": "",
+        "score": 405,
+        "body": "Meta recently completed training a new model that they spent billions on that massively underperformed, they are bleeding cash on this stuff. But the co2 they emitted on that stupid shit will last forever."
+      },
+      {
+        "id": "t1_oabyv01",
+        "author": "Acceptable-Cause-559",
+        "score": 305,
+        "body": "Do not write clean code because AI will replace you. The messier the systems and code the more job security for you."
+      },
+      {
+        "id": "t1_oabzoc5",
+        "author": "HippieInDisguise2_0",
+        "score": 295,
+        "body": "I think I'm about to be impacted by this round. Fuck."
+      },
+      {
+        "id": "t1_oac0ad6",
+        "author": "BigfootTundra",
+        "score": 276,
+        "body": "I think this is to prep for the recession we\u2019re about to go into. By definition, we\u2019re not currently in a recession but we\u2019re definitely trending that way."
+      },
+      {
+        "id": "t1_oac2m5c",
+        "author": "Won-Ton-Wonton",
+        "score": 261,
+        "body": "In reality, they just can't find a way to grow profit, and they're hiding behind the huge AI bubble. This is a damage mitigation strategy. Expect all the big companies to do this. They can't grow. So they're cutting. AI is the excuse."
+      },
+      {
+        "id": "t1_oac65dc",
+        "author": "Mad_Gouki",
+        "score": 256,
+        "body": "I think the recession is here and the books are cooked."
+      },
+      {
+        "id": "t1_oabz3kw",
+        "author": "_IsNull",
+        "score": 230,
+        "body": "Mine layoff a bunch last year based on data that AI could speed up 50% of our development time.  But coding represent less than 10-20% of our workload. Within months we bump into a bunch of regulatory issues with constant live issue (cost us almost a billion dollar) and had to start hiring again."
+      },
+      {
+        "id": "t1_oac23n3",
+        "author": "hehehehahahaha",
+        "score": 226,
+        "body": "Gonna be crazy when they realize AI can do middle management jobs better than development work today"
+      },
+      {
+        "id": "t1_oacr8yb",
+        "author": "robocop_py",
+        "score": 203,
+        "body": "Bingo! These companies are dumping all of their money into AI because they believe there's no other way to survive the next recession/depression except by being a leading power in the AI space. But when the entire thing hits a brick wall and progress grinds to halt. When the productivity gains are nowhere near as great as promised. When there's no more training data available to improve models and no more tuning advancements. When they can no longer afford to subsidize token costs. It's going to hurt. Bad. And I hope it crashes these companies. I hope Musk, Zuckerberg, Bezos, Altman, Huang, Amodei, and many others take massive haircuts if not bankrupted."
+      },
+      {
+        "id": "t1_oacdziy",
+        "author": "Whitchorence",
+        "score": 185,
+        "body": "I interviewed at Meta a few months ago and they match you with random employees from all different orgs and literally every person I talked to, when I had the chance to ask them how they felt about their jobs, told me it was completely miserable and the only good things they had to say were about the comp and the prestige of the brand.  Like, I did five years at Amazon, plenty of people at Amazon like the Amazon way of working and all that despite the reputation.  But even I was pretty intimidated by what a grinder Meta seemed like (and one or two of the guys I spoke to explicitly told me like \"you might think, 'oh, I'm used to Amazon, the work-life balance thing won't be a big deal for me,' but everyone I know who used to work at Amazon says the same thing\").  They also seemed to not know much of anything about the domain they were working in which was kind of weird but could go either way I guess."
+      },
+      {
+        "id": "t1_oabwl0m",
+        "author": "caiteha",
+        "score": 175,
+        "body": "Wtf."
+      },
+      {
+        "id": "t1_oac3g8q",
+        "author": "BackendSpecialist",
+        "score": 164,
+        "body": "Same. They had a survey given to my team asking us what\u2019s preventing us from moving faster, outside of coding lmao. My org\u2019s gonna get hit and I fear I\u2019ll be one of them as well."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1l0wg36",
+    "subreddit": "cscareerquestions",
+    "title": "Big tech engineering culture has gotten significantly worse",
+    "score": 2404,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1l0wg36/big_tech_engineering_culture_has_gotten/",
+    "selftext": "Background - I'm a senior engineer with 10yrs+ experience that has worked at a few Big Tech companies and startups. I'm not sure why I'm writing this post, but I feel like all the tech \"influencers\" of 2021 glamorized this career to unrealistic expectations, and I need to correct some of the preconceived notions. The last 3 years have been absolutely brutal in terms of declining engineering culture. What's worse is that the toxicity is creating a feedback loops that exacerbates the declining culture. Some of the crazy things I've heard \"I want to you look at every one of your report and ask yourself, is this person producing enough value to justify their high compensations\" (director to his managers) \"If that person doesn't have the right skills, get rid of them and we'll find someone that does\" (VP to an entire organization after pivoting technology direction). I.e. - It's not worth training people anymore, even if they're talented and can learn anything new. It's all sink or swim now \"If these candidates aren't willing to grind hundreds of leetcode questions, they don't have mental fortitude to handle this job\" (engineers to other engineers) To be fair, I felt like this was a defense mechanism. The amount of BS that you need to put up with to not get laid off has grown significantly. \"Working nights and weekends is expected\" (manager to my coworker that was on PIP because he didn't work weekends). I've always felt this pressure previously. But I've never heard it truly be verbalized until recently. Final thoughts Software engineering in big tech feels more akin to investment banking now. Most companies expect this to be your life. You truly have to be \"passionate\" about making a bunch of money, or \"passionate\" about the product to survive. Don't get too excited if your company stock skyrockets. The leaders of the company will continue to pinch every bit of value out of you because they're technically paying you more now (e.g. meta) and they know that the job marke",
+    "comments": [
+      {
+        "id": "t1_mvglz52",
+        "author": "samelaaaa",
+        "score": 613,
+        "body": "Hard agree. This opinion might be unpopular, but the difference in pay between big tech and smaller companies is no longer sufficient to put up with their bullshit. I have been back and forth between the startup world and FAANG for my whole career, and the difference in pay is about the same as it always was (1.5x-2x) but the difference in stress is so much more than it used to be."
+      },
+      {
+        "id": "t1_mvglpre",
+        "author": "StatusObligation4624",
+        "score": 343,
+        "body": "At Amazon from 2021 to 2024 and recently boomeranged. It got way worse in that time but I guess we didn\u2019t label people laid off as under performers so we got that going for us which is nice \ud83d\ude43"
+      },
+      {
+        "id": "t1_mvgnq0i",
+        "author": "creamyhorror",
+        "score": 282,
+        "body": "\"I want to you look at every one of your report and ask yourself, is this person producing enough value to justify their high compensations\" What's worse is you hear nearly the same thing offshore and in smaller companies where the pay is much lower."
+      },
+      {
+        "id": "t1_mvgmtjp",
+        "author": "iroh-42",
+        "score": 255,
+        "body": "I\u2019m in a more laidback industry (insurance), but they have been changing things in the last 2 years and the culture has also gone to shit. I\u2019m really tired of the corporate bs and I\u2019ve been thinking of starting my own business. I have a lot of family that are entrepreneurs and have worked with them. Yes, it\u2019s a lot more hours, but at least you control your own life and there is more upside."
+      },
+      {
+        "id": "t1_mvgvv17",
+        "author": "AceOfShades_",
+        "score": 255,
+        "body": "working nights and weekends is expected I think these managers are getting a little too comfortable about taking away our rights as workers. People fought and died for the 40 hour work week (see Haymarket affair). You know that scene in A Bugs Life where the ants realize they vastly outnumber their grasshopper overlords? If the executives push things too far again, they might just get reminded about the alternatives to their workers polite little unions. All they have to do is just treat their workers like humans, pay them for all of the hours they work, and not work them to the bone. It\u2019s a simple ask. But man are they furious about programmers getting a little bit of power in the job market for a couple years there. So I don\u2019t know if they can restrain themselves from pushing it too far. I\u2019m so tired of living in interesting times, watching this nonsense unfold."
+      },
+      {
+        "id": "t1_mvgrbqz",
+        "author": "fractal_engineer",
+        "score": 220,
+        "body": "This is direct fall out of the Twitter RIF."
+      },
+      {
+        "id": "t1_mvgl9c5",
+        "author": "Sweet-Satisfaction89",
+        "score": 204,
+        "body": "Yeah, it sucks ass now. I am telling people not to get in the industry not for interviewing/competitive reasons, but because the culture is as toxic as banking now. A completely 180 from where it was 10 years ago (a paradise)."
+      },
+      {
+        "id": "t1_mvgli8v",
+        "author": "computer_porblem",
+        "score": 203,
+        "body": "capitalism is predicated on infinite growth and the line can't go up forever"
+      },
+      {
+        "id": "t1_mvhpvz0",
+        "author": "djeatme",
+        "score": 199,
+        "body": "I actually think this is the right take. Elon gave people in tech permission to enable the worst mismanagement and layoff guidelines which has permeated in many other companies. I remember being horrified by what was happening at Twitter but now it\u2019s commonplace. We needed unions yesterday."
+      },
+      {
+        "id": "t1_mvgs65d",
+        "author": "Surprise_Typical",
+        "score": 199,
+        "body": "Strategic cruelty is the name of the game now. IMO it started with Musk in 2022 when he seemed to revel in causing misery towards Twitter employees https://medium.com/@adrianbooth/tech-ceos-whos-the-meanest-of-them-all-a684a7da0d20"
+      },
+      {
+        "id": "t1_mvgqdrl",
+        "author": "BoredGuy2007",
+        "score": 194,
+        "body": "Is this basically a proxy for complaining about Meta\u2019s culture shift? Yeah they\u2019re a PIP factory now"
+      },
+      {
+        "id": "t1_mvgpv4m",
+        "author": "MrMoist",
+        "score": 183,
+        "body": "Engineers are definitely seen as liabilities now rather than resources. The question should be flipped - \"Is the company providing enough value to take care of it's employees?\". The original point of capitalism is that private companies can do a better job taking care of the population than the government can. But when you have these large tech companies that can provide more than enough to take care of it's employees, but choose not to - it becomes greed."
+      },
+      {
+        "id": "t1_mvgp3di",
+        "author": "redkit42",
+        "score": 152,
+        "body": "The smaller companies are also beginning to ask Leetcode questions. I've even heard of a defense company ask the Two Sum problem to someone I know. (Leetcode easy, yes, but it's still Leetcode.) Every company is cargo culting the shit out of the Big Tech companies now."
+      },
+      {
+        "id": "t1_mvh3eab",
+        "author": "warassasin",
+        "score": 142,
+        "body": "I have to say, I know a half dozen people at amazon. Every single person I know who got a job at Amazon was not technical a year before, pivoted industries and acts as a middle manager type while talking software. This industry has so damn many middle managers and yappers and it feels like they're hitting a critical mass where actually doing work doesn't matter anymore because it comes from a team where a a couple people work, few people don't or hardly work, a few people socialize and talk about work at the office, and a the solution seems to be to add more layers of management which just attracts more people yappers and makes more productive developers check out. Our industry is growing up to a business consultant style monolith and maaaaan it sucks"
+      },
+      {
+        "id": "t1_mvh3x4c",
+        "author": "ConditionHorror9188",
+        "score": 134,
+        "body": "Engineers are definitely seen as liabilities now rather than resources I think this is the key difference. Up until 2 years ago, engineers were resources to be hoarded and kept from competitors. Now, they are seen as overpriced inconveniences, mostly filling the gaps until they are no longer needed (whether this is true or not). It is amazing to me how many folks here blame this on immigrants or whatever. Executives treat us as disposable commodities and we blame other workers EVERY SINGLE TIME. To be fair, with stock price appreciation, there are plenty of engineers who are costing 2-3x what a new hire would cost and I understand people need to provide value when they are L5s on $800k/year. But you\u2019re right in that the disdain executives have for engineers has now trickled down to directors. This is exactly the culture I wanted to leave in finance."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mmx040",
+    "subreddit": "cscareerquestions",
+    "title": "The computer science dream has become a nightmare",
+    "score": 2399,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1mmx040/the_computer_science_dream_has_become_a_nightmare/",
+    "selftext": "https://techcrunch.com/2025/08/10/the-computer-science-dream-has-become-a-nightmare/ \"The computer science dream has become a nightmare\nWell, the coding-equals-prosperity promise has officially collapsed. Fresh computer science graduates are facing unemployment rates of 6.1% to 7.5% \u2014 more than double what biology and art history majors are experiencing, according to a recent Federal Reserve Bank of New York study. A crushing New York Times piece highlights what\u2019s happening on the ground. ...The alleged culprits? AI programming eliminating junior positions, while Amazon, Meta and Microsoft slash jobs. Students say they\u2019re trapped in an \u201cAI doom loop\u201d \u2014 using AI to mass-apply while companies use AI to auto-reject them, sometimes within minutes.\"",
+    "comments": [
+      {
+        "id": "t1_n80u54r",
+        "author": "v0idstar_",
+        "score": 1087,
+        "body": "I think if you are one of the lucky ones that make it into the industry you are going to have an insane career in 5-10 years when theres a senior drought"
+      },
+      {
+        "id": "t1_n80x8kt",
+        "author": "IncreaseOld7112",
+        "score": 656,
+        "body": "Gell Mann Amnesia on full display. We aren't hiring anything but backfills more so because of interest rates than AI."
+      },
+      {
+        "id": "t1_n81e4ux",
+        "author": "throwaway133731",
+        "score": 490,
+        "body": "actually its offshoring, I work at FAANG and the backfill is outside the US"
+      },
+      {
+        "id": "t1_n80xb9d",
+        "author": "rashnull",
+        "score": 349,
+        "body": "If you make it and survive to become a senior with any significant AI-free aptitude that is"
+      },
+      {
+        "id": "t1_n815yp4",
+        "author": "michi03",
+        "score": 268,
+        "body": "Ai is not good enough to fully replace anyone yet. Devs are and have always been replaced by offshore resources in India"
+      },
+      {
+        "id": "t1_n81kyns",
+        "author": "makarov_skolsvi",
+        "score": 259,
+        "body": "I agree. I was a high performing intern at a company for 2 summers. They just said they cannot give me a return offer because of budget constraints, and subsequently opened the exact same position overseas. Edit: to clarify, my manager really tried to vouch for me and get me a headcount, so this is definitely not just a BS reason they\u2019re giving me."
+      },
+      {
+        "id": "t1_n810b1v",
+        "author": "v0idstar_",
+        "score": 247,
+        "body": "You should be able to handle yourself without AI but using AI will be about as expected by then as knowing how to type on a keyboard"
+      },
+      {
+        "id": "t1_n80y06a",
+        "author": "putinsbloodboy",
+        "score": 213,
+        "body": "I get it\u2019s all doom and gloom, but there\u2019s just no way that I will believe that CS grads are worse off than bio and art history. You\u2019re fucked in those unless you are going to grad or professional school."
+      },
+      {
+        "id": "t1_n819aos",
+        "author": "PianoConcertoNo2",
+        "score": 197,
+        "body": "100% disagree. The issue isn\u2019t AI, it\u2019s how much easier offshoring has become - look at India with their GCCs. Now businesses can just cut the whole of development from the US, and setup shop in India, while reaping in tax benefits from the Indian government. Teams are already being reduced / removed from the US, and opening up in India. Just look at a few Fortune 500 companies job listing for US vs India."
+      },
+      {
+        "id": "t1_n80ulph",
+        "author": "Mr_Willkins",
+        "score": 184,
+        "body": "Side note: wtf has happened to TechCrunch?"
+      },
+      {
+        "id": "t1_n80zj1e",
+        "author": "Adept_Carpet",
+        "score": 157,
+        "body": "I think a big part of it is that 20-30 years ago, a substantial percentage of people believed \"if you don't know what you want to do just go to college and major in anything and you'll be ahead of the game.\" That became \"just go to college and major in Computer Science.\" If you majored in Art History in the last 5 years, it's because you fucking love art history. Meanwhile CS is stocked with the people who thought enrolling was a guaranteed path to an easy living. And even in the best times there was always a little bump to get over to get that first job, most companies would rather hire someone with at least a year of experience because they are so much more productive."
+      },
+      {
+        "id": "t1_n81dz5p",
+        "author": "ObjectBrilliant7592",
+        "score": 102,
+        "body": "Techcrunch has always been gossipy, tabloid bs with a disingenuous \"omg i'm such a nerd\" slant. It has never accurately reflected attitudes within the industry. It is journalists looking at tech from the outside."
+      },
+      {
+        "id": "t1_n82m807",
+        "author": "Federal_Emu202",
+        "score": 101,
+        "body": "Nobody is getting replaced by ai it\u2019s all offshoring and h1b abuse who is writing these articles"
+      },
+      {
+        "id": "t1_n81cnpg",
+        "author": "GreatValueProducts",
+        "score": 96,
+        "body": "And it doesn't even need to be India, my work outsources to Western Europe and their pay is around ~55-60% of what I am paid in Canada, which is already 70% of the US pay. And there is Eastern Europe too."
+      },
+      {
+        "id": "t1_n81qe0c",
+        "author": "",
+        "score": 85,
+        "body": "This , offshoring, and H1Bs. I saw my company go from Nerf gun fights and open kitchens to 80% offshore in corporate offices in India. Execs in the USA showing up to bollywood-style dancing when they visit offshore. Was recently replaced with two contractors and one offshore dev. Cool for those folks, I guess."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qc7ake",
+    "subreddit": "cscareerquestions",
+    "title": "Meta just laid off 1,000+ people in the Bay Area",
+    "score": 2316,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1qc7ake/meta_just_laid_off_1000_people_in_the_bay_area/",
+    "selftext": "Gifted NYTimes article from yesterday covering today\u2019s layoffs: https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html?unlocked_article_code=1.D1A.UEaD.Riij45m_CkwA Reality Labs (aka the Metaverse org) got hit hard this morning. Roughly 1,500 were affected, mostly in the Bay Area and London (striking this out because it\u2019s anecdoal) This landed at the same time as a pretty major change to the perf system. They\u2019re moving away from the annual, soul-crushing calibration where ~20% of people landed in one of two negative buckets. Going forward, only 10% are considered not-ok. CME and EE were effectively merged, and the multiplier on that bucket was increased. People are actually pretty happy about this. Fingers crossed that it\u2019s a signal that some of the Amazon-style stack ranking might be easing up.",
+    "comments": [
+      {
+        "id": "t1_nzg5pfb",
+        "author": "justUseAnSvm",
+        "score": 1146,
+        "body": "Meta's metaverse is an unmitigated disaster. They are more in the red (70B) than the market cap of several companies in the SP500. They made a big bet, it came up short, and unwinding this fiasco will take several years. Therefore, this isn't the type of layoff we need to worry about. It's not AI, not outsourcing, just a corporate organization incapable of making a profit and out of time."
+      },
+      {
+        "id": "t1_nzg3xcs",
+        "author": "Lfaruqui",
+        "score": 489,
+        "body": "LLMs really took the forefront the past couple years. AR/VR/CV will have it\u2019s time again one day, maybe after these chemists figure out how to make better batteries"
+      },
+      {
+        "id": "t1_nzg85lz",
+        "author": "DarthBuzzard",
+        "score": 179,
+        "body": "They are more in the red (70B) than several companies in the SP500. They made a big bet, it came up short, and unwinding this fiasco will take several years. They're still going to bet many tens more billions on it, they are just reining in the spend a bit."
+      },
+      {
+        "id": "t1_nzg5bb7",
+        "author": "indiscreet-observer",
+        "score": 149,
+        "body": "Doesn't Meta usually fire people in January every year?"
+      },
+      {
+        "id": "t1_nzgjrjg",
+        "author": "trippingWetwNoTowel",
+        "score": 145,
+        "body": "I work in software and I\u2019m so frustrated at the current state of affairs. The only things we\u2019re working on are; - how to make devices more addictive. - a.i. or anything that sounds like a.i. - and the fucking metaverse which no one wants or needs, at least, it doesn\u2019t seem like it. There are clearly applications where a.i. can shine and help with so many things. But the way we\u2019re tackling it feels like the way crypto came about\u2026 we have a \u201csolution\u201d in search of a problem. Also the companies need to show some sort of progress for their efforts so now a.i. is being shoved into things we don\u2019t want or need. Seriously, I don\u2019t need apple to summarize my fucking texts? I don\u2019t need copilot in my outlook, I don\u2019t need to live my life in some made up universe when the real answer is we should all get off our screens and get outside more. I\u2019m not saying we shouldn\u2019t continue to progress\u2026.. but this year Microsoft reskinned and updated Outlook and some of it is so damn frustrating with the things they broke and the minor things that got better? It\u2019s email, we don\u2019t need it to be something else. We just need it to do that fast and reliably. I know this is sort of a get off my lawn rant but goddamnit I want to use technology to progress humanity, to make our lives better, to serve society and the goals of our society so long as those goals serve the people who live there.  What the fuckin hell are we doing with our money and energy at this point?"
+      },
+      {
+        "id": "t1_nzg6oh2",
+        "author": "balzam",
+        "score": 134,
+        "body": "I have been at the company for 4 years. I have never heard that. Last year they did performance based layoffs for the first time, but that was in Feb. We are all expecting they will do that again in Feb."
+      },
+      {
+        "id": "t1_nzgbykl",
+        "author": "justUseAnSvm",
+        "score": 119,
+        "body": "Definitely. The bet isn't sized right for what the progress is. Pretty remarkable, actually, it's a very big ship, and it will move slowly. My judgement is Meta was wrong for obvious reasons (Zuck sucks) but he can afford to be wrong much longer than me."
+      },
+      {
+        "id": "t1_nzg4zbs",
+        "author": "hibikir_40k",
+        "score": 107,
+        "body": "For all we know, Meta will be as successful with their AI efforts as they were with their VR efforts."
+      },
+      {
+        "id": "t1_nzg4sp9",
+        "author": "AboutAWe3kAgo",
+        "score": 93,
+        "body": "Yea, it was ahead of it's time. Same thing with LLM right now. They think it is the next big thing but it won't be until the next phase after the hype, where it will really shine. They are going to lose money for another 5 years."
+      },
+      {
+        "id": "t1_nzg5n7u",
+        "author": "teddyone",
+        "score": 77,
+        "body": "This assumes there is a \u201cmax amount\u201d of software companies need to develop.  There is not.  If developers get more productive, they will just build more and better software faster."
+      },
+      {
+        "id": "t1_nzg7vye",
+        "author": "DarthBuzzard",
+        "score": 75,
+        "body": "It's funny because AR/VR is the ideal platform for AI. Though when it comes to Meta specifically, they still have 13000 or so people working on VR/AR/Wearables."
+      },
+      {
+        "id": "t1_nzg7059",
+        "author": "camel_case_man",
+        "score": 69,
+        "body": "why do we assume that any ai company will be profitable after 5 years? or ever?"
+      },
+      {
+        "id": "t1_nzg3n0h",
+        "author": "InlineSkateAdventure",
+        "score": 64,
+        "body": "Even if AI can replace 15% of devs, the end game will be very chilling."
+      },
+      {
+        "id": "t1_nzg5cni",
+        "author": "Murky-Elderberry-761",
+        "score": 63,
+        "body": "guys read the article, they are just cutting the metaverse BS. Sorry to the employees but if they are smart, they more or less saw this coming at one point, hope they can find something else. \"Around 10 percent of Meta\u2019s Reality Labs division\""
+      },
+      {
+        "id": "t1_nzg78pa",
+        "author": "therealhappypanda",
+        "score": 52,
+        "body": "It's a shame a sane and grounded comment like this one doesn't get the clicks the sensationalist ones about a\n\"ai bringing about serf kingdoms 2.0\" do"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ozlobb",
+    "subreddit": "cscareerquestions",
+    "title": "I GOT THE JOB!! F*** MY OLD MANAGER!!!",
+    "score": 2288,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1ozlobb/i_got_the_job_f_my_old_manager/",
+    "selftext": "I\u2019ve had to deal with an extremely toxic manager for months now who has used personal insults, made me work weekends, and put me on zombie projects, and I studied my ASS off just for interviews to finally get a job offer today for a role at a Big Tech job way more in line with what I actually want to do. F*** my old team, for so long I held back because I didn\u2019t want to burn bridges but I could NOT care less anymore",
+    "comments": [
+      {
+        "id": "t1_npcn91x",
+        "author": "TopJudgment9",
+        "score": 408,
+        "body": "congrats! just a word of caution not to tell that manager or anyone on that team where you're going if you want to burn bridges. they could easily reach out to them and ruin your job offer"
+      },
+      {
+        "id": "t1_npceymm",
+        "author": "SeriousDabbler",
+        "score": 393,
+        "body": "Well done"
+      },
+      {
+        "id": "t1_npchwel",
+        "author": "secondandmany",
+        "score": 201,
+        "body": "It was for an ML based role, so really my studying had a ton of breadth, anywhere from leetcode to system design to math/stats- I think I overstudied when looking back but it was worth it"
+      },
+      {
+        "id": "t1_npd625l",
+        "author": "April1987",
+        "score": 166,
+        "body": "congrats! just a word of caution not to tell that manager or anyone on that team where you're going if you want to burn bridges. they could easily reach out to them and ruin your job offer yes, no need to burn bridges, it is fine venting here anonymously though :)"
+      },
+      {
+        "id": "t1_npcfrpn",
+        "author": "timmyturnahp21",
+        "score": 163,
+        "body": "Congrats on the pay raise! Did you study anything other than system design and leetcode?"
+      },
+      {
+        "id": "t1_npcjplr",
+        "author": "akanxh_007",
+        "score": 129,
+        "body": "Ain't no such thing as over studying. Congrats bruv"
+      },
+      {
+        "id": "t1_npcgo0e",
+        "author": "narwhale111",
+        "score": 113,
+        "body": "When you have a genuinely toxic manager in a generally toxic workplace dealing with it just looks like leaving tbh"
+      },
+      {
+        "id": "t1_npcf157",
+        "author": "BeatTheMarket30",
+        "score": 75,
+        "body": "You need to learn to deal with toxic managers. No need to work weekends just because they want it."
+      },
+      {
+        "id": "t1_npcj14v",
+        "author": "asteroidtube",
+        "score": 55,
+        "body": "Evidently OP doesn\u2019t \u201cneed\u201d to do anything,  because they found a new job. Gtfoh with the victim blaming mentality of \u201cyou just need to learn to deal with the toxic people\u201d. How about, the toxic people need to learn to be reasonable lest they lose good employees?"
+      },
+      {
+        "id": "t1_npcotx5",
+        "author": "timmyturnahp21",
+        "score": 47,
+        "body": "Well shit, it\u2019s ML. The rest of us regular devs are still fucked"
+      },
+      {
+        "id": "t1_npdqo6u",
+        "author": "Legitimate-mostlet",
+        "score": 42,
+        "body": "Lol. You all really need to get over this idea that employers have all this power over you. You owe them zero notice and no it won\u2019t hurt you. No, \u201cthe world is a small place\u201d phrase le Redditors like to say. The only thing companies do is verify your time you worked there and what you did, that\u2019s it.\nThey can\u2019t legally do anything to you or badmouth you for quitting with zero notice. At will employment allows for it and it would be illegal for them to do so. Also, no, you aren\u2019t that important as you think you are. People aren\u2019t going to talk about you and even if they do, it will be within the company you have zero intention of working at ever again. Again, you all need to get over yourselves. You really aren\u2019t that important that there is a big conspiracy in the industry to talk about you lol. Employers need to know that treating your employees like dirt has consequences. Give it to them."
+      },
+      {
+        "id": "t1_npcl7yg",
+        "author": "CodeNameGodTri",
+        "score": 38,
+        "body": "update to us how you break the news to your manager"
+      },
+      {
+        "id": "t1_npcjmjq",
+        "author": "Impossible_Break698",
+        "score": 37,
+        "body": "What are you on about? Sounds like he handled the toxic manager."
+      },
+      {
+        "id": "t1_npdjo1o",
+        "author": "",
+        "score": 33,
+        "body": "Nah burn those bridges. Fuck those guys - literally not many things worse than a PoS boss. I been there."
+      },
+      {
+        "id": "t1_npe4vlb",
+        "author": "awwww666yeah",
+        "score": 29,
+        "body": "I\u2019ve burned plenty of bridges at awful jobs. It matters not. Ain\u2019t nobody trying to go back."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1o479rh",
+    "subreddit": "cscareerquestions",
+    "title": "PSA: Don't blatantly cheat in your coding round.",
+    "score": 2199,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1o479rh/psa_dont_blatantly_cheat_in_your_coding_round/",
+    "selftext": "I recently conducted an interview with a candidate who, when we switched to the coding portion of the interview, faked a power outage, rejoined the call with his camera off, barely spoke, and then proceeded to type out (character for character) the Leetcode editorial solution. When asked to explain his solution, he couldn't and when I pointed out a pretty easy to understand typo that was throwing his solution off, he couldn't figure out why. I know its tough out there but, as the interviewer, if I suspect (or in this case pretty much know) you're cheating its all I'm thinking about throughout the rest of the interview and you're almost guaranteed to not proceed to the next round. Good luck out there !",
+    "comments": [
+      {
+        "id": "t1_nj096qz",
+        "author": "no_clip_davie",
+        "score": 1204,
+        "body": "I had a candidate do the type it out top-to-bottom, not talking through thing. Eventually, when I asked them to explain their solution I realized could hear another voice speaking the same words, word-for-word, just seconds before her. Her headset mic was picking up her headphone audio. And it wasn\u2019t an echo because I could hear the voice belonged to a man with a very different accent than hers."
+      },
+      {
+        "id": "t1_nj0lp34",
+        "author": "odyseuss02",
+        "score": 412,
+        "body": "This reminds me of a recent coding interview I had.  They sent me an email and said I would be doing a code interview in something called HackerRank.  So I researched what that was.  It's like a web software you will code in to detect cheating.  So I figure that's fine.  I take my wife's chromebook out to the parking lot at work and start the teams interview.  The guy gives me a problem in the chat and I ask where is the HackeRank link?  He says just code in whatever you want.  I had no IDE, debugger, NOTHING on that chromebook.  I told him sorry I'm going to have to raw dog it.  I went to W3 schools and did the problem in their web C# tutorial page.  No breakpoints, autocomplete, nothing.  I finally finished the problem though and the interviewer cracked up.  He said at least I know you were not cheating!"
+      },
+      {
+        "id": "t1_nj0a7td",
+        "author": "Till_I_Collapse_",
+        "score": 402,
+        "body": "Some responses completely sidesteps the actual problem, which is the candidate's blatant dishonesty. Telling interviewers to \"stop whining\" when they encounter cheating is a wild take. The key issue here is a lack of integrity from the candidate, not a flaw in the interview format. Shifting the blame to the company for not making their process cheat-proof is like blaming a store for getting shoplifted."
+      },
+      {
+        "id": "t1_nj0b4jm",
+        "author": "mr_brobot__",
+        "score": 286,
+        "body": "Lmao, can we just go back to whiteboard interviews in person??"
+      },
+      {
+        "id": "t1_nj0i3gu",
+        "author": "gHx4",
+        "score": 224,
+        "body": "I think the main thing with whiteboard interviews is that code syntax should not be considered the testable part; you're testing the developer's design and presentation skills, so it's nice to see them demonstrating a vaguely UML like diagram of the system and its resources, or pseudocode/illustrations that demonstrate the algorithm and data flow. Obviously the expectations on whiteboarding skills and the amount of margin for error will vary from junior to staff engineer."
+      },
+      {
+        "id": "t1_nj09r34",
+        "author": "natures_-_prophet",
+        "score": 201,
+        "body": "\ud83d\ude02"
+      },
+      {
+        "id": "t1_nj0ioor",
+        "author": "DefiantFrost",
+        "score": 176,
+        "body": "It\u2019s stuff like this that makes me realise I\u2019m really not doing as badly as my brain keeps telling me I am."
+      },
+      {
+        "id": "t1_nj0obxo",
+        "author": "Friendly-View4122",
+        "score": 156,
+        "body": "This! Up until say 5-6 years ago, I feel like whiteboarding the coding interview was the norm. But now, your code needs to be clean, needs to compile, run, AND pass all the tests."
+      },
+      {
+        "id": "t1_nj1d5ea",
+        "author": "odyseuss02",
+        "score": 145,
+        "body": "This was yesterday.  I'll find out next week and let you know!"
+      },
+      {
+        "id": "t1_nj0dguw",
+        "author": "no_clip_davie",
+        "score": 141,
+        "body": "Hard agree. The people with experience running interviews are literally here right now sharing what it looks like from the other side. If you run a few interviews this all will become painfully obvious. This all reeks of people who think this is like school where for the most part no one gives a shit if you cheat because it\u2019s only your own ass you\u2019re hurting. No one wants to work with someone like that, because they know it\u2019ll mean having to carry the cheater, shoulder extra responsibilities, cleanup their messes etc."
+      },
+      {
+        "id": "t1_nj0bys5",
+        "author": "Individual_Mood6573",
+        "score": 108,
+        "body": "I agree, don\u2019t use AI in the interview if it\u2019s obvious. People should definitely be using AI to land interviews though, both on their resume and to apply"
+      },
+      {
+        "id": "t1_nj1b2bj",
+        "author": "TheNewOP",
+        "score": 95,
+        "body": "That's absolutely hilarious lmao"
+      },
+      {
+        "id": "t1_nj0l93f",
+        "author": "Wandering_Oblivious",
+        "score": 90,
+        "body": "No. https://hadid.dev/posts/living-coding/ https://par.nsf.gov/servlets/purl/10196170 More honest would be to admit that interviewing is 95% vibes no matter what, and just accept that making the hiring process cheaper and shorter and making bad hires cost less in terms of time and money is the way to go."
+      },
+      {
+        "id": "t1_nj07o9k",
+        "author": "",
+        "score": 73,
+        "body": "Start doing onsite interviews and stop whining about candidates cheating using LLMs. Or if that is not possible pitch ideas and make an open book coding round. Unless you\u2019re a FAANG employer you have no need conducting DS and algo heavy interviews."
+      },
+      {
+        "id": "t1_nj0rwl2",
+        "author": "Harbinger_Kyleran",
+        "score": 71,
+        "body": "Maybe it was just a different era, (over 40 years ago) but neighbor of mine was interviewing for his first job out of college over the phone and was asked to answer questions about coding in C. He had never coded in C before so he read his answers out of a book he had on the shelf, but to his surprise he was offered the position. After starting his new boss pulled him aside asking if he had used a book to pass the interview, to which my neighbor affirmed. The boss said he knew it was the case, but decided to hire him anyway as he was impressed with the initiative. He went on to have a long career in SE working for GTE and IBM, so as I see it, nothing ventured, nothing gained."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1sxyx3n",
+    "subreddit": "cscareerquestions",
+    "title": "Computer science is seeing the biggest enrollment drop of any major in 6 years. While ME and EE enrollment have risen by 11% and 14% this year.",
+    "score": 2127,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1sxyx3n/computer_science_is_seeing_the_biggest_enrollment/",
+    "selftext": "https://finance.yahoo.com/sectors/technology/articles/computer-science-once-golden-ticket-140500823.html So now we are saturating Mechanical and Electrical engineering I see.",
+    "comments": [
+      {
+        "id": "t1_oiqbxpt",
+        "author": "HearMeOut-13",
+        "score": 1028,
+        "body": "EE and ME? oh boy if those are the chasing for the sake of chasing type of people they are in for a ROUGH time."
+      },
+      {
+        "id": "t1_oiqv9m3",
+        "author": "Aware_Magazine_2042",
+        "score": 613,
+        "body": "people who turned in programming assignments with English sentences Ah good to see they\u2019re still teaching Python in some CS programs."
+      },
+      {
+        "id": "t1_oiqs2xb",
+        "author": "two_three_five_eigth",
+        "score": 586,
+        "body": "I\u2019m CS, I shouldn\u2019t make fun of my own major, but I TA\u2019d in a lab and we had 1) People that would pretend cry until one of the other students helped them. 2) People that had actual panic attacks in labs.  They were almost always looking at a blank or nearly blank screen when this happened.  Was easy to tell from fakers because they were louder. 3) People who asked \u201chow to build Facebook\u201d 4) People who turned in programming assignments with English sentences"
+      },
+      {
+        "id": "t1_oiqep6p",
+        "author": "DapperCam",
+        "score": 369,
+        "body": "8% drop isn\u2019t too crazy if it has 5x\u2019ed over the past 16 years"
+      },
+      {
+        "id": "t1_oiqnfu8",
+        "author": "Miamiconnectionexo",
+        "score": 345,
+        "body": "makes sense honestly, the cs gold rush is over and people are finally noticing the job market reality. me and ee will probably get saturated in 4 years right when this current wave graduates."
+      },
+      {
+        "id": "t1_oiqat9u",
+        "author": "Impossible-Line1070",
+        "score": 272,
+        "body": "Hell yeah.. nature is healing, people who love computers will study computers as god intended, good luck to ee and me majors hope u guys survive this."
+      },
+      {
+        "id": "t1_oiqd7hx",
+        "author": "allahakbau",
+        "score": 186,
+        "body": "ECE is hard as shit"
+      },
+      {
+        "id": "t1_oir7x7g",
+        "author": "noleft_turn",
+        "score": 145,
+        "body": "I don\u2019t understand why everyone thinks EE will be saturated. \u00a0It\u2019s not like there are magical new jobs in EE. \u00a0The jobs always sucked and were mostly MS requirements and CAD design."
+      },
+      {
+        "id": "t1_oiqy0dz",
+        "author": "two_three_five_eigth",
+        "score": 128,
+        "body": "\u201cBut the ideas are there right\u201d bad CS student"
+      },
+      {
+        "id": "t1_oiqd4xw",
+        "author": "No-Dig-4371",
+        "score": 115,
+        "body": "You over value passion. At the end of the day CS is taken to get a job."
+      },
+      {
+        "id": "t1_oire637",
+        "author": "Few-Impact3986",
+        "score": 113,
+        "body": "I think they are just looking at the stock market and thinking Nvidia is going to hire them and make the $$$. Remember these are young kids who really don't understand how the industry works and often times don't have parents who can guide them."
+      },
+      {
+        "id": "t1_oir0n4k",
+        "author": "introvertedpanda1",
+        "score": 99,
+        "body": "Seriously, for the first 3 years of covid, if you had a pulse and knew how to do basic web pages, you were hired so questions asked. Ive never seen anything like this. AI certainly does not help, but what is going on is a correction."
+      },
+      {
+        "id": "t1_oiqin3x",
+        "author": "Alex-S-S",
+        "score": 98,
+        "body": "EE is THE hardest degree to get. I wish them the best of luck."
+      },
+      {
+        "id": "t1_ois2gqo",
+        "author": "decrement--",
+        "score": 96,
+        "body": "Future PM"
+      },
+      {
+        "id": "t1_oiqlick",
+        "author": "james-starts-over",
+        "score": 75,
+        "body": "Does that mean they will all drop out and transfer over to CS in two years, creating another huge spike lol?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1tkccsi",
+    "subreddit": "cscareerquestions",
+    "title": "My senior engineers have stopped thinking for themselves",
+    "score": 2067,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1tkccsi/my_senior_engineers_have_stopped_thinking_for/",
+    "selftext": "Three years at this company. I genuinely liked my team. Our tech lead used to be the guy who'd whiteboard complex system designs for hours, explain every tradeoff, make sure everyone understood the why behind decisions. Last Tuesday he drops a PR with the description \"refactored auth flow based on ChatGPT output.\" I asked him to walk me through the changes. He stared at me like I asked him to recite the code from memory. \"Just paste it into ChatGPT and ask it to explain.\" This is a staff engineer. A guy I looked up to. Then there's the code review situation. Another senior on my team now approves PRs in about 3 minutes flat. His whole process is copying the diff into an AI chat and if it says looks good, he approves. Last week that let a race condition slip into prod. When I pointed it out his response was \"well the AI said it was thread safe.\" The AI also thinks our codebase is a fresh greenfield project with zero legacy constraints. I dont know if I'm being dramatic or if we're collectively losing the ability to reason about our own systems. Smart people, people who taught me everything, now just forwarding AI output without reading it. Anyway thats where we're at I guess.",
+    "comments": [
+      {
+        "id": "t1_on7ill0",
+        "author": "throwaway0845reddit",
+        "score": 925,
+        "body": "They realized that if the execs don\u2019t care about the quality of their software and will just lay you off if you don\u2019t learn to use AI to increase your productivity then you don\u2019t need to do any of that bullshit. Go home early. Make money. Spend time with your family. You love doing all that design and coding? Make your own products and projects.\nStop being married to your 9-5 They\u2019re right. You\u2019re the naive fool who will get laid off."
+      },
+      {
+        "id": "t1_on7krvq",
+        "author": "ErZicky",
+        "score": 671,
+        "body": "Man this is so depressing, I entered this career because I love writing code and it's my passion, yes I enjoy the rest of the higher level decisions and process too but coding was what I enjoy the most. I'm seeing my passion dying in front of my eyes and there's nothing I can do Edit: I keep getting DMs of people telling me how fucked I am and so on. So before you DM me: I have already said what I wanted, you're happy that you don't have to code anymore? Good. I don't and I fucking hate it. There's nothing more to add to that discussion even if you DM me"
+      },
+      {
+        "id": "t1_on7qqjo",
+        "author": "Ancient-Range3442",
+        "score": 477,
+        "body": "I\u2019m seeing it in our team as well. The backend engineer has outsourced all his thinking and work to the LLM. Any question is responded with \u2018well Claude thinks..\u2019, and all replies to tickets and slack is just copy pasted via the LLM. It\u2019s serious brain rot."
+      },
+      {
+        "id": "t1_on7nvhe",
+        "author": "ChicksWithClocksCome",
+        "score": 255,
+        "body": "We were betrayed by this industry. I spent most of my career being the chef and now they created a robot to do it for me that generates slop and make me fix its mistakes as best I can. So now I\u2019m mid-career in a job I fucking hate and am threatened to get replaced in every week. Like bro if you told me this ten years ago I would have done something else."
+      },
+      {
+        "id": "t1_onam4lz",
+        "author": "Hot-Problem2436",
+        "score": 208,
+        "body": "We fought it for a long time, but eventually it's like, \"The bosses want me to do this, the kids already do this... might as well do it too. At least I can retire when the system collapses.\""
+      },
+      {
+        "id": "t1_on7lma1",
+        "author": "sleeping-in-crypto",
+        "score": 170,
+        "body": "Geez the comments here are pathetic. One - I\u2019m on board with the argument that if management and senior leadership don\u2019t care about the product then neither do I. You have to let go of that \u201cpride in your work\u201d. So I\u2019ll just go with the vomit flow, whatever. I don\u2019t care anymore. Still, I do take the time to understand what it does and how it does it. At the same time, it\u2019s perfectly valid to lament a dying skill and be sad to see people who were good at their jobs become copy pasters who don\u2019t know what the code they\u2019re pasting does. It\u2019s not an acceptable answer to paste it into a chat and ask how it works. And you shouldn\u2019t be defending that behavior. Frankly the profession is becoming a joke and I\u2019m pretty much done. Will find something else to do, fuck knows what."
+      },
+      {
+        "id": "t1_on7ja0y",
+        "author": "RC211V",
+        "score": 128,
+        "body": "If the senior leadership don't care about the product, why should the grunts? The only thing I bother with anymore is being interview ready. Otherwise I don't care what shit I shovel at work as long as I'm employed."
+      },
+      {
+        "id": "t1_on7j1ue",
+        "author": "TeachBroad2127",
+        "score": 127,
+        "body": "ok lisa, youre a bit dramatic. chill. copy paste into chatgpt, and if something goes wrong point out on the AI"
+      },
+      {
+        "id": "t1_on7p07c",
+        "author": "ErZicky",
+        "score": 107,
+        "body": "we were betrayed by this industry I'm probably gonna get down voted a lot by saying this, but to mena significant part of the blame has also to be given to all those, now senior, Devs that entered the industry in 2015-18 just for the money when you could get hired by just doing a boot camp. They didn't have the coding/CS passion and when AI arrived they jumped on it for EVERYTHING from coding to just thinking. We are being betrayed by our own kind. Look at artists and designer, when AI arrived they were unanimous in how much they didn't want to be replaced by it. Us? We are all over the place. There are Devs that are happy because they never really liked coding (what are you doing in this profession), Devs that absolutely don't use it. And everything in between. I'm not saying that we shouldn't use AI, it's a great tool when used like a cracked up stack overflow/code completion, tech discussion buddy or basic stuff automation but we are now reaching a point of no return. I'm at a point that even when I do my personal project I feel sad because it seem a skill that no one cares about and I'm wasting my times when a kid can push out 10 apps in the time I debug a nasty multithreading bug."
+      },
+      {
+        "id": "t1_on7w8cd",
+        "author": "AdventurousTime",
+        "score": 94,
+        "body": "You can\u2019t lay this all at the feet of bootcamp grads."
+      },
+      {
+        "id": "t1_on9lumi",
+        "author": "Orca-",
+        "score": 91,
+        "body": "I\u2019m seeing straight up copy pasted Claude output in PR comments without attribution and I want to scream. Like what are we even doing now."
+      },
+      {
+        "id": "t1_on8acnd",
+        "author": "DeeBlekPintha",
+        "score": 73,
+        "body": "I would argue this has much more to do with the fact that a lot of software engineers and devs in this industry have a \u201cf*ck you I got mine\u201d mentality (which is pervasive in tech as a whole). Had software engineers been a bit more forward thinking and possessed a bit more solidarity in our thinking back in the 2010s, we would have unionized the way skilled workers in many other fields do and would have far more leverage to push for responsible Ai usage today"
+      },
+      {
+        "id": "t1_on80moi",
+        "author": "VividAd7961",
+        "score": 71,
+        "body": "lol no that is not how it works right now, it\u2019s all about ai productivity, we are tracked on the token we use and output of merged code."
+      },
+      {
+        "id": "t1_on7jsha",
+        "author": "zozoped",
+        "score": 69,
+        "body": "This is true if your company goes to the sink and you want to stay there. Otherwise you can invest in yourself and believe you can bring something to the table."
+      },
+      {
+        "id": "t1_on8oh6f",
+        "author": "TheTyger",
+        "score": 64,
+        "body": "I am excited for 5 years from now when there are no mid level developers and Sr+ salaries skyrocket to clean up the slop piles that companies are shoveling today!"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1s2wzqv",
+    "subreddit": "cscareerquestions",
+    "title": "Today's layoffs at Epic are just the latest reminder to us that your company does not give a flying F about you",
+    "score": 2034,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1s2wzqv/todays_layoffs_at_epic_are_just_the_latest/",
+    "selftext": "Looking at the profiles of the people laid off today is wild. The person who came up with the character Jonesy in Fortnite. One of the key artists behind the Fortnite Simpsons season and the current season map. A Fortnite lead who debugged the current season's rival system from his bed while fighting off pneumonia. Epic let go of some amazing talent today. And Timmy Epic is full of shit saying this has nothing to do with AI this is 100% a push to replace talent with AI. Its coming for us all guys. Any of us could be next. I gotta be honest I'm a bit scared about what the future holds. 1 year expenses is the new emergency fund for us. MINIMUM. High salaries dont mean shit when you can lose your job at any time UNLESS you are socking most of it away for when the gravy train crashes. Because these billionaire tech CEOs will crash the train youre on to add a fraction of a percent to their billions of net worth. God shit is fucked. And its a shame Fortnite is my favorite FPS. Now I feel queazy playing it End rant",
+    "comments": [
+      {
+        "id": "t1_ocbe3xf",
+        "author": "nsxwolf",
+        "score": 908,
+        "body": "Fortnite popularity is in freefall and is taking in a lot less money and you think this is about AI?"
+      },
+      {
+        "id": "t1_ocbdp7i",
+        "author": "achomes",
+        "score": 384,
+        "body": "Yeah its fucked. But so is the economy. This isn't just AI. AI is just the excuse companies will use since it looks like innovation instead of mismanaged placement of cash flow. Keep your skills fresh & stay positive. Reading every AI headline is just asking to go fucking crazy/curl up in your bed worried about the future"
+      },
+      {
+        "id": "t1_ocberau",
+        "author": "achomes",
+        "score": 322,
+        "body": "Most of Fortnite is built. Its just a platform for churning out content & DLC now. Of course they can cut headcount in the interest of increasing profitability. Double win when you say its because of AI. As a result of pinning this to AI all of the monkeys on Wall street will pump your stock while guys in this subreddit curl into a ball & hyper ventilate into a paper bag"
+      },
+      {
+        "id": "t1_ocbekfg",
+        "author": "ILikeCutePuppies",
+        "score": 191,
+        "body": "Fortnite's revenue has been falling and they are at a net loss.   It has been happening for years.  Not to mention their google /apple lawsuits. Epic are not reallocating to AI hiring or significant server investments like other companies. Why blame a company for firing for AI hiring when they are not. It reduces your arguments credibility."
+      },
+      {
+        "id": "t1_ocbch9t",
+        "author": "another-altaccount",
+        "score": 136,
+        "body": "I wish more people in this field would internalize this instead of thinking they\u2019re God\u2019s special child."
+      },
+      {
+        "id": "t1_ocbgckg",
+        "author": "MallFoodSucks",
+        "score": 113,
+        "body": "They deliberately didn\u2019t pin this on AI and said it\u2019s due to falling revenue. Not to mention AI isn\u2019t good at working on proprietary Unreal Engine 5/6 code, probably the worst use case in programming."
+      },
+      {
+        "id": "t1_ocbcrib",
+        "author": "olduvai_man",
+        "score": 96,
+        "body": "Welcome to the labor force, it's been like this for a long time for most industries during downturns. SWEs still have it made compared to most professions."
+      },
+      {
+        "id": "t1_ocbfki2",
+        "author": "Clyde_Frag",
+        "score": 89,
+        "body": "Just a good reminder that a lot of public companies are cooked growth wise. They're not finding new revenue drivers and so must cut costs while using AI as an excuse. Stock might continue to go up but working at a FAANG+ company is rougher than ever, especially if you're trying to find more scope."
+      },
+      {
+        "id": "t1_ocbhs3r",
+        "author": "sourcekill",
+        "score": 67,
+        "body": "the company is not even publicly traded. what the fuck are you on about?"
+      },
+      {
+        "id": "t1_ocbew9y",
+        "author": "xaiur",
+        "score": 51,
+        "body": "This is not about AI"
+      },
+      {
+        "id": "t1_ocbepks",
+        "author": "Next_Page3729",
+        "score": 41,
+        "body": "Exactly my thoughts re: AI as an excuse. It looks a lot better to shareholders to say you're successfully outsourcing labour to AI vs you're just not making the revenue you projected so you have to cut costs. I know AI is making its way into the market, but not nearly yet at the level that could justify laying off so many talented employees."
+      },
+      {
+        "id": "t1_ocbcugv",
+        "author": "CoderBiker24",
+        "score": 40,
+        "body": "Looking at some of the newly open to work profiles on LinkedIn is humbling. Folks with decades of niche, specialized experience and artistic talent were dropped like flies. I wouldn't want to be competing with them on a job app"
+      },
+      {
+        "id": "t1_ocbeqmv",
+        "author": "mehdalotian",
+        "score": 37,
+        "body": "Fortnite is dead . I\u2019d be worried if Roblox started laying off"
+      },
+      {
+        "id": "t1_ocbqreu",
+        "author": "chamillus",
+        "score": 34,
+        "body": "They explicitly said it was not because of AI, and Epic is a private company so there is no stock to pump here."
+      },
+      {
+        "id": "t1_occ2x9n",
+        "author": "Personal-Lychee-4457",
+        "score": 32,
+        "body": "The games industry is slowing down. That\u2019s basically it"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ppegr1",
+    "subreddit": "cscareerquestions",
+    "title": "AWS CEO says replacing junior devs with AI is \"one of the dumbest ideas\"",
+    "score": 2000,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1ppegr1/aws_ceo_says_replacing_junior_devs_with_ai_is_one/",
+    "selftext": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers In the article, he mentions 3 main reasons why AI wouldn't replace junior devs: Junior Devs Often Know AI Tools Better \u201cNumber one, my experience is that many of the most junior folks are actually the most experienced with the AI tools. So they're actually most able to get the most out of them.\u201d Junior Developers Shouldn\u2019t Be The Default Cost-Saving Move \u201cThey're usually the least expensive because they're right out of college, and they generally make less. So if you're thinking about cost optimization, they're not the only people you would want to optimize around.\u201d Removing Juniors Breaks the Talent Pipeline \"At some point, that whole thing explodes on itself. If you have no talent pipeline that you're building and no junior people that you're mentoring and bringing up through the company, we often find that that's where we get some of the best ideas.\u201d What do you think of his arguments?",
+    "comments": [
+      {
+        "id": "t1_num70vc",
+        "author": "proftiddygrabber",
+        "score": 536,
+        "body": "Andy jassy: \ud83d\ude21"
+      },
+      {
+        "id": "t1_numbior",
+        "author": "k_dubious",
+        "score": 479,
+        "body": "This guy knows what he\u2019s talking about. Junior SWEs are basically senior SWE hires with a 5-10 year probationary period."
+      },
+      {
+        "id": "t1_numg0a6",
+        "author": "CobraPony67",
+        "score": 179,
+        "body": "Senior developers used to be junior developers at the beginning of their careers.  How does one become a mid-level or senior developer without being a junior first?"
+      },
+      {
+        "id": "t1_num9iru",
+        "author": "isospeedrix",
+        "score": 154,
+        "body": "Biggest irony is Andy was the former aws ceo"
+      },
+      {
+        "id": "t1_numev4n",
+        "author": "TheSkaterGirl",
+        "score": 153,
+        "body": "\"At some point, that whole thing explodes on itself. If you have no talent pipeline that you're building and no junior people that you're mentoring and bringing up through the company, we often find that that's where we get some of the best ideas.\u201d That's next quarter's problem."
+      },
+      {
+        "id": "t1_nums2ym",
+        "author": "NewChameleon",
+        "score": 144,
+        "body": "that's called \"someone else's problem\" this isn't anything new, every company is hoping some other company is going to be the sucker that picks up the training cost of teaching juniors, then poach"
+      },
+      {
+        "id": "t1_numfzen",
+        "author": "GregorSamsanite",
+        "score": 138,
+        "body": "At an industry-wide level that pipeline is important.  But on average recent grads aren't sticking with their first job for 5-10 years.  It's potentially a tragedy of the commons situation if someone has to train them for the industry as a whole to function, but the individual employers within that industry may be incentivized to let someone else worry about that and just hire them after they're experienced.  People are voluntarily job hopping a bit less frequently now with the tougher job market, but some of these companies are going through so many layoff/hiring cycles that one way or another they're not counting on retaining many new hires that long. Even if that weren't the case and new hires were routinely sticking around longer on average, most tech CEOs of publicly traded or startup companies aren't thinking too hard about the health of their company 5 to 10 years from now, they're thinking about what they're going to tell investors next quarter, and maybe up to a couple of years from now at most."
+      },
+      {
+        "id": "t1_num71mq",
+        "author": "YoAmoElTacos",
+        "score": 126,
+        "body": "It's also that it's not that junior devs are obsolete, it's that junior devs in America are obsolete, and they want to move all the job pipelines overseas while people are distracted by shiny AI."
+      },
+      {
+        "id": "t1_numic2x",
+        "author": "TheSkaterGirl",
+        "score": 114,
+        "body": "But on average recent grads aren't sticking with their first job for 5-10 years. Perhaps they would stay if getting raises and promotions were as easy as finding another place. I don't know about you, but my manager at my last job liked my performance for 3 years, but I never got any promotion and my raises were pathetic. I presume you basically have to kiss ass and suck dick to get a promotion at a ton of places. The zoomers/younger millennials don't wanna play that stupid game, so they simply take the boomer advice of \"if you don't like it, go somewhere else.\""
+      },
+      {
+        "id": "t1_numbyku",
+        "author": "8004612286",
+        "score": 88,
+        "body": "A bigger irony than him being the current sitting amazon CEO with his own AWS CEO contradicting him?"
+      },
+      {
+        "id": "t1_numczwn",
+        "author": "Horror_Response_1991",
+        "score": 50,
+        "body": "Well AWS is FAANG, they can get the best of the juniors and work them to death"
+      },
+      {
+        "id": "t1_numml0v",
+        "author": "Scoopity_scoopp",
+        "score": 48,
+        "body": "I lived this and will always tell the story. Underpaid. Dealt with it for 2 years. Was even BOLD enough to ask multiple times. Got denied each time. On my last denial. Literally turned my LinkedIn open to jobs. Left and accepted a $50k increase within a month. Crazy part is I didn\u2019t even want to leave. Glad I did. Ended up bouncing for one job $104k for a month then to another for $115k a month after that. I\u2019ve learned more in these 5 months just about dealing with people and transitioning, adapting, technical skills than in 2 years\u2026 but without those 2 years I wouldn\u2019t have been able to learn like I do now so it\u2019s a give and take. Feel bad for anyone starting out it sucks lol"
+      },
+      {
+        "id": "t1_num7en9",
+        "author": "Howdareme9",
+        "score": 48,
+        "body": "If Junior devs in America are obsolete, it\u2019s the same for other places, like the UK for example."
+      },
+      {
+        "id": "t1_numv3it",
+        "author": "Ok-Entertainer-1414",
+        "score": 38,
+        "body": "But on average recent grads aren't sticking with their first job for 5-10 years You're looking at it the wrong way. Hiring new grads is like rolling for rares in a gacha game. You open up a new \"pack\" (hire a bunch of people from that year's graduating class), and you try to find a few \"rares\" and \"super rares\" and make sure to keep those by promoting them fast and paying them more... And meanwhile, the commons aren't worthless , so you're not gonna fire them... but also, it's no big deal if they leave; you can easily find someone else just as mediocre to replace them if they leave. So you give the \"commons\" kind of bad raises and don't promote them, and they'll mostly probably quit eventually, but that's not really a bad thing, because it's not super disruptive to the business as long as they don't all quit at once (which they won't), and when they do quit, you can backfill with another new grad (so, do a new gacha pull and see if you get someone good)"
+      },
+      {
+        "id": "t1_numg7ea",
+        "author": "ibeerianhamhock",
+        "score": 38,
+        "body": "Unfortunate reality. The one thing kinda agree on the business side of what Trump is saying is quarterly earnings reports are not a good way to run a a company long term"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1obeifp",
+    "subreddit": "cscareerquestions",
+    "title": "Just merged my first PR to AWS!",
+    "score": 1969,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1obeifp/just_merged_my_first_pr_to_aws/",
+    "selftext": "Can\u2019t wait for next perf cycle. Man, vibe coding with Cursor is awesome!",
+    "comments": [
+      {
+        "id": "t1_nkg4rf4",
+        "author": "mythsquared",
+        "score": 859,
+        "body": "Congrats! I approved the PR. It should be all right and make things more stable in us-east-1."
+      },
+      {
+        "id": "t1_nkg5syz",
+        "author": "Ptrfamily",
+        "score": 264,
+        "body": "Boy do I feel bad for the on calls right now"
+      },
+      {
+        "id": "t1_nkg573t",
+        "author": "Potatopika",
+        "score": 199,
+        "body": "LGTM \ud83d\ude80"
+      },
+      {
+        "id": "t1_nkh7sev",
+        "author": "INFLATABLE_CUCUMBER",
+        "score": 152,
+        "body": "I just want to note that these failures coming after mass layoffs and AI usage are extremely positive things for the labor class. Today is also Diwali, so that's good for Americans as well. This happened for Meta's demo presentation too. To my fellow comrades listening, these failures happening at these times are a GOOD thing. We want this to keep happening, because as capital becomes strong from weakening labor, and then capital fails, labor becomes stronger. I pray for more destruction."
+      },
+      {
+        "id": "t1_nkg5qwe",
+        "author": "jda_10",
+        "score": 141,
+        "body": "I had 4 hours left on call \ud83e\udee0"
+      },
+      {
+        "id": "t1_nkgjwhw",
+        "author": "oupablo",
+        "score": 130,
+        "body": "cries in on-call"
+      },
+      {
+        "id": "t1_nkhavwc",
+        "author": "Knock0nWood",
+        "score": 80,
+        "body": "Yours"
+      },
+      {
+        "id": "t1_nkg6109",
+        "author": "CrastersSafe",
+        "score": 78,
+        "body": "Looks like my PR was the one that caused the outage. Any teams hiring currently?"
+      },
+      {
+        "id": "t1_nkh8xvp",
+        "author": "Gold-Flatworm-4313",
+        "score": 68,
+        "body": "I dodged a bullet accepting swapping my on-call this week with someone else (and they were the one to ask!)"
+      },
+      {
+        "id": "t1_nkgk6lz",
+        "author": "ChadFullStack",
+        "score": 68,
+        "body": "Your change looks good, coherent, and small enough to be modular - Claude Sonnet 4.5"
+      },
+      {
+        "id": "t1_nkhdt84",
+        "author": "Rin-Tohsaka-is-hot",
+        "score": 64,
+        "body": "On my team on-call woke up at 3:30, saw there was nothing they could do to fix it, and went back to sleep lol"
+      },
+      {
+        "id": "t1_nkgbnbr",
+        "author": "username_6916",
+        "score": 54,
+        "body": "No. The tool that grants access to AWS accounts for Amazon Engineers is itself down at the moment too."
+      },
+      {
+        "id": "t1_nkicbei",
+        "author": "TheBeastWithTheYeast",
+        "score": 42,
+        "body": "Can you limit your praying to when all my other coworkers are on call and not myself?"
+      },
+      {
+        "id": "t1_nkhrptt",
+        "author": "terrany",
+        "score": 42,
+        "body": "Just do a handoff, with a note saying \"godspeed\""
+      },
+      {
+        "id": "t1_nkgv22o",
+        "author": "Less-Opportunity-715",
+        "score": 34,
+        "body": "That is indeed the joke !"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mqzjgz",
+    "subreddit": "cscareerquestions",
+    "title": "Recruiter mocked my unemployment and financial situation. How would you have handled this?",
+    "score": 1921,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1mqzjgz/recruiter_mocked_my_unemployment_and_financial/",
+    "selftext": "A few months ago I went through final round interviews and received a written offer with a deadline. But before that, the recruiter called me unexpectedly and pushed hard for a comp number. The call included:\n* \u201cYou\u2019re unemployed? What do you even do with your day?\u201d\n* \u201cYou live in ____? I know it\u2019s expensive there, and you\u2019ve been unemployed for a while. You must be financially struggling.\u201d\n* \u201cMost companies wouldn\u2019t even consider someone who\u2019s been unemployed this long. You\u2019re lucky we took a chance on you.\u201d\n* \u201cWhat, you won\u2019t give a number first? Do you not know how to read a job description?\u201d (The JD did not specify equity or bonus) I stayed calm and didn\u2019t give a number. After the call, I requested to move communication to email.\nHe sent the offer. I responded with a standard counter (not aggressive). No reply for several days. I followed up and he gave dodgy non-answers, and pressed for more phone calls. A few days later, the offer was silently rescinded. No warning, no explanation. Still within the confirmed signing window. I\u2019ve worked with assertive recruiters before. This wasn\u2019t that. This was coercion followed by silent retaliation. Just sharing in case someone else runs into the same tactics. P.S. I googled my recruiter. Despite his \u201c25 years of experience\u201d he doesn\u2019t have much of an online presence, but I found a Reddit thread complaining about him in /r/RecruitingHell \u2026same MO.",
+    "comments": [
+      {
+        "id": "t1_n8ua1im",
+        "author": "Bubbly-Concept1143",
+        "score": 2208,
+        "body": "Headspace (yes, the mental health company). Here\u2019s the Recruiting Hell thread I found complaining about him."
+      },
+      {
+        "id": "t1_n8u810a",
+        "author": "XupcPrime",
+        "score": 1432,
+        "body": "Name and shame"
+      },
+      {
+        "id": "t1_n8uavv8",
+        "author": "libra-love-",
+        "score": 911,
+        "body": "The irony oh my god."
+      },
+      {
+        "id": "t1_n8u8oso",
+        "author": "ResidentAd132",
+        "score": 370,
+        "body": "Name and shame"
+      },
+      {
+        "id": "t1_n8ugfxk",
+        "author": "thread-lightly",
+        "score": 287,
+        "body": "Headspace app... Disgusting"
+      },
+      {
+        "id": "t1_n8ue7hs",
+        "author": "wafflepiezz",
+        "score": 233,
+        "body": "What a jackass. He is one of the many reasons why the CS industry is so shit nowadays."
+      },
+      {
+        "id": "t1_n8uik7p",
+        "author": "FFBEFred",
+        "score": 212,
+        "body": "Converting job seekers to customers, an innovative business model"
+      },
+      {
+        "id": "t1_n8vdf8a",
+        "author": "PotatoWriter",
+        "score": 207,
+        "body": "Some real head cases down at Headspace"
+      },
+      {
+        "id": "t1_n8ubmsg",
+        "author": "Disastrous_Cat3912",
+        "score": 157,
+        "body": "Sounds like you dodged a bullet there. Keep searching for a good employer, your mental health is worth more than whatever that recruiter was offering."
+      },
+      {
+        "id": "t1_n8u96zy",
+        "author": "Ozymandias0023",
+        "score": 147,
+        "body": "Depends on how badly I need the job. If I don't especially care then I'm not talking to the guy again. If I need the job then I'm sucking it up and letting him be an ass if that's how he wants to move through life. Doesn't affect me once I'm on payroll."
+      },
+      {
+        "id": "t1_n8unt68",
+        "author": "CptCookies",
+        "score": 129,
+        "body": "Hank Hankerson \ud83d\ude02\ud83d\ude02"
+      },
+      {
+        "id": "t1_n8ufuek",
+        "author": "Bubbly-Concept1143",
+        "score": 106,
+        "body": "A friend referred me to this company and I was worried about their reputation if I left the job too soon though. At the time my job search was taking longer than expected, and I hadn\u2019t made a decision yet when it was rescinded. In the end, it worked out for the best and I ended up getting multiple offers that I\u2019m way more excited about. Both are a clear step up in both compensation and technical scope: infra roles tied to large-scale data and ML systems, which are way closer to what I actually want to build long-term."
+      },
+      {
+        "id": "t1_n8ubl43",
+        "author": "Dangerpaladin",
+        "score": 93,
+        "body": "You should definitely follow up with the company about his behavior. They might not even know he is doing this stuff since he gets to tell the story. \"I don't know they just weren't be reasonable, really we dodged a bullet.\" When in reality he is being a complete tool."
+      },
+      {
+        "id": "t1_n8ug48j",
+        "author": "Bubbly-Concept1143",
+        "score": 90,
+        "body": "I emailed HR afterwards and they just gave the vibe of sussing out if I was going to sue (and I wasn\u2019t). After they confirmed that, I don\u2019t think they really cared."
+      },
+      {
+        "id": "t1_n8v6v5k",
+        "author": "Edaimantis",
+        "score": 86,
+        "body": "Ain\u2019t no way the mental health app running their shit like this lmao"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rkph59",
+    "subreddit": "cscareerquestions",
+    "title": "Hiring manager perspective: hiring is the most broken I've ever seen",
+    "score": 1892,
+    "permalink": "https://old.reddit.com/r/cscareerquestions/comments/1rkph59/hiring_manager_perspective_hiring_is_the_most/",
+    "selftext": "I've been in a hiring manager position for the past 4 years Just posted a new role for the first time in maybe 12-18 months Get 400 applicants in a few days just by posting on LinkedIn No way to scalably read every resume Almost all the resumes have been run through an LLM to be optimized for the job description Every candidate sounds like a perfect fit with key requirements bolded throughout the resume I can't trust the resumes anymore as I know they're just saying what I want to hear Try using an LLM to find the best candidates from the stack of resumes It pulls the most gamified resumes to the top of the stack This is the state of hiring in 2026. All the incentives align for candidates to \"optimize\" their resume to the point of being unbelievable. Any tips from other hiring managers? For everyone else I can say personal referrals are at a premium. Also if you over optimize your resume you'll probably be skipped.",
+    "comments": [
+      {
+        "id": "t1_o8m7om4",
+        "author": "ButterflySammy",
+        "score": 1325,
+        "body": "Y'all have yourselves to blame. Before: \"Here's an AI written job description, we're going to filter applications through AI so if you write for people, you're screwed\". After: \"I can't believe people write their CVs with how we process them through an LLM in mind. I can't believe the SOFTWARE DEVELOPERS I'm trying to hire would see how the machine processes documents and try to get their document favourable treatment so they can afford to eat and live indoors\". Power you had as gatekeepers went to your head and now you're 97% to being replaced by the LLMs entirely. * You treated candidates poorly because you thought you could and now they're taking that to be how you expect to be treated in return. *Edit: seriously, what's your value add to the hiring process? You don't write the specs anymore. LLM does. After the company sends you what to send the LLM. You don't read the CVs and filter them - the LLMs do. It was bad enough when the inventors of languages and frameworks were being rejected for not having enough years experience in the thing they invented...  because it hasn't existed for that many years. Now you've normalised having LLMs do those tasks, why would anyone pay a premium to have you operating the LLM?"
+      },
+      {
+        "id": "t1_o8m95qv",
+        "author": "Patmurf",
+        "score": 671,
+        "body": "So maddening on the other end. Seven years of experience and I have been all over the stack as well as embedded and AWS cloud computing. I've gotten three interviews in 18 months. I dont have a FAANG job on my resume and no matter how I sloptimize my resume I get zero feedback or responses. Jobs hit 100 applicants within 3 minutes of being posted. How could anyone ever notice me? I dont even blame hiring managers anymore. What possible lever can I pull to get noticed at this point?"
+      },
+      {
+        "id": "t1_o8m9l39",
+        "author": "walkslikeaduck08",
+        "score": 472,
+        "body": "Yep. A candidate\u2019s incentive is to get the job. They\u2019ll adapt to whatever paradigm to get the interview. My favorite is when Amazon or Microsoft asks if you have X experience in a drop down. When a negative is an auto reject what the hell do you think people will answer."
+      },
+      {
+        "id": "t1_o8mbdqf",
+        "author": "Patmurf",
+        "score": 237,
+        "body": "Lovely. Interviews now are like fighting to be the first 10 customers to log in on Ticketmaster..."
+      },
+      {
+        "id": "t1_o8maryy",
+        "author": "Sock-Familiar",
+        "score": 227,
+        "body": "Sometimes Linkedin sends notifications telling you that a company has viewed your resume after applying and the only time I have ever seen this notification is when I applied for a job in the first 10 minutes of it being posted. So that seems to be a good strategy but for devs that are currently employed it is very difficult to respond to postings that quick."
+      },
+      {
+        "id": "t1_o8m7rak",
+        "author": "CheesyWalnut",
+        "score": 202,
+        "body": "This is probably why people are selecting for people from top schools/companies more now"
+      },
+      {
+        "id": "t1_o8m9gii",
+        "author": "eatacookie111",
+        "score": 180,
+        "body": "Also if you ever optimize your resume you'll probably be skipped. lol shutup"
+      },
+      {
+        "id": "t1_o8mi3c9",
+        "author": "Pe4rs",
+        "score": 148,
+        "body": "So if I marched into the office to hand you a resume in-person would that make more of an impression now? Are we back?"
+      },
+      {
+        "id": "t1_o8ml8mg",
+        "author": "macronotice",
+        "score": 142,
+        "body": "Why don\u2019t you post the pay so people can naturally filter themselves out?"
+      },
+      {
+        "id": "t1_o8mbwdj",
+        "author": "TheRealJamesHoffa",
+        "score": 134,
+        "body": "I have 6 years of experience and what I think is a pretty strong resume in healthcare tech. I sent out some applications recently and the only one that I heard a response from asked me to do an \u201cAI-based interview\u201d as their next step. Not wasting my time with that shit. I already sent my resume in and that was supposedly enough for you to be interested. Not gonna argue with a robot to try and get hired now, I want to talk to a human who I will be potentially working with."
+      },
+      {
+        "id": "t1_o8me29i",
+        "author": "CatDawgCatDawg2",
+        "score": 127,
+        "body": "I'm actually filtering out candidates from FANG because I work at a smaller company. IME people from FANG work at a different altitude or set of assumptions (optimizing for planet scale, being hyper specialized on one part of a product, etc) which isn't bad, it's just bad for some companies. Also assume we can't afford them anyways."
+      },
+      {
+        "id": "t1_o8mbfik",
+        "author": "Krigrim",
+        "score": 111,
+        "body": "While this is true, availability of AI puts everyone in stalemate anyway In-person is probably the only way out"
+      },
+      {
+        "id": "t1_o8mbysu",
+        "author": "EntropyRX",
+        "score": 104,
+        "body": "Hiring manager is not a job title lol. It just means you are the hiring manager for a given opening, it\u2019s usually the senior engineer manager that will function as a hiring manager."
+      },
+      {
+        "id": "t1_o8mdnxv",
+        "author": "deejeycris",
+        "score": 102,
+        "body": "You treated candidates poorly because you thought you could and now they're taking that to be how you expect to be treated in return. you nailed it... don't wanna say every hiring process was tainted in the way you mention everywhere, but definitely in most places."
+      },
+      {
+        "id": "t1_o8m937j",
+        "author": "757packerfan",
+        "score": 93,
+        "body": "OP, you said \"For everyone else I can say personal referrals are at a premium. Also if you ever optimize your resume you'll probably be skipped.\" Did you mean to say \"never\" instead of \"ever\"?"
+      }
+    ]
+  }
+]

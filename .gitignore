@@ -1,0 +1,5 @@
+# ©AngelaMos | 2026
+# .gitignore
+.zig-cache/
+zig-out/
+zig-pkg/

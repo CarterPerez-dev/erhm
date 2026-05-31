@@ -1,0 +1,2603 @@
+{
+  "totals": {
+    "posts": 6467,
+    "comment_threads": 328,
+    "comments": 4576,
+    "subreddits": [
+      "FPGA",
+      "algotrading",
+      "cpp",
+      "cpp_questions",
+      "csMajors",
+      "cscareerquestions",
+      "financialcareers",
+      "leetcode",
+      "quant",
+      "quant_hft",
+      "quantfinance"
+    ]
+  },
+  "per_sub_counts": {
+    "FPGA": 640,
+    "algotrading": 656,
+    "cpp": 572,
+    "cpp_questions": 647,
+    "csMajors": 638,
+    "cscareerquestions": 635,
+    "financialcareers": 647,
+    "leetcode": 671,
+    "quant": 628,
+    "quant_hft": 94,
+    "quantfinance": 639
+  },
+  "sub_median_score": {
+    "quant": 70.0,
+    "quantfinance": 32,
+    "quant_hft": 3.0,
+    "cpp": 74.5,
+    "cpp_questions": 17,
+    "csMajors": 346.0,
+    "cscareerquestions": 506,
+    "FPGA": 38.0,
+    "algotrading": 45.0,
+    "financialcareers": 89,
+    "leetcode": 317
+  },
+  "title_clusters": {
+    "question": {
+      "count": 2369,
+      "median_score": 57,
+      "examples": [
+        {
+          "title": "What do we think guys?",
+          "score": 5492,
+          "sub": "csMajors"
+        },
+        {
+          "title": "Should I dump my girlfriend? I'm losing LC streak focus",
+          "score": 3443,
+          "sub": "leetcode"
+        },
+        {
+          "title": "Genuinely what the HELL is going on?",
+          "score": 2635,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Am I too late breaking into IB?",
+          "score": 1991,
+          "sub": "financialcareers"
+        },
+        {
+          "title": "Why not just Heapsort?",
+          "score": 1923,
+          "sub": "leetcode"
+        }
+      ],
+      "overperformance_by_sub": {
+        "cpp_questions": 1.12,
+        "quantfinance": 1.0,
+        "cpp": 0.97,
+        "quant": 0.96,
+        "financialcareers": 0.94,
+        "algotrading": 0.93,
+        "FPGA": 0.89,
+        "quant_hft": 0.83,
+        "cscareerquestions": 0.8,
+        "leetcode": 0.75,
+        "csMajors": 0.69
+      }
+    },
+    "confession_offer": {
+      "count": 161,
+      "median_score": 254,
+      "examples": [
+        {
+          "title": "Can't stop tearing up, got my first FAANG offer from Apple",
+          "score": 5749,
+          "sub": "csMajors"
+        },
+        {
+          "title": "I GOT THE JOB!! F*** MY OLD MANAGER!!!",
+          "score": 2288,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "I got a SWE job at Google with outstanding interview performance and wanna help people do the same - AMA",
+          "score": 2255,
+          "sub": "leetcode"
+        },
+        {
+          "title": "Finally!",
+          "score": 2037,
+          "sub": "leetcode"
+        },
+        {
+          "title": "Nevermind I got the job",
+          "score": 2024,
+          "sub": "csMajors"
+        }
+      ],
+      "overperformance_by_sub": {
+        "FPGA": 2.66,
+        "quantfinance": 2.17,
+        "algotrading": 1.71,
+        "financialcareers": 1.25,
+        "leetcode": 1.23,
+        "cpp": 1.23,
+        "csMajors": 1.12,
+        "cscareerquestions": 0.69,
+        "cpp_questions": 0.0
+      }
+    },
+    "outrage_rant": {
+      "count": 138,
+      "median_score": 175.5,
+      "examples": [
+        {
+          "title": "I GOT THE JOB!! F*** MY OLD MANAGER!!!",
+          "score": 2288,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Hiring manager perspective: hiring is the most broken I've ever seen",
+          "score": 1892,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "FUCK LEETCODE FUCK LINKEDIN & FUCK THESE JOB FAIRS",
+          "score": 1870,
+          "sub": "csMajors"
+        },
+        {
+          "title": "[Rant] Rejected in 15 minutes by CEO after 4 rounds and days of work",
+          "score": 1569,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "DO NOT FALL FOR THE INTERVIEW CODER SCAM",
+          "score": 1421,
+          "sub": "leetcode"
+        }
+      ],
+      "overperformance_by_sub": {
+        "cpp": 1.96,
+        "quant": 1.74,
+        "FPGA": 1.53,
+        "financialcareers": 1.15,
+        "cscareerquestions": 1.13,
+        "algotrading": 1.13,
+        "leetcode": 1.11,
+        "csMajors": 1.08,
+        "quantfinance": 1.06,
+        "cpp_questions": 0.94
+      }
+    },
+    "is_x_worth_it": {
+      "count": 49,
+      "median_score": 61,
+      "examples": [
+        {
+          "title": "Stop using cluely, any engineer worth interviewing with isn't being fooled \ud83d\udc86",
+          "score": 728,
+          "sub": "csMajors"
+        },
+        {
+          "title": "This job market is destroying my sense of self worth.",
+          "score": 504,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Is LC even still worth grinding?",
+          "score": 343,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Beware of ALL quant courses. None of them are worth even a penny.",
+          "score": 336,
+          "sub": "quant"
+        },
+        {
+          "title": "Li(f)e After Google - is L5 at Europe worth it?",
+          "score": 328,
+          "sub": "leetcode"
+        }
+      ],
+      "overperformance_by_sub": {
+        "quant_hft": 2.33,
+        "cpp_questions": 2.06,
+        "quant": 1.04,
+        "leetcode": 0.97,
+        "financialcareers": 0.85,
+        "quantfinance": 0.73,
+        "cscareerquestions": 0.68
+      }
+    },
+    "numbered_list": {
+      "count": 133,
+      "median_score": 235,
+      "examples": [
+        {
+          "title": "4 years at Big tech. Being likeable beats being productive every single time",
+          "score": 4990,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Graduated top 10 CS last year, approx. 4k apps, 700+ LC, no offers. Parents kicking me out. I think I\u2019m done.",
+          "score": 2453,
+          "sub": "csMajors"
+        },
+        {
+          "title": "40% of Amazon's recent layoffs were engineers",
+          "score": 1467,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "3000 LEETCODES let's GO we are in the end game now :')",
+          "score": 1419,
+          "sub": "leetcode"
+        },
+        {
+          "title": "2025 New Grad Job Search (USA)",
+          "score": 1415,
+          "sub": "csMajors"
+        }
+      ],
+      "overperformance_by_sub": {
+        "quant": 3.83,
+        "quantfinance": 2.94,
+        "algotrading": 1.58,
+        "cscareerquestions": 1.42,
+        "financialcareers": 1.38,
+        "leetcode": 1.13,
+        "FPGA": 1.13,
+        "cpp": 0.99,
+        "csMajors": 0.88
+      }
+    },
+    "screenshot_bait": {
+      "count": 960,
+      "median_score": 276.5,
+      "examples": [
+        {
+          "title": "The kids are\u2026 not alright",
+          "score": 5903,
+          "sub": "csMajors"
+        },
+        {
+          "title": "\u201cCursor is now free for students\u201d",
+          "score": 5549,
+          "sub": "csMajors"
+        },
+        {
+          "title": "What do we think guys?",
+          "score": 5492,
+          "sub": "csMajors"
+        },
+        {
+          "title": "lazy guide from unemployed to employed in CS",
+          "score": 4595,
+          "sub": "csMajors"
+        },
+        {
+          "title": "My job search",
+          "score": 4414,
+          "sub": "csMajors"
+        }
+      ],
+      "overperformance_by_sub": {
+        "quant_hft": 9.67,
+        "quant": 3.14,
+        "cpp": 2.75,
+        "FPGA": 2.68,
+        "cscareerquestions": 2.09,
+        "algotrading": 2.01,
+        "quantfinance": 1.97,
+        "financialcareers": 1.52,
+        "csMajors": 1.39,
+        "leetcode": 1.34
+      }
+    },
+    "advice_guide": {
+      "count": 346,
+      "median_score": 45.0,
+      "examples": [
+        {
+          "title": "lazy guide from unemployed to employed in CS",
+          "score": 4595,
+          "sub": "csMajors"
+        },
+        {
+          "title": "A Straightforward Guide To Getting Your First FAANG Offer",
+          "score": 1829,
+          "sub": "leetcode"
+        },
+        {
+          "title": "How I stopped forgetting my LeetCode solutions",
+          "score": 1432,
+          "sub": "leetcode"
+        },
+        {
+          "title": "Got an offer from Meta - here are my tips",
+          "score": 1146,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Interview Cheatsheet",
+          "score": 1034,
+          "sub": "leetcode"
+        }
+      ],
+      "overperformance_by_sub": {
+        "quant_hft": 1.33,
+        "quantfinance": 1.06,
+        "csMajors": 0.98,
+        "quant": 0.97,
+        "leetcode": 0.95,
+        "cpp_questions": 0.88,
+        "algotrading": 0.87,
+        "cpp": 0.85,
+        "FPGA": 0.82,
+        "financialcareers": 0.79,
+        "cscareerquestions": 0.63
+      }
+    },
+    "comparison_vs": {
+      "count": 337,
+      "median_score": 48,
+      "examples": [
+        {
+          "title": "Finance bro vs Tech bro",
+          "score": 4218,
+          "sub": "csMajors"
+        },
+        {
+          "title": "FPGA vs CPU on Simple Addition",
+          "score": 1418,
+          "sub": "FPGA"
+        },
+        {
+          "title": "Is it just me, or is the code at modern companies wildly overcomplicated?",
+          "score": 1163,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Block laying off more than 4,000 employees, or about half of its headcount",
+          "score": 1153,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "My husband wants to leave being a nurse anesthetist to become a software engineer. Do you think he is crazy? Why or why not?",
+          "score": 1140,
+          "sub": "cscareerquestions"
+        }
+      ],
+      "overperformance_by_sub": {
+        "cpp_questions": 1.18,
+        "quantfinance": 1.14,
+        "FPGA": 1.05,
+        "cpp": 1.01,
+        "quant_hft": 1.0,
+        "quant": 0.81,
+        "financialcareers": 0.8,
+        "algotrading": 0.76,
+        "csMajors": 0.75,
+        "cscareerquestions": 0.74,
+        "leetcode": 0.74
+      }
+    },
+    "identity_flex": {
+      "count": 115,
+      "median_score": 64,
+      "examples": [
+        {
+          "title": "My laid-off 4 YOE former Microsoft SWE CS UMich grad friend has capitulated. He had to get a job as a bartender.",
+          "score": 1848,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "I work in insurance. Superb talent are applying to our open roles. Have never seen this before",
+          "score": 1437,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Don't risk a negotiation as a Junior in this market.",
+          "score": 1036,
+          "sub": "csMajors"
+        },
+        {
+          "title": "I work in prop trading and made a game where you work in prop trading",
+          "score": 993,
+          "sub": "quant"
+        },
+        {
+          "title": "Using the \"paperclip method\" as a Software Engineer.",
+          "score": 871,
+          "sub": "cscareerquestions"
+        }
+      ],
+      "overperformance_by_sub": {
+        "FPGA": 1.5,
+        "cpp_questions": 1.47,
+        "quant_hft": 1.33,
+        "cpp": 1.23,
+        "leetcode": 1.18,
+        "quant": 1.01,
+        "csMajors": 0.98,
+        "cscareerquestions": 0.91,
+        "quantfinance": 0.89,
+        "financialcareers": 0.79
+      }
+    },
+    "help_desperation": {
+      "count": 249,
+      "median_score": 64,
+      "examples": [
+        {
+          "title": "It is trivial to catch people cheating now, please don't cheat",
+          "score": 3096,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "I made an extension that shows elden ring themed banners for submission accepted and rejected",
+          "score": 2309,
+          "sub": "leetcode"
+        },
+        {
+          "title": "I got a SWE job at Google with outstanding interview performance and wanna help people do the same - AMA",
+          "score": 2255,
+          "sub": "leetcode"
+        },
+        {
+          "title": "[PSA] The real reason you're struggling in the tech market: Almost EVERYONE is lying.",
+          "score": 1778,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "I failed Google interviews twice before succeeding. Then I interviewed dozens of candidates. Here is why people fail.",
+          "score": 1757,
+          "sub": "leetcode"
+        }
+      ],
+      "overperformance_by_sub": {
+        "quant_hft": 1.33,
+        "quantfinance": 1.16,
+        "cpp": 1.02,
+        "quant": 1.0,
+        "leetcode": 0.8,
+        "financialcareers": 0.79,
+        "algotrading": 0.77,
+        "FPGA": 0.76,
+        "cpp_questions": 0.76,
+        "cscareerquestions": 0.73,
+        "csMajors": 0.67
+      }
+    },
+    "comp_salary": {
+      "count": 178,
+      "median_score": 93.0,
+      "examples": [
+        {
+          "title": "Microsoft's CFO pocketed $29.5M and announced headcount cuts in the same earnings call. I can't stop thinking about it.",
+          "score": 2992,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Amazon laid off 16k corporate employees",
+          "score": 2803,
+          "sub": "cscareerquestions"
+        },
+        {
+          "title": "Graduated top 10 CS last year, approx. 4k apps, 700+ LC, no offers. Parents kicking me out. I think I\u2019m done.",
+          "score": 2453,
+          "sub": "csMajors"
+        },
+        {
+          "title": "Dario, said three months ago that coding is \"going away first, then all of software engineering...then posted 450 SWE positions paying 300k+ ...",
+          "score": 1824,
+          "sub": "csMajors"
+        },
+        {
+          "title": "I Was a Director at Amex When They Started Replacing Us With $30K Workers",
+          "score": 1685,
+          "sub": "cscareerquestions"
+        }
+      ],
+      "overperformance_by_sub": {
+        "quant_hft": 5.17,
+        "csMajors": 1.4,
+        "quant": 1.21,
+        "cscareerquestions": 1.1,
+        "algotrading": 1.07,
+        "quantfinance": 1.0,
+        "financialcareers": 0.84,
+        "FPGA": 0.84,
+        "cpp": 0.77
+      }
+    }
+  },
+  "hook_title_ngrams": [
+    {
+      "phrase": "jane street",
+      "count": 75
+    },
+    {
+      "phrase": "new grad",
+      "count": 60
+    },
+    {
+      "phrase": "job market",
+      "count": 48
+    },
+    {
+      "phrase": "algo trading",
+      "count": 44
+    },
+    {
+      "phrase": "anyone else",
+      "count": 42
+    },
+    {
+      "phrase": "open source",
+      "count": 42
+    },
+    {
+      "phrase": "laid off",
+      "count": 37
+    },
+    {
+      "phrase": "big tech",
+      "count": 32
+    },
+    {
+      "phrase": "quant trading",
+      "count": 29
+    },
+    {
+      "phrase": "entry level",
+      "count": 29
+    },
+    {
+      "phrase": "modern c++",
+      "count": 25
+    },
+    {
+      "phrase": "interview experience",
+      "count": 23
+    },
+    {
+      "phrase": "learn c++",
+      "count": 23
+    },
+    {
+      "phrase": "fpga board",
+      "count": 22
+    },
+    {
+      "phrase": "quant research",
+      "count": 21
+    },
+    {
+      "phrase": "quant dev",
+      "count": 21
+    },
+    {
+      "phrase": "hedge fund",
+      "count": 20
+    },
+    {
+      "phrase": "software engineering",
+      "count": 20
+    },
+    {
+      "phrase": "quant finance",
+      "count": 18
+    },
+    {
+      "phrase": "roast resume",
+      "count": 18
+    },
+    {
+      "phrase": "hedge funds",
+      "count": 16
+    },
+    {
+      "phrase": "c++26 reflection",
+      "count": 16
+    },
+    {
+      "phrase": "software engineer",
+      "count": 15
+    },
+    {
+      "phrase": "right now",
+      "count": 15
+    },
+    {
+      "phrase": "computer science",
+      "count": 15
+    },
+    {
+      "phrase": "job search",
+      "count": 15
+    },
+    {
+      "phrase": "need help",
+      "count": 14
+    },
+    {
+      "phrase": "final round",
+      "count": 14
+    },
+    {
+      "phrase": "swe internship",
+      "count": 14
+    },
+    {
+      "phrase": "quant firms",
+      "count": 13
+    },
+    {
+      "phrase": "quant trader",
+      "count": 13
+    },
+    {
+      "phrase": "citadel securities",
+      "count": 13
+    },
+    {
+      "phrase": "full time",
+      "count": 13
+    },
+    {
+      "phrase": "roast cv",
+      "count": 13
+    },
+    {
+      "phrase": "compile time",
+      "count": 13
+    },
+    {
+      "phrase": "standard library",
+      "count": 13
+    },
+    {
+      "phrase": "new grads",
+      "count": 13
+    },
+    {
+      "phrase": "system design",
+      "count": 13
+    },
+    {
+      "phrase": "investment banking",
+      "count": 13
+    },
+    {
+      "phrase": "need advice",
+      "count": 12
+    }
+  ],
+  "hook_title_ngrams_topposts": [
+    {
+      "phrase": "job market",
+      "count": 7
+    },
+    {
+      "phrase": "big tech",
+      "count": 6
+    },
+    {
+      "phrase": "computer science",
+      "count": 6
+    },
+    {
+      "phrase": "every leetcode",
+      "count": 5
+    },
+    {
+      "phrase": "leetcode problem",
+      "count": 5
+    },
+    {
+      "phrase": "every leetcode problem",
+      "count": 5
+    },
+    {
+      "phrase": "using ai",
+      "count": 4
+    },
+    {
+      "phrase": "entry level",
+      "count": 4
+    },
+    {
+      "phrase": "solving every",
+      "count": 4
+    },
+    {
+      "phrase": "week progress",
+      "count": 4
+    },
+    {
+      "phrase": "progress update",
+      "count": 4
+    },
+    {
+      "phrase": "solving every leetcode",
+      "count": 4
+    },
+    {
+      "phrase": "week progress update",
+      "count": 4
+    },
+    {
+      "phrase": "trump tells",
+      "count": 3
+    },
+    {
+      "phrase": "faang offer",
+      "count": 3
+    },
+    {
+      "phrase": "lay off",
+      "count": 3
+    },
+    {
+      "phrase": "000 employees",
+      "count": 3
+    },
+    {
+      "phrase": "tech companies",
+      "count": 3
+    },
+    {
+      "phrase": "laid off",
+      "count": 3
+    },
+    {
+      "phrase": "last year",
+      "count": 3
+    },
+    {
+      "phrase": "use ai",
+      "count": 3
+    },
+    {
+      "phrase": "problem week",
+      "count": 3
+    },
+    {
+      "phrase": "leetcode problem week",
+      "count": 3
+    },
+    {
+      "phrase": "problem week progress",
+      "count": 3
+    },
+    {
+      "phrase": "graduates per",
+      "count": 3
+    },
+    {
+      "phrase": "per year",
+      "count": 3
+    },
+    {
+      "phrase": "graduates per year",
+      "count": 3
+    },
+    {
+      "phrase": "says replacing",
+      "count": 2
+    },
+    {
+      "phrase": "replacing junior",
+      "count": 2
+    },
+    {
+      "phrase": "ai dumbest",
+      "count": 2
+    }
+  ],
+  "hook_comment_ngrams": [
+    {
+      "phrase": "jane street",
+      "count": 60
+    },
+    {
+      "phrase": "https www",
+      "count": 41
+    },
+    {
+      "phrase": "years ago",
+      "count": 39
+    },
+    {
+      "phrase": "standard library",
+      "count": 38
+    },
+    {
+      "phrase": "don't know",
+      "count": 36
+    },
+    {
+      "phrase": "right now",
+      "count": 29
+    },
+    {
+      "phrase": "good luck",
+      "count": 26
+    },
+    {
+      "phrase": "open source",
+      "count": 24
+    },
+    {
+      "phrase": "big tech",
+      "count": 22
+    },
+    {
+      "phrase": "don't think",
+      "count": 22
+    },
+    {
+      "phrase": "10 years",
+      "count": 21
+    },
+    {
+      "phrase": "i'm sure",
+      "count": 21
+    },
+    {
+      "phrase": "laid off",
+      "count": 19
+    },
+    {
+      "phrase": "job market",
+      "count": 18
+    },
+    {
+      "phrase": "compile time",
+      "count": 18
+    },
+    {
+      "phrase": "modern c++",
+      "count": 18
+    },
+    {
+      "phrase": "std vector",
+      "count": 18
+    },
+    {
+      "phrase": "pretty sure",
+      "count": 17
+    },
+    {
+      "phrase": "don't want",
+      "count": 17
+    },
+    {
+      "phrase": "i've seen",
+      "count": 16
+    },
+    {
+      "phrase": "don't need",
+      "count": 16
+    },
+    {
+      "phrase": "long time",
+      "count": 16
+    },
+    {
+      "phrase": "make money",
+      "count": 16
+    },
+    {
+      "phrase": "need know",
+      "count": 16
+    },
+    {
+      "phrase": "github com",
+      "count": 16
+    },
+    {
+      "phrase": "data structures",
+      "count": 16
+    },
+    {
+      "phrase": "because it's",
+      "count": 16
+    },
+    {
+      "phrase": "high school",
+      "count": 15
+    },
+    {
+      "phrase": "good enough",
+      "count": 15
+    },
+    {
+      "phrase": "don need",
+      "count": 15
+    },
+    {
+      "phrase": "years experience",
+      "count": 15
+    },
+    {
+      "phrase": "20 years",
+      "count": 15
+    },
+    {
+      "phrase": "ve seen",
+      "count": 15
+    },
+    {
+      "phrase": "learn c++",
+      "count": 15
+    },
+    {
+      "phrase": "https github",
+      "count": 15
+    },
+    {
+      "phrase": "https github com",
+      "count": 15
+    },
+    {
+      "phrase": "smart pointers",
+      "count": 15
+    },
+    {
+      "phrase": "don think",
+      "count": 14
+    },
+    {
+      "phrase": "use ai",
+      "count": 14
+    },
+    {
+      "phrase": "don know",
+      "count": 14
+    },
+    {
+      "phrase": "someone else",
+      "count": 14
+    },
+    {
+      "phrase": "make sure",
+      "count": 13
+    },
+    {
+      "phrase": "hedge fund",
+      "count": 13
+    },
+    {
+      "phrase": "think people",
+      "count": 13
+    },
+    {
+      "phrase": "last year",
+      "count": 13
+    }
+  ],
+  "hook_title_unigrams": [
+    {
+      "word": "c++",
+      "count": 639
+    },
+    {
+      "word": "quant",
+      "count": 403
+    },
+    {
+      "word": "job",
+      "count": 265
+    },
+    {
+      "word": "trading",
+      "count": 258
+    },
+    {
+      "word": "fpga",
+      "count": 249
+    },
+    {
+      "word": "interview",
+      "count": 199
+    },
+    {
+      "word": "new",
+      "count": 184
+    },
+    {
+      "word": "leetcode",
+      "count": 157
+    },
+    {
+      "word": "offer",
+      "count": 152
+    },
+    {
+      "word": "internship",
+      "count": 142
+    },
+    {
+      "word": "finance",
+      "count": 135
+    },
+    {
+      "word": "first",
+      "count": 133
+    },
+    {
+      "word": "actually",
+      "count": 132
+    },
+    {
+      "word": "year",
+      "count": 131
+    },
+    {
+      "word": "algo",
+      "count": 126
+    },
+    {
+      "word": "people",
+      "count": 125
+    },
+    {
+      "word": "work",
+      "count": 123
+    },
+    {
+      "word": "market",
+      "count": 122
+    },
+    {
+      "word": "now",
+      "count": 121
+    },
+    {
+      "word": "anyone",
+      "count": 118
+    },
+    {
+      "word": "use",
+      "count": 115
+    },
+    {
+      "word": "tech",
+      "count": 114
+    },
+    {
+      "word": "data",
+      "count": 113
+    },
+    {
+      "word": "time",
+      "count": 111
+    },
+    {
+      "word": "career",
+      "count": 109
+    },
+    {
+      "word": "years",
+      "count": 107
+    },
+    {
+      "word": "using",
+      "count": 105
+    },
+    {
+      "word": "best",
+      "count": 103
+    },
+    {
+      "word": "std",
+      "count": 100
+    },
+    {
+      "word": "need",
+      "count": 99
+    },
+    {
+      "word": "swe",
+      "count": 99
+    },
+    {
+      "word": "interviews",
+      "count": 97
+    },
+    {
+      "word": "google",
+      "count": 97
+    },
+    {
+      "word": "good",
+      "count": 96
+    },
+    {
+      "word": "learn",
+      "count": 96
+    },
+    {
+      "word": "finally",
+      "count": 95
+    },
+    {
+      "word": "code",
+      "count": 95
+    },
+    {
+      "word": "advice",
+      "count": 94
+    },
+    {
+      "word": "looking",
+      "count": 90
+    },
+    {
+      "word": "hft",
+      "count": 85
+    },
+    {
+      "word": "grad",
+      "count": 85
+    },
+    {
+      "word": "experience",
+      "count": 83
+    },
+    {
+      "word": "street",
+      "count": 82
+    },
+    {
+      "word": "still",
+      "count": 82
+    },
+    {
+      "word": "help",
+      "count": 81
+    },
+    {
+      "word": "jobs",
+      "count": 81
+    },
+    {
+      "word": "jane",
+      "count": 79
+    },
+    {
+      "word": "learning",
+      "count": 79
+    },
+    {
+      "word": "real",
+      "count": 79
+    },
+    {
+      "word": "software",
+      "count": 78
+    }
+  ],
+  "hook_comment_unigrams": [
+    {
+      "word": "c++",
+      "count": 638
+    },
+    {
+      "word": "people",
+      "count": 559
+    },
+    {
+      "word": "it's",
+      "count": 467
+    },
+    {
+      "word": "work",
+      "count": 411
+    },
+    {
+      "word": "use",
+      "count": 405
+    },
+    {
+      "word": "good",
+      "count": 396
+    },
+    {
+      "word": "time",
+      "count": 393
+    },
+    {
+      "word": "because",
+      "count": 382
+    },
+    {
+      "word": "code",
+      "count": 362
+    },
+    {
+      "word": "know",
+      "count": 345
+    },
+    {
+      "word": "think",
+      "count": 342
+    },
+    {
+      "word": "don't",
+      "count": 324
+    },
+    {
+      "word": "make",
+      "count": 319
+    },
+    {
+      "word": "job",
+      "count": 308
+    },
+    {
+      "word": "need",
+      "count": 292
+    },
+    {
+      "word": "years",
+      "count": 284
+    },
+    {
+      "word": "now",
+      "count": 269
+    },
+    {
+      "word": "way",
+      "count": 260
+    },
+    {
+      "word": "i'm",
+      "count": 233
+    },
+    {
+      "word": "want",
+      "count": 231
+    },
+    {
+      "word": "still",
+      "count": 222
+    },
+    {
+      "word": "well",
+      "count": 216
+    },
+    {
+      "word": "something",
+      "count": 214
+    },
+    {
+      "word": "see",
+      "count": 210
+    },
+    {
+      "word": "actually",
+      "count": 199
+    },
+    {
+      "word": "data",
+      "count": 196
+    },
+    {
+      "word": "don",
+      "count": 191
+    },
+    {
+      "word": "using",
+      "count": 191
+    },
+    {
+      "word": "new",
+      "count": 178
+    },
+    {
+      "word": "quant",
+      "count": 176
+    },
+    {
+      "word": "first",
+      "count": 172
+    },
+    {
+      "word": "better",
+      "count": 169
+    },
+    {
+      "word": "things",
+      "count": 169
+    },
+    {
+      "word": "used",
+      "count": 169
+    },
+    {
+      "word": "every",
+      "count": 166
+    },
+    {
+      "word": "take",
+      "count": 166
+    },
+    {
+      "word": "year",
+      "count": 161
+    },
+    {
+      "word": "that's",
+      "count": 156
+    },
+    {
+      "word": "going",
+      "count": 155
+    },
+    {
+      "word": "different",
+      "count": 154
+    },
+    {
+      "word": "find",
+      "count": 153
+    },
+    {
+      "word": "off",
+      "count": 153
+    },
+    {
+      "word": "probably",
+      "count": 152
+    },
+    {
+      "word": "you're",
+      "count": 150
+    },
+    {
+      "word": "great",
+      "count": 149
+    },
+    {
+      "word": "say",
+      "count": 149
+    },
+    {
+      "word": "back",
+      "count": 148
+    },
+    {
+      "word": "experience",
+      "count": 147
+    },
+    {
+      "word": "market",
+      "count": 145
+    },
+    {
+      "word": "look",
+      "count": 145
+    },
+    {
+      "word": "lol",
+      "count": 144
+    },
+    {
+      "word": "best",
+      "count": 142
+    },
+    {
+      "word": "learn",
+      "count": 142
+    },
+    {
+      "word": "pretty",
+      "count": 141
+    },
+    {
+      "word": "someone",
+      "count": 141
+    },
+    {
+      "word": "trading",
+      "count": 140
+    },
+    {
+      "word": "companies",
+      "count": 138
+    },
+    {
+      "word": "working",
+      "count": 138
+    },
+    {
+      "word": "point",
+      "count": 137
+    },
+    {
+      "word": "hard",
+      "count": 136
+    }
+  ],
+  "pain_points": {
+    "comp_confusion": {
+      "mentions": 190,
+      "examples": [
+        {
+          "body": "> compensate for overhiring during the peak demand of the pandemic My dudes it is Q4 2025. How much longer is this excuse going to hold water?",
+          "score": 3628,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "No Hiring Boom during COVID. Hired 10K and 20K people in back-to-back years during COVID. I'm...not sure what to say here.",
+          "score": 1425,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "Y'all have yourselves to blame. Before: \"Here's an AI written job description, we're going to filter applications through AI so if you write for people, you're screwed\". After: \"I can't believe people write their CVs with how we process them through an LLM in mind. I can't believ",
+          "score": 1325,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "They made $101.8B last year in profit. , that\u2019s $447k per employee.",
+          "score": 1014,
+          "sub": "cscareerquestions"
+        }
+      ]
+    },
+    "cpp_hard": {
+      "mentions": 177,
+      "examples": [
+        {
+          "body": "Military short range rocket software is usually designed without freeing memory.",
+          "score": 249,
+          "sub": "cpp_questions"
+        },
+        {
+          "body": "A lot of his famous statements about C++ also predate modern C++ (C++11 and onwards) and the language, the tooling and the practices were quire different (and more horrible) back then.",
+          "score": 234,
+          "sub": "cpp_questions"
+        },
+        {
+          "body": "Memory safety is a long solved problem in C++ heh",
+          "score": 164,
+          "sub": "cpp"
+        },
+        {
+          "body": "This patch implements C++26 Reflection as specified by P2996R13, which allows\nusers to perform magic We are wizards now",
+          "score": 154,
+          "sub": "cpp"
+        }
+      ]
+    },
+    "luck_rng": {
+      "mentions": 113,
+      "examples": [
+        {
+          "body": "0% chance this is real. No way any kind of professional sends an email like \"hi [my name], i actually know the recruiting team at [REDACTED] and checked in with them. they have no record of extending you an offer. we're withdrawing our offer effective immediately. best of luck\" T",
+          "score": 1341,
+          "sub": "csMajors"
+        },
+        {
+          "body": "I think if you are one of the lucky ones that make it into the industry you are going to have an insane career in 5-10 years when theres a senior drought",
+          "score": 1087,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "Damn looks like connections and your school are going to matter now more than ever",
+          "score": 663,
+          "sub": "leetcode"
+        },
+        {
+          "body": "A few high-level thoughts (happy to elaborate): 1) Depending on the type of person you are, you need to prepare yourself for the interview situation purely from a nerves perspective. Too many candidates fail not because they can't solve the specific problems but because they cann",
+          "score": 630,
+          "sub": "leetcode"
+        }
+      ]
+    },
+    "interview_anxiety": {
+      "mentions": 110,
+      "examples": [
+        {
+          "body": "Pretty sure I've said this before, but I'm convinced that my social skills secured the position I have in big tech. I was able to have an interesting conversation with the HM during the final interview. And I have a lot of social anxiety, but had a job in the past that required I",
+          "score": 1225,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "Basic suit for the interview and first day, out of respect. Then on the first day, you see what everyone else is wearing and then match that on the second day forward.",
+          "score": 817,
+          "sub": "financialcareers"
+        },
+        {
+          "body": "I graduated back in 2013 with degree in math (Algerbraic geometry) and had to start Software Engineering career because of financial issues. And what\u2019s surprised me was that the interview at my first Junior (not an internship) PHP Dev position with literally 0 (zero) experience w",
+          "score": 739,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "Congrats man, it is refreshing to see a success story here every now and then. What's the hardest or one of the hardest questions they asked you to solve during the interview process?",
+          "score": 697,
+          "sub": "csMajors"
+        }
+      ]
+    },
+    "pedigree_gatekeep": {
+      "mentions": 97,
+      "examples": [
+        {
+          "body": "I think the hype is already starting to die, despite foaming tech-bros claiming that the AI slop train is just getting started. The recent MIT report and Apple's paper are likely just the start. I'm sure there's someone reading this with a smirk, thinking they are among the top 5",
+          "score": 1445,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "I\u2019m surprised there\u2019s someone with just a bachelors Edit: just googled, this image says Huiwen just has a bachelors (or implies it) but she has a PhD in CS from Princeton lol. Joel does only have a bachelors though",
+          "score": 516,
+          "sub": "csMajors"
+        },
+        {
+          "body": "PhD at top schools are more competitive than job hunting",
+          "score": 344,
+          "sub": "leetcode"
+        },
+        {
+          "body": "This is just the benefit of so much work experience IMO. Nobody actually cares about the puzzles, IQ tests or ability to recite algorithms to traverse linked lists. employers care about your ability to learn, to provide insight and do the actual job. This is how interviewing expe",
+          "score": 276,
+          "sub": "quant"
+        }
+      ]
+    },
+    "leetcode_grind": {
+      "mentions": 81,
+      "examples": [
+        {
+          "body": "\"Not even a leetcode hard\" like that should be a real qualification. Any company asking leetcode hards for senior level doesn't deserve the talent they get.",
+          "score": 1141,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "I graduated back in 2013 with degree in math (Algerbraic geometry) and had to start Software Engineering career because of financial issues. And what\u2019s surprised me was that the interview at my first Junior (not an internship) PHP Dev position with literally 0 (zero) experience w",
+          "score": 739,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "It's John Leetcode",
+          "score": 576,
+          "sub": "leetcode"
+        },
+        {
+          "body": "Some of the tools run on your phone and pick up the screen via camera and microphone. You can also use capture cards and various other tricks. Gamers have done this since the dawn of time, so they can cheat while streaming on Twitch or whatever. There's nothing you can do to catc",
+          "score": 429,
+          "sub": "cscareerquestions"
+        }
+      ]
+    },
+    "prep_paralysis": {
+      "mentions": 81,
+      "examples": [
+        {
+          "body": "Pretty sure I've said this before, but I'm convinced that my social skills secured the position I have in big tech. I was able to have an interesting conversation with the HM during the final interview. And I have a lot of social anxiety, but had a job in the past that required I",
+          "score": 1225,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "I don't know but a lot of Redditors buy into it still",
+          "score": 809,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "To be honest, AI/ML applications are much more closely aligned with statistics than traditional CS curriculum, as one doesn't need to learn too much about divide and conquer or BST to use PyTorch or Tensorflow properly. Acceleration hardware for AI is another beast, though. Edit:",
+          "score": 321,
+          "sub": "csMajors"
+        },
+        {
+          "body": "I've seen the ending of Office Space (person leaves tech for a seemingly menial job and is much happier) play out several times with people close to me. There's a reason they made a movie based on that concept 26 years ago, because even then it was a thing that happened all the t",
+          "score": 272,
+          "sub": "cscareerquestions"
+        }
+      ]
+    },
+    "imposter_doubt": {
+      "mentions": 63,
+      "examples": [
+        {
+          "body": "0% chance this is real. No way any kind of professional sends an email like \"hi [my name], i actually know the recruiting team at [REDACTED] and checked in with them. they have no record of extending you an offer. we're withdrawing our offer effective immediately. best of luck\" T",
+          "score": 1341,
+          "sub": "csMajors"
+        },
+        {
+          "body": "Pretty sure I've said this before, but I'm convinced that my social skills secured the position I have in big tech. I was able to have an interesting conversation with the HM during the final interview. And I have a lot of social anxiety, but had a job in the past that required I",
+          "score": 1225,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "In WWII, they tried to figure out where to put armor on planes based on where they saw bullet damage. Problem is, they could only see planes that weren't shot down and successfully made it back, so the bullet holes actually represented places where a plane could survive a shot. O",
+          "score": 955,
+          "sub": "csMajors"
+        },
+        {
+          "body": "You have to understand that a lot of decisions aren\u2019t based on how good AI is. It just has to be good enough to convince the non-technical person making decisions at an organization. As you can probably guess, the bar there is pretty low.",
+          "score": 808,
+          "sub": "cscareerquestions"
+        }
+      ]
+    },
+    "rejection_cope": {
+      "mentions": 41,
+      "examples": [
+        {
+          "body": "Yep. A candidate\u2019s incentive is to get the job. They\u2019ll adapt to whatever paradigm to get the interview. My favorite is when Amazon or Microsoft asks if you have X experience in a drop down. When a negative is an auto reject what the hell do you think people will answer.",
+          "score": 472,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "Great work! But you failed to take down Teams. Can you do that next?",
+          "score": 365,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "I\u2019m at one of the banks on this list and anything lower than a 3.5 is most likely an auto reject\u2026 sorry bro.",
+          "score": 340,
+          "sub": "financialcareers"
+        },
+        {
+          "body": "I think the recession is here and the books are cooked.",
+          "score": 256,
+          "sub": "cscareerquestions"
+        }
+      ]
+    },
+    "brainteasers_prob": {
+      "mentions": 33,
+      "examples": [
+        {
+          "body": "Some of the tools run on your phone and pick up the screen via camera and microphone. You can also use capture cards and various other tricks. Gamers have done this since the dawn of time, so they can cheat while streaming on Twitch or whatever. There's nothing you can do to catc",
+          "score": 429,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "They\u2019re threatening to fire you if you tell them. You\u2019re not doing a good job making a downside case. Option A: you tell them, you\u2019re fired. Option B: you don\u2019t tell them, maybe they find out, and you\u2019re fired. I\u2019m not a statistician but I\u2019m pretty sure EV would dictate option B ",
+          "score": 141,
+          "sub": "financialcareers"
+        },
+        {
+          "body": "Harsh truth but it's the truth. It's even sadder to see people downvote you if you dunk on OP in their own thread. People actually gaslight others into abandoning their entire original career track from age 23-30 just to restart at the bottom of the ladder working 80hrs minimum. ",
+          "score": 104,
+          "sub": "financialcareers"
+        },
+        {
+          "body": "A lot of people treat quant like a regular career pivot,but you\u2019re often competing with people who\u2019ve been obsessed with math and probability since high school.It\u2019s not impossible to break in from another background....just way harder than most expect.",
+          "score": 97,
+          "sub": "quantfinance"
+        }
+      ]
+    },
+    "oversaturation": {
+      "mentions": 29,
+      "examples": [
+        {
+          "body": "A few high-level thoughts (happy to elaborate): 1) Depending on the type of person you are, you need to prepare yourself for the interview situation purely from a nerves perspective. Too many candidates fail not because they can't solve the specific problems but because they cann",
+          "score": 630,
+          "sub": "leetcode"
+        },
+        {
+          "body": "Wrong. I can almost guarantee this dude has multiple notable hackthon wins, single projects that are probably better then our entire portfolio, stuff like that. People love saying the market is bad, which it is, but let's not pretend it's all luck.",
+          "score": 388,
+          "sub": "csMajors"
+        },
+        {
+          "body": "I think the recession is here and the books are cooked.",
+          "score": 256,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "Congrats bro. The job market is really tough rn. You deserved it.",
+          "score": 178,
+          "sub": "csMajors"
+        }
+      ]
+    },
+    "age_late": {
+      "mentions": 21,
+      "examples": [
+        {
+          "body": "At some point you just start thinking \u201cI\u2019m too old to go through this shit again\u201d. Looks like that point is well in the rear view mirror for this guy.",
+          "score": 408,
+          "sub": "csMajors"
+        },
+        {
+          "body": "Oh those mid 30s ones make me sad because the answer is just give up now, stop. And that\u2019s a hard thing to say",
+          "score": 177,
+          "sub": "financialcareers"
+        },
+        {
+          "body": "Reduce the H-1B allotments for tech by at least 50% along with a hefty tax penalty for it. Cap H4-EADs at a feasible number or charge a similar tax penalty. Charge companies for offshoring services. Tech shortages can be fixed by Congress in one piece of legislation without even ",
+          "score": 106,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "Harsh truth but it's the truth. It's even sadder to see people downvote you if you dunk on OP in their own thread. People actually gaslight others into abandoning their entire original career track from age 23-30 just to restart at the bottom of the ladder working 80hrs minimum. ",
+          "score": 104,
+          "sub": "financialcareers"
+        }
+      ]
+    },
+    "visa_sponsorship": {
+      "mentions": 19,
+      "examples": [
+        {
+          "body": "Its just lip service to placate certain folks.  If he wants to do something, he could make it a lot more difficult to get an H1B visa, for instance.  This is just shifting the burden to act from himself to companies so he can blame them when nothing gets done.",
+          "score": 1490,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "They\u2019ve already issued a filing that they\u2019re planning to change H1B to wage based selection",
+          "score": 355,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "IMHO. If a company has layoffs in tech, that should disqualify them from any H1B sponsorships for no less than 3 years.",
+          "score": 129,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "H1b visas are limited and given to foreigners working on American soil. That is significantly less problematic for the American economy than downright outsourcing entire departments overseas. The real issue here is a lot of companies have already moved on from India to Mexico and",
+          "score": 117,
+          "sub": "cscareerquestions"
+        }
+      ]
+    },
+    "oa_assessment": {
+      "mentions": 12,
+      "examples": [
+        {
+          "body": "This reminds me of a recent coding interview I had.  They sent me an email and said I would be doing a code interview in something called HackerRank.  So I researched what that was.  It's like a web software you will code in to detect cheating.  So I figure that's fine.  I take m",
+          "score": 412,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "How is it that people like this (clearly) get no technical interviews, yet when I interview, it's 2 technical rounds + a week long take home challenge?",
+          "score": 291,
+          "sub": "cscareerquestions"
+        },
+        {
+          "body": "New to this community \ud83d\ude05\ud83d\ude05 what does OA mean??",
+          "score": 69,
+          "sub": "leetcode"
+        },
+        {
+          "body": "I'll see if I can redact my resume so that I can post it while still being helpful to you guys. When it comes to channels to get noticed: Google actually reached out to me twice (without referrals) through completely different channels, so this might be helpful to you. 1) Hackath",
+          "score": 63,
+          "sub": "leetcode"
+        }
+      ]
+    }
+  },
+  "format_winners": {
+    "quant": {
+      "image": {
+        "n": 37,
+        "median": 237,
+        "mean": 385.4
+      },
+      "video": {
+        "n": 2,
+        "median": 687.0,
+        "mean": 687.0
+      },
+      "text": {
+        "n": 526,
+        "median": 65.5,
+        "mean": 86.5
+      },
+      "link": {
+        "n": 63,
+        "median": 100,
+        "mean": 128.4
+      }
+    },
+    "quantfinance": {
+      "image": {
+        "n": 96,
+        "median": 63.0,
+        "mean": 153.2
+      },
+      "text": {
+        "n": 521,
+        "median": 31,
+        "mean": 51.6
+      },
+      "link": {
+        "n": 21,
+        "median": 31,
+        "mean": 41.0
+      },
+      "video": {
+        "n": 1,
+        "median": 37,
+        "mean": 37.0
+      }
+    },
+    "quant_hft": {
+      "text": {
+        "n": 54,
+        "median": 5.5,
+        "mean": 11.7
+      },
+      "image": {
+        "n": 4,
+        "median": 29.0,
+        "mean": 28.0
+      },
+      "link": {
+        "n": 36,
+        "median": 1.0,
+        "mean": 2.3
+      }
+    },
+    "cpp": {
+      "text": {
+        "n": 244,
+        "median": 72.0,
+        "mean": 93.5
+      },
+      "link": {
+        "n": 328,
+        "median": 78.5,
+        "mean": 100.5
+      }
+    },
+    "cpp_questions": {
+      "text": {
+        "n": 647,
+        "median": 17,
+        "mean": 24.8
+      }
+    },
+    "csMajors": {
+      "image": {
+        "n": 189,
+        "median": 482,
+        "mean": 873.2
+      },
+      "text": {
+        "n": 421,
+        "median": 285,
+        "mean": 392.5
+      },
+      "link": {
+        "n": 24,
+        "median": 472.0,
+        "mean": 548.4
+      },
+      "video": {
+        "n": 4,
+        "median": 551.0,
+        "mean": 584.5
+      }
+    },
+    "cscareerquestions": {
+      "text": {
+        "n": 634,
+        "median": 506.0,
+        "mean": 689.0
+      },
+      "image": {
+        "n": 1,
+        "median": 678,
+        "mean": 678.0
+      }
+    },
+    "FPGA": {
+      "image": {
+        "n": 111,
+        "median": 102,
+        "mean": 237.0
+      },
+      "video": {
+        "n": 35,
+        "median": 107,
+        "mean": 176.3
+      },
+      "link": {
+        "n": 80,
+        "median": 45.0,
+        "mean": 84.7
+      },
+      "text": {
+        "n": 414,
+        "median": 31.0,
+        "mean": 41.4
+      }
+    },
+    "algotrading": {
+      "image": {
+        "n": 106,
+        "median": 90.5,
+        "mean": 139.9
+      },
+      "link": {
+        "n": 99,
+        "median": 74,
+        "mean": 127.3
+      },
+      "text": {
+        "n": 445,
+        "median": 38,
+        "mean": 51.9
+      },
+      "video": {
+        "n": 6,
+        "median": 170.0,
+        "mean": 172.8
+      }
+    },
+    "financialcareers": {
+      "image": {
+        "n": 100,
+        "median": 135.0,
+        "mean": 350.4
+      },
+      "text": {
+        "n": 513,
+        "median": 84,
+        "mean": 121.9
+      },
+      "link": {
+        "n": 33,
+        "median": 137,
+        "mean": 224.7
+      },
+      "video": {
+        "n": 1,
+        "median": 168,
+        "mean": 168.0
+      }
+    },
+    "leetcode": {
+      "text": {
+        "n": 345,
+        "median": 242,
+        "mean": 331.0
+      },
+      "image": {
+        "n": 302,
+        "median": 424.5,
+        "mean": 622.7
+      },
+      "video": {
+        "n": 7,
+        "median": 896,
+        "mean": 921.3
+      },
+      "link": {
+        "n": 17,
+        "median": 411,
+        "mean": 422.8
+      }
+    }
+  },
+  "format_global": {
+    "image": {
+      "n": 946,
+      "median": 278.5
+    },
+    "video": {
+      "n": 56,
+      "median": 193.5
+    },
+    "text": {
+      "n": 4764,
+      "median": 60.0
+    },
+    "link": {
+      "n": 701,
+      "median": 77
+    }
+  },
+  "topic_heatmap": {
+    "firms": {
+      "jane street": {
+        "raw_mentions": 78,
+        "score_weighted": 208
+      },
+      "jane st": {
+        "raw_mentions": 78,
+        "score_weighted": 208
+      },
+      "citadel": {
+        "raw_mentions": 47,
+        "score_weighted": 80
+      },
+      "hrt": {
+        "raw_mentions": 22,
+        "score_weighted": 39
+      },
+      "optiver": {
+        "raw_mentions": 25,
+        "score_weighted": 33
+      },
+      "virtu": {
+        "raw_mentions": 15,
+        "score_weighted": 30
+      },
+      "jump": {
+        "raw_mentions": 15,
+        "score_weighted": 25
+      },
+      "imc": {
+        "raw_mentions": 20,
+        "score_weighted": 23
+      },
+      "sig": {
+        "raw_mentions": 14,
+        "score_weighted": 14
+      },
+      "two sigma": {
+        "raw_mentions": 6,
+        "score_weighted": 9
+      },
+      "qrt": {
+        "raw_mentions": 7,
+        "score_weighted": 8
+      },
+      "rentec": {
+        "raw_mentions": 4,
+        "score_weighted": 7
+      },
+      "tower": {
+        "raw_mentions": 6,
+        "score_weighted": 6
+      },
+      "hudson river": {
+        "raw_mentions": 3,
+        "score_weighted": 6
+      },
+      "g-research": {
+        "raw_mentions": 2,
+        "score_weighted": 5
+      },
+      "citsec": {
+        "raw_mentions": 3,
+        "score_weighted": 4
+      },
+      "drw": {
+        "raw_mentions": 4,
+        "score_weighted": 4
+      },
+      "millennium": {
+        "raw_mentions": 3,
+        "score_weighted": 4
+      },
+      "akuna": {
+        "raw_mentions": 2,
+        "score_weighted": 3
+      },
+      "d.e. shaw": {
+        "raw_mentions": 1,
+        "score_weighted": 2
+      },
+      "headlands": {
+        "raw_mentions": 1,
+        "score_weighted": 2
+      },
+      "g research": {
+        "raw_mentions": 2,
+        "score_weighted": 2
+      },
+      "renaissance": {
+        "raw_mentions": 1,
+        "score_weighted": 1
+      },
+      "de shaw": {
+        "raw_mentions": 1,
+        "score_weighted": 1
+      },
+      "five rings": {
+        "raw_mentions": 1,
+        "score_weighted": 1
+      },
+      "old mission": {
+        "raw_mentions": 1,
+        "score_weighted": 1
+      },
+      "point72": {
+        "raw_mentions": 1,
+        "score_weighted": 1
+      }
+    },
+    "languages": {
+      "c++": {
+        "raw_mentions": 645,
+        "score_weighted": 783
+      },
+      "fpga": {
+        "raw_mentions": 284,
+        "score_weighted": 388
+      },
+      "cpp": {
+        "raw_mentions": 73,
+        "score_weighted": 96
+      },
+      "python": {
+        "raw_mentions": 38,
+        "score_weighted": 58
+      },
+      "rust": {
+        "raw_mentions": 30,
+        "score_weighted": 52
+      },
+      "verilog": {
+        "raw_mentions": 33,
+        "score_weighted": 48
+      },
+      "vhdl": {
+        "raw_mentions": 12,
+        "score_weighted": 16
+      },
+      "java": {
+        "raw_mentions": 5,
+        "score_weighted": 8
+      },
+      "matlab": {
+        "raw_mentions": 2,
+        "score_weighted": 4
+      },
+      "sql": {
+        "raw_mentions": 4,
+        "score_weighted": 3
+      },
+      "haskell": {
+        "raw_mentions": 1,
+        "score_weighted": 1
+      }
+    },
+    "concepts": {
+      "leetcode": {
+        "raw_mentions": 166,
+        "score_weighted": 822
+      },
+      "internship": {
+        "raw_mentions": 176,
+        "score_weighted": 444
+      },
+      "new grad": {
+        "raw_mentions": 74,
+        "score_weighted": 299
+      },
+      "hft": {
+        "raw_mentions": 94,
+        "score_weighted": 105
+      },
+      "phd": {
+        "raw_mentions": 44,
+        "score_weighted": 92
+      },
+      "backtest": {
+        "raw_mentions": 61,
+        "score_weighted": 75
+      },
+      "qt": {
+        "raw_mentions": 53,
+        "score_weighted": 61
+      },
+      "oa": {
+        "raw_mentions": 21,
+        "score_weighted": 60
+      },
+      "qr": {
+        "raw_mentions": 39,
+        "score_weighted": 57
+      },
+      "options": {
+        "raw_mentions": 35,
+        "score_weighted": 55
+      },
+      "ml": {
+        "raw_mentions": 32,
+        "score_weighted": 46
+      },
+      "system design": {
+        "raw_mentions": 13,
+        "score_weighted": 45
+      },
+      "onsite": {
+        "raw_mentions": 10,
+        "score_weighted": 37
+      },
+      "quant dev": {
+        "raw_mentions": 33,
+        "score_weighted": 36
+      },
+      "quant research": {
+        "raw_mentions": 30,
+        "score_weighted": 35
+      },
+      "referral": {
+        "raw_mentions": 8,
+        "score_weighted": 24
+      },
+      "alpha": {
+        "raw_mentions": 21,
+        "score_weighted": 21
+      },
+      "signal": {
+        "raw_mentions": 19,
+        "score_weighted": 21
+      },
+      "machine learning": {
+        "raw_mentions": 9,
+        "score_weighted": 13
+      },
+      "probability": {
+        "raw_mentions": 7,
+        "score_weighted": 9
+      },
+      "statistics": {
+        "raw_mentions": 9,
+        "score_weighted": 9
+      },
+      "market making": {
+        "raw_mentions": 6,
+        "score_weighted": 7
+      },
+      "order book": {
+        "raw_mentions": 6,
+        "score_weighted": 7
+      },
+      "low latency": {
+        "raw_mentions": 4,
+        "score_weighted": 6
+      },
+      "pnl": {
+        "raw_mentions": 6,
+        "score_weighted": 6
+      },
+      "superday": {
+        "raw_mentions": 4,
+        "score_weighted": 6
+      },
+      "brain teaser": {
+        "raw_mentions": 4,
+        "score_weighted": 4
+      },
+      "derivatives": {
+        "raw_mentions": 4,
+        "score_weighted": 4
+      },
+      "data structures": {
+        "raw_mentions": 4,
+        "score_weighted": 4
+      },
+      "online assessment": {
+        "raw_mentions": 2,
+        "score_weighted": 4
+      },
+      "stochastic": {
+        "raw_mentions": 2,
+        "score_weighted": 3
+      },
+      "mental math": {
+        "raw_mentions": 2,
+        "score_weighted": 2
+      },
+      "linear algebra": {
+        "raw_mentions": 1,
+        "score_weighted": 1
+      }
+    },
+    "comp_signals": {
+      "d{2,3}s*k": {
+        "raw_mentions": 76,
+        "score_weighted": 294
+      },
+      "$d{2,3}k?": {
+        "raw_mentions": 56,
+        "score_weighted": 219
+      },
+      "d{3}k": {
+        "raw_mentions": 52,
+        "score_weighted": 193
+      },
+      "d+s*million": {
+        "raw_mentions": 14,
+        "score_weighted": 56
+      },
+      "tc": {
+        "raw_mentions": 10,
+        "score_weighted": 38
+      },
+      "total comp": {
+        "raw_mentions": 2,
+        "score_weighted": 9
+      }
+    }
+  },
+  "top_posts_overall": [
+    {
+      "title": "[Breaking] AWS Cloud Chief says \"replacing junior employees with AI is one of the dumbest things I've ever heard\". The tide is shifting back.",
+      "score": 6899,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 357
+    },
+    {
+      "title": "No more tech hiring in India, Donald Trump tells Google, Microsoft and others to focus on Americans",
+      "score": 6181,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 1172
+    },
+    {
+      "title": "The kids are\u2026 not alright",
+      "score": 5903,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 118
+    },
+    {
+      "title": "Can't stop tearing up, got my first FAANG offer from Apple",
+      "score": 5749,
+      "sub": "csMajors",
+      "type": "text",
+      "comments": 255
+    },
+    {
+      "title": "\u201cCursor is now free for students\u201d",
+      "score": 5549,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 76
+    },
+    {
+      "title": "What do we think guys?",
+      "score": 5492,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 375
+    },
+    {
+      "title": "[BREAKING] Amazon to layoff 30,000 corporate employees in one of the largest layoffs in its history",
+      "score": 5369,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 1329
+    },
+    {
+      "title": "4 years at Big tech. Being likeable beats being productive every single time",
+      "score": 4990,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 356
+    },
+    {
+      "title": "I just watched an AI agent take a Jira ticket, understand our codebase, and push a PR in minutes and I\u2019m genuinely scared",
+      "score": 4746,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 1121
+    },
+    {
+      "title": "lazy guide from unemployed to employed in CS",
+      "score": 4595,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 54
+    },
+    {
+      "title": "I quit CS and I\u2019m 300% happier.",
+      "score": 4541,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 869
+    },
+    {
+      "title": "Got dumped by GF of 4 years but got a Meta offer today",
+      "score": 4484,
+      "sub": "leetcode",
+      "type": "text",
+      "comments": 256
+    },
+    {
+      "title": "My job search",
+      "score": 4414,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 291
+    },
+    {
+      "title": "The fact that ChatGPT 5 is barely an improvement shows that AI won't replace software engineers.",
+      "score": 4410,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 880
+    },
+    {
+      "title": "Finance bro vs Tech bro",
+      "score": 4218,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 214
+    },
+    {
+      "title": "it takes time",
+      "score": 3941,
+      "sub": "leetcode",
+      "type": "image",
+      "comments": 76
+    },
+    {
+      "title": "if you\u2019re in tech and haven\u2019t seen this video yet, i highly recommend it.",
+      "score": 3854,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 91
+    },
+    {
+      "title": "Hard times lol",
+      "score": 3766,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 99
+    },
+    {
+      "title": "Microsoft to lay off about 9,000 employees in latest round",
+      "score": 3586,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 721
+    },
+    {
+      "title": "Should I dump my girlfriend? I'm losing LC streak focus",
+      "score": 3443,
+      "sub": "leetcode",
+      "type": "image",
+      "comments": 241
+    },
+    {
+      "title": "Can't escape",
+      "score": 3355,
+      "sub": "leetcode",
+      "type": "image",
+      "comments": 32
+    },
+    {
+      "title": "Take me out of NYC bro",
+      "score": 3313,
+      "sub": "financialcareers",
+      "type": "image",
+      "comments": 50
+    },
+    {
+      "title": "This is not fair",
+      "score": 3263,
+      "sub": "leetcode",
+      "type": "image",
+      "comments": 96
+    },
+    {
+      "title": "Me during the interview pretending like I've never seen the question before",
+      "score": 3102,
+      "sub": "leetcode",
+      "type": "image",
+      "comments": 58
+    },
+    {
+      "title": "It is trivial to catch people cheating now, please don't cheat",
+      "score": 3096,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 582
+    },
+    {
+      "title": "I was very pessimistic about AI taking jobs. Then a vibe coder joined my team.",
+      "score": 3093,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 496
+    },
+    {
+      "title": "I honestly love leetcode more than actual software development atp",
+      "score": 3074,
+      "sub": "leetcode",
+      "type": "image",
+      "comments": 60
+    },
+    {
+      "title": "Oracle slashes 30,000 jobs with a cold 6 a.m. email",
+      "score": 3017,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 340
+    },
+    {
+      "title": "Microsoft's CFO pocketed $29.5M and announced headcount cuts in the same earnings call. I can't stop thinking about it.",
+      "score": 2992,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 305
+    },
+    {
+      "title": "Trump tells tech companies to 'stop hiring Indians', signs new AI orders to focus on US jobs",
+      "score": 2840,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 498
+    },
+    {
+      "title": "Amazon laid off 16k corporate employees",
+      "score": 2803,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 593
+    },
+    {
+      "title": "I Made DOOM Run Inside a QR Code and wrote a Custom compression Algorithm for it that got Cited by a NASA Scientist.",
+      "score": 2756,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 77
+    },
+    {
+      "title": "CS Freshman Students 2025:",
+      "score": 2713,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 120
+    },
+    {
+      "title": "Genuinely what the HELL is going on?",
+      "score": 2635,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 666
+    },
+    {
+      "title": "I'm going to solve every LeetCode problem this year",
+      "score": 2586,
+      "sub": "leetcode",
+      "type": "image",
+      "comments": 179
+    },
+    {
+      "title": "Uncle Bob predicts a reverse bubble pop for CS jobs",
+      "score": 2566,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 455
+    },
+    {
+      "title": "Just pushed my first PR for my new job at Azure after leaving AWS!",
+      "score": 2539,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 67
+    },
+    {
+      "title": "i mass lied about a competing offer and it backfired so bad \ud83d\udc80",
+      "score": 2502,
+      "sub": "csMajors",
+      "type": "text",
+      "comments": 247
+    },
+    {
+      "title": "Graduated top 10 CS last year, approx. 4k apps, 700+ LC, no offers. Parents kicking me out. I think I\u2019m done.",
+      "score": 2453,
+      "sub": "csMajors",
+      "type": "image",
+      "comments": 384
+    },
+    {
+      "title": "Meta planning sweeping layoffs , 20% of company",
+      "score": 2448,
+      "sub": "cscareerquestions",
+      "type": "text",
+      "comments": 591
+    }
+  ]
+}

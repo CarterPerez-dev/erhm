@@ -1,0 +1,3002 @@
+[
+  {
+    "post_id": "t3_1rn6ff8",
+    "subreddit": "quant",
+    "title": "Throwback to the funniest scam email I have ever received",
+    "score": 1368,
+    "permalink": "https://old.reddit.com/r/quant/comments/1rn6ff8/throwback_to_the_funniest_scam_email_i_have_ever/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_o94gk41",
+        "author": "Own_Pop_9711",
+        "score": 298,
+        "body": "How else are they supposed to verify your resume item that you have experience algo trading Bitcoin unless they try to withdraw money from your bank account and confirm it is empty?"
+      },
+      {
+        "id": "t1_o94hh2s",
+        "author": "the_mambo",
+        "score": 180,
+        "body": "Congrats on the offer"
+      },
+      {
+        "id": "t1_o94gc1t",
+        "author": "lampishthing",
+        "score": 109,
+        "body": "Jane Street straight from high school 💫"
+      },
+      {
+        "id": "t1_o966fgz",
+        "author": "big_red_couch",
+        "score": 52,
+        "body": "Hi! Senior Quant Researcher at Jane Street checking in. This is actually a standard practice for our team. In fact, you can just send your info over to me via DM, and I'll make sure it reaches the proper channels :) Excited to have you onboard!"
+      },
+      {
+        "id": "t1_o94hdoh",
+        "author": "lampishthing",
+        "score": 41,
+        "body": "Oh man I missed the PIN part 😂"
+      },
+      {
+        "id": "t1_o94iprq",
+        "author": "lordnacho666",
+        "score": 30,
+        "body": "A bit like those lottery emails. How would anyone think they'd actually gotten something they'd never asked for? I guess it really is just for the most gullible people on earth."
+      },
+      {
+        "id": "t1_o975ve0",
+        "author": "goinshort",
+        "score": 20,
+        "body": "Opportunities like this don’t come everyday"
+      },
+      {
+        "id": "t1_o94hoq0",
+        "author": "Heavy_Practice4534",
+        "score": 19,
+        "body": "Did you accept?"
+      },
+      {
+        "id": "t1_o94q4k8",
+        "author": "PendulumKick",
+        "score": 14,
+        "body": "Presumably the goal is somehow to find a moron who just applied for a role and hasn’t yet been rejected"
+      },
+      {
+        "id": "t1_o94u0q8",
+        "author": "loseAtDiceWithFaith",
+        "score": 11,
+        "body": "Even better... did you apply?"
+      },
+      {
+        "id": "t1_o94xlsr",
+        "author": "Comfortable_Chip5413",
+        "score": 9,
+        "body": "Yo that's wild, congratulations on the offer! You earned it through financial loss as opposed to the usual loss of sanity, great trade!!"
+      },
+      {
+        "id": "t1_o94jpym",
+        "author": "_An_Other_Account_",
+        "score": 5,
+        "body": ">skyrocket 🚀🚀"
+      },
+      {
+        "id": "t1_o950qtw",
+        "author": "SmoothTraderr",
+        "score": 4,
+        "body": "I got one for blackrock but needed my crypto keys for a crypto wallet + paying to \"ship\" equipment. Most obvious scam ever."
+      },
+      {
+        "id": "t1_o981mag",
+        "author": "Adventurous-Cycle363",
+        "score": 2,
+        "body": "Even then they must be moron enough to not check with the HR or recruiter immediately after this message."
+      },
+      {
+        "id": "t1_o96fkdp",
+        "author": "sillypelin",
+        "score": 1,
+        "body": "This is lazy af. At least my scammers had me do a series of written “interviews” that concluded in an attempt to video call me via sketchy software. Scammers use to have principles smh.."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1oavor0",
+    "subreddit": "quant",
+    "title": "The singular best text to read for an intro to quant trading",
+    "score": 1237,
+    "permalink": "https://old.reddit.com/r/quant/comments/1oavor0/the_singular_best_text_to_read_for_an_intro_to/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nkclnsi",
+        "author": "HostSea4267",
+        "score": 172,
+        "body": "Momentum If it’s going up, it’s going to go up more: filters are key Mean Reversion If it’s going up, it’s going to go down: filters are key — Classic."
+      },
+      {
+        "id": "t1_nkcz3ua",
+        "author": "HostSea4267",
+        "score": 128,
+        "body": "Filters are key"
+      },
+      {
+        "id": "t1_nkchopg",
+        "author": "maxaposteriori",
+        "score": 127,
+        "body": "That book is a good introduction to options, futures and other derivatives."
+      },
+      {
+        "id": "t1_nkcd9kq",
+        "author": "Expert_Entrance_4082",
+        "score": 113,
+        "body": "Good intro to the execution / latency side of HFT / market making, but not the single best text for all of ‘quant’ trading"
+      },
+      {
+        "id": "t1_nkcvfoc",
+        "author": "djlamar7",
+        "score": 73,
+        "body": "Active Equity Management by Zhou and Jain. Quantitative Portfolio Management by Isichenko. I'm a hobbyist (experienced ML engineer professionally) but I found these two to be great resources that cover a lot of bases and they're both very accessible. I don't recommend the Prado book even for people like me. r/algotrading loves it but I've seen people talk shit about it here, as well as professional quants I know personally. I only skimmed a bit after reading those other two books and it already smells funny - and it's unnecessarily difficult to read because the author uses tons of math notation even for simple concepts that don't need it at all. It feels like he's trying to look smart. The two books I mentioned above are the opposite - they use math notation if and only if it makes things more clear or is strictly necessary."
+      },
+      {
+        "id": "t1_nkcaeek",
+        "author": "CodMaximum6004",
+        "score": 49,
+        "body": "not bad, but hull's \"options, futures, and other derivatives\" is better"
+      },
+      {
+        "id": "t1_nke6fc2",
+        "author": "Hanarabi",
+        "score": 46,
+        "body": "I guess the the filter have something to do with a key"
+      },
+      {
+        "id": "t1_nkcp35x",
+        "author": "achiweing",
+        "score": 38,
+        "body": "Any recommendations please?"
+      },
+      {
+        "id": "t1_nkfd06q",
+        "author": "Expert_Entrance_4082",
+        "score": 28,
+        "body": "Depends on what you’re looking for. For math / finance specific stochastic calculus I’d say shreve is pretty good. For a more advanced look in HFT / market making, algorithmic and HF trading by Sebastian Jaimungal is solid."
+      },
+      {
+        "id": "t1_nkcjl59",
+        "author": "as_one_does",
+        "score": 16,
+        "body": "Thanks, somehow I haven't seen this. Pretty simplistic but more than good enough to get you started. Overall I enjoyed it for its direct practicality. Much of what it says mirrors my experience, though a bunch of it is dated."
+      },
+      {
+        "id": "t1_nkcamwo",
+        "author": "AphexPin",
+        "score": 15,
+        "body": "No, it’s not."
+      },
+      {
+        "id": "t1_nkfydzk",
+        "author": "platonrene",
+        "score": 14,
+        "body": "Momentum trading is based on correlated instruments (ie inter group - US tech) trending up or down together. Mean reversion testing is based on intragroup movements - ie if Amazon trends higher than Google at a window of time we expect Amazon to eventually fall back in line at some point."
+      },
+      {
+        "id": "t1_nkg2mmm",
+        "author": "learningquant",
+        "score": 13,
+        "body": "Yo wtf?! Not sure if it's a cruel joke, but chapter 2 starts with \"Work shall set you free\"? Highly inappropriate"
+      },
+      {
+        "id": "t1_nkct2rw",
+        "author": "",
+        "score": 12,
+        "body": "Yeah how does that make any sense?"
+      },
+      {
+        "id": "t1_nkcxo24",
+        "author": "segment_tree_",
+        "score": 12,
+        "body": "I like how his foreword is \"Work will set you free\". Comforting to see an edgy neo-nazi have such a high position in the industry. I wonder why he didn't attribute that quote like he did for the others! How curious ;)"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1r6c15a",
+    "subreddit": "quant",
+    "title": "Even Korean dating shows use Natenberg",
+    "score": 1076,
+    "permalink": "https://old.reddit.com/r/quant/comments/1r6c15a/even_korean_dating_shows_use_natenberg/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_o5p7f8i",
+        "author": "cssegfault",
+        "score": 165,
+        "body": "Lmao what is the context here  And you don't carry the natenburg book around in a bar to show your Chad alpha edge arbitrage energy? "
+      },
+      {
+        "id": "t1_o5pry5q",
+        "author": "Drwannabeme",
+        "score": 126,
+        "body": "He said he's a QT but he isn't, nor is he a QR or QD, he is a SWE at Jump. He quickly deleted his LinkedIn after the show aired and also there is a snippet of him writing down derivation of OLS and he got it wrong 😭"
+      },
+      {
+        "id": "t1_o5p8j7g",
+        "author": "rmrking8d",
+        "score": 101,
+        "body": "one of the contestants supposedly is a QT at jump. The context of this show is that a guy and girl get to go to a fancy hotel, while the others stay in a lame place. They don't know ages and jobs of ppl until they win a trip to the hotel, so she was going through his stuff while he was away cuz he was simping for her"
+      },
+      {
+        "id": "t1_o5p7kkf",
+        "author": "Hot_Employee_7270",
+        "score": 81,
+        "body": "Haha isn’t one of the contestants a quant trader?"
+      },
+      {
+        "id": "t1_o5p9mts",
+        "author": "cssegfault",
+        "score": 58,
+        "body": "Damn, is it just me or is that gamma of your hard delta in your pants "
+      },
+      {
+        "id": "t1_o5qa968",
+        "author": "Which-Pool-1689",
+        "score": 31,
+        "body": "Funny how a gameshow from Korea brings some livelihood to this subreddit. Sam Lee seems like a decent guy, I really wish him the best"
+      },
+      {
+        "id": "t1_o5pzv6i",
+        "author": "Huge_Illustrator5652",
+        "score": 28,
+        "body": "A software developer cosplaying as a “Quant” because it sounds cooler"
+      },
+      {
+        "id": "t1_o5qgw4g",
+        "author": "OP_will_deliver",
+        "score": 25,
+        "body": "Didn't he also claim he used to be an \"AI developer at Google\" before becoming a quant? lol"
+      },
+      {
+        "id": "t1_o5q3uez",
+        "author": "",
+        "score": 18,
+        "body": "On the fifth day he dragged himself to the door of the cell."
+      },
+      {
+        "id": "t1_o5plvig",
+        "author": "",
+        "score": 15,
+        "body": "I believe he’s just a software dev"
+      },
+      {
+        "id": "t1_o5q2bti",
+        "author": "ApogeeSystems",
+        "score": 14,
+        "body": "Chads maximize their delta exposure to lure in the women"
+      },
+      {
+        "id": "t1_o5rv0gi",
+        "author": "maneo",
+        "score": 13,
+        "body": "My friend was on a season-long reality TV type of show, and there were a lot of cases where the producers would encourage people to fudge the truth in ways that would make it more interesting. Might be something like that"
+      },
+      {
+        "id": "t1_o5q8qkc",
+        "author": "rmrking8d",
+        "score": 12,
+        "body": "Single's Inferno, 5th season. It's a korean dating show."
+      },
+      {
+        "id": "t1_o5t8u80",
+        "author": "chivescast",
+        "score": 12,
+        "body": "From my experience, front office or P&L attributing roles try to keep it low key. Back office loves the \"fin bro\" label"
+      },
+      {
+        "id": "t1_o5sy7va",
+        "author": "rsha256",
+        "score": 10,
+        "body": "Job titles are pretty meaningless especially at a siloed firm like Jump. It is possible to be doing QT work as a swe title. Most times you are even paid by how well your pod does which means a swe in a high performing pod can make more than a qd/qt/qr in a poorly performing pod. But idk if he’s in jcs/jump crypto/prediction markets/etc which makes it hard to say. But I wouldn’t say he was necessarily being malicious in saying he works in quant trading if his work actually reflects that. Idc to watch and find out what was said but the difference is probably not as deep as you would think"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qa5pbj",
+    "subreddit": "quant",
+    "title": "What each trading firm really does. (According to Gerkobot)",
+    "score": 1026,
+    "permalink": "https://old.reddit.com/r/quant/comments/1qa5pbj/what_each_trading_firm_really_does_according_to/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nz0g5aa",
+        "author": "as_one_does",
+        "score": 185,
+        "body": "This is what I come to Reddit for"
+      },
+      {
+        "id": "t1_nz0an83",
+        "author": "Xelonima",
+        "score": 89,
+        "body": "Lmao, I especially loved the sarcastic criticism of the black box model fetish"
+      },
+      {
+        "id": "t1_nz0y8oq",
+        "author": "HostSea4267",
+        "score": 55,
+        "body": "Headlands always sounded like they loved C++ more than Python."
+      },
+      {
+        "id": "t1_nz0vo7t",
+        "author": "Xelonima",
+        "score": 36,
+        "body": "Dr Simmons is too legendary to even joke about "
+      },
+      {
+        "id": "t1_nz0eizc",
+        "author": "Spirited-Ad-9591",
+        "score": 24,
+        "body": "Also found the five rings ??? comment hilarious "
+      },
+      {
+        "id": "t1_nz0r6ai",
+        "author": "HF_bro",
+        "score": 24,
+        "body": "Exaggerated, but accurate nonetheless lol."
+      },
+      {
+        "id": "t1_nz0l39b",
+        "author": "Knovac",
+        "score": 21,
+        "body": "Optiver example trade 💀"
+      },
+      {
+        "id": "t1_nz0vk2k",
+        "author": "Xelonima",
+        "score": 18,
+        "body": "Classified, even internally. "
+      },
+      {
+        "id": "t1_nz1hwui",
+        "author": "Hefty_Long_6880",
+        "score": 15,
+        "body": "Good to see Gerko still has no clue about options. It’s fine, you can’t have it all"
+      },
+      {
+        "id": "t1_nz1esqj",
+        "author": "steezynuts",
+        "score": 11,
+        "body": "Tower 💀"
+      },
+      {
+        "id": "t1_nz0ijsm",
+        "author": "dhruba53",
+        "score": 11,
+        "body": "renaissance ?"
+      },
+      {
+        "id": "t1_nz14gu8",
+        "author": "ResolveSea9089",
+        "score": 11,
+        "body": "The SIG one is hilarious although lowkey I'd give almost anything to talk to a SIG trader about their model and how they teach people to think about options in general"
+      },
+      {
+        "id": "t1_nz0ytxe",
+        "author": "Vind2",
+        "score": 7,
+        "body": "Now this is some alpha"
+      },
+      {
+        "id": "t1_nz4akqg",
+        "author": "ACAFWD",
+        "score": 5,
+        "body": "Isn’t SIG involved in market making sports betting too? Or is that just a side hustle for them?"
+      },
+      {
+        "id": "t1_nz6cs2h",
+        "author": "",
+        "score": 5,
+        "body": "Jane Street is created by sig ex employee and five rings is created by ex Jane Street employee Wow 🫂"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ry521t",
+    "subreddit": "quant",
+    "title": "I work in prop trading and made a game where you work in prop trading",
+    "score": 995,
+    "permalink": "https://old.reddit.com/r/quant/comments/1ry521t/i_work_in_prop_trading_and_made_a_game_where_you/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_obbui5t",
+        "author": "aidancbrady",
+        "score": 194,
+        "body": "Hi everyone! I've been in the industry for a while, and thought my recent garden leave would be the perfect time to try something new- like build a video game about my day job! 'Market Hours' is a tycoon-style game where you start off trading out of your bedroom on mostly-borrowed money, and eventually start hiring traders and researchers / moving into bigger offices / building out systematic trading infrastructure. Late game you can register as market maker, make PFOF arrangements with retail brokers, and have to start handling compliance inquiries. I tried to make it fun while being at least somewhat grounded in reality. I'm targeting release in late-April right now, but I'm also looking for playtesters who'd be willing to give this a shot. This is obviously a very specific niche, so I'd love to hear your feedback! Would anyone actually play this? I recognize I'm probably a little insane for having built this in the first place. Links if you want to learn more: Discord / Steam / Website Edit: the game is now available! The markets are waiting! 📈"
+      },
+      {
+        "id": "t1_obc1odk",
+        "author": "TornadoInSneakers",
+        "score": 83,
+        "body": "Will this involve random events like markets getting blacklisted because someone decides to invade an Eastern European country?"
+      },
+      {
+        "id": "t1_obc62ur",
+        "author": "NobodyPrime8",
+        "score": 77,
+        "body": "question: can i make a prop trading game as a prop trader in your prop trading game that you, a prop trader, made?"
+      },
+      {
+        "id": "t1_obbxeeq",
+        "author": "Quant-Tools",
+        "score": 63,
+        "body": "This is extremely cute. I assume you will at some point put this on Steam and do the early access thing?"
+      },
+      {
+        "id": "t1_obc8qk9",
+        "author": "taesty1",
+        "score": 49,
+        "body": "This is amazing. I've been a trader/pm most of my career but grew up loving video games. I recently left my firm and dreamed about making a game about trading/finance but don't have game dev experience. I look forward to trying out your game! EDIT: I misread your experience; you also come from the trading side. Awesome."
+      },
+      {
+        "id": "t1_obbz5bh",
+        "author": "aidancbrady",
+        "score": 39,
+        "body": "Yes I'll be shipping it on Steam! I'm in a bit of a rush to finish this before I become employed again, but I'm hoping I'll have an official date soon for late Spring."
+      },
+      {
+        "id": "t1_obcasku",
+        "author": "heroyi",
+        "score": 18,
+        "body": "Fucking bullshit rngesus Speedrun ruined. Need new seed. "
+      },
+      {
+        "id": "t1_obco5h8",
+        "author": "aidancbrady",
+        "score": 17,
+        "body": "Precisely why I'm a back-end dev! (I compressed the assets now so it should be a good bit faster now, thanks for the feedback!)"
+      },
+      {
+        "id": "t1_obcm00c",
+        "author": "merkonerko2",
+        "score": 15,
+        "body": "So you made a game based off of my exact career progression? I think I'm in love."
+      },
+      {
+        "id": "t1_obcgz6e",
+        "author": "Positive-Guide007",
+        "score": 14,
+        "body": "Feels like eminem just entered "
+      },
+      {
+        "id": "t1_obc0ilg",
+        "author": "raymainlander",
+        "score": 7,
+        "body": "Looks very similar to the PewDiePie simulator. I'm all for it."
+      },
+      {
+        "id": "t1_obcbale",
+        "author": "Guyserbun007",
+        "score": 6,
+        "body": "Is this based on real data"
+      },
+      {
+        "id": "t1_obca9pq",
+        "author": "AdPure6014",
+        "score": 6,
+        "body": "holy shit this is cool"
+      },
+      {
+        "id": "t1_obd48l9",
+        "author": "Wild-Quality-4365",
+        "score": 5,
+        "body": "r/incremental_games would love this"
+      },
+      {
+        "id": "t1_obcb6bm",
+        "author": "ApogeeSystems",
+        "score": 5,
+        "body": "I like the concept, looks good! But gosh damn that website is horribly optimized."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1prjpyh",
+    "subreddit": "quant",
+    "title": "BlackRock’s Quants Beat the Market 94% of the Time",
+    "score": 826,
+    "permalink": "https://old.reddit.com/r/quant/comments/1prjpyh/blackrocks_quants_beat_the_market_94_of_the_time/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nv2hy27",
+        "author": "LearnNewThingsDaily",
+        "score": 316,
+        "body": "200 people on a team with less than 500B in AUM is NOT a skeleton crew"
+      },
+      {
+        "id": "t1_nv2s77c",
+        "author": "Ocelotofdamage",
+        "score": 247,
+        "body": "Also beating the market 94% of the time isn’t hard. You can just invest in the market, then sell 1 delta puts at the end of the year and beat the market 99% of the time. What are your risk adjusted returns, sharpe, anything that gives a real picture of risk vs reward?"
+      },
+      {
+        "id": "t1_nv2ok15",
+        "author": "mannheimcrescendo",
+        "score": 98,
+        "body": "Certainly looks like a group of guys that would beat the ever loving fuck out of the market"
+      },
+      {
+        "id": "t1_nv2urnu",
+        "author": "",
+        "score": 81,
+        "body": "But the headline broooooo"
+      },
+      {
+        "id": "t1_nv2unl1",
+        "author": "muggy_muggs",
+        "score": 66,
+        "body": "Are ppl in here not reading that it's revenue, not returns?"
+      },
+      {
+        "id": "t1_nv2tenv",
+        "author": "Otherwise_Gas6325",
+        "score": 52,
+        "body": "They look like they enjoy chalkboards"
+      },
+      {
+        "id": "t1_nv3w8xx",
+        "author": "TajineMaster159",
+        "score": 51,
+        "body": "they look like the Avengers of saying \"orthogonally\" and \"such that\" in normal conversation"
+      },
+      {
+        "id": "t1_nv2ia7i",
+        "author": "WhatNazisAreLike",
+        "score": 46,
+        "body": "I’m currently reading Ronald Kahn’s (the head of this group at BlackRock) book, Active Portfolio Management. Has anyone else read this? So far it looks very well written"
+      },
+      {
+        "id": "t1_nv35r1w",
+        "author": "eaglessoar",
+        "score": 33,
+        "body": "Lol I never thought of this example that's hilarious"
+      },
+      {
+        "id": "t1_nv2sdw3",
+        "author": "tubameister",
+        "score": 29,
+        "body": "haven't read it, but just found some good study notes for it: https://people.brandeis.edu/~yanzp/Study%20Notes/"
+      },
+      {
+        "id": "t1_nv2scg9",
+        "author": "azf_rototo",
+        "score": 19,
+        "body": "Richard C. Grinold and Ronald N. Kahn? It’s quite old, good fundamental knowledge but entry level at this point"
+      },
+      {
+        "id": "t1_nv2awhc",
+        "author": "Otherwise_Gas6325",
+        "score": 18,
+        "body": "Jesus Christ. It’s asset management, their fees and returns are not one and the same."
+      },
+      {
+        "id": "t1_nv2jt9e",
+        "author": "AlkaSelfzer",
+        "score": 11,
+        "body": "Apples and oranges"
+      },
+      {
+        "id": "t1_nv8su8r",
+        "author": "Ocelotofdamage",
+        "score": 10,
+        "body": "You literally just match the market, then collect a tiny premium at the end of the year with big downside potential. 99% of the time you do slightly better than the market. 1% of the time you lose a lot."
+      },
+      {
+        "id": "t1_nv5kf2e",
+        "author": "Hungry-Recording-635",
+        "score": 9,
+        "body": "I don't follow, how does that beat the market 99% of time? It's basically a super bullish strategy. If the market goes down by a significant amount, it will underperform. What am I missing?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1o9qxro",
+    "subreddit": "quant",
+    "title": "tier list going around the cs careers discord, how accurate is this",
+    "score": 753,
+    "permalink": "https://old.reddit.com/r/quant/comments/1o9qxro/tier_list_going_around_the_cs_careers_discord_how/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nk4pf3m",
+        "author": "Bitwise-101",
+        "score": 462,
+        "body": "S Tier: Wherever you get a job offer from F Tier: Everywhere else"
+      },
+      {
+        "id": "t1_nk4om8e",
+        "author": "forahandfuloftendies",
+        "score": 345,
+        "body": "Top tier ragebait"
+      },
+      {
+        "id": "t1_nk4hpjl",
+        "author": "igetlotsofupvotes",
+        "score": 259,
+        "body": "I don’t understand the logic of how arrowstreet or pdt could be above citsec or hrt or js. They probably just made more in first half of this year than arrowstreet or pdt have made in the last 5. Bridgewater just had its first good year in many years. How is Akuna possibly above any of the top tech companies? Lists like these are all completely dumb and nonsense"
+      },
+      {
+        "id": "t1_nk4t47q",
+        "author": "n0obmaster699",
+        "score": 129,
+        "body": "GenZ on quant sub"
+      },
+      {
+        "id": "t1_nk4hzag",
+        "author": "n0obmaster699",
+        "score": 128,
+        "body": "De Shaw, Two Sigma and XTX below Bridgewater and Quadrature? This is stupid list for QR."
+      },
+      {
+        "id": "t1_nk4m3yx",
+        "author": "languagethrowawayyd",
+        "score": 99,
+        "body": "List totally inapplicable to trading, and bizarre even beyond that (Arrowstreet three tiers above SIG, Bridgewater above Optiver, OpenAI on the same tier as Akuna...). Thinking in tiers this much is for freshman and sophomores who know nothing about the workplace. After a year in the industry you'll realise a million things matter more: if your senior on the desk is a nice guy, if he personally likes you, if the desk is making money, if the work you're doing is allowing you to learn vs do grunt work, if your hours are 9-5:30 vs 7-6, where you live, the comp structure, the overall firm culture... every one of these is infinitely more relevant to a trader's day to day than where his firm fits on the retarded tier list."
+      },
+      {
+        "id": "t1_nk5n6fj",
+        "author": "howdoiwritecode",
+        "score": 94,
+        "body": "Only for the first job, then it’s: S Tier: Next job with higher pay A Tier: Current job F Tier: Everyone else"
+      },
+      {
+        "id": "t1_nk4p50q",
+        "author": "Available_Lake5919",
+        "score": 74,
+        "body": "who is going to virtu or ctc over fucking openai/anthropic? they should be god tier if not higher"
+      },
+      {
+        "id": "t1_nk4imes",
+        "author": "ayylmaoworld",
+        "score": 70,
+        "body": "It seems they’ve mixed and matched CS roles with quant roles at these firms."
+      },
+      {
+        "id": "t1_nk4jike",
+        "author": "hawkeye224",
+        "score": 37,
+        "body": "List seems very Reddit/blind-sourced with not many data points. E.g. if 3 people on Reddit/blind said “PDT is great” then the list maker puts them in “god tier” lol"
+      },
+      {
+        "id": "t1_nk4w0pz",
+        "author": "lapurita",
+        "score": 35,
+        "body": "I mean arrowstreet and pdt over citsec/hrt/js makes even less sense for CS roles"
+      },
+      {
+        "id": "t1_nk6tn3s",
+        "author": "dgdio",
+        "score": 33,
+        "body": "Engineers at NVidia"
+      },
+      {
+        "id": "t1_nk6nfyb",
+        "author": "oMGalLusrenmaestkaen",
+        "score": 29,
+        "body": "i mean, the majority of Gen Z are adults now. Some have PhDs, many have master's degrees. I don't see where ageism gets us."
+      },
+      {
+        "id": "t1_nk4q3hj",
+        "author": "Equivanox",
+        "score": 29,
+        "body": "Author appears to work at Bloomberg"
+      },
+      {
+        "id": "t1_nk52c33",
+        "author": "generalized_inverse",
+        "score": 23,
+        "body": "But why does a tier list at all make any sense? For someone interested in Quantum Computation research, Google > any Quant? For someone interested in Stochastic Calculus, any Bank > any HFT? For someone interested in Computer Graphics, Adobe > Any other? What's the point of this tier list at all?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lr5ojz",
+    "subreddit": "quant",
+    "title": "Jane Street Banned in India",
+    "score": 687,
+    "permalink": "https://old.reddit.com/r/quant/comments/1lr5ojz/jane_street_banned_in_india/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_n18a4vr",
+        "author": "afslav",
+        "score": 530,
+        "body": "So they took a large position in options and then pushed the less liquid underlying market to make the options position profitable? Yes, that sounds like market manipulation "
+      },
+      {
+        "id": "t1_n18a4lj",
+        "author": "toomanyjsframeworks",
+        "score": 212,
+        "body": "Very long time coming, and anyone familiar with this market understands why. Extremely blatant manipulation in the last 6 months"
+      },
+      {
+        "id": "t1_n18cy63",
+        "author": "aj1287",
+        "score": 209,
+        "body": "I work in options markets and India is basically characterized by an options market that is way more liquid than the underlying market. Allegedly - and it’s pretty clear to observe in market data - they were taking large options positions and then, using a much lower amount of capital, manipulating the underlying market. I think the manipulation was both based on directional/delta exposure and also attempting to control the realized variance of the underlying. It’s pretty straightforward to see why this would work and it’s not even particularly clever - it’s just absolutely blatant."
+      },
+      {
+        "id": "t1_n187vkn",
+        "author": "Upstairs_External159",
+        "score": 144,
+        "body": "https://www.sebi.gov.in/enforcement/orders/jul-2025/interim-order-in-the-matter-of-index-manipulation-by-jane-street-group_95040.html"
+      },
+      {
+        "id": "t1_n18f2a9",
+        "author": "WishIWasOnACatamaran",
+        "score": 144,
+        "body": "Jane Street really having a moment the past month lmfaoooo"
+      },
+      {
+        "id": "t1_n18u8sl",
+        "author": "BoredGuy2007",
+        "score": 136,
+        "body": "Sometimes the reason a place is secretive is because it’s a bunch of speed junkies doing questionable shit"
+      },
+      {
+        "id": "t1_n18qm5m",
+        "author": "seriallazer",
+        "score": 106,
+        "body": "this was very well known in the indian-options' trading-circle for ATLEAST 18 months now especially on weekly-option-expiries! the ban was imminent although its yet to be seen if JS will cry foul and use 'hedging' as an argument - which tbh is just blatant manipulation of the market! proud of SEBI and the technical details in the circular they published - pretty decent job done!"
+      },
+      {
+        "id": "t1_n19k9r5",
+        "author": "chija",
+        "score": 80,
+        "body": "Example intraday activity from 17-Jan-2024 mentioned in the SEBI Order: Context: Markets open ~3% down Take long positions in cash and futures with large volumes for these markets (total ~500M USD). Take short positions in Index options ~7X the size of long positions. Exit long positions in cash and futures at a loss. Book partial profit from some short options positions, let the rest expire at profit."
+      },
+      {
+        "id": "t1_n18ag18",
+        "author": "FlounderBubbly8819",
+        "score": 66,
+        "body": "Care to elaborate? I’m not too familiar with this market but curious to hear what Jane Street has been doing there"
+      },
+      {
+        "id": "t1_n18ku3m",
+        "author": "studiousmaximus",
+        "score": 55,
+        "body": "is this what they’re suing millennium over? this extremely simple strategy? if so that’s hilarious"
+      },
+      {
+        "id": "t1_n18th1f",
+        "author": "Hot-Reindeer-6416",
+        "score": 49,
+        "body": "Just look at page 12 and 13 of the complaint. It’s pretty simple. In this one example cited: the market was falling dramatically. Jane Street purchased large market positions. This pushed the market up. At that point, they purchased large put positions, and sold large call positions. They then reversed their earlier cash purchases and sold the market off, causing it to fall. They made something like $6 billion. Allegedly."
+      },
+      {
+        "id": "t1_n1cdeim",
+        "author": "buzzz_buzzz_buzzz",
+        "score": 44,
+        "body": "Absolutely wild they admit they opened the investigation because of the JS vs. Millenium media attention…. embarrassing for SEBI not to have data screeners that should have alerted for the type of activity they are alleging imo."
+      },
+      {
+        "id": "t1_n18qxqi",
+        "author": "",
+        "score": 43,
+        "body": "The index in question is banknifty where two stocks hdfc and icici bank have too much weightage,Jane street was regularly pumping futures and these stocks in morning to get cheap put options on expiry and then dumping the same futures leading to put options scy rocketing intraday.They made huge loses in futures but insane gains in Options."
+      },
+      {
+        "id": "t1_n18m8d6",
+        "author": "Bigfatguy3438",
+        "score": 41,
+        "body": "Yes, it was already said by those 2 MLP traders that they were using a bookish strategy."
+      },
+      {
+        "id": "t1_n18hjxr",
+        "author": "fysmoe1121",
+        "score": 36,
+        "body": "poor Indian retail traders. Just getting their money funneled to one of the big guys in the west. as if the average Indian isn’t poor enough and as if the average Jane street employee isn’t rich enough."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1pbhmwm",
+    "subreddit": "quant",
+    "title": "Jane Street made $100 million P&L per day",
+    "score": 617,
+    "permalink": "https://old.reddit.com/r/quant/comments/1pbhmwm/jane_street_made_100_million_pl_per_day/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nrqutb5",
+        "author": "AdPotential773",
+        "score": 182,
+        "body": "The numbers are really crazy when you pit them against non-quant corporations, especially the net income. They are making more than long-standing corporations with tens of thousands of engineers/scientists. Quant finance might be \"niche\" workforce-wise, but the money is starting to get crazy. Really makes me wonder how high it can grow."
+      },
+      {
+        "id": "t1_nrqhow0",
+        "author": "PretendTemperature",
+        "score": 132,
+        "body": "Honestly, it feels that buy side will become super concentrated to the big players. If they also change a bit the mindset for their drawdowns, it seems to me that in 10 years the HFT and MFT space will be conquered by 10-15 same companies"
+      },
+      {
+        "id": "t1_nrqk1z7",
+        "author": "igetlotsofupvotes",
+        "score": 67,
+        "body": "It already is super concentrated on the hedge fund side to big 4, although qrt is growing quickly."
+      },
+      {
+        "id": "t1_nrt4pj9",
+        "author": "euphoria_23",
+        "score": 63,
+        "body": "I still remember when one of my sorority sisters landed a JS internship and then later that night, proceeded to get so drunk that she clambered out of the second floor of a frat house by tying random bedsheets together. Jane Street takes the best and only the best (I say that with no irony)."
+      },
+      {
+        "id": "t1_nrqi7iv",
+        "author": "DoubleBagger123",
+        "score": 47,
+        "body": "Spoofing the market is alive and well"
+      },
+      {
+        "id": "t1_nrqu7hw",
+        "author": "TIA_q",
+        "score": 43,
+        "body": "Volatile bull markets are good for traders. Lots of opportunities for edge."
+      },
+      {
+        "id": "t1_nrqig8j",
+        "author": "Available_Lake5919",
+        "score": 34,
+        "body": "i do think this year is a bit of an outlier in terms of market vol thus the big firms are printing record amounts altho since orange man is here to stay til 28 this might be the norm for a while"
+      },
+      {
+        "id": "t1_nrv6c8a",
+        "author": "",
+        "score": 31,
+        "body": "wonder what are the socioeconomic implications of it as well xD"
+      },
+      {
+        "id": "t1_nrvxtbd",
+        "author": "junker90",
+        "score": 31,
+        "body": "Practical risk assessment, real time problem solving and flawless execution from the sounds of it. Ya love to see it."
+      },
+      {
+        "id": "t1_nrqnat9",
+        "author": "DoubleBagger123",
+        "score": 24,
+        "body": "Read about how they made money in india"
+      },
+      {
+        "id": "t1_nrs9mp1",
+        "author": "mehnotsure",
+        "score": 21,
+        "body": "No one is spoofing anything. They do the same thing Google does in another arena — scoop up 1/10th of a penny zillions of times. Market spreads have drastically narrowed in the last 30 years. Scale has hugely increased. You don’t need to spoof anything when you make markets. You need to be fast and accurate."
+      },
+      {
+        "id": "t1_nrquwkw",
+        "author": "PretendTemperature",
+        "score": 16,
+        "body": "Yes, my point is more that the HFT/MFT will dominated by 4-6 companies and another 4-6 for LFT/discretionary"
+      },
+      {
+        "id": "t1_ns0vy3a",
+        "author": "koreanmarklee",
+        "score": 15,
+        "body": "Has to be mit"
+      },
+      {
+        "id": "t1_nrthgd8",
+        "author": "clout_chaser_18",
+        "score": 12,
+        "body": "Underrated comment lol"
+      },
+      {
+        "id": "t1_nrsh12p",
+        "author": "greyenlightenment",
+        "score": 12,
+        "body": "spreads narrowed? depends. options still have huge spreads for anything that is not ATM for the most liquid ones . I have noticed no change between now and 2015 in this regard."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1oao0ve",
+    "subreddit": "quant",
+    "title": "Alex Gerko clowning on Ken Griffin",
+    "score": 564,
+    "permalink": "https://old.reddit.com/r/quant/comments/1oao0ve/alex_gerko_clowning_on_ken_griffin/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nkatip5",
+        "author": "Any-Information498",
+        "score": 100,
+        "body": "He uses LinkedIn as a platform for trolling and his right wing views."
+      },
+      {
+        "id": "t1_nkb4lxu",
+        "author": "swagypm",
+        "score": 58,
+        "body": "As smart as he may be, it’s insufferable."
+      },
+      {
+        "id": "t1_nkbc9bc",
+        "author": "donthejeweler7",
+        "score": 57,
+        "body": "Gerko should stop posting on LinkedIn and go back to complaining to the exchanges every time one of his strategies doesn’t make money. #1 in complaints to CME at least 14 years running"
+      },
+      {
+        "id": "t1_nkbfc42",
+        "author": "RoozGol",
+        "score": 33,
+        "body": "Based on my experience, rule-based methods can not be beaten by ML models. They are also much faster and less resource-intensive. However, if you train an agent based on the experiment of those trades with a rule-based model, then I am in."
+      },
+      {
+        "id": "t1_nkbqh08",
+        "author": "HeveredSeads",
+        "score": 25,
+        "body": "It's not, /u/btlk48 is being facetious"
+      },
+      {
+        "id": "t1_nke95ws",
+        "author": "Emergency_Fruit7183",
+        "score": 23,
+        "body": "XTX themselves are using LLMs & transformers to generate alpha. They had a killer year. Their head of AI is a deep learning guy from academia and absolutely wouldn’t be there if they weren’t doing novel work in the space. They have a fuck ton of H100s, too In comparison, Citadel is a joke when it comes to AI — they’re way behind (so is this subreddit lmao). Internally they have a culture against it. I think they even discourage AI even as a productivity tool."
+      },
+      {
+        "id": "t1_nkb53sp",
+        "author": "",
+        "score": 21,
+        "body": "Really is, can’t stand the man."
+      },
+      {
+        "id": "t1_nkb9u8v",
+        "author": "btlk48",
+        "score": 19,
+        "body": "Yeah, we need more people like him One of the latest right wing views was funding a math school, something actual goverment cannot be arsed to do"
+      },
+      {
+        "id": "t1_nkbb1x8",
+        "author": "chinacat2002",
+        "score": 19,
+        "body": "Ken was the first guy to get a company subscription. Back in March 2024 or earlier, Bloomberg had an article. My firm followed once that news got out."
+      },
+      {
+        "id": "t1_nkbwu8o",
+        "author": "Substantial_Pie_238",
+        "score": 17,
+        "body": "probably his views on israel"
+      },
+      {
+        "id": "t1_nkb4t87",
+        "author": "Xelonima",
+        "score": 15,
+        "body": "How are HFs using GenAI to extract alpha though? Other than using it to aid research and data processing"
+      },
+      {
+        "id": "t1_nkbmjii",
+        "author": "UjinKing",
+        "score": 13,
+        "body": "Sounds like something a HF Manager would say if they had GenAI generating Alpha. You're not fooling me mister!"
+      },
+      {
+        "id": "t1_nkc91fy",
+        "author": "Specific_Box4483",
+        "score": 10,
+        "body": "I wouldn't call it clowning, more like making an innocuous joke. I don't think anyone in the industry is expecting ChatGPT or ots competitors to generate useful alpha right off the bat anyway."
+      },
+      {
+        "id": "t1_nkc4lbp",
+        "author": "ZenithalEquidistant",
+        "score": 8,
+        "body": "He’s fairly “anti-woke” for want of a better term. "
+      },
+      {
+        "id": "t1_nkbu08x",
+        "author": "junker90",
+        "score": 8,
+        "body": "Nope, he's actually the highest individual contributor to the UK tax system, paying something otherworldly like £700M a year in income taxes (almost $1B), and has said he's happy to do so. I know what his views are, I'm just curious how someone could perceive them to be \"right wing\"."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rdvqss",
+    "subreddit": "quant",
+    "title": "Finally Understood What Quant Traders Do",
+    "score": 561,
+    "permalink": "https://old.reddit.com/r/quant/comments/1rdvqss/finally_understood_what_quant_traders_do/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_o78fzp4",
+        "author": "VAUXBOT",
+        "score": 147,
+        "body": "Quants sole purpose is to find consistency. Consistently profitable, consistently unprofitable, regardless of regime, or if it is regime dependent that can filter in or out those regimes. Identifying the personality of a ticker by stress testing how it performs in mean reversion strategies, trend following or sideways regimes. Nothing is more valuable than finding a market truth that happens over and over again, and while it may not guarantee a direction, that consistency gives you a smaller scope for price action variation, and more concrete assigning of what % likelihood is the price going to go up or down."
+      },
+      {
+        "id": "t1_o78qodk",
+        "author": "igetlotsofupvotes",
+        "score": 130,
+        "body": "Never seen this much circle jerking in my life lol"
+      },
+      {
+        "id": "t1_o7886xz",
+        "author": "Latter-Risk-7215",
+        "score": 56,
+        "body": "quant traders are basically the jedi of finance, their intuition is like magic. seems like you witnessed a force moment. it's like they see the matrix."
+      },
+      {
+        "id": "t1_o78otql",
+        "author": "RoozGol",
+        "score": 48,
+        "body": "All they do is adjust the parameters so the strategy fits the current market regime. That's why they are needed. Otherwise, the strategy would be driven once and used forever."
+      },
+      {
+        "id": "t1_o78xc4e",
+        "author": "EmotionalRedux",
+        "score": 46,
+        "body": "Consistently unprofitable: hit ask, immediately hit bid with same size, repeat. Can I get a quant offer now?"
+      },
+      {
+        "id": "t1_o78jktb",
+        "author": "maneo",
+        "score": 39,
+        "body": "If you think you understand what they do then you don't, because even they barely understand what they do, they just know how to recognize when something works and have a very strong intuition for fixing what doesn't work or what used to work and stopped working"
+      },
+      {
+        "id": "t1_o78l02q",
+        "author": "Popular-Parfait-308",
+        "score": 37,
+        "body": "You should learn why they made the changes they did and formalize/systematize that intuition for the current work and future ideas. My perspective as a stat arb guy."
+      },
+      {
+        "id": "t1_o78r8yh",
+        "author": "",
+        "score": 26,
+        "body": "'tweaked parameters' and now strategy is relatively better? And you are surprised at that? Thats not 'magic'. Thats called 'multiple hypothesis testing' and is over-fitting. Most likely he wanted to see if this would ever work in a perfect world. Give me random noise and i can guarantee you a high sharpe same way. Quant traders main role (most often they exist on the HFT side) is to manage strategies live - tweak parameters and switch strategies on/off, monitor regimes/news an unexpected events. NOT MAGICALLY TURN SHIT INTO GOLD. From reading the replies one can clearly see why the entry barrier to being a quant/trader is so high - its because the role is over glorified into some super human thing - when instead if you just spent time learning basics of stats/coding etc you would be in the that role."
+      },
+      {
+        "id": "t1_o78zas5",
+        "author": "Epsilon_ride",
+        "score": 22,
+        "body": "There is some serious fucking brain rot on display in here "
+      },
+      {
+        "id": "t1_o78bjck",
+        "author": "futurefinancebro69",
+        "score": 17,
+        "body": "When ur building. Ur not really thinking like an investor / trader. Ur too busy filling ur brain up with coding shit. That mfs a goat fosho."
+      },
+      {
+        "id": "t1_o78yrf3",
+        "author": "Epsilon_ride",
+        "score": 17,
+        "body": "Sounds like what you described is still in the research phase, not trading phase.  You described someone with intuition adding value to research. This could have be a researcher or trader. "
+      },
+      {
+        "id": "t1_o797len",
+        "author": "iTR3B0R",
+        "score": 12,
+        "body": "Haha don’t be a smart ass, he clearly is implying a consistently unprofitable strategy can be inverted to be consistently profitable, after spread/fees."
+      },
+      {
+        "id": "t1_o79cqjo",
+        "author": "",
+        "score": 9,
+        "body": "yup and its more mental/fast math/stats. Not deep thinking. Which is exactly what quant researchers specialize in. QT is for young people, difficult to naturally keep up that speed as you get older. After grad I was a QT - as i aged i naturally fit QR more. Brain cant keep up with the speed lol. I remember for those HFT (Dutch) shops i had to pass mental maths test, not sure if they do that now: 80 mental maths question in 8 minutes. Answers to 4 decimal places. -2 points for wrong answer -1 point for skipping +1 point for getting right. You had to get a score of 56/80 MINIMUM to pass. At younger age, I could it with ease (with practice). Now, if i even spent a year practicing wouldnt be able to get the min score to pass lol."
+      },
+      {
+        "id": "t1_o78ckob",
+        "author": "vasjpan002",
+        "score": 8,
+        "body": "Most traders really want quants as sales props. See Gillian Tett, Fools Gold. Then again a lot of industry treats engineers same way. In the 1990s, found many published errors,was told mil firms do same to foil copies"
+      },
+      {
+        "id": "t1_o78pz73",
+        "author": "ly5ergic_acid-25",
+        "score": 6,
+        "body": "Hey, can you tell me what it's like to be a QT?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ozya8u",
+    "subreddit": "quant",
+    "title": "HRT made $60mm per day!",
+    "score": 554,
+    "permalink": "https://old.reddit.com/r/quant/comments/1ozya8u/hrt_made_60mm_per_day/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_npf48mq",
+        "author": "",
+        "score": 213,
+        "body": "Wow 60 whole millimeters dollars per day"
+      },
+      {
+        "id": "t1_npf5xfz",
+        "author": "narasadow",
+        "score": 77,
+        "body": "How much is that in inches?"
+      },
+      {
+        "id": "t1_npfhnf7",
+        "author": "CubsThisYear",
+        "score": 77,
+        "body": "Is this a serious comment? HRT has 800 employees. Let’s say they pay every one them 2M (they don’t). That’s 6.5M / day. The most expensive network connectivity I can think of is QFD and that’s about 10K per day. So let’s say they have 100 network connections that are this expensive, that’s $1M per day. Let’s say they pay for 100MW of data center space, that’s about $600K per day. I’m gonna stop because I still have over $50M per day to spend."
+      },
+      {
+        "id": "t1_npf06lt",
+        "author": "le_very_dank_skier",
+        "score": 67,
+        "body": "All Operating costs. Salaries. Data acquisition and storage. Exchange connectivity. Colocation fees. Rent, etc etc …."
+      },
+      {
+        "id": "t1_npfvdkd",
+        "author": "CubsThisYear",
+        "score": 53,
+        "body": "They do both. Their big advantage is that they blended their HFT / MM really well with their longer term positional trading. They have an internal hedge fund called Prism. They have a lot of internal tech to transfer positions between strategies to minimize transaction costs. Most of their traditional strength is US equities but they trade everything."
+      },
+      {
+        "id": "t1_npf4avn",
+        "author": "ad_xyz",
+        "score": 29,
+        "body": "Does anyone know of any similar articles in the hedge fund space? There’s a BI article with some helpful info on returns but hard to back out revenue https://www.businessinsider.com/october-hedge-fund-performance-millennium-balyasny-2025-11"
+      },
+      {
+        "id": "t1_npfsaen",
+        "author": "le_very_dank_skier",
+        "score": 22,
+        "body": "Confused. They asked what costs are covered by the 1.5bn difference. These are all costs that are very likely included in that difference. Obviously not exhaustive"
+      },
+      {
+        "id": "t1_npflyet",
+        "author": "wswh",
+        "score": 20,
+        "body": "Do they do both HFT and Mft? If so which is a bulk contributor of the 2.2bn"
+      },
+      {
+        "id": "t1_npfv2fg",
+        "author": "le_very_dank_skier",
+        "score": 19,
+        "body": "I see now. Yh without reading OP’s question I assume my comment reads as if I’m saying this profit will all be eaten up by these things. Haha, far from the case"
+      },
+      {
+        "id": "t1_npftb3q",
+        "author": "HostSea4267",
+        "score": 19,
+        "body": "Who verifies this? They can make 80 bajillion, they’re not audited and don’t report."
+      },
+      {
+        "id": "t1_npghubc",
+        "author": "bigmoneyclab",
+        "score": 18,
+        "body": "They are audited. Being private doesn’t mean you don’t do audit. And they might report if they want to raise money in bonds"
+      },
+      {
+        "id": "t1_npisppz",
+        "author": "bigmoneyclab",
+        "score": 15,
+        "body": "SIG owns 15% of TikTok/Bytedance, that trade alone is unbeatable"
+      },
+      {
+        "id": "t1_npgvnw0",
+        "author": "DatabentoHQ",
+        "score": 13,
+        "body": "Many of the largest MM firms raise debt so they essentially publicize their financials."
+      },
+      {
+        "id": "t1_npfnjz4",
+        "author": "ad_xyz",
+        "score": 11,
+        "body": "tried to use publicly available info + chatGPT. this is probably very inaccurate but hopefully correlated to actual numbers at least? <image>"
+      },
+      {
+        "id": "t1_npf3oyg",
+        "author": "ej271828",
+        "score": 9,
+        "body": "how does HRT make its money?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q22m8f",
+    "subreddit": "quant",
+    "title": "2025 HF return ranking is out",
+    "score": 530,
+    "permalink": "https://old.reddit.com/r/quant/comments/1q22m8f/2025_hf_return_ranking_is_out/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nx9zdga",
+        "author": "AnywhereLittle8293",
+        "score": 223,
+        "body": "Miami"
+      },
+      {
+        "id": "t1_nxbod2o",
+        "author": "",
+        "score": 94,
+        "body": "Already enjoying reading the comments quoting these against S&P perf completely misunderstanding the goal of hedge funds."
+      },
+      {
+        "id": "t1_nx9v9vd",
+        "author": "Middle-Fuel-6402",
+        "score": 75,
+        "body": "Where is Citadel?"
+      },
+      {
+        "id": "t1_nx9vrn6",
+        "author": "BeeTrdr",
+        "score": 65,
+        "body": "Data is not available yet for many HF. Multi-strat HF seem to have good year."
+      },
+      {
+        "id": "t1_nxbrn03",
+        "author": "",
+        "score": 48,
+        "body": "The comments on posts like these are the most obvious tell that the majority of people on this sub have never touched quantitative finance even as a dedicated amateur."
+      },
+      {
+        "id": "t1_nxbqixc",
+        "author": "CuriousCamels",
+        "score": 29,
+        "body": "Lol right. What they do is literally in their name."
+      },
+      {
+        "id": "t1_nx9vcs2",
+        "author": "BeeTrdr",
+        "score": 28,
+        "body": "Data is probably not available yet."
+      },
+      {
+        "id": "t1_nxagdu1",
+        "author": "Available_Lake5919",
+        "score": 28,
+        "body": "not the best year for them think they were up single digits commods took a beating at the start of the year as they were super long nat gas and it accounts for like 40% of risk"
+      },
+      {
+        "id": "t1_nx9yuza",
+        "author": "BeeTrdr",
+        "score": 26,
+        "body": "No idea. I can update here when data is out in Bloomberg."
+      },
+      {
+        "id": "t1_nxdrtu9",
+        "author": "",
+        "score": 23,
+        "body": "The highest level distinction to make is probably that hedge funds are trying to generate superior risk adjusted returns. There’s different ways to think about the “risk” component (which is essentially the denominator with your returns being in the numerator). You can phrase this as just the variance of returns, beta - which is a measure of exposure to the market, or some measure of VaR (value at risk) or TVaR (tail value at risk) given some threshold. These are all measuring a similar idea from a different perspective which is “how good are my returns relative to the downside risk I am incurring”. More sophisticated investors are usually primarily interested in controlling that ratio instead of just absolute returns since you can either improve your returns by taking leverage or you simply need to meet a certain return target in a very non volatile and predictable way and want to make investments that are uncorrelated from other things on your books and the market as a whole."
+      },
+      {
+        "id": "t1_nxahd5i",
+        "author": "th3tavv3ga",
+        "score": 23,
+        "body": "Just got a bbg notification, their return is 10.2%"
+      },
+      {
+        "id": "t1_nxdlm7r",
+        "author": "Aetius454",
+        "score": 21,
+        "body": "lol you think most people even understand the word hedge?"
+      },
+      {
+        "id": "t1_nxdu3oe",
+        "author": "",
+        "score": 18,
+        "body": "I think it’s a combination of: Reddits front page algorithm pushing some of the posts on to completely random people’s feeds. I say this because I read a lot of comments on this and other quantitive finance related subreddits that are basically anti capitalist rhetoric or from people who are completely oblivious to high finance (there’s usually overlap between the two lol) which makes absolutely no sense, someone with that belief system would not seek this subreddit out. So I think Reddit just pushes some of the more popular things onto people’s feeds and they get drawn in. The tech job market is souring a bit and people are trying to “break in” to financial work. Which is fine, I think people should be able to seek career information here. It’s just frustrating when there’s more of those people than there are insiders. There is also a distinct strain of bootcamp type of culture in tech which I think is scammy even in the tech world but especially in quant finance. Where these types of people just want to know a list of quick tricks to break into a quant job and cannot understand for their life that this is just not how it works and it can be very cringy and hard to interact with those people."
+      },
+      {
+        "id": "t1_nxdsivf",
+        "author": "Aetius454",
+        "score": 14,
+        "body": "I heavily favor verification or bans lol"
+      },
+      {
+        "id": "t1_nxds2tt",
+        "author": "",
+        "score": 13,
+        "body": "Generally no but I’d hope they would before commenting in /r/quant"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ps0r7p",
+    "subreddit": "quant",
+    "title": "Quant firms dominate Levels.fyi entry-level compensation charts",
+    "score": 517,
+    "permalink": "https://old.reddit.com/r/quant/comments/1ps0r7p/quant_firms_dominate_levelsfyi_entrylevel/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nv60fhd",
+        "author": "isosp1n",
+        "score": 254,
+        "body": "Yes and the sky is blue. It would be 7 out of 7 if they included data on Citadel, 5R, Radix, Jump, Arrowstreet, etc. which are all either around or easily higher than 30k / mo, but I guess nobody submitted their salary info. That's not even counting the more secretive places like Rentec, TGS, XTX, PDT etc."
+      },
+      {
+        "id": "t1_nv64gh3",
+        "author": "HostSea4267",
+        "score": 121,
+        "body": "All 15 ppl that get hired each year? Yeah I’ll take my chances at Apple where they have more people starting on a Monday than the entire staff at one of these places."
+      },
+      {
+        "id": "t1_nv73po2",
+        "author": "eaglessoar",
+        "score": 97,
+        "body": "Quant sub surprised to learn about right tails. Can we put graduating NBA players on here too? Avg starting salary at golden state warriors?"
+      },
+      {
+        "id": "t1_nv5yq1s",
+        "author": "lightninja987",
+        "score": 56,
+        "body": "Has to be per month right?"
+      },
+      {
+        "id": "t1_nv64mzz",
+        "author": "Spirited-Ad-9591",
+        "score": 35,
+        "body": "OP here. A few quick points: ● Levels.fyi data only reflects people who submitted salaries, so some top quant firms are missing. ● The numbers are usually per month, not annual, so take that into account when comparing. ● High starting compensation doesn’t tell the whole story, headcount, bonus structure, and work-life balance vary a lot across these firms."
+      },
+      {
+        "id": "t1_nv62pp4",
+        "author": "Spirited-Ad-9591",
+        "score": 25,
+        "body": "It is per month!"
+      },
+      {
+        "id": "t1_nv7767o",
+        "author": "rsha256",
+        "score": 19,
+        "body": "A few of them unironically hire fewer than 5 newgrad quants a year"
+      },
+      {
+        "id": "t1_nv9wn55",
+        "author": "tacmouse",
+        "score": 15,
+        "body": "Bro it’s a Reddit user what do you expect"
+      },
+      {
+        "id": "t1_nv9grpv",
+        "author": "ZerglingKingPrime",
+        "score": 11,
+        "body": "Blackrock doesn’t really belong in this conversation"
+      },
+      {
+        "id": "t1_nv9ssxy",
+        "author": "fullwd123",
+        "score": 10,
+        "body": "No need to be patronising pal, what's the point in being nasty?"
+      },
+      {
+        "id": "t1_nv864oy",
+        "author": "Careful-Nothing-2432",
+        "score": 10,
+        "body": "I dont think most people actually post their TC. given how litigious these firms are and how few people they hire it’s not too hard to track down someone posting their comp. Your pay is also highly variable even as a new grad based on how good you are, the team you’re interviewing for, and your competing offers. In general base salaries are always low, this is true even for the more senior people, and most of your comp is bonus, so it’s better to just look at TC all-in, excluding sign-on bc that’s not considered recurring."
+      },
+      {
+        "id": "t1_nv83imh",
+        "author": "HostSea4267",
+        "score": 8,
+        "body": "Basketball is too hard. Let’s go play baseball there’s more players!!!"
+      },
+      {
+        "id": "t1_nv85ldq",
+        "author": "Careful-Nothing-2432",
+        "score": 7,
+        "body": "It’s universally true, everyone who’s specialized in some in-demand field and very good at it makes crazy money. Think of the hotshot LLM researchers at big tech rn, same deal with the right tail"
+      },
+      {
+        "id": "t1_nv8a3z6",
+        "author": "OvulationDealer",
+        "score": 7,
+        "body": "Citadel hires a decent amount, surprised not on the list"
+      },
+      {
+        "id": "t1_nv9elrn",
+        "author": "Serious-Regular",
+        "score": 7,
+        "body": "there are some words at the top right corner of the pic (just above the last column). what do they say?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1n6o5pz",
+    "subreddit": "quant",
+    "title": "Jane Street’s $10.1 Billion Trading Haul Sets Wall Street Record",
+    "score": 509,
+    "permalink": "https://old.reddit.com/r/quant/comments/1n6o5pz/jane_streets_101_billion_trading_haul_sets_wall/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nc1j4w1",
+        "author": "FermatsLastTrade",
+        "score": 195,
+        "body": "17.3B in trading revenue for the first 6 months of the year. How many trading firms or hedge funds in history have cumulatively made more money from trading than Jane Street? Is Renaissance Technologies the only one? It has to be close to 100B in lifetime trading revenues for Jane Street now."
+      },
+      {
+        "id": "t1_nc1jagg",
+        "author": "",
+        "score": 116,
+        "body": "spoof high, buy low"
+      },
+      {
+        "id": "t1_nc2kz3m",
+        "author": "fiscal_fallacy",
+        "score": 83,
+        "body": "Doing all this using OCaml too"
+      },
+      {
+        "id": "t1_nc1kvnc",
+        "author": "duckwagon",
+        "score": 76,
+        "body": "Trading industry steadily heading to a winner take all model has been progressing there for last couple decades"
+      },
+      {
+        "id": "t1_nc2zbmo",
+        "author": "WaterIll4397",
+        "score": 59,
+        "body": "Great way to protect signal leakage. Make it so staff don't know how to code in other languages and need to spend their garden leave learning python instead of traveling the world"
+      },
+      {
+        "id": "t1_nc2c5k1",
+        "author": "RientroCervelli",
+        "score": 53,
+        "body": "The partners and CEO are taking all the money. JS is already 8x revenue than let’s say Optiver but it’s not even close to pay 5x them.  At one point you can pay enough to keep your talent and collect all the money as an entrepreneur. It’s a business after all "
+      },
+      {
+        "id": "t1_nc446qe",
+        "author": "sumwheresumtime",
+        "score": 49,
+        "body": "The HFT world and distribution of profits is somewhat different than what happens in the HF world. General profitability in the HFT world (futures/options market making) is directly related to volatility. The more volatility the more opportunities to make money. However the distribution of the profits are not equal amongst all players. In fact the equitable distribution of profits is inverse proportional to volatility. The larger the volatility the less of the larger pie a larger majority of the players make, meaning as the profitability of the markets increase due to increase of volatility the contradictory nature of making less from more becomes a reality. This has been the case since at least 2010, when the technological arms race in HFT really took off."
+      },
+      {
+        "id": "t1_nc1iswl",
+        "author": "duckwagon",
+        "score": 45,
+        "body": "Given first half of year on pace for >10m pnl/head . Wild!"
+      },
+      {
+        "id": "t1_nc1yrbd",
+        "author": "Specific_Box4483",
+        "score": 44,
+        "body": "It's not like Jane Street will buy the best talent to sit around and do nothing. They will hire as much as they need. Not to mention, they don't even directly compete with HRT, let alone Jump. Not in their core businesses, anyway."
+      },
+      {
+        "id": "t1_nc3zb9x",
+        "author": "throwaway_queue",
+        "score": 40,
+        "body": "Jane Street generally has 0 noncompete"
+      },
+      {
+        "id": "t1_nc1lf2m",
+        "author": "sharpe5",
+        "score": 36,
+        "body": "Does anyone outside of the partners get paid there? Hard to imagine 5 yoe traders at js getting paid 10m a year on these back-to-back recordbreaking years."
+      },
+      {
+        "id": "t1_nc2cs2u",
+        "author": "RientroCervelli",
+        "score": 35,
+        "body": "Why should they start overpaying the 5 yoe? They are not going to go anywhere and they are already paid more than the market. You just need to pay 50% more to prevent most of the attrition. You can do that and collect the 18x profits as a owner "
+      },
+      {
+        "id": "t1_nc1ut99",
+        "author": "EastSwim3264",
+        "score": 26,
+        "body": "Did the India scandal factor in? Headline numbers are just that - how about their contra-asset item?"
+      },
+      {
+        "id": "t1_nc5emux",
+        "author": "fysmoe1121",
+        "score": 24,
+        "body": "until u start a MLP pod lol…"
+      },
+      {
+        "id": "t1_nc1oix4",
+        "author": "duckwagon",
+        "score": 24,
+        "body": "Doubt they have that much beta to firm performance, maybe 1-3m?"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ru4zgu",
+    "subreddit": "quant",
+    "title": "So who is going to have the balls to interview the Bayesian Machine?",
+    "score": 502,
+    "permalink": "https://old.reddit.com/r/quant/comments/1ru4zgu/so_who_is_going_to_have_the_balls_to_interview/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_oaitzfk",
+        "author": "igetlotsofupvotes",
+        "score": 309,
+        "body": "Isn’t this just human nature? But a little less autistic"
+      },
+      {
+        "id": "t1_oaitw8r",
+        "author": "Quakerz24",
+        "score": 189,
+        "body": "that sub is a cesspool of midwits"
+      },
+      {
+        "id": "t1_oaiu46j",
+        "author": "SoggyLog2321",
+        "score": 82,
+        "body": "I just thought it was funny, he claims \"I like this because it enables me to access some level of meta cognition.\""
+      },
+      {
+        "id": "t1_oaizij4",
+        "author": "Quakerz24",
+        "score": 80,
+        "body": "yeah basically. a bunch of people that were put in an advanced class in third grade and never let it go, so they complain about how hard life is being so smart."
+      },
+      {
+        "id": "t1_oaiuiub",
+        "author": "",
+        "score": 59,
+        "body": "That’s AI prose which is wild for a post about how smart you are."
+      },
+      {
+        "id": "t1_oaivhv7",
+        "author": "oneAIguy",
+        "score": 58,
+        "body": "Everyone does it - you're just snobbishly good at jargonising it"
+      },
+      {
+        "id": "t1_oaiyo23",
+        "author": "SryUsrNameIsTaken",
+        "score": 47,
+        "body": "What is it? Like Walmart brand Mensa on Reddit?"
+      },
+      {
+        "id": "t1_oaiybfu",
+        "author": "bubushkinator",
+        "score": 37,
+        "body": "Yep! I did an undergraduate thesis on Bayesian modeling of new languages to gain intuition before diving into concepts - it works pretty well and a niche app actually productionalized it and sells for $20 on the app store!"
+      },
+      {
+        "id": "t1_oaizq45",
+        "author": "WordNormal3996",
+        "score": 37,
+        "body": "Get them a Jane street referral to ease their intellectual burden!"
+      },
+      {
+        "id": "t1_oaixxl6",
+        "author": "OkChange9119",
+        "score": 28,
+        "body": "Dead internet theory."
+      },
+      {
+        "id": "t1_oal3wte",
+        "author": "FeCurtain11",
+        "score": 25,
+        "body": "AI is trained on that guy’s Reddit posts"
+      },
+      {
+        "id": "t1_oaj3jng",
+        "author": "alchemist0303",
+        "score": 22,
+        "body": "Sir this is a Wendy’s"
+      },
+      {
+        "id": "t1_oaiwwd6",
+        "author": "DoubtClassic4400",
+        "score": 18,
+        "body": "I actually know this guy, he really is a machine"
+      },
+      {
+        "id": "t1_oaj06o5",
+        "author": "SryUsrNameIsTaken",
+        "score": 17,
+        "body": "One would think intelligence would come with a healthy dose of humility, having realized the futility of learning everything. Or really all that much. It’s kind of bummer that subreddit exists."
+      },
+      {
+        "id": "t1_oaizezj",
+        "author": "WordNormal3996",
+        "score": 12,
+        "body": "From a fellow Slav, cool username. I assume the starting letters “ba” were taken"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1pf0611",
+    "subreddit": "quant",
+    "title": "My model is self aware?",
+    "score": 486,
+    "permalink": "https://old.reddit.com/r/quant/comments/1pf0611/my_model_is_self_aware/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nsg9ou0",
+        "author": "Due_Ad5532",
+        "score": 335,
+        "body": "This is your model speaking, stop sharing my alpha."
+      },
+      {
+        "id": "t1_nsgd3b4",
+        "author": "AGtheOG2003",
+        "score": 204,
+        "body": "just rub one out bro, November's over"
+      },
+      {
+        "id": "t1_nsgkm3v",
+        "author": "rtx_5090_owner",
+        "score": 108,
+        "body": "从我脑子里滚出去 从我脑子里滚出去 从我脑子里滚出去 从我脑子里滚出去 从我脑子里滚出去 从我脑子里滚出去"
+      },
+      {
+        "id": "t1_nsgby5y",
+        "author": "EastSwim3264",
+        "score": 77,
+        "body": "Give us some of what you intake."
+      },
+      {
+        "id": "t1_nsgdjrf",
+        "author": "chollida1",
+        "score": 30,
+        "body": "Just a reminder that most people here aren't quants."
+      },
+      {
+        "id": "t1_nsgfes5",
+        "author": "WonderfulAwareness41",
+        "score": 23,
+        "body": "i was fully prepared to say no you just have data leakage and then i actually read the post 😭"
+      },
+      {
+        "id": "t1_nsgkwze",
+        "author": "rtx_5090_owner",
+        "score": 19,
+        "body": "The walls are closing in on me"
+      },
+      {
+        "id": "t1_nsgg620",
+        "author": "",
+        "score": 16,
+        "body": "Nah, it's just overfit on reality."
+      },
+      {
+        "id": "t1_nsgk1yf",
+        "author": "Bozhark",
+        "score": 10,
+        "body": "Alpha leak all the way into my dms"
+      },
+      {
+        "id": "t1_nshny47",
+        "author": "24theory",
+        "score": 8,
+        "body": "Dude, we should start a fund together. You, me, and the mushrooms in the room"
+      },
+      {
+        "id": "t1_nsgf9ul",
+        "author": "kirlandwater",
+        "score": 7,
+        "body": "My console just keeps showing Shit Shit Shit Shit Shit Is this a known Fart Maxxing bug?"
+      },
+      {
+        "id": "t1_nsgtg34",
+        "author": "itskobold",
+        "score": 6,
+        "body": "bro try MACD bro"
+      },
+      {
+        "id": "t1_nsjcyz8",
+        "author": "Emotional_Version_52",
+        "score": 5,
+        "body": "💀"
+      },
+      {
+        "id": "t1_nsime8b",
+        "author": "lambdasintheoutfield",
+        "score": 5,
+        "body": "Time to be 1000x+ leveraged on futures."
+      },
+      {
+        "id": "t1_nsgk7o0",
+        "author": "italian-pizza-man",
+        "score": 4,
+        "body": "these things happen when you not follow Lopez De Prado advices."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1o4vrkj",
+    "subreddit": "quant",
+    "title": "Finished my quant internship and got a return offer, but I’ve never passed a technical interview in my life",
+    "score": 483,
+    "permalink": "https://old.reddit.com/r/quant/comments/1o4vrkj/finished_my_quant_internship_and_got_a_return/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nj57azr",
+        "author": "lampishthing",
+        "score": 273,
+        "body": "This is just the benefit of so much work experience IMO. Nobody actually cares about the puzzles, IQ tests or ability to recite algorithms to traverse linked lists. employers care about your ability to learn, to provide insight and do the actual job. This is how interviewing experienced hires work. You talk through their work experience and then you ask them a few pointed questions to determine whether or not they have actually done the work that they say they've done or whether they're full of shit."
+      },
+      {
+        "id": "t1_nj58480",
+        "author": "theta-farmer",
+        "score": 169,
+        "body": "\"Building systems, finding patterns, and understanding how things actually work.\" sounds like trading in a nutshell to me"
+      },
+      {
+        "id": "t1_nj5cws1",
+        "author": "Waste-Falcon2185",
+        "score": 97,
+        "body": "I would literally do anything to be you."
+      },
+      {
+        "id": "t1_nj5aflb",
+        "author": "Specific_Box4483",
+        "score": 62,
+        "body": "If you leave after a few years, you'll be an experienced hire, and some places won't ask you any technical questions at all; many will only ask you one technical round and be quite forgiving at that. The technical exercises are more likely to be replaced by vague open-ended questions like \"how would you deal with autocorrelation in a feature\" which are quite different from the usual brainteasers and competitive programming questions they give to new grads."
+      },
+      {
+        "id": "t1_nj5mb60",
+        "author": "Ocelotofdamage",
+        "score": 58,
+        "body": "Interviews are a (very) imperfect way to test if someone has the creativity and technical ability to succeed as a quant. Succeeding in the actual job is a lot better indicator that you are right for this business! Honestly interviews are a bit of a crapshoot at the best of times. I was declined my first time applying to my current company and now I lead our highest performing team."
+      },
+      {
+        "id": "t1_nj5gm0q",
+        "author": "That_End",
+        "score": 25,
+        "body": "Brain teasers and puzzles only exist cause interviewers have no other way to assess the problem solving skill of a new grad who’s never done a complex real-world project. You’ve demonstrated your skills through actual product and it would be idiotic for an interviewer to ask you puzzles let along fail you on it. Would you ever ask Jim Simons timed mental math to test his math ability? No, the achievements speak for itself. "
+      },
+      {
+        "id": "t1_nj5haxu",
+        "author": "midnightRequestLine1",
+        "score": 15,
+        "body": "You are an example of what's wrong with typical interviews, particularly in finance. There is a lot of bias and interviews which are unrelated to the role. I have also had similar challenges to you, I go blank in interviews, and struggle to make it through technical rounds. Build up your experience as you are, go to networking events and meet people from other companies, you'll never know if those contacts can help you in the future. Be good with your colleagues, and show that you are good, these peers will potentially move on to other companies and remember you in the future. If you have strong interpersonal and technical skills, you'll be fine in the future!"
+      },
+      {
+        "id": "t1_nj5rzju",
+        "author": "quantonomist",
+        "score": 13,
+        "body": "Same here"
+      },
+      {
+        "id": "t1_nj5f77k",
+        "author": "Zeph_OW",
+        "score": 13,
+        "body": "startups really aren't as \"high potential\" as you think unless its a measure that completely ignores downside. you will almost never be right about a startup hitting or missing so if you choose to join one it should be due to conviction about the product, mission, team, whatever. don't delude yourself with the notion you'll cash out on them, statistically you are unlikely to. for the quant work + interviews.. at some point you have to bet on yourself. i understand what you're saying but you're also afraid of something that is entirely in your control. you're approaching this in such a passive \"lay down and take it\" way. to me your motivations for both are pretty fickle and you should focus more on what you actually want to do, and then take the steps to achieve that. if you want to stay in qr then start studying if you're really scared of failing interviews. lock in bro don't let your environment make decisions on your life you're the one driving"
+      },
+      {
+        "id": "t1_nj7izhj",
+        "author": "FunWarning7894",
+        "score": 7,
+        "body": "Humble flex. Ok. Move on. Congrats."
+      },
+      {
+        "id": "t1_nj5izbq",
+        "author": "BroscienceFiction",
+        "score": 7,
+        "body": "Sounds like you fear being threatened with a good time. People skip technical interviews all the time because their experiences speak for themselves. Your hiring manager and committee might even be afraid of annoying you and/or embarrassing themselves with excessive formalities."
+      },
+      {
+        "id": "t1_nj6w6pl",
+        "author": "Tight-Fortune-7288",
+        "score": 5,
+        "body": "How have u done 8 internships? Is that even possible to do in 4 years of university?"
+      },
+      {
+        "id": "t1_nj87fui",
+        "author": "ishandeva",
+        "score": 5,
+        "body": "\"Oh no, my steak is too juicy and my lobster too buttery!\" Jokes aside, I'd take the quant job and get a few years of experience under my belt. Then if you feel like it, you can move out anytime."
+      },
+      {
+        "id": "t1_nj6h5ad",
+        "author": "NF69420",
+        "score": 5,
+        "body": "just wondering are you a phd student? how’d you complete 8 internships??"
+      },
+      {
+        "id": "t1_nj5elre",
+        "author": "Sheggaw",
+        "score": 3,
+        "body": "Congratulations, you must be very good and have good work ethics probably. Can you give a few words of advice from these experiences what must have been the things most every place you interned at liked? Is it the technical skills (hence they figured you don't need the interview?) Or just general work ethics like showing up on time, work on whatever they ask and you did it well without them holding your hands? To be honest, it looks like your work ethics, technical skills and likability is what everyone wanted. Good luck whatever path you take."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lk25ew",
+    "subreddit": "quant",
+    "title": "Jane Street Boss Says He Was Duped Into Funding AK-47s for Coup",
+    "score": 476,
+    "permalink": "https://old.reddit.com/r/quant/comments/1lk25ew/jane_street_boss_says_he_was_duped_into_funding/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_mzoel5s",
+        "author": "swarmed100",
+        "score": 268,
+        "body": "What has the world come to, that a western financier can't just topple African governments anymore. What's the point of getting rich anymore?"
+      },
+      {
+        "id": "t1_mzon7hb",
+        "author": "roboduck",
+        "score": 172,
+        "body": "The nice thing is that Jane Street simultaneously had both bids and offers out on the AK-47s so it was able to profit off the spread."
+      },
+      {
+        "id": "t1_mzoaf7q",
+        "author": "",
+        "score": 150,
+        "body": "I saw the notif for that and couldn’t believe my eyes lol"
+      },
+      {
+        "id": "t1_mzorxyw",
+        "author": "prettysharpeguy",
+        "score": 79,
+        "body": "I heard they had a stat arb of going short the guns and long the bullets"
+      },
+      {
+        "id": "t1_mzofg9z",
+        "author": "fullintentionalahole",
+        "score": 75,
+        "body": "\"To industry outsiders, Jane Street is probably best known as the former employer of Sam Bankman-Fried\" wait what"
+      },
+      {
+        "id": "t1_mzoes5r",
+        "author": "LastBarracuda5210",
+        "score": 73,
+        "body": "We’ve all been there"
+      },
+      {
+        "id": "t1_mzogl0m",
+        "author": "aoa2",
+        "score": 49,
+        "body": "that’s true"
+      },
+      {
+        "id": "t1_mzou5lg",
+        "author": "Smort_poop",
+        "score": 43,
+        "body": "Literally 1984 :("
+      },
+      {
+        "id": "t1_mzol9v5",
+        "author": "heroyi",
+        "score": 43,
+        "body": "Him and his ex gf or whatever both worked there I believe. It is funny when people who failed basic hs algebra  think they could have done or are smarter then some of these folks but don't realize their credentials  My fav is when some 18yr pot junkie compare themselves to Bezos (DE shaw, high up in the tech dpt)or Bill Gates ( considered one of the most smartest person by his professor who was highly regarded in the cs field). "
+      },
+      {
+        "id": "t1_mzory9h",
+        "author": "hornyfriedrice",
+        "score": 41,
+        "body": "Bezos, Gates, Larry Page and Mark Zuckerberg also had very successful parents. People forget that pursuing your dreams is easy when you have a cushion to fall back on."
+      },
+      {
+        "id": "t1_mzofpzb",
+        "author": "Konayo",
+        "score": 36,
+        "body": "For those with no Bloomberg premium account (this article is free thanks to OP - but otherwise I usually use portals like these) https://archive.ph/lowX3"
+      },
+      {
+        "id": "t1_mzp5kge",
+        "author": "RageA333",
+        "score": 29,
+        "body": "One of the \"most smartest person\" is definitely one way to put it."
+      },
+      {
+        "id": "t1_mzofaq2",
+        "author": "foopgah",
+        "score": 21,
+        "body": "Gerko has already swooped in to comment on LinkedIn"
+      },
+      {
+        "id": "t1_mzoq2fp",
+        "author": "Rivusrosarum",
+        "score": 17,
+        "body": "I think that’s what they call effective altruism lol…"
+      },
+      {
+        "id": "t1_mzozpba",
+        "author": "heroyi",
+        "score": 10,
+        "body": "Oh yea I absolutely agree with this "
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1rdnl8i",
+    "subreddit": "quant",
+    "title": "Jane Street Accused of Insider Trading That Helped Collapse Terraform - WSJ",
+    "score": 466,
+    "permalink": "https://old.reddit.com/r/quant/comments/1rdnl8i/jane_street_accused_of_insider_trading_that/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_o76fo0w",
+        "author": "lampishthing",
+        "score": 372,
+        "body": "Ooh fun fact, this ultimately resulted in me gaining control of this subreddit! The previous head mod was a Luna shill called TheCryptoCop and he fled Reddit when Terra blew up. Thanks, Jane Street?"
+      },
+      {
+        "id": "t1_o76ge37",
+        "author": "FermatsLastTrade",
+        "score": 198,
+        "body": "So far we have: Accused of serious market manipulation in India Index Options Accused of insider trading leading to the collapse of Tera Luna Alameda was largely Jane Street alumni, and SBF learned how to think about markets there Aggressively sues former employees Allegedly helped fund the acquisition of AK-47s for a coup attempt in South Sudan Outside of comp and profitability, Jane Street's reputation has definitely taken a hit in the last few years."
+      },
+      {
+        "id": "t1_o7709im",
+        "author": "lampishthing",
+        "score": 139,
+        "body": "So this place used to be awful. Very little traffic, no substantive posts, all grads asking the same advice over and over again. It was modded by some eco warrior power mod who refused help to turn the place around. At some point he quit and made a crypto guy the only mod. Crypto guy promoted his coins a few times but otherwise did nothing. He let me join the team but not do much, I had to ask permission for everything, and he obviously wanted to let the crypto crap be posted. CryptoCop also modded r/Luna and a few other related subreddits, they were his main thing. When Luna failed he disappeared overnight. I got him removed from the mod list here ASAP and automated a bunch of stuff to clean up the place, made the FAQ and book wiki, added that weekly megathread for students. I still think that's a bit awkward but it provided a balance between the students not being completely silenced and the professionals having somewhere to post and the place has grown dramatically since then."
+      },
+      {
+        "id": "t1_o76jmxp",
+        "author": "cssegfault",
+        "score": 82,
+        "body": "I find it weird how there are people here who still think JS has a pristine reputation lol."
+      },
+      {
+        "id": "t1_o76gair",
+        "author": "Mitenpat",
+        "score": 72,
+        "body": "Interesting origin story."
+      },
+      {
+        "id": "t1_o76ip7e",
+        "author": "Zealousideal-Book985",
+        "score": 61,
+        "body": "Lol crypto \"investors\" complaining about a rug pull. what a cash grab"
+      },
+      {
+        "id": "t1_o76qg5o",
+        "author": "maest",
+        "score": 42,
+        "body": "Meh Alameda was largely Jane Street alumni, and SBF learned how to think about markets there This is pretty weak guilt by association. SBF also went to MIT where he learned about maths and probabilities. Is MIT guilty in some way for teaching him all of that? Aggressively sues former employees That was more an exception rather than the norm. In fact, JS does not have non-competes. Allegedly helped fund the acquisition of AK-47s for a coup attempt in South Sudan That was related to the private matters of one of the senior people at JS, not the company itself. Accused of serious market manipulation in India Index Options I'm reserving judgement for that as the details are murky. The line between market manipulation and pushing underlyer prices in line with options is thin and not all facts are publicly known. But I agree that the press coverage has been more negative than I imagine JS would like."
+      },
+      {
+        "id": "t1_o76k1dc",
+        "author": "Xe6s2",
+        "score": 36,
+        "body": "For once it is a fun fact!"
+      },
+      {
+        "id": "t1_o76dxj4",
+        "author": "FermatsLastTrade",
+        "score": 34,
+        "body": "Jane Street Accused of Insider Trading That Helped Collapse Terraform. The court-appointed administrator of Do Kwon’s Terraform Labs alleged that Jane Street used nonpublic information from Terraform insiders to trade. The administrator winding down Do Kwon’s Terraform Labs has sued Jane Street, alleging that the high-speed trading giant engaged in insider trading to profit unlawfully from and ultimately hasten the crypto empire’s collapse. Todd Snyder, the plan administrator appointed by a bankruptcy court, is seeking damages from Jane Street, its co-founder Robert Granieri, and employees Bryce Pratt and Michael Huang. In a heavily-redacted complaint, the administrator alleged Monday in Manhattan’s federal court that Jane Street used material nonpublic information from Terraform insiders to front-run trading that sped up Terraform’s demise. Terraform collapsed in May 2022 when its TerraUSD cryptocurrency, a so-called algorithmic stablecoin, lost its peg to the dollar. A sister token called Luna also plummeted to near zero within days of the depeg. Their $40 billion crash hurt hundreds of thousands of investors worldwide, some of whom lost their life savings nearly overnight. The implosion also triggered a chain reaction that toppled companies across the crypto sector, ultimately culminating in the collapse of Sam Bankman-Fried’s FTX exchange. Terraform filed for bankruptcy in January 2024 and a wind down trust was formally established later that year. Kwon, the brash entrepreneur who founded Terraform in 2018, is serving a 15-year prison sentence after pleading guilty to two criminal counts in August. “Jane Street abused market relationships to rig the market in its favor during one of the most consequential events in crypto history,” Snyder said in a statement. “On behalf of injured parties, we will pursue all avenues supported by the facts and the law against those who exploited their position and reaped substantial profits at the expense of Terraform Labs’ creditors. “This desperate suit is a transparent attempt to extract money when it is well-established that the losses suffered by Terra and Luna holders were the result of a multibillion-dollar fraud perpetrated by the management of Terraform Labs,” said a spokesman for Jane Street. “We will defend ourselves vigorously against these baseless, opportunistic claims.” By late 2018, Jane Street had signed up to trade directly with Terraform but its trading in Terraform’s tokens didn’t take off until February 2022, when Jane Street sent Bryce Pratt, a former intern at Terraform, to establish lines of communication with his former Terraform colleagues, according to the lawsuit. Among Pratt’s communications with Terraform was a group chat he set up with his former colleagues, including a software engineer and the head of business development at Terraform. The group named the chat “Bryce’s Secret” and used it as a way to channel Terraform-related information back to Jane Street, per the lawsuit. After Pratt started an email chain to introduce Terraform’s head of business development and Jane Street’s “DeFi” leaders, the parties began regularly communicating and discussing a potential Jane Street investment in Terraform, the lawsuit said. But Jane Street turned those communications into a back-channel source for material nonpublic information about Terraform and later used the confidential information it learned to pursue trades to maximize profits for itself, the suit said. Specifically, on May 7, 2022, at 5:44 p.m. EST, Terraform withdrew 150 million TerraUSD from the Curve3pool, a liquidity pool where stablecoins—typically dollar-pegged cryptocurrencies—could be exchanged one for the other. Less than 10 minutes after Terraform’s withdrawal, which hadn’t been publicly announced to the market, a crypto wallet that some analysts have linked to Jane Street withdrew 85 million of TerraUSD from the same liquidity pool, the comp"
+      },
+      {
+        "id": "t1_o76t3qb",
+        "author": "FermatsLastTrade",
+        "score": 30,
+        "body": "Those are all real existing accusations and allegations against Jane Street, or its founder, reported on in major news outlets. Alameda was largely Jane Street Alumni. Jane Street did have a very high profile lawsuit against Millennium and two former employees. Everything is accurate. The conclusion is not even particularly uncharitable, as you agree with it yourself. It is a fact that their reputation has taken a hit due to this coverage."
+      },
+      {
+        "id": "t1_o779z6k",
+        "author": "sjg284",
+        "score": 22,
+        "body": "Chaos is a ladder"
+      },
+      {
+        "id": "t1_o76q5av",
+        "author": "Background-Mess-7518",
+        "score": 22,
+        "body": "They could package the drugs into some opaque bond ETFs."
+      },
+      {
+        "id": "t1_o76oh1u",
+        "author": "Aetius454",
+        "score": 21,
+        "body": "My suspicion is that this is a bullshit lawsuit lol"
+      },
+      {
+        "id": "t1_o76qrov",
+        "author": "0Il0I0l0",
+        "score": 20,
+        "body": "While I don't think JS has a pristine reputation anymore, OP's comment is the least charitable, as opposed to the most accurate, take on events of the past few years."
+      },
+      {
+        "id": "t1_o76u6qn",
+        "author": "PretendTemperature",
+        "score": 17,
+        "body": "Lol, jane street is accused evwry second month for something."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1l6c450",
+    "subreddit": "quant",
+    "title": "Hate being a quant. How to pivot to another industry?",
+    "score": 453,
+    "permalink": "https://old.reddit.com/r/quant/comments/1l6c450/hate_being_a_quant_how_to_pivot_to_another/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_mwomgdg",
+        "author": "quarkral",
+        "score": 256,
+        "body": "Tech is all about keeping people's eyes glued to their iPhones and trading attention span for ad impressions. The grass isn't any greener on the other side."
+      },
+      {
+        "id": "t1_mwocsai",
+        "author": "hi_im_bored13",
+        "score": 195,
+        "body": "HRT is hiring for AI. Lots of AI Labs are poaching HFT talent. I'd contact or apply manually and see where it goes. OpenAI & Anthropic also doing meetups in NYC sometime this summer."
+      },
+      {
+        "id": "t1_mwobruq",
+        "author": "No_Pitch648",
+        "score": 42,
+        "body": "oatmeal one vase expansion quickest gaze abounding public dependent follow This post was mass deleted and anonymized with Redact"
+      },
+      {
+        "id": "t1_mwofl2t",
+        "author": "GoldenQuant",
+        "score": 42,
+        "body": "No half-decent trading firm pays less than 100k for fresh grads these days. Most pay significantly more."
+      },
+      {
+        "id": "t1_mwp3npq",
+        "author": "hkric41six",
+        "score": 39,
+        "body": "\"by running scam algorithms which suck money from retail traders.\" Must be a smaller firm 🤣"
+      },
+      {
+        "id": "t1_mwosh7s",
+        "author": "tehehetehehe",
+        "score": 36,
+        "body": "You are simply not going to find an ethical company that pays competitively. It simple isn’t how the economy works. That said 70hr/week is way too much and his goal should be work life balance and salary. Lots of finance companies need developers and only expect 40hr/week. I build internal portfolio management and analytics tools which needs lots of the same Quant knowledge, but is way more chill."
+      },
+      {
+        "id": "t1_mwourmn",
+        "author": "hi_im_bored13",
+        "score": 31,
+        "body": "If I was willing to leave NYC for SF again, I'd highly consider it too. The compensation is eye-watering, even by hft standards. But nowadays, you couldn't pay me enough to live in california"
+      },
+      {
+        "id": "t1_mwop9b0",
+        "author": "CandiceWoo",
+        "score": 31,
+        "body": "deeply untrue"
+      },
+      {
+        "id": "t1_mwof3ug",
+        "author": "TweeBierAUB",
+        "score": 29,
+        "body": "Im a little surprised you cant get past HR for any software roles? Some more information would be useful, it's difficult to say what the problem is exactly. Maybe your standards are too high? Software market isn't what it used to be, depending on the location the salaries are incredibly low compared to what you are probably used to. I know here in Amsterdam the big tech dev roles pay less than what a dev at a trading firm like optiver makes. Compared to what an average trader at Optiver makes its peanuts. And those big tech roles are relatively prestigious, most of my computer science friends work at smaller companies and make like 80-100k/year. Ofcourse the computer science market is quite terrible here compared to the US, always has been, but I think a lot of people dont realize how little most software developers make. What kind of jobs are you applying to? What does your resume look like? Are you actually good at software development, or is it something new you are trying to break into? It's a bit tough for unexperienced devs looking to get started right now, but there is definitely demand for skilled & experienced software devs. If I were in your shoes I'd suck it up a little bit longer, build up like 2m in your personal portfolio (or whatever your number is for not quite retirement money but definitely enough to be financially secure), and then find a job you actually like even it's for very little money. I'm sure you can find an interesting job working on something you find important, but it's probably going to be for a lot less than you're making now."
+      },
+      {
+        "id": "t1_mwodin7",
+        "author": "",
+        "score": 26,
+        "body": "You either earn money or contribute to society, cant have both."
+      },
+      {
+        "id": "t1_mwos565",
+        "author": "TheRealMangoJuice",
+        "score": 20,
+        "body": "man fuck this advice. what is the point of living if the guy aint happy. fuck that money. aint nobody on their deathbed said they wish they hustled more at their 9 to 5."
+      },
+      {
+        "id": "t1_mwon3lz",
+        "author": "Early_Retirement_007",
+        "score": 20,
+        "body": "If you're getting existential questions about Finance and perhaps your place in it - it's not a bad idea to explore alternatives. FIrst, determine whether it's the industry or the firm. Second, once you have figured out that it's the industry indeed - evaluate your skill-set and see what you can offer. Maybe you can use your skill set in other industries but at the expense of some trade-offs, including lower salary. Finally, the grass is not always greener on the other side - people are also frustrated in jobs like teaching, healthcare,...."
+      },
+      {
+        "id": "t1_mwoj8ni",
+        "author": "changhc",
+        "score": 19,
+        "body": "I'm not contributing anything to society apart from making some old rich white people richer. Most of the time in IT you are still just making some old rich white people richer, and even worse, you might actually do harm to the society, e.g. by working on addictive social media or systems that violate user privacy and exploit user data."
+      },
+      {
+        "id": "t1_mwoql27",
+        "author": "im-trash-lmao",
+        "score": 19,
+        "body": "Ragebait"
+      },
+      {
+        "id": "t1_mwos4wz",
+        "author": "Minimum_Plate_575",
+        "score": 18,
+        "body": "Hey OP, I'm a recovered quant myself and right now I'm Head of Eng for a Series B YC startup. DM me your LinkedIn and resume and let's talk."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1psp4zd",
+    "subreddit": "quant",
+    "title": "2025 Quant Total Compensation Thread",
+    "score": 431,
+    "permalink": "https://old.reddit.com/r/quant/comments/1psp4zd/2025_quant_total_compensation_thread/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nvct7zy",
+        "author": "ThrowawayProptrader",
+        "score": 150,
+        "body": "Firm: One of the big prop trading firms (Jane/CitSec/Jump/Optiver/SIG/HRT/DRW) Location: London Role: QT YoE: 5-7 TC: £2m Hours worked per week: 50-55 General job satisfaction: Very much enjoy what I do, don’t find it too stressful"
+      },
+      {
+        "id": "t1_nvccnjw",
+        "author": "devilman123",
+        "score": 106,
+        "body": "Location: UK Role: SWE/QD, >5 YOE Firm: HF/pod Hours/week: ~50 TC: ~310k GBP (150+160) General job satisfaction: 9/10 WLB 7/10 Comp - comp growth has not been great 7/10 work is ok, nothing rocket science 8/10 overall"
+      },
+      {
+        "id": "t1_nvc9wb9",
+        "author": "collegeboi86",
+        "score": 100,
+        "body": "Love these threads, I find them very useful. I'll start:  Location: UK Role: SWE/QD, >5 YOE Firm: Prop Hours/week: ~50 Base Salary: ~140k GBP Bonus: ~170k GBP General job satisfaction: 11/10 WLB 11/10 people are great 4/10 Comp - historically comp here has been bad, this is the first decent year  2/10 the work is boring as fuck 7/10 overall"
+      },
+      {
+        "id": "t1_nvcwuj2",
+        "author": "zerofighter2148",
+        "score": 94,
+        "body": "Firm: prop trading firm Location: my tax residency is US, but I've been travelling a lot in Europe this year. Role: PM YoE: 10 at the same company since I've graduated college. TC: ~1.4m USD Hours worked per week: 40-60. General Job satisfaction: Highs are high, lows are low. The company culture here is Darwinian/up or out. Next year, when my pnl resets to 0, they will expect me to trade bigger. This is both intimidating and motivating. Overall, though, I enjoy my job. It really doesn't feel like work. It feels like poker, or a video game."
+      },
+      {
+        "id": "t1_nvcr1fr",
+        "author": "OutrageousScientist5",
+        "score": 50,
+        "body": "Can OP also add the option for the starting level? I.e. undergrad, masters, PhD? That affects the starting base"
+      },
+      {
+        "id": "t1_nvdb6mk",
+        "author": "MedicalMacaron894",
+        "score": 43,
+        "body": "Firm: big prop Location: NY Role: QR YoE: 3-5 Salary: $300k Bonus: expected ~$4m Hours worked per week: 50-55 General Job satisfaction: 8/10. Very low stress. Decent amount of interesting work but also decent amount of menial work."
+      },
+      {
+        "id": "t1_nvdh8x9",
+        "author": "quant-throwaway-1234",
+        "score": 43,
+        "body": "Top Tier Hedge Fund Role: QD but in leadership YoE: 15-20 Salary (include currency): 225k usd Bonus (include currency): 900k usd Hours worked per week: 50-60 (varies quite a bit depending on releases etc) General Job satisfaction: middling.  A lot of managing idiots, a lot of bureaucracy.  A lot of incompetence with people squatting on territory.  Good pay vs work though."
+      },
+      {
+        "id": "t1_nvcz4b4",
+        "author": "zerofighter2148",
+        "score": 41,
+        "body": "Correct. I was basically a clerk doing analytics and order entry for the PMs and traders in my pod. And I got promoted when those traders and PMs blew out or burnt out."
+      },
+      {
+        "id": "t1_nvddjze",
+        "author": "Any_Error_7749",
+        "score": 36,
+        "body": "Location: nyc Role: QR YoE: 0-1 Salary: $275k Bonus: $500k ($250k sign-on + $250k end-of-year) Hours: 40 Job satisfaction: Good wlb"
+      },
+      {
+        "id": "t1_nvdnxoi",
+        "author": "M_Bilal_H",
+        "score": 34,
+        "body": "Very impressive. I’m sure loads of people say it, but good job."
+      },
+      {
+        "id": "t1_nvce8vo",
+        "author": "Late_Excuse_3501",
+        "score": 34,
+        "body": "Location: Singapore Role: SWE/QD, >7 YOE Firm: Quant Firm Hedge Fund Base: 190K SGD Bonus: 20K Sign on - 30K bonus yet to receive Job Satisfaction - 9/10 WLB - 8/10 Comp - 6/10 - just started at HF Overall - 8/10"
+      },
+      {
+        "id": "t1_nvf3u2n",
+        "author": "junker90",
+        "score": 33,
+        "body": "Firm: Prop Location: NYC Role: Hardware Engineer YoE: 5+ TC: $2M (note: bonus not paid yet) Hours: 45-60, usually on the lower end but depends on the week Satisfaction: highly satisfied. My firm talks about being flexible, I've never had a need to test it until this year with some changing life developments and they've been very accommodating, has been a huge weight off my shoulders. Work can be stressful but water's also wet. Great colleagues make it a lot easier."
+      },
+      {
+        "id": "t1_nvh4tj8",
+        "author": "yangmaoxiaozhan",
+        "score": 30,
+        "body": "I rarely see any DP for China. So Here we go. :D Firm: local hedge fund Location: China Role: QR YoE: 5+ Salary+Bonus (include currency): 500K USD Hours worked per week: 40-45 General Job satisfaction: 8/10"
+      },
+      {
+        "id": "t1_nvcxnm5",
+        "author": "0xCUBE",
+        "score": 28,
+        "body": "How did you become a PM? Did you start as a QT and make your way up the ladder?"
+      },
+      {
+        "id": "t1_nvchcvm",
+        "author": "BicycleBears",
+        "score": 28,
+        "body": "I posted this last year and these are the updates: Firm: Still @ small sub-proprietary firm in the EU Location: EU Role: QR YoE: 1 1/2 year Salary: still 30k €/year (didn't change) Bonus: 6k €/year (changed a bit: +2k) Hours worked per week: ~40 (1h breaks every day included) General job satisfaction: ok, things are really slow and we are really limited with data which makes strategy development a pain in the ass. I got a couple of offers for other companies which i will consider. WLB is great, i effectively work 6h per day and i have some time for other projects, but the company is very unorganized. Salary is higher than the average here - especially with bonuses, but still on the lower end - quant/DS wise. I've developed individually only 2 strategies that are in production now, both of them not that great. Other strategies failed the paper trading part. The main issue I have is that I don't have people to discuss the strategies I'm working on."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mb86df",
+    "subreddit": "quant",
+    "title": "Why are most rich guys in quant so polarized when it comes to flaunting wealth?",
+    "score": 424,
+    "permalink": "https://old.reddit.com/r/quant/comments/1mb86df/why_are_most_rich_guys_in_quant_so_polarized_when/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_n5oi940",
+        "author": "SterlingArcherr",
+        "score": 95,
+        "body": "For me personally I’m just very aware of the hedonic treadmill and try to be conscious around what spending actually makes me happier. I used to be pretty frugal now I think I’m just efficient. I drive a standard new car instead of something fancy because I know I don’t care at all about cars and it won’t make me any happier. I take public transportation because it’s convenient and I think it’s a public good. I take very nice ski trips because I love skiing and those memories are extremely valuable to me. Some people are very aware of what actually improves their lives and some people just spend because they can and always have."
+      },
+      {
+        "id": "t1_n5oe1j5",
+        "author": "PretendTemperature",
+        "score": 79,
+        "body": "I dont know what you guys are talking about, if I make 8 figures I am so retired and I will be researching pure math in some hut in the middle of nowehere"
+      },
+      {
+        "id": "t1_n5o0tkj",
+        "author": "External_South1792",
+        "score": 52,
+        "body": "In defense of thriftiness, we’re engineers who obsess over numerical minutiae all day. Naturally, we have a tendency to carry it into all aspects of life. Plus, we understand the power of small amounts to compound to enormous sums over time."
+      },
+      {
+        "id": "t1_n5ob7jb",
+        "author": "nrs02004",
+        "score": 49,
+        "body": "I mean... casio quartz watch keeps better time anyways :)"
+      },
+      {
+        "id": "t1_n5o1ez6",
+        "author": "Frequent-Spinach5048",
+        "score": 49,
+        "body": "Can’t speak for others, don’t make 8 figs either, but for me I am thrifty as I would like to fire at some point. Also, market is constantly moving, so I don’t think I can have big comp every year. Also, afraid of the threat of AI"
+      },
+      {
+        "id": "t1_n5orvsl",
+        "author": "East_Step_6674",
+        "score": 34,
+        "body": "Doesn't mean you can't have low self esteem as well my friend."
+      },
+      {
+        "id": "t1_n5og68d",
+        "author": "",
+        "score": 32,
+        "body": "Having a sweet boat is one luxury. Retiring before 50 (or earlier) and riding the bus but owing nothing to anyone, is another luxury."
+      },
+      {
+        "id": "t1_n5ohn7f",
+        "author": "elves_haters_223",
+        "score": 30,
+        "body": "men with low self esteem are usually the ones who need to show off and impress, I am not a quant btw. i am genuninly poor so I have an excuse to actually be cheap."
+      },
+      {
+        "id": "t1_n5ook5p",
+        "author": "Dang3300",
+        "score": 19,
+        "body": "probably a nice watch Bro said \"probably\" 💀"
+      },
+      {
+        "id": "t1_n5po6a4",
+        "author": "",
+        "score": 17,
+        "body": "Because I’m a commie and the money is for funding the cause."
+      },
+      {
+        "id": "t1_n5rez0o",
+        "author": "Chad4001",
+        "score": 15,
+        "body": "Perelmanmaxxing"
+      },
+      {
+        "id": "t1_n5q765z",
+        "author": "Sea_Section6293",
+        "score": 14,
+        "body": "A bit late here, but there's my theory based on what I understand of many people in quant I know: A lot of people didn't originally seek out quant as a high paying job during their formative years. Rather, they were excellent students who got into MIT, CMU, etc and were cracked at math and likely most other subjects too. Right? Then in college, they find out they can go make 500k-1mil their first and second year out of school, and decide to give it a shot You know what I mean? Math nerds can originally have all sorts of attitudes towards wealth to begin with. So there's going to be variance in how they spend their money once they get it"
+      },
+      {
+        "id": "t1_n5qe8k9",
+        "author": "",
+        "score": 12,
+        "body": "Hell yeah comrade"
+      },
+      {
+        "id": "t1_n5pf2kx",
+        "author": "Dang3300",
+        "score": 11,
+        "body": "Oh yeah RM definitely Although that's wayyy past a \"nice watch\" 😂"
+      },
+      {
+        "id": "t1_n5q2yk4",
+        "author": "african-actuary",
+        "score": 11,
+        "body": "a commie quant ??"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ogkrbk",
+    "subreddit": "quant",
+    "title": "Quant Interview Questions playlist",
+    "score": 419,
+    "permalink": "https://old.reddit.com/r/quant/comments/1ogkrbk/quant_interview_questions_playlist/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nlh54ek",
+        "author": "Local_Ad135",
+        "score": 44,
+        "body": "I came across your channel a couple months back and it was very useful for my interviews. Got a similar question to the chord intersection problem in my interview too. Thanks!"
+      },
+      {
+        "id": "t1_nlh5oun",
+        "author": "Interesting-Pool7388",
+        "score": 7,
+        "body": "Quant interview questions playlist link-  https://www.youtube.com/playlist?list=PLjomwUQ3wWLuulvwC_HfDB6BpLIKsOBXX"
+      },
+      {
+        "id": "t1_nlj58fo",
+        "author": "HappyNail2227",
+        "score": 5,
+        "body": "Good quant interview questions! Can someone tell how to learn how to solve these, i find them hard."
+      },
+      {
+        "id": "t1_nlkbogg",
+        "author": "catsRfriends",
+        "score": 4,
+        "body": "Lmfao I definitely didn't get a bubblesort for Citadel wtf? Pretty sure it's a few levels of difficulty off."
+      },
+      {
+        "id": "t1_nlppi20",
+        "author": "Interesting-Pool7388",
+        "score": 3,
+        "body": "It’s not the bubble sort algorithm itself, but a probability problem related to bubble sort. IMO, it’s reasonably difficult, though, of course, some (actually many) Citadel problems can be much tougher. Still, you are often asked questions of varying difficulty depending on the round you’re in, right?"
+      },
+      {
+        "id": "t1_nm3z16k",
+        "author": "Primary_Arrival581",
+        "score": 2,
+        "body": "for the quantprof questions specially, I've found that watching little bits of the solution when stuck and then jumping back to the question, trying to get there yourself, and repeating is what works best for me. They're usually really hard, so don't expect at first to be breezing through them. A bunch of these questions also have different ways of solving them, so, as an excercise, trying to find different approaches and making sense of the best or most intuitive approach is great for building a good understanding. In interviews, specially for trading, you'll get these same questions but to solve in 90 seconds and you just have to be able to quickly map problems you've done to new ones. You can build that problem solving muscle with enough practice, it's just really taxing. The biggest thing is always coming out of the problem feeling like you can explain and defend the validity of the solution to anyone."
+      },
+      {
+        "id": "t1_nlvk24u",
+        "author": "No-Classic2858",
+        "score": 2,
+        "body": "these are great, and closer in difficulty / theme to what would be asked than green book questions"
+      },
+      {
+        "id": "t1_nmvmi8u",
+        "author": "n0obmaster699",
+        "score": 1,
+        "body": "Add this one as well. Some are actually already there in 50CP and greenbook. https://www.cut-the-knot.org/probability.shtml"
+      },
+      {
+        "id": "t1_nm3xaok",
+        "author": "Primary_Arrival581",
+        "score": 1,
+        "body": "I actually watch your videos a bunch, they're pretty great. Thanks!"
+      },
+      {
+        "id": "t1_nm32lws",
+        "author": "HappyNail2227",
+        "score": 0,
+        "body": "Can you tell me how to learn to solve questions like these? I know the topics but i am unable to come up with the right insights to solve them."
+      },
+      {
+        "id": "t1_nmvlx2v",
+        "author": "n0obmaster699",
+        "score": 0,
+        "body": "Ya these are standard lol."
+      },
+      {
+        "id": "t1_nlrrqbm",
+        "author": "astropulse",
+        "score": 0,
+        "body": "Khan academy probability, linear algebra, and calculus series"
+      },
+      {
+        "id": "t1_nlh2nws",
+        "author": "AutoModerator",
+        "score": 0,
+        "body": "Please use the weekly megathread for all questions related to OA and interviews. Please check the announcements at the top of the sub, or this search for this week's post. This post will be manually reviewed by a mod and only approved if it is not about finding a job, getting through interviews, completing online assessments etc. I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."
+      },
+      {
+        "id": "t1_nlh6553",
+        "author": "AutoModerator",
+        "score": 0,
+        "body": "This post has the \"Resources\" flair. Please note that if your post is looking for Career Advice you will be permanently banned for using the wrong flair, as you wouldn't be the first and we're cracking down on it. Delete your post immediately in such a case to avoid the ban. I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."
+      },
+      {
+        "id": "t1_nm71f5i",
+        "author": "One-Judgment-2266",
+        "score": 0,
+        "body": "great interview questions resource, thanks."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1mk0za3",
+    "subreddit": "quant",
+    "title": "Quant Trader/ Researcher AMA",
+    "score": 399,
+    "permalink": "https://old.reddit.com/r/quant/comments/1mk0za3/quant_trader_researcher_ama/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_n7gq06n",
+        "author": "Best_Return_1420",
+        "score": 82,
+        "body": "My favorite question here that I couldn't touch in my previous AMAs. I generally enjoy giving interviews. I would group candidates into a few groups: They are an immediate strong fail, and I can tell this within the first 30-60 seconds of the interview starting. Then it is just a 45 min waste of time for both of us where I can't even interview the candidate as they don't understand basic basic concepts (ones that I think most high schoolers could get). This is 35% of QT candidates, and for new grad PhD QRs its 75%. You would be shocked how many math/ stats PhDs do not have a basic understanding of probability (given I roll 2 fair dice what are the odds I roll a 7, many are unable to get this after a few minutes unless I explain). These are really boring as the candidate has no clue what they are doing - I don't think the types of questions are hidden, and some prep at least on the candidates end would be helpful. I have so many insanely bad interview stories its funny. They are an immediate strong pass, and I can tell this within the first 5 minutes of the interview. These are more fun bc I can then get into way more advanced/ complex concepts and see how they do there. I have freedom to make the interview as hard or as easy as I want, so with these candidates I up the difficulty massively (they're already a pass, I just want to see how hard I can push them). No interview I give in this section will ever be comfortable for the candidate (surprisingly in the above case I will generally try to make it more comfortable), no matter how strong they are. It is also my job to see how candidates perform when they are uncomfortable, so I will do a lot to make them uncomfortable. It also depends where they are in the process as I can do early, mid, and late. If I am early, I'll suggest the middle/ late interviewer (if they pass the next) to make it really hard. While a candidate can be technically gifted, we just have to see how they perform under pressure. This is less than 5% of candidates, but I probably enjoy these the most. It's borderline. This will encompass the rest of the candidates. The goal is sort of the same as #2 above, but in this case it is not clear to me they are above the technical bar, so I am assessing both how they perform under pressure and also their technical ability. I will generally say this: If I am an early round interviewer I will skew the borderlines towards passes and if I am a late round interviewer (also dependent on earlier round feedback) I will skew towards fail. There is a range here also - they could start borderline and trend toward pass, make a few mistakes then trend toward not pass. I am really assessing everything you do (I don't care if you curse or make small mistakes or anything like that) but I customize the experience massively to each candidate. And then the last one which is a bit separate from above: You are cheating. These are the WORST interviews to give. It is SO obvious when candidates are cheating (know question before, rehearsed answers, maybe looking an reading off a doc or smth). This is so easy to figure out bc I'll just grill them deeper on some concepts that THEY brought up and they break down completely. Candidate goes from smooth explanation to being unable to speak. These candidates get blacklisted and will never interview at my firm again if I am >95% they are cheating. I don't like doing this, but its a huge waste of everyones time. That being said - yes candidates interview multiple years and may know the questions, this is not cheating. I know when candidates are hearing questions more than once - its no worries, I just up the difficulty because (obviously) the standard has to be higher than the previous year). We expect them to be better because they have had time to understand the question. We even know people may know the question before. The interview is designed to be a discussion. Your script won't help you here. You would be surprised how many extremely smart p"
+      },
+      {
+        "id": "t1_n7gjwph",
+        "author": "Best_Return_1420",
+        "score": 51,
+        "body": "I've gotten this question a lot both in DMs (sorry guys ignoring all DMs like this, my answer is here), and honestly I don't have great advice for this specifically. I eluded to it in my post, but I don't necessarily think the school matters a lot, but I do think there is a correlation between the average quant and the school they went to (maybe a combined statement that talent is higher at better schools but also some firms only recruit from certain schools). Bottom line - the firms that I applied to that only wanted certain schools I didn't get an interview at. MOST firms do just send an OA immediately after you apply (I can't speak to the automated resume readers that pass fail on keywords or whatever), but once you get that OA you're fine, you're on an even playing field with a anyone else. Especially when you are coming out of college (this is moreso for undergrad than grad), I think there is much much less importance on your projects (I don't think a stem major is even required, but again there is a correlation). I nailed the interviews, and that is really what it comes down to. There is no secret, no trick, no easy way to get a legit quant job (not bank) other then you need to nail the interviews. tl;dr: Target school just gets you into the door at more firms, but you still need to nail the interview. I would suggest studying stem (the work generally benefits from this also), but its not required. There is a stronger correlation between major (stem) and quant though."
+      },
+      {
+        "id": "t1_n7fchmf",
+        "author": "scnair",
+        "score": 48,
+        "body": "Coming from a non-target, how did you make your profile stand out? Was it previous experience in related positions, nailing the OA and then subsequent interview rounds, or did you have some interesting projects to show for on your resume?"
+      },
+      {
+        "id": "t1_n7fa2rz",
+        "author": "NameRevolutionary153",
+        "score": 44,
+        "body": "When you interview a candidate, what’s an immediate telltale sign that they are not to be hired? And what about the other way around- what’s a sign you’d get making you immediately wanting to hire the person?"
+      },
+      {
+        "id": "t1_n7grv47",
+        "author": "Best_Return_1420",
+        "score": 37,
+        "body": "Highly dependent. In my experience for a high high compensation role (partner/ PM), there isn't always a clear path. At the junior level there is (pace is again dependent on how good you are), but for the higher ones it really just is about how good you are and how much people (especially senior people) like you. I've seen people in 5 years climb from nothing to partner, and people in 5 years be the same level as when they were hired. The number of intermediate stages can also differ, against dependent on the same things as above. I think some people leave to start their own shops, but working for a firm has it's benefits imo. You (probably) get access to more capital, have a full team, way more and better data, and existing infrastructure that you may rely on for the success of your strategies. It depends. After you become a top PM, you retire. Lol. Do something you are passionate about. I'm in my mid 20s and plan to retire within 10 years at most (everyone has a different number) and then just pursue stuff you're passionate about or start a family, etc. The best people I have met in this industry are extremely intelligent. They understand the problem space that they specialize in very well and can explain complex issues very simply to those that are not as familiar. Decision making process is sound and reliable. Overall, just extremely extremely intelligent people. Sometimes you speak to these types and may be in a bit of just awe at the level of which they think."
+      },
+      {
+        "id": "t1_n7gremk",
+        "author": "lemsklem",
+        "score": 30,
+        "body": "There are three men and one woman ..."
+      },
+      {
+        "id": "t1_n7guyrn",
+        "author": "Best_Return_1420",
+        "score": 28,
+        "body": "Learn to trust yourself and your decisions. The biggest variance you will ever take in your life are from your own personal decisions. Be good at making decisions. A few wrong decisions in your life can cost everything. Be comfortable with failure. The biggest mistake from failure is not learning from it. You ALWAYS need to be improving your decision making process and making the best decision you can at any time with all the available information. I'm answering all these questions from my perspective but you have to do what is best for you. I think AI will hit trading a bit slower. Trusting a thinking machine to make trading decisions is so dangerous. We already have machines execute a lot of stuff but the rules are pretty straightforward. There is so much blowup risk with machines (Knight capital) you have to constantly monitor it. In my experience, the best machines are made by smart people, because the machine is an extension of the person that designed it. The better the person, the better the machine. Not sure though. I use AI tools pretty much every day at work for basic coding tasks."
+      },
+      {
+        "id": "t1_n7gxjrw",
+        "author": "Best_Return_1420",
+        "score": 23,
+        "body": "The paper skills are only important because you should have an underlying understanding of the math but realistically anything that needs to be calculated regularly is an action performed by a computer. Traders use the information on the screens to make the best decision possible. If they find themselves doing something manually a lot, they should build something to automate it or get rid of it if its not profitable. I don't think there is a lot of math done in day to day life - a lot of this is just to filter candidates in the interview process a lot. Many seniors definitely do not understand options math. I think deep learning will probably have edge in options, but not yet. But everything in the world is innovating quickly. If your goal is to get a job in quant, your focus should be on interviews. Get the green book and understand it cover to cover. Understand concepts of bankroll management. Understand practical game theory. In your everyday life, start thinking about situations to extract alpha. Green book helps technically, but you kind of need to start thinking in a probabilistic way since I think thats a fit that quant firms look for."
+      },
+      {
+        "id": "t1_n7h6tb2",
+        "author": "Serious-Regular",
+        "score": 21,
+        "body": "for new grad PhD QRs its 75% lol brutal"
+      },
+      {
+        "id": "t1_n7hjxm2",
+        "author": "Serious-Regular",
+        "score": 19,
+        "body": "I'm with you man - I interview fresh PhDs for ML roles - they're clueless."
+      },
+      {
+        "id": "t1_n7f7lfy",
+        "author": "ICallSpadesShovels",
+        "score": 19,
+        "body": "What is the typical job progression for a quant look like? What I mean to say is, let’s say someone gets hired as a quant at a top quant firm; given they’re successful, where do they go from there? How long does it take for them to go from a freshly hired quant all the way to a PM? How many intermediate stages are there? How many quants eventually leave the firm they were hired at to start their own? If one doesn’t leave, where does one go after becoming a top PM? Also, what traits or skills does a person who climbs their way up the ladder like this cultivate/have?"
+      },
+      {
+        "id": "t1_n7gt99r",
+        "author": "Best_Return_1420",
+        "score": 19,
+        "body": "If you got the role the firm believes in you and thinks you have met the bar. If you are a senior in college, go enjoy your life. Maybe make sure you know how to code in python and know major libraries your firm uses (usually like pandas). But again if you passed the process the firm believes in you, so there's no more stress. Interviewing sucks. Go out and celebrate + enjoy your life before you work for the rest of your life. Nope. I play poker for fun I guess."
+      },
+      {
+        "id": "t1_n7gvfj6",
+        "author": "Best_Return_1420",
+        "score": 18,
+        "body": "Tons of edge in 0dte. There is edge capture (IE bid ask spread), realized implied trading, idio trading (less so in index), base valuation alpha, mid frequency vol/ gamma alpha, flow alpha, etc. I don't want to get exact numbers as those are probably private, but trading can be broken down to buy low sell high."
+      },
+      {
+        "id": "t1_n7gvxeb",
+        "author": "Best_Return_1420",
+        "score": 18,
+        "body": "I think playing devils advocate to anything intelligent a candidate says is a lot of fun. I love challenging the smart candidates and really see how good they are. The interviews I give are pretty broad based, there is definitely no exact right answer, so letting the candidate pick a general direction then I can push them and push them. I don't think I've ever given 2 interviews that are the same."
+      },
+      {
+        "id": "t1_n7fpqga",
+        "author": "Purple_Contest_1954",
+        "score": 17,
+        "body": "How much of the edge in 0dte is coming from speed in hedging/predicting underlying turns vs some sort of analysis on decay and realized vol during the session, or are neither of these the main consideration? I’m an OMM but we don’t have much activity in daily expiry"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1qpcpxw",
+    "subreddit": "quant",
+    "title": "Industry Leaderboard for LinkedIn Queens",
+    "score": 391,
+    "permalink": "https://old.reddit.com/r/quant/comments/1qpcpxw/industry_leaderboard_for_linkedin_queens/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_o28c2d6",
+        "author": "__brook__",
+        "score": 251,
+        "body": "I actually work for Citadel Securities and my entire role is making sure they get #1 on this weekly."
+      },
+      {
+        "id": "t1_o27wxai",
+        "author": "Deep-Comedian2037",
+        "score": 103,
+        "body": "Finally, an objective tier list!"
+      },
+      {
+        "id": "t1_o282ven",
+        "author": "BostonRich",
+        "score": 55,
+        "body": "What does 'LinkedIn quuens\" refer to?"
+      },
+      {
+        "id": "t1_o28e9h1",
+        "author": "Loose-Macaron",
+        "score": 50,
+        "body": "“Queens” is one of Linkedin’s mini puzzle games, it also shows statistics across your own company and the industry that your company belongs in"
+      },
+      {
+        "id": "t1_o280roy",
+        "author": "igetlotsofupvotes",
+        "score": 29,
+        "body": "Why is my list different? Doesn’t seem to be consistent at all lol"
+      },
+      {
+        "id": "t1_o281lyw",
+        "author": "IntelligentVisual955",
+        "score": 29,
+        "body": "Are these latency"
+      },
+      {
+        "id": "t1_o2d1jwx",
+        "author": "soleil---",
+        "score": 28,
+        "body": "I work at JS and my job is to hunt down and eliminate anyone at a rival firm who beats us at the game. Count your days."
+      },
+      {
+        "id": "t1_o29nxgw",
+        "author": "lampishthing",
+        "score": 26,
+        "body": "Mine seems to have updated! HRT in top spot now. <image>"
+      },
+      {
+        "id": "t1_o285ff0",
+        "author": "VisibleOil5420",
+        "score": 26,
+        "body": "This post was mass deleted and anonymized with Redact growth direction tan innate sophisticated degree airport hat dazzling lock"
+      },
+      {
+        "id": "t1_o29hwp8",
+        "author": "",
+        "score": 20,
+        "body": "I assume if you spend a lot of time throwing fits on LinkedIn, you'd be a LinkedIn Queen."
+      },
+      {
+        "id": "t1_o28bq0b",
+        "author": "AdVoltex",
+        "score": 19,
+        "body": "These scores are terrible wtf? Has to be average and not top surely?"
+      },
+      {
+        "id": "t1_o2apqdh",
+        "author": "OneSushi",
+        "score": 16,
+        "body": "What about LINKEDIN ZIP? That is the one that really matters (I get 99% percentile like 80% of the times) we are so back!! can I get into citadel with a business degree from university of alberta and a 3.2 GPA if I do well on ZIP? thanks guys omg jm finally gonna get my $500k salary"
+      },
+      {
+        "id": "t1_o2ckfx4",
+        "author": "wendyserver",
+        "score": 13,
+        "body": "I thought this was in the context of “yas queen”"
+      },
+      {
+        "id": "t1_o2b66y8",
+        "author": "wapskalyon",
+        "score": 12,
+        "body": "Have you looked into coding up an algo to solve the problem? i'm sure a well written implementation in your favorite flavor of the month quant language will be able to improve the times associated with your firm. making your firm the very best."
+      },
+      {
+        "id": "t1_o2cg3cd",
+        "author": "Personal_Rooster2121",
+        "score": 9,
+        "body": "Not to be offensive but your job sounds like the sales department of ASML. It probably is a thing but you shouldn’t do much to make it work"
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1md6xvf",
+    "subreddit": "quant",
+    "title": "Which quant firm is the best at making babies?",
+    "score": 384,
+    "permalink": "https://old.reddit.com/r/quant/comments/1md6xvf/which_quant_firm_is_the_best_at_making_babies/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_n62aw8c",
+        "author": "",
+        "score": 187,
+        "body": "DE Shaw -> Amazon /s"
+      },
+      {
+        "id": "t1_n628eu5",
+        "author": "shriav",
+        "score": 187,
+        "body": "Millennium is parent of so many HFs out there including exodus, Jain global and many small ones"
+      },
+      {
+        "id": "t1_n62spru",
+        "author": "hoverdoge",
+        "score": 120,
+        "body": "JS -> FTX (maybe not a great child)"
+      },
+      {
+        "id": "t1_n62ez03",
+        "author": "ABeeryInDora",
+        "score": 72,
+        "body": "Morgan Stanley -> PDT CitSec's stat arb ETL QSA Quantbot Aigen Cubist's Stat Arb Engineer's Gate's Stat Arb Jump's Stat Arb Robert Frey, Rentech's equities stat arb DE Shaw 2S Tykhe Gerry Bamberger, PNP's stat arb TGS"
+      },
+      {
+        "id": "t1_n62nn1v",
+        "author": "ChadFromGoldmanSachs",
+        "score": 57,
+        "body": "HRT -> Scale AI JS -> Anysphere/Cursor Citadel -> Kalshi"
+      },
+      {
+        "id": "t1_n625o87",
+        "author": "millennial101",
+        "score": 45,
+        "body": "Radix and Headlands are elite elite."
+      },
+      {
+        "id": "t1_n62poac",
+        "author": "Silly-Spinach-9655",
+        "score": 40,
+        "body": "I really want to work at aquatic, solely because Matt godbolt was their founding engineer. I heard they’re not the most profitable tho… not that I know anyone working there. Radix, Headlands pay insane. Have friends pulling 800k y3 in Chicago lol"
+      },
+      {
+        "id": "t1_n62io1k",
+        "author": "Ocelotofdamage",
+        "score": 39,
+        "body": "Headlands is extremely profitable per head. It became even more profitable per head when they didn’t pay people and they had a large exodus."
+      },
+      {
+        "id": "t1_n62jphj",
+        "author": "Dr-Know-It-All",
+        "score": 34,
+        "body": "well vatic is an awful firm that has never made money. as far as i’m aware they have not had a single profitable year so far"
+      },
+      {
+        "id": "t1_n632phy",
+        "author": "SwingObjective4239",
+        "score": 29,
+        "body": "Tower -> HRT"
+      },
+      {
+        "id": "t1_n62ogwm",
+        "author": "ChadFromGoldmanSachs",
+        "score": 29,
+        "body": "SIG -> Old Mission Tower -> HRT GSA -> XTX"
+      },
+      {
+        "id": "t1_n637vkl",
+        "author": "quantpepper",
+        "score": 25,
+        "body": "Godbolt sold out and is joining HRT soon though lol"
+      },
+      {
+        "id": "t1_n62d99a",
+        "author": "CompetitiveGlue",
+        "score": 23,
+        "body": "I feel like people just say Headlands is great, but I don't think there's any recent info on them. They did lose lots of people circa 2021 or something where their bonuses were underwhelming relative to their PnL. I assume that's where this \"Headlands is great\" rumour originally came from."
+      },
+      {
+        "id": "t1_n624g7h",
+        "author": "Edereum",
+        "score": 19,
+        "body": "I would say : High-Flyer -> Deepseek :-) These guys just built a SOTA LLM in their free time, and found that it brought them more value than chasing performance or growing their AuM"
+      },
+      {
+        "id": "t1_n649vig",
+        "author": "react_dev",
+        "score": 17,
+        "body": "Maybe a systematic theme. I was like how do you not mention Tiger. We literally call em cubs."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1q1xahf",
+    "subreddit": "quant",
+    "title": "Whoever got this one, well done",
+    "score": 377,
+    "permalink": "https://old.reddit.com/r/quant/comments/1q1xahf/whoever_got_this_one_well_done/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nx9481v",
+        "author": "NationalOwl9561",
+        "score": 58,
+        "body": "Is this a new copy pasta"
+      },
+      {
+        "id": "t1_nx9bonn",
+        "author": "thegratefulshread",
+        "score": 22,
+        "body": "Bro took his adhd meds"
+      },
+      {
+        "id": "t1_nx9dek2",
+        "author": "Alpha_Signal",
+        "score": 16,
+        "body": "Spent 3 hours last night thinking about all of this 😂 "
+      },
+      {
+        "id": "t1_nx90003",
+        "author": "Alpha_Signal",
+        "score": 9,
+        "body": "Clearly this field has given me the ability to look at anything with perspective to gains and losses, lol "
+      },
+      {
+        "id": "t1_nxan04g",
+        "author": "BeefyBoiCougar",
+        "score": 7,
+        "body": "Average Georgia Tech grad"
+      },
+      {
+        "id": "t1_nx93ig8",
+        "author": "Alpha_Signal",
+        "score": 5,
+        "body": "Most of us are doing that anyways, lol. "
+      },
+      {
+        "id": "t1_nxj26b4",
+        "author": "sumwheresumtime",
+        "score": 4,
+        "body": "i don't think that's the word quant, but rather picanha or as a Georgian from the peach state would pronunce it."
+      },
+      {
+        "id": "t1_nxdsgnr",
+        "author": "MeowissO",
+        "score": 2,
+        "body": "the rate of alpha will be exponential for this one 😂😂😂😂"
+      },
+      {
+        "id": "t1_nx91gwd",
+        "author": "Alpha_Signal",
+        "score": 2,
+        "body": "I like your username.  I don’t think it’s hard to consider it scarce in terms of probabilities of the possible configurations. I do agree that quants in ATL are scarce though.  But I don’t exactly agree with your take on ambition / self respect with success part. They’re not mutually exclusive. Insatiable ambition is largely a cultural narrative imo. Ambition can take you far, but at some point you have to have the self respect to ask yourself to what cost and to what end?"
+      },
+      {
+        "id": "t1_nx9251t",
+        "author": "Own_Pop_9711",
+        "score": 2,
+        "body": "Ice (not the government one) is headquartered in Atlanta. It's not alpha generation but I think they do a decent amount of risk work I think to model out margin requirements."
+      },
+      {
+        "id": "t1_nx9ep77",
+        "author": "entertrainer7",
+        "score": 1,
+        "body": "I was kind of thinking that someone’s New Year’s resolution was to drink every day like it’s New Year’s Eve"
+      },
+      {
+        "id": "t1_nx94iya",
+        "author": "Alpha_Signal",
+        "score": 1,
+        "body": "Looks like I struck a nerve, he deleted his extremely elitist comment. "
+      },
+      {
+        "id": "t1_nx9vdo3",
+        "author": "Coolguy1699",
+        "score": 1,
+        "body": "u/suntherland Bro is this you 🤣??"
+      },
+      {
+        "id": "t1_nx9vur1",
+        "author": "Suntherland",
+        "score": 0,
+        "body": "maybe when I get a car 🤣"
+      },
+      {
+        "id": "t1_nx9bihk",
+        "author": "AutoModerator",
+        "score": 0,
+        "body": "This content has been removed because it is suspected to be AI content. Our rule on AI content is as follows Content that has clearly been generated by AI will be removed with prejudice. If you think the users of r/quant should take the time to read your content, then you can take the time to write and structure it so it doesn't look like AI content. I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1ob9dq9",
+    "subreddit": "quant",
+    "title": "De-influencing quant trading",
+    "score": 376,
+    "permalink": "https://old.reddit.com/r/quant/comments/1ob9dq9/deinfluencing_quant_trading/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_nkfbpou",
+        "author": "CubsThisYear",
+        "score": 76,
+        "body": "I like to tell people - working at a top tier firm is the equivalent of the NBA or NFL. There’s nothing wrong with the selectivity of the industry. It’s not for everyone and it requires a combination of innate talent, very hard work and a decent bit of luck."
+      },
+      {
+        "id": "t1_nkg0lnc",
+        "author": "ProfessionalSuit8808",
+        "score": 51,
+        "body": "What people miss is that all the top shops compete heavily for the best talent. In turn, this talent mostly looks at the TC of the offer they get. When hiring someone you do not know if he will make a great quant, interviews only go so far. However, you do have to pay them as if they truly are the best of the best, otherwise you can be sure people with competing offers will not join your shop (which tend to be the talented people you want to hire). In turn, everyone is overpaid in their first year and you are judged with respect to high TC. When I joined the industry, TC in general was decently lower, and even though I was slow to get started, i didnt get cut and was able to grow a lot in the years after"
+      },
+      {
+        "id": "t1_nkfx35q",
+        "author": "Powerful-Rip6905",
+        "score": 42,
+        "body": "Hedge funds often stress they hire 1% of 1% (0.0001). Like if you see the requirements, like PhD in computer science, Maths, Physics, Economics, it is already meant to be highly difficult to enter and even remain."
+      },
+      {
+        "id": "t1_nkgh90f",
+        "author": "fmtsufx",
+        "score": 36,
+        "body": "I don't know about this guy, nor am I actually interested to know. But most of the influencers pull numbers out of their asses and create fake stories."
+      },
+      {
+        "id": "t1_nkfu22f",
+        "author": "Zackhardtoname",
+        "score": 30,
+        "body": "Where did he get the number 40%?"
+      },
+      {
+        "id": "t1_nkfyz39",
+        "author": "FailedGradAdmissions",
+        "score": 21,
+        "body": "This is it, it’s just everyone likes to believe they are or they can become that too 0.001%. I work at a FAANG, getting my job was hard, but a walk in the park compared to HFT interviews. For those aiming at Quant, good luck! But have a plan B."
+      },
+      {
+        "id": "t1_nkfkbqr",
+        "author": "CrowdGoesWildWoooo",
+        "score": 20,
+        "body": "This is supposed to be the inverse of “day in the life of someone doing 6 figures job”."
+      },
+      {
+        "id": "t1_nkfztma",
+        "author": "Available_Lake5919",
+        "score": 19,
+        "body": "surely this has to be optiver - a lot of omms tend to be like this where grad traders get ~1y contract and u have to pass to become a FT employee (after which ur job is safer) essentially just a 1y internship therefore if anyone has options then would deffo pick a different type of firm"
+      },
+      {
+        "id": "t1_nkfczgu",
+        "author": "djlamar7",
+        "score": 17,
+        "body": "Can someone explain to me what this quant trading (or quantrating as the hopefully automatic transcription would have it) aspiring influencer has to do with deinfluencing quantrating"
+      },
+      {
+        "id": "t1_nkhqa1s",
+        "author": "crystal__math",
+        "score": 16,
+        "body": "This guy is legit, 40% may be at worst an selected statistic but not off base"
+      },
+      {
+        "id": "t1_nkggl21",
+        "author": "Narudatsu",
+        "score": 16,
+        "body": "The \"your manager is not great at training\" is a genuine problem to high turnover. And to be fair they already have a lot on their desk so training a new hire is just not what they learned. So you really have to learn quickly on your own"
+      },
+      {
+        "id": "t1_nkgyrxm",
+        "author": "real_men_fuck_men",
+        "score": 13,
+        "body": "I think quant trading existed before 2004"
+      },
+      {
+        "id": "t1_nkg6cvb",
+        "author": "Entire-Bottle-54",
+        "score": 13,
+        "body": "My life is already shit dawg, it being shit with a boat load of money is a great incentive tbh"
+      },
+      {
+        "id": "t1_nkgj7rf",
+        "author": "heroyi",
+        "score": 11,
+        "body": "The funny thing about faang interviews is you already know what they are gonna ask like a physic 1 exam. Only so many ways to ask a pulley lever question. Need to fast lookup? Hash. Need efficient graph traversal? Bfs, bst, dfs. Etc...  With Quant you have to have the merits and/or have luck. Way easier into faang imo"
+      },
+      {
+        "id": "t1_nkh22xn",
+        "author": "Akandoji",
+        "score": 10,
+        "body": "Honestly, for quant roles (and finance in general), only self-learners can perform - and only self-learners are expected to continue. You can't expect someone to teach you things from the ground up."
+      }
+    ]
+  },
+  {
+    "post_id": "t3_1lcq76n",
+    "subreddit": "quant",
+    "title": "AMA: I didn't get into Jane Street, but I interviewed 5 times",
+    "score": 374,
+    "permalink": "https://old.reddit.com/r/quant/comments/1lcq76n/ama_i_didnt_get_into_jane_street_but_i/",
+    "selftext": "Quantitative analysis is the use of mathematical and statistical methods in finance and investment management. Those working in the field are quantitative analysts (quants). Quants tend to specialize in specific areas which may include derivative structuring or pricing, risk management, algorithmic trading and investment management. (from Wikipedia ) Student/Recent Grad/Looking for Career Advice? Please check out our Frequently Asked Questions , book recommendations and the rest of our wiki .",
+    "comments": [
+      {
+        "id": "t1_my29njk",
+        "author": "One-Attempt-1232",
+        "score": 278,
+        "body": "What questions did they ask"
+      },
+      {
+        "id": "t1_my2lyyr",
+        "author": "Prestigious_Diet_508",
+        "score": 247,
+        "body": "QT: brain teasers, elementary to junior level MO questions, basic statistics and calculus, game theory, gambling strategy SWE: basic to junior level OI questions, simple data strcuture manipulation, simple algorithm TDOE: excel, elementary level math questions"
+      },
+      {
+        "id": "t1_my2ga1n",
+        "author": "Prestigious_Diet_508",
+        "score": 239,
+        "body": "Maybe cuz AI startups are scams"
+      },
+      {
+        "id": "t1_my29u6f",
+        "author": "JIGSAW_FALLINGINTO_",
+        "score": 183,
+        "body": "No hesitation"
+      },
+      {
+        "id": "t1_my369hd",
+        "author": "hawkeye224",
+        "score": 180,
+        "body": "OP was so disgusted with how easy everything was, he has withdrawn from the process every time"
+      },
+      {
+        "id": "t1_my2vloh",
+        "author": "",
+        "score": 147,
+        "body": "How did you fail all interviews if everything was “basic” or “simple” or “elementary”? I don’t really want the answer, it’s more of a rethoric"
+      },
+      {
+        "id": "t1_my2azb3",
+        "author": "italianjob16",
+        "score": 112,
+        "body": "So...unemployed"
+      },
+      {
+        "id": "t1_my2lyoi",
+        "author": "prettysharpeguy",
+        "score": 102,
+        "body": "First real answer you gave"
+      },
+      {
+        "id": "t1_my2yqiq",
+        "author": "kokoricky",
+        "score": 80,
+        "body": "Because bro still doesn’t realise the whole interview is basically the final round. Everything before is easy. The final round is where they really test you."
+      },
+      {
+        "id": "t1_my35swh",
+        "author": "hawkeye224",
+        "score": 60,
+        "body": "Hesitation is defeat"
+      },
+      {
+        "id": "t1_my2flq2",
+        "author": "That_Tangelo5175",
+        "score": 58,
+        "body": "Lol, why are you getting downvoted?"
+      },
+      {
+        "id": "t1_my2c494",
+        "author": "Prestigious_Diet_508",
+        "score": 56,
+        "body": "4th round for QT internship, final round in on-site for SWE internship, 2nd round for TDOE full time. No they didn't ask me. Not sure if I'm blacklisted for the QT and SWE role. I actually thought of that, cuz I got screened for the SWE role recently using a better CV than the one that got me into the final round two years ago."
+      },
+      {
+        "id": "t1_my393g6",
+        "author": "mcoolinham",
+        "score": 53,
+        "body": "Jane street final round questions (my experience is only for SWE) are actually not that challenging in terms of the traditional data structure/algo sense. However, they expect you to write code very quickly and correctly, which is where the difficulty comes from"
+      },
+      {
+        "id": "t1_my3qs77",
+        "author": "Prestigious_Diet_508",
+        "score": 50,
+        "body": "Perhaps I don't perform well under stress? They are indeed elementary ngl. Mostly basic level leetcode questions. If you know you know."
+      },
+      {
+        "id": "t1_my2cdhv",
+        "author": "Traditional_Living42",
+        "score": 46,
+        "body": "Which resources did u use? Was the green book on probability and statistics enough? Or did u need more?"
+      }
+    ]
+  }
+]
