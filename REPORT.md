@@ -3,7 +3,7 @@
 report.md
 -->
 
-**A data-grounded teardown of what language, hooks, and formats actually win in the quant / quant-adjacent corner of Reddit — and how to turn that into ads and short-form content that won't get downvoted into oblivion.**
+**A data-grounded teardown of what language, hooks, and formats actually win in the quant / quant-adjacent corner of Reddit
 
 ---
 
@@ -124,7 +124,7 @@ Pulled from recurring n-grams across 6,467 titles and 4,576 comments. Quoted spa
 - Hedged authority: **"pretty sure," "I'm sure," "I've seen," "to be honest," "the reality is"** — Reddit's voice is confident-but-casual, never corporate.
 - Reassurance/dunk pairs: **"good luck" (26)** (sincere) vs the savage one-liners that top comment sections ("It's John Leetcode," "0% chance this is real").
 - Experience flex: **"X years ago," "10 years," "20 years," "years of experience"** — credibility is measured in years and war stories.
-- **"don't need / don't know / don't think"** dominate — the community talks in terms of *debunking* and *correcting*. Ads that "correct a myth" fit the native voice.
+- **"don't need / don't know / don't think"** dominate — the community talks in terms of *debunking* and *correcting*.
 
 ### The phrasing formula (paraphrase, don't lift)
 > **[Concrete number or stage] + [specific firm/role] + [present-tense market emotion] + [proof-not-promise]**
@@ -256,7 +256,7 @@ Score-weighted mentions across titles + snippets (a mention in a 2,000-score pos
 The data is blunt about what this audience punishes. **Avoid all of these:**
 
 - **Selling "break into quant" as a promise.** The exact mockery exists: *"Bonus points if you sell a course on breaking in. Bonus bonus points if you were only an intern."* (+526) and *"Beware of ALL quant courses, none worth a penny"* (+336, top post). → Sell **reps, structure, and real questions**, never a guaranteed outcome.
-- **Fake-native ads.** Image ads in *text-discussion* subs (r/cscareerquestions, r/cpp_questions) read as foreign instantly. Match the sub's native format (§4).
+- **Fake-native ads.** Image in *text-discussion* subs (r/cscareerquestions, r/cpp_questions) read as foreign instantly. Match the sub's native format (§4).
 - **Generic-question hooks** ("Want to ace your quant interview?"). The plain-question shape *underperforms* in 9/11 subs (§1) and reads as ad-copy.
 - **Vibes-based comp claims.** Unsourced "$500k TC!!" gets torn apart. Cite tier/role/year.
 - **Pedigree-erasure promises.** Don't claim a course makes pedigree irrelevant — they *will* link you to LinkedIn profiles proving otherwise (+52 comment). Position as "control the controllables."
