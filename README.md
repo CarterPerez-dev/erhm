@@ -2,8 +2,10 @@
 <!-- README.md -->
 
 <div align="center">
-  <h1 align="center">erhm☝️🤓 Downvoted👎</h1>
-  <img width="260" height="260" alt="Kali-dragon-icon svg" src="https://i.pinimg.com/1200x/bc/e8/41/bce841a5a922e5e6d8b7476f95bebffa.jpg" alt="erhm"/>
+  <h1 align="center">downvoted👎</h1>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+  <img width="600" height="640" alt="Kali-dragon-icon svg" src="https://i.pinimg.com/1200x/bc/e8/41/bce841a5a922e5e6d8b7476f95bebffa.jpg" alt="erhm"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 
