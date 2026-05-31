@@ -267,7 +267,7 @@ The data is blunt about what this audience punishes. **Avoid all of these:**
 
 ---
 
-## TL;DR for the media buyer
+## TL;DR
 
 - **Format:** lead with a clean, smart **image** everywhere except cscareerquestions/cpp_questions (text) and cpp (link). Images out-score text ~4.6×, and the quant subs reward them most because nobody posts them.
 - **Shape:** **numbered/data-drop** and **screenshot-bait** in quant/quantfinance; **confession** stories in FPGA/algo/finance; **rants** in cpp. Never lead with a plain question.
